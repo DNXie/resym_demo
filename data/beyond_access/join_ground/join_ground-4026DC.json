@@ -1,0 +1,232 @@
+[
+    {
+        "expr": "v18",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 33,
+        "offset": 0,
+        "varName": "v18"
+    },
+    {
+        "expr": "v20",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 38,
+        "offset": 0,
+        "varName": "v20"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 46,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "v18",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 46,
+        "offset": 0,
+        "varName": "v18"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 48,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "v13",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 49,
+        "offset": 0,
+        "varName": "v13"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 49,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "v5",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 51,
+        "offset": 0,
+        "varName": "v5"
+    },
+    {
+        "expr": "v20",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 51,
+        "offset": 0,
+        "varName": "v20"
+    },
+    {
+        "expr": "v5",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 53,
+        "offset": 0,
+        "varName": "v5"
+    },
+    {
+        "expr": "v14",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 54,
+        "offset": 0,
+        "varName": "v14"
+    },
+    {
+        "expr": "v5",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 54,
+        "offset": 0,
+        "varName": "v5"
+    },
+    {
+        "expr": "v13",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 55,
+        "offset": 0,
+        "varName": "v13"
+    },
+    {
+        "expr": "v18",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 65,
+        "offset": 0,
+        "varName": "v18"
+    },
+    {
+        "expr": "v20",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 65,
+        "offset": 0,
+        "varName": "v20"
+    },
+    {
+        "expr": "v18",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 98,
+        "offset": 0,
+        "varName": "v18"
+    },
+    {
+        "expr": "v18",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 99,
+        "offset": 0,
+        "varName": "v18"
+    },
+    {
+        "expr": "v20",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 109,
+        "offset": 0,
+        "varName": "v20"
+    },
+    {
+        "expr": "v20",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 110,
+        "offset": 0,
+        "varName": "v20"
+    },
+    {
+        "expr": "v20",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 122,
+        "offset": 0,
+        "varName": "v20"
+    },
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 135,
+        "offset": 0,
+        "varName": "ptr"
+    },
+    {
+        "expr": "v20",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 157,
+        "offset": 0,
+        "varName": "v20"
+    },
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 170,
+        "offset": 0,
+        "varName": "ptr"
+    }
+]

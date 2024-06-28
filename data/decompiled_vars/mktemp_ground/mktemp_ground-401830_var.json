@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "fd",
+            "type": "int",
+            "original_line": "int fd"
+        },
+        {
+            "name": "modes",
+            "type": "const char *",
+            "original_line": "const char *modes"
+        }
+    ],
+    "variable": []
+}

@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "(__int64 *)&a15",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 4,
+        "offset": 0,
+        "varName": "a15"
+    }
+]

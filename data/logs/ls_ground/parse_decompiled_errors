@@ -1,0 +1,14 @@
+Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/ls_ground
+ls_ground.decompiled - .sigaction: Fail to match arguments const struct sigaction *act
+ls_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
+ls_ground.decompiled - .__assert_fail: Fail to match arguments unsigned int line
+ls_ground.decompiled - .ioctl: Fail to match arguments unsigned __int64 request
+ls_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
+ls_ground.decompiled - ._setjmp: Fail to match arguments struct __jmp_buf_tag env[1]
+ls_ground.decompiled - .gnu_dev_major: Fail to match arguments unsigned __int64 dev
+ls_ground.decompiled - .longjmp: Fail to match arguments struct __jmp_buf_tag env[1]
+ls_ground.decompiled - .strftime: Fail to match arguments const struct tm *tp
+ls_ground.decompiled - .strtoumax: Fail to match arguments char **endptr
+ls_ground.decompiled - .gnu_dev_minor: Fail to match arguments unsigned __int64 dev
+ls_ground.decompiled - .strtoul: Fail to match arguments char **endptr
+ls_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc

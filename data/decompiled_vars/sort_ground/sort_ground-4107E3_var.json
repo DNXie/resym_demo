@@ -1,0 +1,26 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "_QWORD *",
+            "original_line": "_QWORD *a1"
+        },
+        {
+            "name": "a2",
+            "type": "__int64",
+            "original_line": "__int64 a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "__int64",
+            "comment": "rdx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v2; // rdx"
+        }
+    ]
+}

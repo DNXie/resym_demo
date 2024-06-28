@@ -1,0 +1,62 @@
+[
+    {
+        "expr": "(_QWORD *)(v3 + 8)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 8,
+        "offset": 8,
+        "varName": "v3"
+    },
+    {
+        "expr": "(_DWORD *)v3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32 *",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 9,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "(_BYTE *)(v3 + 16)",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 10,
+        "offset": 16,
+        "varName": "v3"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 8)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 11,
+        "offset": 8,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 8)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 13,
+        "offset": 8,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 8)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 15,
+        "offset": 8,
+        "varName": "a1"
+    }
+]

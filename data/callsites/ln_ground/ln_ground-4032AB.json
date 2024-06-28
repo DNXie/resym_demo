@@ -1,0 +1,27 @@
+[
+    {
+        "args": [
+            "v9"
+        ],
+        "funName": "sub_407A1C",
+        "lineNum": 19
+    },
+    {
+        "args": [
+            "(__int64 *)&dest",
+            "v9",
+            "v7"
+        ],
+        "funName": "sub_402F78",
+        "lineNum": 23
+    },
+    {
+        "args": [
+            "(const char *)dest",
+            "v7",
+            "126"
+        ],
+        "funName": "sub_402E60",
+        "lineNum": 38
+    }
+]

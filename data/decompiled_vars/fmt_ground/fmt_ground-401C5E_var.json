@@ -1,0 +1,31 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "char *",
+            "original_line": "char *a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "result",
+            "type": "signed __int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "signed __int64 result; // rax"
+        },
+        {
+            "name": "i",
+            "type": "char *",
+            "comment": "[rsp+18h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "char *i; // [rsp+18h] [rbp-8h]"
+        }
+    ]
+}

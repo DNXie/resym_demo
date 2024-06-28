@@ -1,0 +1,42 @@
+[
+    {
+        "expr": "v2",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 18,
+        "offset": 0,
+        "varName": "v2"
+    },
+    {
+        "expr": "v2",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 19,
+        "offset": 0,
+        "varName": "v2"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 24,
+        "offset": 0,
+        "varName": "v3"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "args": [
+            "a2",
+            "ptr",
+            "0x2000LL"
+        ],
+        "funName": "sub_405564",
+        "lineNum": 22
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_403DCC",
+        "lineNum": 26
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_403DCC",
+        "lineNum": 44
+    }
+]

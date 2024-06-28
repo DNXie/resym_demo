@@ -1,0 +1,17 @@
+[
+    {
+        "args": [
+            "v4",
+            "16 * v14"
+        ],
+        "funName": "sub_403B05",
+        "lineNum": 28
+    },
+    {
+        "args": [
+            "v16"
+        ],
+        "funName": "sub_403AB6",
+        "lineNum": 49
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "sig",
+            "type": "int",
+            "original_line": "int sig"
+        },
+        {
+            "name": "handler",
+            "type": "__sighandler_t",
+            "original_line": "__sighandler_t handler"
+        }
+    ],
+    "variable": []
+}

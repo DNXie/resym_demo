@@ -1,0 +1,6 @@
+Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/sleep_ground
+sleep_ground.decompiled - .strtod_l: Fail to match arguments char **endptr
+sleep_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
+sleep_ground.decompiled - .nanosleep: Fail to match arguments const struct timespec *requested_time
+sleep_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
+sleep_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc

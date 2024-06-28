@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "(void **)(a1 + 16)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 4,
+        "offset": 16,
+        "varName": "a1"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "args": [],
+        "funName": "sub_40234D",
+        "lineNum": 44
+    },
+    {
+        "args": [
+            "*a2"
+        ],
+        "funName": "sub_406750",
+        "lineNum": 45
+    },
+    {
+        "args": [
+            "sub_401D6A"
+        ],
+        "funName": "sub_409AD0",
+        "lineNum": 49
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401D9F",
+        "lineNum": 64
+    },
+    {
+        "args": [
+            "a1",
+            "(__int64)a2"
+        ],
+        "funName": "sub_402EBF",
+        "lineNum": 67
+    },
+    {
+        "args": [],
+        "funName": "sub_40363D",
+        "lineNum": 68
+    },
+    {
+        "args": [
+            "qword_60E340"
+        ],
+        "funName": "sub_40685B",
+        "lineNum": 73
+    },
+    {
+        "args": [
+            "0",
+            "dword_60E384",
+            "qword_60E340",
+            "v3",
+            "v4",
+            "v5"
+        ],
+        "funName": "sub_4042BA",
+        "lineNum": 82
+    },
+    {
+        "args": [
+            "qword_60E348"
+        ],
+        "funName": "sub_40685B",
+        "lineNum": 111
+    },
+    {
+        "args": [],
+        "funName": "sub_40448C",
+        "lineNum": 151
+    },
+    {
+        "args": [
+            "0",
+            "0LL"
+        ],
+        "funName": "sub_402734",
+        "lineNum": 157
+    },
+    {
+        "args": [
+            "1",
+            "0LL"
+        ],
+        "funName": "sub_402734",
+        "lineNum": 159
+    },
+    {
+        "args": [
+            "1",
+            "0LL"
+        ],
+        "funName": "sub_402734",
+        "lineNum": 174
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_402677",
+        "lineNum": 180
+    },
+    {
+        "args": [
+            "v35"
+        ],
+        "funName": "sub_402677",
+        "lineNum": 184
+    }
+]

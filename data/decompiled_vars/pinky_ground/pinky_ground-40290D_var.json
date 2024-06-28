@@ -1,0 +1,36 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int",
+            "original_line": "int a1"
+        },
+        {
+            "name": "a2",
+            "type": "__int64",
+            "original_line": "__int64 a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "result",
+            "type": "__int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 result; // rax"
+        },
+        {
+            "name": "i",
+            "type": "unsigned int",
+            "comment": "[rsp+1Ch] [rbp-4h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4",
+            "rbp_offset_dec": -4,
+            "original_line": "unsigned int i; // [rsp+1Ch] [rbp-4h]"
+        }
+    ]
+}

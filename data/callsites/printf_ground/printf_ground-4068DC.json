@@ -1,0 +1,136 @@
+[
+    {
+        "args": [
+            "a3",
+            "&v197",
+            "v194"
+        ],
+        "funName": "sub_40AA01",
+        "lineNum": 200
+    },
+    {
+        "args": [
+            "v108",
+            "v194"
+        ],
+        "funName": "sub_40A0EF",
+        "lineNum": 202
+    },
+    {
+        "args": [
+            "7uLL",
+            "v199",
+            "v200",
+            "6LL"
+        ],
+        "funName": "sub_406800",
+        "lineNum": 213
+    },
+    {
+        "args": [
+            "n",
+            "v166"
+        ],
+        "funName": "sub_4067CC",
+        "lineNum": 249
+    },
+    {
+        "args": [
+            "n",
+            "1LL"
+        ],
+        "funName": "sub_4067CC",
+        "lineNum": 283
+    },
+    {
+        "args": [
+            "n",
+            "1LL"
+        ],
+        "funName": "sub_4067CC",
+        "lineNum": 298
+    },
+    {
+        "args": [
+            "n",
+            "1LL"
+        ],
+        "funName": "sub_4067CC",
+        "lineNum": 300
+    },
+    {
+        "args": [
+            "v14",
+            "v13",
+            "a5",
+            "a6",
+            "a7",
+            "a8",
+            "v18",
+            "v19",
+            "a11",
+            "a12",
+            "DWORD2(v106)",
+            "v15",
+            "v16",
+            "v17",
+            "v106"
+        ],
+        "funName": "sub_406897",
+        "lineNum": 432
+    },
+    {
+        "args": [
+            "v28",
+            "v27"
+        ],
+        "funName": "sub_4067CC",
+        "lineNum": 450
+    },
+    {
+        "args": [
+            "v31",
+            "v30"
+        ],
+        "funName": "sub_4067CC",
+        "lineNum": 487
+    },
+    {
+        "args": [
+            "v148",
+            "12LL"
+        ],
+        "funName": "sub_4067CC",
+        "lineNum": 508
+    },
+    {
+        "args": [
+            "v148",
+            "1LL"
+        ],
+        "funName": "sub_4067CC",
+        "lineNum": 512
+    },
+    {
+        "args": [
+            "v32",
+            "1",
+            "v37",
+            "v33",
+            "v34",
+            "v35",
+            "*(__int64 *)&v191",
+            "v37"
+        ],
+        "funName": "sub_40A097",
+        "lineNum": 533
+    },
+    {
+        "args": [
+            "v102",
+            "v101"
+        ],
+        "funName": "sub_40684B",
+        "lineNum": 1438
+    }
+]

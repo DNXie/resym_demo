@@ -1,0 +1,135 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "v0",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v0; // eax"
+        },
+        {
+            "name": "result",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool result; // al"
+        },
+        {
+            "name": "v2",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v2; // al"
+        },
+        {
+            "name": "v3",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v3; // al"
+        },
+        {
+            "name": "v7",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v7; // al"
+        },
+        {
+            "name": "v8",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v8; // al"
+        },
+        {
+            "name": "v9",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v9; // al"
+        },
+        {
+            "name": "v10",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v10; // al"
+        },
+        {
+            "name": "v12",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v12; // al"
+        },
+        {
+            "name": "v15",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v15; // al"
+        },
+        {
+            "name": "nptr",
+            "type": "char *",
+            "comment": "[rsp+0h] [rbp-A0h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-A0",
+            "rbp_offset_dec": -160,
+            "original_line": "char *nptr; // [rsp+0h] [rbp-A0h]"
+        },
+        {
+            "name": "fd",
+            "type": "__int64",
+            "comment": "[rsp+8h] [rbp-98h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-98",
+            "rbp_offset_dec": -152,
+            "original_line": "__int64 fd; // [rsp+8h] [rbp-98h]"
+        },
+        {
+            "name": "stat_buf",
+            "type": "struct stat",
+            "comment": "[rsp+10h] [rbp-90h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-90",
+            "rbp_offset_dec": -144,
+            "original_line": "struct stat stat_buf; // [rsp+10h] [rbp-90h] BYREF"
+        }
+    ]
+}

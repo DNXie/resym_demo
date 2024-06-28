@@ -1,0 +1,17 @@
+[
+    {
+        "args": [
+            "**(_BYTE **)(a1 + 16)"
+        ],
+        "funName": "sub_40BF26",
+        "lineNum": 13
+    },
+    {
+        "args": [
+            "*(const void **)(a1 + 16)",
+            "v2"
+        ],
+        "funName": "sub_408911",
+        "lineNum": 28
+    }
+]

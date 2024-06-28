@@ -1,0 +1,44 @@
+[
+    {
+        "args": [
+            "(__int64)a1",
+            "a2",
+            "&v25",
+            "0"
+        ],
+        "funName": "sub_40968C",
+        "lineNum": 32
+    },
+    {
+        "args": [
+            "(__int64)a1"
+        ],
+        "funName": "sub_409095",
+        "lineNum": 63
+    },
+    {
+        "args": [
+            "(__int64)a1",
+            "v23"
+        ],
+        "funName": "sub_4099EF",
+        "lineNum": 121
+    },
+    {
+        "args": [
+            "(__int64)a1",
+            "a2",
+            "&v25",
+            "0"
+        ],
+        "funName": "sub_40968C",
+        "lineNum": 123
+    },
+    {
+        "args": [
+            "(__int64)a1"
+        ],
+        "funName": "sub_40960C",
+        "lineNum": 129
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "nptr",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 168,
+        "offset": 0,
+        "varName": "nptr"
+    }
+]

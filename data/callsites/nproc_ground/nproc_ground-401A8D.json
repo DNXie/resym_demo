@@ -1,0 +1,33 @@
+[
+    {
+        "args": [
+            "(unsigned int)*nptr"
+        ],
+        "funName": "sub_404660",
+        "lineNum": 20
+    },
+    {
+        "args": [
+            "(unsigned int)*nptr"
+        ],
+        "funName": "sub_40458A",
+        "lineNum": 22
+    },
+    {
+        "args": [
+            "(unsigned int)*endptr"
+        ],
+        "funName": "sub_404660",
+        "lineNum": 28
+    },
+    {
+        "args": [],
+        "funName": "sub_401A34",
+        "lineNum": 45
+    },
+    {
+        "args": [],
+        "funName": "sub_401A34",
+        "lineNum": 57
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "name",
+            "type": "const char *",
+            "original_line": "const char *name"
+        },
+        {
+            "name": "type",
+            "type": "int",
+            "original_line": "int type"
+        }
+    ],
+    "variable": []
+}

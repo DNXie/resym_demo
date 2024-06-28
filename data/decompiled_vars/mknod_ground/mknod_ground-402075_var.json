@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "unsigned int",
+            "original_line": "unsigned int a1"
+        }
+    ],
+    "variable": []
+}

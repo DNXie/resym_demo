@@ -1,0 +1,61 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "unsigned __int64",
+            "original_line": "unsigned __int64 a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v1",
+            "type": "unsigned __int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "unsigned __int64 v1; // rax"
+        },
+        {
+            "name": "v2",
+            "type": "unsigned __int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "unsigned __int64 v2; // rax"
+        },
+        {
+            "name": "v3",
+            "type": "__int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v3; // rax"
+        },
+        {
+            "name": "result",
+            "type": "__int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 result; // rax"
+        },
+        {
+            "name": "v5",
+            "type": "unsigned __int64",
+            "comment": "[rsp+18h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "unsigned __int64 v5; // [rsp+18h] [rbp-8h]"
+        }
+    ]
+}

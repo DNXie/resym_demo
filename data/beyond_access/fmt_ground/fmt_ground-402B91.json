@@ -1,0 +1,22 @@
+[
+    {
+        "expr": "(_QWORD *)(a1 + 32)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 13,
+        "offset": 32,
+        "varName": "a1"
+    },
+    {
+        "expr": "(unsigned int *)(v3 + 12)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 17,
+        "offset": 12,
+        "varName": "v3"
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "void **",
+            "original_line": "void **a1"
+        }
+    ],
+    "variable": []
+}

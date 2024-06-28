@@ -1,0 +1,36 @@
+[
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_4111EB",
+        "lineNum": 62
+    },
+    {
+        "args": [
+            "40LL"
+        ],
+        "funName": "sub_414989",
+        "lineNum": 75
+    },
+    {
+        "args": [
+            "&v17",
+            "&v16",
+            "1",
+            "v18"
+        ],
+        "funName": "sub_4048C0",
+        "lineNum": 80
+    },
+    {
+        "args": [
+            "&v17",
+            "&v16",
+            "0",
+            "v18 + 2"
+        ],
+        "funName": "sub_4048C0",
+        "lineNum": 124
+    }
+]

@@ -1,0 +1,35 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "i",
+            "type": "unsigned __int64",
+            "comment": "[rsp+0h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "unsigned __int64 i; // [rsp+0h] [rbp-10h]"
+        },
+        {
+            "name": "j",
+            "type": "unsigned __int64",
+            "comment": "[rsp+8h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "unsigned __int64 j; // [rsp+8h] [rbp-8h]"
+        },
+        {
+            "name": "k",
+            "type": "unsigned __int64",
+            "comment": "[rsp+8h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "unsigned __int64 k; // [rsp+8h] [rbp-8h]"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "v0",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v0; // rax"
+        }
+    ]
+}

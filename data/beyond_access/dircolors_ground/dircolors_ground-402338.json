@@ -1,0 +1,102 @@
+[
+    {
+        "expr": "a1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 10,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 10,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 15,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 15,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 16,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 17,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 17,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "v1",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 27,
+        "offset": 0,
+        "varName": "v1"
+    },
+    {
+        "expr": "v1",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 28,
+        "offset": 0,
+        "varName": "v1"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 28,
+        "offset": 0,
+        "varName": "a1"
+    }
+]

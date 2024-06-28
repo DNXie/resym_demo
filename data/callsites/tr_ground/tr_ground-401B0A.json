@@ -1,0 +1,17 @@
+[
+    {
+        "args": [
+            "v19"
+        ],
+        "funName": "sub_406D88",
+        "lineNum": 23
+    },
+    {
+        "args": [
+            "v19",
+            "1LL"
+        ],
+        "funName": "sub_406E73",
+        "lineNum": 24
+    }
+]

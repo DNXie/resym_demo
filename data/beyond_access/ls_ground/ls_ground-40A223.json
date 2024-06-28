@@ -1,0 +1,112 @@
+[
+    {
+        "expr": "v1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 21,
+        "offset": 0,
+        "varName": "v1"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 24)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 21,
+        "offset": 24,
+        "varName": "a1"
+    },
+    {
+        "expr": "v1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 22,
+        "offset": 0,
+        "varName": "v1"
+    },
+    {
+        "expr": "(_BYTE *)(a1 + 176)",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 34,
+        "offset": 176,
+        "varName": "a1"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 35,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 38,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "(const char **)(a1 + 168)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 49,
+        "offset": 168,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 54,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_BYTE *)(a1 + 176)",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 58,
+        "offset": 176,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_DWORD *)(a1 + 40)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 58,
+        "offset": 40,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_DWORD *)(a1 + 160)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 58,
+        "offset": 160,
+        "varName": "a1"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "pipedes",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "pipedes"
+    }
+]

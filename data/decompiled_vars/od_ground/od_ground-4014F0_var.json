@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "stream",
+            "type": "FILE *",
+            "original_line": "FILE *stream"
+        }
+    ],
+    "variable": []
+}

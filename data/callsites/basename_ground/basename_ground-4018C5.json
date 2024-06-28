@@ -1,0 +1,39 @@
+[
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_401948",
+        "lineNum": 9
+    },
+    {
+        "args": [
+            "v4"
+        ],
+        "funName": "sub_4019B1",
+        "lineNum": 12
+    },
+    {
+        "args": [
+            "v4",
+            "v3"
+        ],
+        "funName": "sub_403FA4",
+        "lineNum": 15
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_4019B1",
+        "lineNum": 19
+    },
+    {
+        "args": [
+            "a1",
+            "v1"
+        ],
+        "funName": "sub_403FA4",
+        "lineNum": 20
+    }
+]

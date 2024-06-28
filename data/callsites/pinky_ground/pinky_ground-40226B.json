@@ -1,0 +1,24 @@
+[
+    {
+        "args": [
+            "v15->pw_gecos",
+            "v15->pw_name"
+        ],
+        "funName": "sub_401B24",
+        "lineNum": 41
+    },
+    {
+        "args": [
+            "stream"
+        ],
+        "funName": "sub_4054C1",
+        "lineNum": 74
+    },
+    {
+        "args": [
+            "v22"
+        ],
+        "funName": "sub_4054C1",
+        "lineNum": 97
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "args": [
+            "a1",
+            "a2",
+            "qword_60E3F0",
+            "v7",
+            "a5",
+            "a6"
+        ],
+        "funName": "sub_402B6D",
+        "lineNum": 31
+    },
+    {
+        "args": [
+            "a1",
+            "a2",
+            "qword_60E3F0",
+            "v9",
+            "a5",
+            "a6"
+        ],
+        "funName": "sub_402B6D",
+        "lineNum": 48
+    }
+]

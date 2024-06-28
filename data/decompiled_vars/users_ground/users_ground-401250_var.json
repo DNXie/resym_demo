@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "msgid",
+            "type": "const char *",
+            "original_line": "const char *msgid"
+        }
+    ],
+    "variable": []
+}

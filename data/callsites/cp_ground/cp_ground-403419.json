@@ -1,0 +1,165 @@
+[
+    {
+        "args": [
+            "*v26"
+        ],
+        "funName": "sub_40E491",
+        "lineNum": 61
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_402713",
+        "lineNum": 70
+    },
+    {
+        "args": [
+            "v26[2]"
+        ],
+        "funName": "sub_40E491",
+        "lineNum": 81
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_402713",
+        "lineNum": 84
+    },
+    {
+        "args": [
+            "v26[v28 - 1]"
+        ],
+        "funName": "sub_40E491",
+        "lineNum": 96
+    },
+    {
+        "args": [
+            "a5"
+        ],
+        "funName": "sub_406FBE",
+        "lineNum": 105
+    },
+    {
+        "args": [
+            "a5"
+        ],
+        "funName": "sub_406FF3",
+        "lineNum": 106
+    },
+    {
+        "args": [
+            "v39"
+        ],
+        "funName": "sub_40B75B",
+        "lineNum": 114
+    },
+    {
+        "args": [
+            "v43"
+        ],
+        "funName": "sub_40B75B",
+        "lineNum": 123
+    },
+    {
+        "args": [
+            "v25",
+            "v43",
+            "&v36"
+        ],
+        "funName": "sub_40BC5F",
+        "lineNum": 124
+    },
+    {
+        "args": [
+            "v47"
+        ],
+        "funName": "sub_40B6A4",
+        "lineNum": 139
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_40B75B",
+        "lineNum": 140
+    },
+    {
+        "args": [
+            "v25"
+        ],
+        "funName": "sub_41281A",
+        "lineNum": 142
+    },
+    {
+        "args": [
+            "v25",
+            "s1",
+            "0LL"
+        ],
+        "funName": "sub_40BC5F",
+        "lineNum": 144
+    },
+    {
+        "args": [
+            "v39",
+            "v37",
+            "v29",
+            "a5",
+            "&v30",
+            "0LL"
+        ],
+        "funName": "sub_4099F3",
+        "lineNum": 154
+    },
+    {
+        "args": [
+            "(char *)v37",
+            "v36 - (_QWORD)v37",
+            "(__int64)v35",
+            "a5"
+        ],
+        "funName": "sub_402998",
+        "lineNum": 158
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_402713",
+        "lineNum": 181
+    },
+    {
+        "args": [
+            "s2",
+            "*a5"
+        ],
+        "funName": "sub_40B0A7",
+        "lineNum": 185
+    },
+    {
+        "args": [
+            "v50",
+            "v38",
+            "0LL",
+            "&qword_61D460",
+            "&v36",
+            "0LL"
+        ],
+        "funName": "sub_4099F3",
+        "lineNum": 196
+    },
+    {
+        "args": [
+            "v50",
+            "s2",
+            "0LL",
+            "a5",
+            "&v36",
+            "0LL"
+        ],
+        "funName": "sub_4099F3",
+        "lineNum": 201
+    }
+]

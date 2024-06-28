@@ -1,0 +1,21 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int",
+            "original_line": "int a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "buf",
+            "type": "struct statfs",
+            "comment": "[rsp+10h] [rbp-80h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-80",
+            "rbp_offset_dec": -128,
+            "original_line": "struct statfs buf; // [rsp+10h] [rbp-80h] BYREF"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int",
+            "original_line": "int a1"
+        },
+        {
+            "name": "a2",
+            "type": "int",
+            "original_line": "int a2"
+        },
+        {
+            "name": "a3",
+            "type": "int",
+            "original_line": "int a3"
+        },
+        {
+            "name": "a4",
+            "type": "int *",
+            "original_line": "int *a4"
+        },
+        {
+            "name": "a5",
+            "type": "int",
+            "original_line": "int a5"
+        },
+        {
+            "name": "a6",
+            "type": "int",
+            "original_line": "int a6"
+        }
+    ],
+    "variable": [
+        {
+            "name": "fd",
+            "type": "int",
+            "comment": "[rsp+20h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "int fd; // [rsp+20h] [rbp-10h]"
+        },
+        {
+            "name": "v9",
+            "type": "_BYTE",
+            "comment": "[rsp+24h] [rbp-Ch]",
+            "array_size": 12,
+            "star_count": 0,
+            "rbp_offset_hex": "-C",
+            "rbp_offset_dec": -12,
+            "original_line": "_BYTE v9[12]; // [rsp+24h] [rbp-Ch]"
+        }
+    ]
+}

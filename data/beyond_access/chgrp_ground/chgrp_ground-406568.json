@@ -1,0 +1,22 @@
+[
+    {
+        "expr": "(_WORD *)(a1 + 112)",
+        "exprPointeeSize": 2,
+        "exprPointeeType": "uint16",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 6,
+        "offset": 112,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 168)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 12,
+        "offset": 168,
+        "varName": "a1"
+    }
+]

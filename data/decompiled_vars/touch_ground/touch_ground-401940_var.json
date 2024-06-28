@@ -1,0 +1,20 @@
+{
+    "argument": [
+        {
+            "name": "name",
+            "type": "const char *",
+            "original_line": "const char *name"
+        },
+        {
+            "name": "value",
+            "type": "const char *",
+            "original_line": "const char *value"
+        },
+        {
+            "name": "replace",
+            "type": "int",
+            "original_line": "int replace"
+        }
+    ],
+    "variable": []
+}

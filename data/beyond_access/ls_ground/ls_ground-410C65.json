@@ -1,0 +1,62 @@
+[
+    {
+        "expr": "a5",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 9,
+        "offset": 0,
+        "varName": "a5"
+    },
+    {
+        "expr": "v5",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 10,
+        "offset": 0,
+        "varName": "v5"
+    },
+    {
+        "expr": "a5",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 10,
+        "offset": 0,
+        "varName": "a5"
+    },
+    {
+        "expr": "v5",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 12,
+        "offset": 0,
+        "varName": "v5"
+    },
+    {
+        "expr": "v10",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 13,
+        "offset": 0,
+        "varName": "v10"
+    },
+    {
+        "expr": "v5",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 13,
+        "offset": 0,
+        "varName": "v5"
+    }
+]

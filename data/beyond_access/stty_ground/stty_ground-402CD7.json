@@ -1,0 +1,1002 @@
+[
+    {
+        "expr": "(_BYTE *)(a1 + 12)",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 21,
+        "offset": 12,
+        "varName": "a1"
+    },
+    {
+        "expr": "v20",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "v20"
+    },
+    {
+        "expr": "(unsigned int *)(a1 + 8)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 23,
+        "offset": 8,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "v20",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 24,
+        "offset": 0,
+        "varName": "v20"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 16)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 27,
+        "offset": 16,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 24)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 27,
+        "offset": 24,
+        "varName": "a1"
+    },
+    {
+        "expr": "v20",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 27,
+        "offset": 0,
+        "varName": "v20"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 16)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 29,
+        "offset": 16,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 24)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 29,
+        "offset": 24,
+        "varName": "a1"
+    },
+    {
+        "expr": "v20",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 29,
+        "offset": 0,
+        "varName": "v20"
+    },
+    {
+        "expr": "v20",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 30,
+        "offset": 0,
+        "varName": "v20"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 32,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 32,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3[2]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 35,
+        "offset": 2,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[2]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 37,
+        "offset": 2,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[2]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 38,
+        "offset": 2,
+        "varName": "a3"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 40,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3[2]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 43,
+        "offset": 2,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[2]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 45,
+        "offset": 2,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[2]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 46,
+        "offset": 2,
+        "varName": "a3"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 48,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 52,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 54,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 55,
+        "offset": 1,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 59,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 60,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 61,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 62,
+        "offset": 1,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 64,
+        "offset": 1,
+        "varName": "a3"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 66,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_BYTE *)a3 + 19",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 68,
+        "offset": 19,
+        "varName": "a3"
+    },
+    {
+        "expr": "(_BYTE *)a3 + 20",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 69,
+        "offset": 20,
+        "varName": "a3"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 71,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 73,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 75,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3[3]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 78,
+        "offset": 3,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[3]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 80,
+        "offset": 3,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[3]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 81,
+        "offset": 3,
+        "varName": "a3"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 83,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3[2]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 87,
+        "offset": 2,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[2]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 87,
+        "offset": 2,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 88,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[2]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 92,
+        "offset": 2,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[2]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 92,
+        "offset": 2,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 93,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 95,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 97,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3[2]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 101,
+        "offset": 2,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[2]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 101,
+        "offset": 2,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 102,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 103,
+        "offset": 1,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[2]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 107,
+        "offset": 2,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[2]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 107,
+        "offset": 2,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 108,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 109,
+        "offset": 1,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 111,
+        "offset": 1,
+        "varName": "a3"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 113,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 113,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_BYTE **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint8 **",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint8 **",
+        "lineNum": 115,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_BYTE **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint8 **",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint8 **",
+        "lineNum": 115,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 117,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 118,
+        "offset": 1,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[3]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 119,
+        "offset": 3,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 123,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 124,
+        "offset": 1,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[3]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 125,
+        "offset": 3,
+        "varName": "a3"
+    },
+    {
+        "expr": "(_BYTE *)a3 + 23",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 126,
+        "offset": 23,
+        "varName": "a3"
+    },
+    {
+        "expr": "(_BYTE *)a3 + 22",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 127,
+        "offset": 22,
+        "varName": "a3"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 130,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 132,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 134,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 136,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 137,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 139,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 141,
+        "offset": 1,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 146,
+        "offset": 1,
+        "varName": "a3"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 148,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 148,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3[3]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 152,
+        "offset": 3,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 153,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 154,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 155,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 156,
+        "offset": 1,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[3]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 160,
+        "offset": 3,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 161,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 162,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 163,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 164,
+        "offset": 1,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 166,
+        "offset": 1,
+        "varName": "a3"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 168,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3[3]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 170,
+        "offset": 3,
+        "varName": "a3"
+    },
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 172,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_BYTE *)a3 + 17",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 174,
+        "offset": 17,
+        "varName": "a3"
+    },
+    {
+        "expr": "(_BYTE *)a3 + 19",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 175,
+        "offset": 19,
+        "varName": "a3"
+    },
+    {
+        "expr": "(_BYTE *)a3 + 20",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 176,
+        "offset": 20,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3[3]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 177,
+        "offset": 3,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 178,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 179,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 180,
+        "offset": 0,
+        "varName": "a3"
+    }
+]

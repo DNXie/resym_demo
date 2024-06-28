@@ -1,0 +1,59 @@
+[
+    {
+        "args": [
+            "*a2"
+        ],
+        "funName": "sub_403C30",
+        "lineNum": 9
+    },
+    {
+        "args": [
+            "2u"
+        ],
+        "funName": "sub_4014BD",
+        "lineNum": 13
+    },
+    {
+        "args": [
+            "0"
+        ],
+        "funName": "sub_4035DC",
+        "lineNum": 19
+    },
+    {
+        "args": [
+            "stdout",
+            "\"[\"",
+            "\"GNU coreutils\"",
+            "off_6091C0",
+            "\"Kevin Braunsdorf\"",
+            "\"Matthew Bradburn\"",
+            "0LL"
+        ],
+        "funName": "sub_405C05",
+        "lineNum": 22
+    },
+    {
+        "args": [
+            "v3",
+            "0LL"
+        ],
+        "funName": "sub_40165F",
+        "lineNum": 29
+    },
+    {
+        "args": [
+            "dword_609234 - 1"
+        ],
+        "funName": "sub_40349F",
+        "lineNum": 35
+    },
+    {
+        "args": [
+            "v5",
+            "v4"
+        ],
+        "funName": "sub_40165F",
+        "lineNum": 40
+    }
+]

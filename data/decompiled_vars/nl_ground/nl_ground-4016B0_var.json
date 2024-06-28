@@ -1,0 +1,20 @@
+{
+    "argument": [
+        {
+            "name": "pattern",
+            "type": "const char *",
+            "original_line": "const char *pattern"
+        },
+        {
+            "name": "length",
+            "type": "size_t",
+            "original_line": "size_t length"
+        },
+        {
+            "name": "buffer",
+            "type": "struct re_pattern_buffer *",
+            "original_line": "struct re_pattern_buffer *buffer"
+        }
+    ],
+    "variable": []
+}

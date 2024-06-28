@@ -1,0 +1,92 @@
+[
+    {
+        "expr": "v6",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 15,
+        "offset": 0,
+        "varName": "v6"
+    },
+    {
+        "expr": "v7",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 16,
+        "offset": 0,
+        "varName": "v7"
+    },
+    {
+        "expr": "v7",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 17,
+        "offset": 0,
+        "varName": "v7"
+    },
+    {
+        "expr": "v6",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 17,
+        "offset": 0,
+        "varName": "v6"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 22,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "v9",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "v9"
+    },
+    {
+        "expr": "v10",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 24,
+        "offset": 0,
+        "varName": "v10"
+    },
+    {
+        "expr": "v10",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 25,
+        "offset": 0,
+        "varName": "v10"
+    },
+    {
+        "expr": "v9",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 25,
+        "offset": 0,
+        "varName": "v9"
+    }
+]

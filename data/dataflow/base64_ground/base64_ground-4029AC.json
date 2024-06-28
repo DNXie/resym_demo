@@ -1,0 +1,37 @@
+[
+    {
+        "lhsVarName": "v10",
+        "lineNum": 16,
+        "rhsVarName": "a1"
+    },
+    {
+        "lhsVarName": "v9",
+        "lineNum": 17,
+        "rhsVarName": "a2"
+    },
+    {
+        "lhsVarName": "v8",
+        "lineNum": 18,
+        "rhsVarName": "a3"
+    },
+    {
+        "lhsVarName": "v7",
+        "lineNum": 19,
+        "rhsVarName": "a4"
+    },
+    {
+        "lhsVarName": "v15",
+        "lineNum": 31,
+        "rhsVarName": "v14"
+    },
+    {
+        "lhsVarName": "v15",
+        "lineNum": 36,
+        "rhsVarName": "v14"
+    },
+    {
+        "lhsVarName": "v14",
+        "lineNum": 53,
+        "rhsVarName": "v15"
+    }
+]

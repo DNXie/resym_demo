@@ -1,0 +1,24 @@
+[
+    {
+        "args": [
+            "a2",
+            "255LL"
+        ],
+        "funName": "sub_4045EC",
+        "lineNum": 20
+    },
+    {
+        "args": [
+            "*(_BYTE *)(a2 + 1)"
+        ],
+        "funName": "sub_4018AD",
+        "lineNum": 26
+    },
+    {
+        "args": [
+            "*(_BYTE *)a2"
+        ],
+        "funName": "sub_4018AD",
+        "lineNum": 31
+    }
+]

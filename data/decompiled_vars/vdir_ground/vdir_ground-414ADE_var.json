@@ -1,0 +1,21 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "const char *",
+            "original_line": "const char *a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v1",
+            "type": "size_t",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "size_t v1; // rax"
+        }
+    ]
+}

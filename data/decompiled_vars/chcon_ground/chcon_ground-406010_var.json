@@ -1,0 +1,31 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int",
+            "original_line": "int a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "result",
+            "type": "_BOOL8",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "_BOOL8 result; // rax"
+        },
+        {
+            "name": "buf",
+            "type": "struct statfs",
+            "comment": "[rsp+10h] [rbp-80h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-80",
+            "rbp_offset_dec": -128,
+            "original_line": "struct statfs buf; // [rsp+10h] [rbp-80h] BYREF"
+        }
+    ]
+}

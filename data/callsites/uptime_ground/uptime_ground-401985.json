@@ -1,0 +1,35 @@
+[
+    {
+        "args": [
+            "s",
+            "loadavg"
+        ],
+        "funName": "sub_402196",
+        "lineNum": 42
+    },
+    {
+        "args": [
+            "stream"
+        ],
+        "funName": "sub_407523",
+        "lineNum": 52
+    },
+    {
+        "args": [
+            "stdout",
+            "v7",
+            "v29",
+            "0LL",
+            "0LL"
+        ],
+        "funName": "sub_404F9E",
+        "lineNum": 80
+    },
+    {
+        "args": [
+            "v28"
+        ],
+        "funName": "sub_40186D",
+        "lineNum": 98
+    }
+]

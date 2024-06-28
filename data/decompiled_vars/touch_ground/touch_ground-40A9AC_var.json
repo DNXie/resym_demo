@@ -1,0 +1,56 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__int64",
+            "original_line": "__int64 a1"
+        },
+        {
+            "name": "a2",
+            "type": "struct timespec **",
+            "original_line": "struct timespec **a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "result",
+            "type": "__int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 result; // rax"
+        },
+        {
+            "name": "v3",
+            "type": "__syscall_slong_t",
+            "comment": "rdx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__syscall_slong_t v3; // rdx"
+        },
+        {
+            "name": "v4",
+            "type": "__syscall_slong_t",
+            "comment": "rdx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__syscall_slong_t v4; // rdx"
+        },
+        {
+            "name": "v5",
+            "type": "struct timespec *",
+            "comment": "[rsp+18h] [rbp-18h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "struct timespec *v5; // [rsp+18h] [rbp-18h]"
+        }
+    ]
+}

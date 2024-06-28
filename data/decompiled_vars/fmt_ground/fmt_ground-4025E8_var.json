@@ -1,0 +1,65 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "result",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *result; // rax"
+        },
+        {
+            "name": "v1",
+            "type": "signed int",
+            "comment": "[rsp+4h] [rbp-1Ch]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-1C",
+            "rbp_offset_dec": -28,
+            "original_line": "signed int v1; // [rsp+4h] [rbp-1Ch]"
+        },
+        {
+            "name": "src",
+            "type": "const void **",
+            "comment": "[rsp+8h] [rbp-18h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "const void **src; // [rsp+8h] [rbp-18h]"
+        },
+        {
+            "name": "i",
+            "type": "__int64",
+            "comment": "[rsp+10h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "__int64 i; // [rsp+10h] [rbp-10h]"
+        },
+        {
+            "name": "j",
+            "type": "const void **",
+            "comment": "[rsp+10h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "const void **j; // [rsp+10h] [rbp-10h]"
+        },
+        {
+            "name": "v5",
+            "type": "__int64",
+            "comment": "[rsp+18h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "__int64 v5; // [rsp+18h] [rbp-8h]"
+        }
+    ]
+}

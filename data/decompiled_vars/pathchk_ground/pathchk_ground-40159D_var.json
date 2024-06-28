@@ -1,0 +1,71 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int",
+            "original_line": "int a1"
+        },
+        {
+            "name": "a2",
+            "type": "char **",
+            "original_line": "char **a2"
+        },
+        {
+            "name": "a3",
+            "type": "char **",
+            "original_line": "char **a3"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v3",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v3; // rax"
+        },
+        {
+            "name": "v4",
+            "type": "bool",
+            "comment": "[rsp+29h] [rbp-17h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-17",
+            "rbp_offset_dec": -23,
+            "original_line": "bool v4; // [rsp+29h] [rbp-17h]"
+        },
+        {
+            "name": "v5",
+            "type": "unsigned __int8",
+            "comment": "[rsp+2Ah] [rbp-16h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-16",
+            "rbp_offset_dec": -22,
+            "original_line": "unsigned __int8 v5; // [rsp+2Ah] [rbp-16h]"
+        },
+        {
+            "name": "v6",
+            "type": "unsigned __int8",
+            "comment": "[rsp+2Bh] [rbp-15h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-15",
+            "rbp_offset_dec": -21,
+            "original_line": "unsigned __int8 v6; // [rsp+2Bh] [rbp-15h]"
+        },
+        {
+            "name": "v7",
+            "type": "int",
+            "comment": "[rsp+2Ch] [rbp-14h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-14",
+            "rbp_offset_dec": -20,
+            "original_line": "int v7; // [rsp+2Ch] [rbp-14h]"
+        }
+    ]
+}

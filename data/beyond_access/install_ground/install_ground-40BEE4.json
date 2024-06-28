@@ -1,0 +1,112 @@
+[
+    {
+        "expr": "v4",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 7,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 8,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 10,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 10,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 10,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 10,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "i[1]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 10,
+        "offset": 1,
+        "varName": "i"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 12,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "(unsigned __int8 (__fastcall **)(__int64, _QWORD))(a1 + 56)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "unsigned char (*)(long long, uint64) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 12,
+        "offset": 56,
+        "varName": "a1"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 12,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 13,
+        "offset": 0,
+        "varName": "i"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "args": [
+            "a1",
+            "\"r\""
+        ],
+        "funName": "sub_4041D0",
+        "lineNum": 14
+    },
+    {
+        "args": [
+            "v9",
+            "2LL"
+        ],
+        "funName": "sub_404196",
+        "lineNum": 17
+    },
+    {
+        "args": [
+            "stdin",
+            "2LL"
+        ],
+        "funName": "sub_404196",
+        "lineNum": 23
+    },
+    {
+        "args": [
+            "v9",
+            "a3"
+        ],
+        "funName": "sub_402F2A",
+        "lineNum": 25
+    },
+    {
+        "args": [
+            "v9"
+        ],
+        "funName": "sub_40668D",
+        "lineNum": 27
+    },
+    {
+        "args": [
+            "v9"
+        ],
+        "funName": "sub_40668D",
+        "lineNum": 37
+    }
+]

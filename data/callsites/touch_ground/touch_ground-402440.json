@@ -1,0 +1,60 @@
+[
+    {
+        "args": [
+            "*a2",
+            "a2",
+            "a3"
+        ],
+        "funName": "sub_40793C",
+        "lineNum": 36
+    },
+    {
+        "args": [
+            "sub_403093"
+        ],
+        "funName": "sub_40C830",
+        "lineNum": 40
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_4022EB",
+        "lineNum": 59
+    },
+    {
+        "args": [
+            "filename"
+        ],
+        "funName": "sub_407A47",
+        "lineNum": 69
+    },
+    {
+        "args": [
+            "&v26"
+        ],
+        "funName": "sub_4032C4",
+        "lineNum": 89
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_4022EB",
+        "lineNum": 146
+    },
+    {
+        "args": [
+            "0"
+        ],
+        "funName": "sub_4022EB",
+        "lineNum": 221
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_4022EB",
+        "lineNum": 223
+    }
+]

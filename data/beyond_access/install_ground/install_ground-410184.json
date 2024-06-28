@@ -1,0 +1,172 @@
+[
+    {
+        "expr": "file",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 13,
+        "offset": 0,
+        "varName": "file"
+    },
+    {
+        "expr": "(char *)a2",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 13,
+        "offset": 0,
+        "varName": "a2"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 14,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "a4",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 14,
+        "offset": 0,
+        "varName": "a4"
+    },
+    {
+        "expr": "a4",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 17,
+        "offset": 0,
+        "varName": "a4"
+    },
+    {
+        "expr": "file",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 24,
+        "offset": 0,
+        "varName": "file"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 25,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 27,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "v8[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 28,
+        "offset": 1,
+        "varName": "v8"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 35,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 37,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "file",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 44,
+        "offset": 0,
+        "varName": "file"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 48,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 49,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 51,
+        "offset": 1,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "unsigned int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "unsigned int *",
+        "lineNum": 64,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 73,
+        "offset": 0,
+        "varName": "v8"
+    }
+]

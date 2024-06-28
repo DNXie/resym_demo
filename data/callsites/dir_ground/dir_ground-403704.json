@@ -1,0 +1,187 @@
+[
+    {
+        "args": [
+            "0LL",
+            "5LL"
+        ],
+        "funName": "sub_40FE2C",
+        "lineNum": 51
+    },
+    {
+        "args": [
+            "0LL",
+            "5LL"
+        ],
+        "funName": "sub_40FE2C",
+        "lineNum": 55
+    },
+    {
+        "args": [
+            "v36",
+            "off_419180",
+            "dword_4191E0",
+            "4LL"
+        ],
+        "funName": "sub_40B252",
+        "lineNum": 89
+    },
+    {
+        "args": [
+            "v36"
+        ],
+        "funName": "sub_4111EB",
+        "lineNum": 92
+    },
+    {
+        "args": [
+            "v37",
+            "&dword_61D6AC",
+            "&qword_61D6B0"
+        ],
+        "funName": "sub_40E98E",
+        "lineNum": 102
+    },
+    {
+        "args": [
+            "v38",
+            "0LL",
+            "0LL",
+            "v31",
+            "0LL"
+        ],
+        "funName": "sub_414BE0",
+        "lineNum": 109
+    },
+    {
+        "args": [
+            "v38"
+        ],
+        "funName": "sub_4111EB",
+        "lineNum": 111
+    },
+    {
+        "args": [
+            "v39",
+            "0LL",
+            "0LL",
+            "v31",
+            "0LL"
+        ],
+        "funName": "sub_414BE0",
+        "lineNum": 126
+    },
+    {
+        "args": [
+            "v39"
+        ],
+        "funName": "sub_4111EB",
+        "lineNum": 128
+    },
+    {
+        "args": [
+            "optarg",
+            "&dword_61D6AC",
+            "&qword_61D6B0"
+        ],
+        "funName": "sub_40E98E",
+        "lineNum": 153
+    },
+    {
+        "args": [
+            "v30",
+            "(unsigned int)longind",
+            "0LL",
+            "&longopts",
+            "optarg"
+        ],
+        "funName": "sub_415126",
+        "lineNum": 155
+    },
+    {
+        "args": [
+            "16LL"
+        ],
+        "funName": "sub_414989",
+        "lineNum": 162
+    },
+    {
+        "args": [
+            "(__int64)\"full-iso\""
+        ],
+        "funName": "sub_4027A7",
+        "lineNum": 222
+    },
+    {
+        "args": [
+            "0LL",
+            "3LL"
+        ],
+        "funName": "sub_40FE2C",
+        "lineNum": 329
+    },
+    {
+        "args": [
+            "0LL",
+            "5LL"
+        ],
+        "funName": "sub_40FE2C",
+        "lineNum": 381
+    },
+    {
+        "args": [
+            "0LL",
+            "0LL"
+        ],
+        "funName": "sub_40FE2C",
+        "lineNum": 447
+    },
+    {
+        "args": [
+            "0LL"
+        ],
+        "funName": "sub_40ADC6",
+        "lineNum": 501
+    },
+    {
+        "args": [
+            "2LL"
+        ],
+        "funName": "sub_40ADC6",
+        "lineNum": 503
+    },
+    {
+        "args": [
+            "\"*~\""
+        ],
+        "funName": "sub_40598B",
+        "lineNum": 507
+    },
+    {
+        "args": [
+            "\".*~\""
+        ],
+        "funName": "sub_40598B",
+        "lineNum": 508
+    },
+    {
+        "args": [
+            "(__int64)\"locale\""
+        ],
+        "funName": "sub_4027A7",
+        "lineNum": 549
+    },
+    {
+        "args": [
+            "s"
+        ],
+        "funName": "sub_40FDA6",
+        "lineNum": 565
+    },
+    {
+        "args": [
+            "2LL"
+        ],
+        "funName": "sub_40C23A",
+        "lineNum": 594
+    }
+]

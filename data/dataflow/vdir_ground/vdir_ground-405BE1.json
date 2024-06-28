@@ -1,0 +1,37 @@
+[
+    {
+        "lhsVarName": "v29",
+        "lineNum": 53,
+        "rhsVarName": "a1"
+    },
+    {
+        "lhsVarName": "v28",
+        "lineNum": 54,
+        "rhsVarName": "a2"
+    },
+    {
+        "lhsVarName": "v26",
+        "lineNum": 55,
+        "rhsVarName": "a3"
+    },
+    {
+        "lhsVarName": "v27",
+        "lineNum": 56,
+        "rhsVarName": "a4"
+    },
+    {
+        "lhsVarName": "filename",
+        "lineNum": 92,
+        "rhsVarName": "v29"
+    },
+    {
+        "lhsVarName": "v33",
+        "lineNum": 105,
+        "rhsVarName": "v7"
+    },
+    {
+        "lhsVarName": "v35",
+        "lineNum": 147,
+        "rhsVarName": "v12"
+    }
+]

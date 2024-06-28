@@ -1,0 +1,122 @@
+[
+    {
+        "expr": "v10",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 10,
+        "offset": 0,
+        "varName": "v10"
+    },
+    {
+        "expr": "msgid",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 15,
+        "offset": 0,
+        "varName": "msgid"
+    },
+    {
+        "expr": "msgid",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 19,
+        "offset": 0,
+        "varName": "msgid"
+    },
+    {
+        "expr": "msgid",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 26,
+        "offset": 0,
+        "varName": "msgid"
+    },
+    {
+        "expr": "v12",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 30,
+        "offset": 0,
+        "varName": "v12"
+    },
+    {
+        "expr": "v10",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 34,
+        "offset": 0,
+        "varName": "v10"
+    },
+    {
+        "expr": "v12",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 37,
+        "offset": 0,
+        "varName": "v12"
+    },
+    {
+        "expr": "v6",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 39,
+        "offset": 0,
+        "varName": "v6"
+    },
+    {
+        "expr": "msgid",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 39,
+        "offset": 0,
+        "varName": "msgid"
+    },
+    {
+        "expr": "v6",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 40,
+        "offset": 0,
+        "varName": "v6"
+    },
+    {
+        "expr": "v10",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 40,
+        "offset": 0,
+        "varName": "v10"
+    },
+    {
+        "expr": "v12",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 40,
+        "offset": 0,
+        "varName": "v12"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "expr": "a1[258]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 154,
+        "offset": 258,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[257]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 155,
+        "offset": 257,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[258]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 155,
+        "offset": 258,
+        "varName": "a1"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 156,
+        "offset": 0,
+        "varName": "result"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 156,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[256]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 157,
+        "offset": 256,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[257]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 157,
+        "offset": 257,
+        "varName": "a1"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 158,
+        "offset": 0,
+        "varName": "result"
+    }
+]

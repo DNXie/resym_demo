@@ -1,0 +1,51 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "const char *",
+            "original_line": "const char *a1"
+        },
+        {
+            "name": "a2",
+            "type": "unsigned __int64 *",
+            "original_line": "unsigned __int64 *a2"
+        },
+        {
+            "name": "a3",
+            "type": "const char *",
+            "original_line": "const char *a3"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v4",
+            "type": "int",
+            "comment": "[rsp+2Ch] [rbp-14h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-14",
+            "rbp_offset_dec": -20,
+            "original_line": "int v4; // [rsp+2Ch] [rbp-14h]"
+        },
+        {
+            "name": "v5",
+            "type": "FILE *",
+            "comment": "[rsp+30h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "FILE *v5; // [rsp+30h] [rbp-10h]"
+        },
+        {
+            "name": "ptr",
+            "type": "char *",
+            "comment": "[rsp+38h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "char *ptr; // [rsp+38h] [rbp-8h]"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "result",
+            "type": "__int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 result; // rax"
+        },
+        {
+            "name": "cpuset",
+            "type": "cpu_set_t",
+            "comment": "[rsp+10h] [rbp-80h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-80",
+            "rbp_offset_dec": -128,
+            "original_line": "cpu_set_t cpuset; // [rsp+10h] [rbp-80h] BYREF"
+        }
+    ]
+}

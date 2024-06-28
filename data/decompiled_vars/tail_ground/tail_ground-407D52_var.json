@@ -1,0 +1,71 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__int64",
+            "original_line": "__int64 a1"
+        },
+        {
+            "name": "a2",
+            "type": "void *",
+            "original_line": "void *a2"
+        },
+        {
+            "name": "a3",
+            "type": "unsigned __int64 (__fastcall *",
+            "original_line": "unsigned __int64 (__fastcall *a3"
+        }
+    ],
+    "variable": [
+        {
+            "name": "result",
+            "type": "size_t *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "size_t *result; // rax"
+        },
+        {
+            "name": "__int64)",
+            "type": "bool (__fastcall *v7)(__int64,",
+            "comment": "[rsp+10h] [rbp-30h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-30",
+            "rbp_offset_dec": -48,
+            "original_line": "bool (__fastcall *v7)(__int64, __int64); // [rsp+10h] [rbp-30h]"
+        },
+        {
+            "name": "__int64)",
+            "type": "unsigned __int64 (__fastcall *v8)(__int64, unsigned",
+            "comment": "[rsp+18h] [rbp-28h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-28",
+            "rbp_offset_dec": -40,
+            "original_line": "unsigned __int64 (__fastcall *v8)(__int64, unsigned __int64); // [rsp+18h] [rbp-28h]"
+        },
+        {
+            "name": "v9",
+            "type": "void *",
+            "comment": "[rsp+20h] [rbp-20h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-20",
+            "rbp_offset_dec": -32,
+            "original_line": "void *v9; // [rsp+20h] [rbp-20h]"
+        },
+        {
+            "name": "ptr",
+            "type": "size_t *",
+            "comment": "[rsp+38h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "size_t *ptr; // [rsp+38h] [rbp-8h]"
+        }
+    ]
+}

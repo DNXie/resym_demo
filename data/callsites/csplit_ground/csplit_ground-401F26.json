@@ -1,0 +1,28 @@
+[
+    {
+        "args": [
+            "(__int64)a1",
+            "(__int64)s",
+            "v6 - (_BYTE *)s + 1"
+        ],
+        "funName": "sub_401E2E",
+        "lineNum": 20
+    },
+    {
+        "args": [
+            "(__int64)a1",
+            "(__int64)s",
+            "n"
+        ],
+        "funName": "sub_401E2E",
+        "lineNum": 29
+    },
+    {
+        "args": [
+            "v2",
+            "n"
+        ],
+        "funName": "sub_401D0E",
+        "lineNum": 35
+    }
+]

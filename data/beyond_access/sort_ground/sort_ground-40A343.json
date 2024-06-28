@@ -1,0 +1,82 @@
+[
+    {
+        "expr": "v13",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 16,
+        "offset": 0,
+        "varName": "v13"
+    },
+    {
+        "expr": "a4",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "a4"
+    },
+    {
+        "expr": "a4",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "a4"
+    },
+    {
+        "expr": "v13",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 59,
+        "offset": 0,
+        "varName": "v13"
+    },
+    {
+        "expr": "v13",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 61,
+        "offset": 0,
+        "varName": "v13"
+    },
+    {
+        "expr": "v13 + 13",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 62,
+        "offset": 13,
+        "varName": "v13"
+    },
+    {
+        "expr": "v13 + 13",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 64,
+        "offset": 13,
+        "varName": "v13"
+    },
+    {
+        "expr": "v13",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 65,
+        "offset": 0,
+        "varName": "v13"
+    }
+]

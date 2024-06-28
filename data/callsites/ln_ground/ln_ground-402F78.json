@@ -1,0 +1,25 @@
+[
+    {
+        "args": [
+            "*a1"
+        ],
+        "funName": "sub_40375A",
+        "lineNum": 24
+    },
+    {
+        "args": [
+            "v15"
+        ],
+        "funName": "sub_4037C3",
+        "lineNum": 26
+    },
+    {
+        "args": [
+            "v9",
+            "2LL",
+            "v21"
+        ],
+        "funName": "sub_407911",
+        "lineNum": 56
+    }
+]

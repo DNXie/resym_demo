@@ -1,0 +1,170 @@
+[
+    {
+        "expr": "(_QWORD *)ptr + 1",
+        "lineNum": 16,
+        "offset": 1,
+        "size": 8,
+        "typeInfo": "uint64 *",
+        "varName": "ptr"
+    },
+    {
+        "expr": "ptr[104]",
+        "lineNum": 23,
+        "offset": 104,
+        "size": 1,
+        "typeInfo": "char *",
+        "varName": "ptr"
+    },
+    {
+        "expr": "ptr[104]",
+        "lineNum": 23,
+        "offset": 104,
+        "size": 1,
+        "typeInfo": "char *",
+        "varName": "ptr"
+    },
+    {
+        "expr": "(_QWORD *)ptr + 10",
+        "lineNum": 24,
+        "offset": 10,
+        "size": 8,
+        "typeInfo": "uint64 *",
+        "varName": "ptr"
+    },
+    {
+        "expr": "ptr + 8",
+        "lineNum": 24,
+        "offset": 8,
+        "size": 8,
+        "typeInfo": "char *",
+        "varName": "ptr"
+    },
+    {
+        "expr": "(_QWORD *)(a2 + 8)",
+        "lineNum": 25,
+        "offset": 8,
+        "size": 8,
+        "typeInfo": "long long",
+        "varName": "a2"
+    },
+    {
+        "expr": "(_QWORD *)(a2 + 16)",
+        "lineNum": 27,
+        "offset": 16,
+        "size": 8,
+        "typeInfo": "long long",
+        "varName": "a2"
+    },
+    {
+        "expr": "(unsigned __int8 *)(v9 + 8)",
+        "lineNum": 28,
+        "offset": 8,
+        "size": 8,
+        "typeInfo": "long long",
+        "varName": "v9"
+    },
+    {
+        "expr": "(_DWORD *)(v9 + 8)",
+        "lineNum": 29,
+        "offset": 8,
+        "size": 8,
+        "typeInfo": "long long",
+        "varName": "v9"
+    },
+    {
+        "expr": "ptr[104]",
+        "lineNum": 32,
+        "offset": 104,
+        "size": 1,
+        "typeInfo": "char *",
+        "varName": "ptr"
+    },
+    {
+        "expr": "(_BYTE *)(v9 + 10)",
+        "lineNum": 32,
+        "offset": 10,
+        "size": 8,
+        "typeInfo": "long long",
+        "varName": "v9"
+    },
+    {
+        "expr": "ptr[104]",
+        "lineNum": 32,
+        "offset": 104,
+        "size": 1,
+        "typeInfo": "char *",
+        "varName": "ptr"
+    },
+    {
+        "expr": "ptr[104]",
+        "lineNum": 32,
+        "offset": 104,
+        "size": 1,
+        "typeInfo": "char *",
+        "varName": "ptr"
+    },
+    {
+        "expr": "ptr[104]",
+        "lineNum": 35,
+        "offset": 104,
+        "size": 1,
+        "typeInfo": "char *",
+        "varName": "ptr"
+    },
+    {
+        "expr": "ptr[104]",
+        "lineNum": 39,
+        "offset": 104,
+        "size": 1,
+        "typeInfo": "char *",
+        "varName": "ptr"
+    },
+    {
+        "expr": "(char **)ptr + 10",
+        "lineNum": 43,
+        "offset": 10,
+        "size": 8,
+        "typeInfo": "char **",
+        "varName": "ptr"
+    },
+    {
+        "expr": "ptr + 8",
+        "lineNum": 43,
+        "offset": 8,
+        "size": 8,
+        "typeInfo": "char *",
+        "varName": "ptr"
+    },
+    {
+        "expr": "(_QWORD *)ptr + 10",
+        "lineNum": 46,
+        "offset": 10,
+        "size": 8,
+        "typeInfo": "uint64 *",
+        "varName": "ptr"
+    },
+    {
+        "expr": "(_QWORD **)ptr + 10",
+        "lineNum": 46,
+        "offset": 10,
+        "size": 8,
+        "typeInfo": "uint64 **",
+        "varName": "ptr"
+    },
+    {
+        "expr": "ptr[104]",
+        "lineNum": 52,
+        "offset": 104,
+        "size": 1,
+        "typeInfo": "char *",
+        "varName": "ptr"
+    },
+    {
+        "expr": "ptr + 8",
+        "lineNum": 59,
+        "offset": 8,
+        "size": 8,
+        "typeInfo": "char *",
+        "varName": "ptr"
+    }
+]

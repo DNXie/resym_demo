@@ -1,0 +1,102 @@
+[
+    {
+        "lhsVarName": "src",
+        "lineNum": 53,
+        "rhsVarName": "v43"
+    },
+    {
+        "lhsVarName": "v35",
+        "lineNum": 54,
+        "rhsVarName": "v52"
+    },
+    {
+        "lhsVarName": "v34",
+        "lineNum": 60,
+        "rhsVarName": "v43"
+    },
+    {
+        "lhsVarName": "ptr",
+        "lineNum": 73,
+        "rhsVarName": "src"
+    },
+    {
+        "lhsVarName": "src",
+        "lineNum": 78,
+        "rhsVarName": "dest"
+    },
+    {
+        "lhsVarName": "v35",
+        "lineNum": 83,
+        "rhsVarName": "dest"
+    },
+    {
+        "lhsVarName": "a2",
+        "lineNum": 107,
+        "rhsVarName": "a1"
+    },
+    {
+        "lhsVarName": "v31",
+        "lineNum": 113,
+        "rhsVarName": "v6"
+    },
+    {
+        "lhsVarName": "v29",
+        "lineNum": 120,
+        "rhsVarName": "v31"
+    },
+    {
+        "lhsVarName": "v31",
+        "lineNum": 139,
+        "rhsVarName": "v20"
+    },
+    {
+        "lhsVarName": "a2",
+        "lineNum": 150,
+        "rhsVarName": "v31"
+    },
+    {
+        "lhsVarName": "v21",
+        "lineNum": 178,
+        "rhsVarName": "v36"
+    },
+    {
+        "lhsVarName": "v26",
+        "lineNum": 186,
+        "rhsVarName": "v29"
+    },
+    {
+        "lhsVarName": "v14",
+        "lineNum": 242,
+        "rhsVarName": "v36"
+    },
+    {
+        "lhsVarName": "v15",
+        "lineNum": 261,
+        "rhsVarName": "v36"
+    },
+    {
+        "lhsVarName": "v13",
+        "lineNum": 273,
+        "rhsVarName": "v36"
+    },
+    {
+        "lhsVarName": "v19",
+        "lineNum": 529,
+        "rhsVarName": "v36"
+    },
+    {
+        "lhsVarName": "v26",
+        "lineNum": 706,
+        "rhsVarName": "v29"
+    },
+    {
+        "lhsVarName": "v7",
+        "lineNum": 708,
+        "rhsVarName": "v36"
+    },
+    {
+        "lhsVarName": "v31",
+        "lineNum": 729,
+        "rhsVarName": "v22"
+    }
+]

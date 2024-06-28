@@ -1,0 +1,132 @@
+[
+    {
+        "expr": "v1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 16,
+        "offset": 0,
+        "varName": "v1"
+    },
+    {
+        "expr": "v1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 17,
+        "offset": 0,
+        "varName": "v1"
+    },
+    {
+        "expr": "v2",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 18,
+        "offset": 0,
+        "varName": "v2"
+    },
+    {
+        "expr": "v2",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 19,
+        "offset": 0,
+        "varName": "v2"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 21,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 22,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "s1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "s1"
+    },
+    {
+        "expr": "s1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 24,
+        "offset": 0,
+        "varName": "s1"
+    },
+    {
+        "expr": "s1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 24,
+        "offset": 0,
+        "varName": "s1"
+    },
+    {
+        "expr": "v6",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 27,
+        "offset": 0,
+        "varName": "v6"
+    },
+    {
+        "expr": "v6",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 28,
+        "offset": 0,
+        "varName": "v6"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 31,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 32,
+        "offset": 0,
+        "varName": "v8"
+    }
+]

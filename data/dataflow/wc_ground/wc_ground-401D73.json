@@ -1,0 +1,87 @@
+[
+    {
+        "lhsVarName": "v39",
+        "lineNum": 52,
+        "rhsVarName": "v3"
+    },
+    {
+        "lhsVarName": "v18",
+        "lineNum": 61,
+        "rhsVarName": "v4"
+    },
+    {
+        "lhsVarName": "v23",
+        "lineNum": 70,
+        "rhsVarName": "v5"
+    },
+    {
+        "lhsVarName": "v30",
+        "lineNum": 104,
+        "rhsVarName": "v6"
+    },
+    {
+        "lhsVarName": "v31",
+        "lineNum": 123,
+        "rhsVarName": "v33"
+    },
+    {
+        "lhsVarName": "v28",
+        "lineNum": 124,
+        "rhsVarName": "v20"
+    },
+    {
+        "lhsVarName": "v35",
+        "lineNum": 135,
+        "rhsVarName": "dest"
+    },
+    {
+        "lhsVarName": "v33",
+        "lineNum": 180,
+        "rhsVarName": "v25"
+    },
+    {
+        "lhsVarName": "v31",
+        "lineNum": 199,
+        "rhsVarName": "v33"
+    },
+    {
+        "lhsVarName": "v28",
+        "lineNum": 203,
+        "rhsVarName": "v20"
+    },
+    {
+        "lhsVarName": "v31",
+        "lineNum": 234,
+        "rhsVarName": "v37"
+    },
+    {
+        "lhsVarName": "v28",
+        "lineNum": 235,
+        "rhsVarName": "v22"
+    },
+    {
+        "lhsVarName": "v38",
+        "lineNum": 238,
+        "rhsVarName": "dest"
+    },
+    {
+        "lhsVarName": "v31",
+        "lineNum": 275,
+        "rhsVarName": "v37"
+    },
+    {
+        "lhsVarName": "v28",
+        "lineNum": 292,
+        "rhsVarName": "v22"
+    },
+    {
+        "lhsVarName": "s",
+        "lineNum": 304,
+        "rhsVarName": "dest"
+    },
+    {
+        "lhsVarName": "v29",
+        "lineNum": 324,
+        "rhsVarName": "v30"
+    }
+]

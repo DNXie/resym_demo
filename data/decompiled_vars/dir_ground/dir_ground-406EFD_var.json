@@ -1,0 +1,20 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "_QWORD *",
+            "original_line": "_QWORD *a1"
+        },
+        {
+            "name": "a2",
+            "type": "_QWORD *",
+            "original_line": "_QWORD *a2"
+        },
+        {
+            "name": "a3",
+            "type": "__int64 (__fastcall *",
+            "original_line": "__int64 (__fastcall *a3"
+        }
+    ],
+    "variable": []
+}

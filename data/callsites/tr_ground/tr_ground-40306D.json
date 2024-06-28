@@ -1,0 +1,32 @@
+[
+    {
+        "args": [
+            "a1",
+            "&v8"
+        ],
+        "funName": "sub_402C37",
+        "lineNum": 46
+    },
+    {
+        "args": [
+            "(_QWORD *)a2",
+            "&v9"
+        ],
+        "funName": "sub_402C37",
+        "lineNum": 47
+    },
+    {
+        "args": [
+            "(__int64)a1"
+        ],
+        "funName": "sub_402C0D",
+        "lineNum": 55
+    },
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_402C0D",
+        "lineNum": 56
+    }
+]

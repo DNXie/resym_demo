@@ -1,0 +1,44 @@
+[
+    {
+        "args": [
+            "*a2",
+            "a2",
+            "a3"
+        ],
+        "funName": "sub_401DA2",
+        "lineNum": 8
+    },
+    {
+        "args": [
+            "sub_401B7B"
+        ],
+        "funName": "sub_404DC0",
+        "lineNum": 12
+    },
+    {
+        "args": [
+            "0"
+        ],
+        "funName": "sub_40189B",
+        "lineNum": 19
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_40189B",
+        "lineNum": 23
+    },
+    {
+        "args": [
+            "(__int64)a2[i]"
+        ],
+        "funName": "sub_4017B2",
+        "lineNum": 41
+    },
+    {
+        "args": [],
+        "funName": "sub_401970",
+        "lineNum": 47
+    }
+]

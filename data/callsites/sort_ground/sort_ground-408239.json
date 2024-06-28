@@ -1,0 +1,102 @@
+[
+    {
+        "args": [
+            "a3",
+            "56LL"
+        ],
+        "funName": "sub_414E49",
+        "lineNum": 45
+    },
+    {
+        "args": [
+            "v18",
+            "8LL"
+        ],
+        "funName": "sub_414E49",
+        "lineNum": 48
+    },
+    {
+        "args": [
+            "v18",
+            "8LL"
+        ],
+        "funName": "sub_414E49",
+        "lineNum": 49
+    },
+    {
+        "args": [
+            "v18",
+            "8LL"
+        ],
+        "funName": "sub_414E49",
+        "lineNum": 50
+    },
+    {
+        "args": [
+            "(__int64)&v34[7 * v23]",
+            "32LL",
+            "v6"
+        ],
+        "funName": "sub_404989",
+        "lineNum": 59
+    },
+    {
+        "args": [
+            "&v34[7 * v23]"
+        ],
+        "funName": "sub_404A3F",
+        "lineNum": 62
+    },
+    {
+        "args": [
+            "*(char **)(16 * v23 + a1)"
+        ],
+        "funName": "sub_403CC7",
+        "lineNum": 73
+    },
+    {
+        "args": [
+            "(unsigned __int8 **)v35[v37[k - 1]]",
+            "(unsigned __int8 **)v35[v37[k]]"
+        ],
+        "funName": "sub_407AC9",
+        "lineNum": 92
+    },
+    {
+        "args": [
+            "(unsigned __int8 **)v21",
+            "(unsigned __int8 **)v41"
+        ],
+        "funName": "sub_407AC9",
+        "lineNum": 105
+    },
+    {
+        "args": [
+            "v22"
+        ],
+        "funName": "sub_414F92",
+        "lineNum": 124
+    },
+    {
+        "args": [
+            "&v34[7 * *v37]"
+        ],
+        "funName": "sub_404A3F",
+        "lineNum": 143
+    },
+    {
+        "args": [
+            "*(char **)(16 * *v37 + a1)"
+        ],
+        "funName": "sub_403CC7",
+        "lineNum": 158
+    },
+    {
+        "args": [
+            "(unsigned __int8 **)v35[v43]",
+            "(unsigned __int8 **)v35[v37[v33]]"
+        ],
+        "funName": "sub_407AC9",
+        "lineNum": 194
+    }
+]

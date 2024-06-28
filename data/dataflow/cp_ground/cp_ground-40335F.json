@@ -1,0 +1,12 @@
+[
+    {
+        "lhsVarName": "errnum",
+        "lineNum": 15,
+        "rhsVarName": "v3"
+    },
+    {
+        "lhsVarName": "v9",
+        "lineNum": 17,
+        "rhsVarName": "v4"
+    }
+]

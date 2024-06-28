@@ -1,0 +1,12 @@
+[
+    {
+        "lhsVarName": "ptr",
+        "lineNum": 8,
+        "rhsVarName": "v3"
+    },
+    {
+        "lhsVarName": "result",
+        "lineNum": 14,
+        "rhsVarName": "a1"
+    }
+]

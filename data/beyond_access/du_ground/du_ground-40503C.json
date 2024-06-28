@@ -1,0 +1,132 @@
+[
+    {
+        "expr": "(_DWORD *)(v7 + 8)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 9,
+        "offset": 8,
+        "varName": "v7"
+    },
+    {
+        "expr": "(_DWORD *)(v7 + 12)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 10,
+        "offset": 12,
+        "varName": "v7"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 14,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 16,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 18,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 20,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "(_QWORD *)(v7 + 16)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 21,
+        "offset": 16,
+        "varName": "v7"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 21,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 21,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 8)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 23,
+        "offset": 8,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD **)(a1 + 8)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 24,
+        "offset": 8,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 26,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 8)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 27,
+        "offset": 8,
+        "varName": "a1"
+    }
+]

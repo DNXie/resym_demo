@@ -1,0 +1,21 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "unsigned int",
+            "original_line": "unsigned int a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "result",
+            "type": "__int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 result; // rax"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "args": [
+            "4u"
+        ],
+        "funName": "sub_402C5C",
+        "lineNum": 9
+    },
+    {
+        "args": [
+            "qword_61D3A0"
+        ],
+        "funName": "sub_40A1D5",
+        "lineNum": 12
+    },
+    {
+        "args": [
+            "&unk_61D3E0"
+        ],
+        "funName": "sub_40A1D5",
+        "lineNum": 13
+    },
+    {
+        "args": [
+            "&qword_61D3B0"
+        ],
+        "funName": "sub_40A1D5",
+        "lineNum": 14
+    }
+]

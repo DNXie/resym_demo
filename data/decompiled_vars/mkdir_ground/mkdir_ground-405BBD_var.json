@@ -1,0 +1,131 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int",
+            "original_line": "int a1"
+        },
+        {
+            "name": "a2",
+            "type": "char *",
+            "original_line": "char *a2"
+        },
+        {
+            "name": "a3",
+            "type": "int",
+            "original_line": "int a3"
+        },
+        {
+            "name": "a4",
+            "type": "__uid_t",
+            "original_line": "__uid_t a4"
+        },
+        {
+            "name": "a5",
+            "type": "__gid_t",
+            "original_line": "__gid_t a5"
+        },
+        {
+            "name": "a6",
+            "type": "int",
+            "original_line": "int a6"
+        },
+        {
+            "name": "a7",
+            "type": "int",
+            "original_line": "int a7"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v7",
+            "type": "unsigned int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "unsigned int v7; // eax"
+        },
+        {
+            "name": "v8",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v8; // eax"
+        },
+        {
+            "name": "v9",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v9; // eax"
+        },
+        {
+            "name": "v15",
+            "type": "unsigned int",
+            "comment": "[rsp+2Ch] [rbp-A4h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-A4",
+            "rbp_offset_dec": -164,
+            "original_line": "unsigned int v15; // [rsp+2Ch] [rbp-A4h]"
+        },
+        {
+            "name": "v16",
+            "type": "int",
+            "comment": "[rsp+30h] [rbp-A0h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-A0",
+            "rbp_offset_dec": -160,
+            "original_line": "int v16; // [rsp+30h] [rbp-A0h]"
+        },
+        {
+            "name": "v17",
+            "type": "__mode_t",
+            "comment": "[rsp+34h] [rbp-9Ch]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-9C",
+            "rbp_offset_dec": -156,
+            "original_line": "__mode_t v17; // [rsp+34h] [rbp-9Ch]"
+        },
+        {
+            "name": "mode",
+            "type": "int",
+            "comment": "[rsp+38h] [rbp-98h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-98",
+            "rbp_offset_dec": -152,
+            "original_line": "int mode; // [rsp+38h] [rbp-98h]"
+        },
+        {
+            "name": "v19",
+            "type": "int",
+            "comment": "[rsp+3Ch] [rbp-94h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-94",
+            "rbp_offset_dec": -148,
+            "original_line": "int v19; // [rsp+3Ch] [rbp-94h]"
+        },
+        {
+            "name": "stat_buf",
+            "type": "struct stat",
+            "comment": "[rsp+40h] [rbp-90h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-90",
+            "rbp_offset_dec": -144,
+            "original_line": "struct stat stat_buf; // [rsp+40h] [rbp-90h] BYREF"
+        }
+    ]
+}

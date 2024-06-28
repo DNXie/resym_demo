@@ -1,0 +1,30 @@
+[
+    {
+        "args": [
+            "*(_QWORD *)(a1 + 8)",
+            "v8"
+        ],
+        "funName": "sub_4046E3",
+        "lineNum": 14
+    },
+    {
+        "args": [
+            "v2"
+        ],
+        "funName": "sub_404873",
+        "lineNum": 15
+    },
+    {
+        "args": [
+            "a2",
+            "v8"
+        ],
+        "funName": "sub_4046E3",
+        "lineNum": 21
+    },
+    {
+        "args": [],
+        "funName": "sub_401C9C",
+        "lineNum": 29
+    }
+]

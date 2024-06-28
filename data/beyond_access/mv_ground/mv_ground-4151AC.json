@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "a2",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 14,
+        "offset": 0,
+        "varName": "a2"
+    }
+]

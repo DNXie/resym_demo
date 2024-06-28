@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__pid_t",
+            "original_line": "__pid_t a1"
+        },
+        {
+            "name": "a2",
+            "type": "int",
+            "original_line": "int a2"
+        }
+    ],
+    "variable": []
+}

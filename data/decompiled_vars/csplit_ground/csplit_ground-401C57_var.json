@@ -1,0 +1,15 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "oset",
+            "type": "sigset_t",
+            "comment": "[rsp+0h] [rbp-80h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-80",
+            "rbp_offset_dec": -128,
+            "original_line": "sigset_t oset; // [rsp+0h] [rbp-80h] BYREF"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+[
+    {
+        "expr": "s1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 20,
+        "offset": 0,
+        "varName": "s1"
+    },
+    {
+        "expr": "s1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 21,
+        "offset": 0,
+        "varName": "s1"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(uint64, const char *, long long) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(uint64, const char *, long long) __attribute__((fastcall))",
+        "lineNum": 32,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(uint64, const char *, long long) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(uint64, const char *, long long) __attribute__((fastcall))",
+        "lineNum": 35,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a2",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(char *, long long, long long) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(char *, long long, long long) __attribute__((fastcall))",
+        "lineNum": 37,
+        "offset": 0,
+        "varName": "a2"
+    },
+    {
+        "expr": "inbuf",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 38,
+        "offset": 0,
+        "varName": "inbuf"
+    },
+    {
+        "expr": "outbuf",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 40,
+        "offset": 0,
+        "varName": "outbuf"
+    },
+    {
+        "expr": "inbuf",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 42,
+        "offset": 0,
+        "varName": "inbuf"
+    },
+    {
+        "expr": "outbuf",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 42,
+        "offset": 0,
+        "varName": "outbuf"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(uint64, const char *, long long) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(uint64, const char *, long long) __attribute__((fastcall))",
+        "lineNum": 44,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a2",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(char *, long long, long long) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(char *, long long, long long) __attribute__((fastcall))",
+        "lineNum": 46,
+        "offset": 0,
+        "varName": "a2"
+    }
+]

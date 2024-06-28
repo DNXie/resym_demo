@@ -1,0 +1,21 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "wint_t *",
+            "original_line": "wint_t *a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "unsigned __int8",
+            "comment": "[rsp+17h] [rbp-9h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-9",
+            "rbp_offset_dec": -9,
+            "original_line": "unsigned __int8 v2; // [rsp+17h] [rbp-9h]"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "double *",
+            "original_line": "double *a1"
+        },
+        {
+            "name": "a2",
+            "type": "char",
+            "original_line": "char a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v3",
+            "type": "int",
+            "comment": "[rsp+18h] [rbp-4h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4",
+            "rbp_offset_dec": -4,
+            "original_line": "int v3; // [rsp+18h] [rbp-4h]"
+        }
+    ]
+}

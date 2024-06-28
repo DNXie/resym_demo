@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "loadavg",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "double *",
+        "lhsPointeeSize": 8,
+        "lhsType": "double *",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "loadavg"
+    }
+]

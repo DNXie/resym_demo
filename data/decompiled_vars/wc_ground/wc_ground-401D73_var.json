@@ -1,0 +1,431 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "unsigned int",
+            "original_line": "unsigned int a1"
+        },
+        {
+            "name": "a2",
+            "type": "const char *",
+            "original_line": "const char *a2"
+        },
+        {
+            "name": "a3",
+            "type": "__int64",
+            "original_line": "__int64 a3"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v3",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v3; // rax"
+        },
+        {
+            "name": "v4",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v4; // al"
+        },
+        {
+            "name": "v5",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v5; // al"
+        },
+        {
+            "name": "v6",
+            "type": "__int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v6; // rax"
+        },
+        {
+            "name": "v7",
+            "type": "int *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int *v7; // rax"
+        },
+        {
+            "name": "v8",
+            "type": "int *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int *v8; // rax"
+        },
+        {
+            "name": "v9",
+            "type": "int *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int *v9; // rax"
+        },
+        {
+            "name": "v10",
+            "type": "int *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int *v10; // rax"
+        },
+        {
+            "name": "v11",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v11; // rax"
+        },
+        {
+            "name": "v12",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v12; // eax"
+        },
+        {
+            "name": "v13",
+            "type": "const unsigned __int16 *",
+            "comment": "rbx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "const unsigned __int16 *v13; // rbx"
+        },
+        {
+            "name": "v14",
+            "type": "const unsigned __int16 *",
+            "comment": "rbx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "const unsigned __int16 *v14; // rbx"
+        },
+        {
+            "name": "v17",
+            "type": "unsigned __int8",
+            "comment": "[rsp+21h] [rbp-40CFh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-40CF",
+            "rbp_offset_dec": -16591,
+            "original_line": "unsigned __int8 v17; // [rsp+21h] [rbp-40CFh]"
+        },
+        {
+            "name": "v18",
+            "type": "char",
+            "comment": "[rsp+22h] [rbp-40CEh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-40CE",
+            "rbp_offset_dec": -16590,
+            "original_line": "char v18; // [rsp+22h] [rbp-40CEh]"
+        },
+        {
+            "name": "v19",
+            "type": "unsigned __int8",
+            "comment": "[rsp+23h] [rbp-40CDh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-40CD",
+            "rbp_offset_dec": -16589,
+            "original_line": "unsigned __int8 v19; // [rsp+23h] [rbp-40CDh]"
+        },
+        {
+            "name": "v20",
+            "type": "unsigned __int8",
+            "comment": "[rsp+24h] [rbp-40CCh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-40CC",
+            "rbp_offset_dec": -16588,
+            "original_line": "unsigned __int8 v20; // [rsp+24h] [rbp-40CCh]"
+        },
+        {
+            "name": "v21",
+            "type": "char",
+            "comment": "[rsp+25h] [rbp-40CBh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-40CB",
+            "rbp_offset_dec": -16587,
+            "original_line": "char v21; // [rsp+25h] [rbp-40CBh]"
+        },
+        {
+            "name": "v22",
+            "type": "unsigned __int8",
+            "comment": "[rsp+26h] [rbp-40CAh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-40CA",
+            "rbp_offset_dec": -16586,
+            "original_line": "unsigned __int8 v22; // [rsp+26h] [rbp-40CAh]"
+        },
+        {
+            "name": "v23",
+            "type": "bool",
+            "comment": "[rsp+27h] [rbp-40C9h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-40C9",
+            "rbp_offset_dec": -16585,
+            "original_line": "bool v23; // [rsp+27h] [rbp-40C9h]"
+        },
+        {
+            "name": "pwc",
+            "type": "wchar_t",
+            "comment": "[rsp+28h] [rbp-40C8h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-40C8",
+            "rbp_offset_dec": -16584,
+            "original_line": "wchar_t pwc; // [rsp+28h] [rbp-40C8h] BYREF"
+        },
+        {
+            "name": "v25",
+            "type": "int",
+            "comment": "[rsp+2Ch] [rbp-40C4h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-40C4",
+            "rbp_offset_dec": -16580,
+            "original_line": "int v25; // [rsp+2Ch] [rbp-40C4h]"
+        },
+        {
+            "name": "n",
+            "type": "size_t",
+            "comment": "[rsp+30h] [rbp-40C0h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-40C0",
+            "rbp_offset_dec": -16576,
+            "original_line": "size_t n; // [rsp+30h] [rbp-40C0h]"
+        },
+        {
+            "name": "v27",
+            "type": "__int64",
+            "comment": "[rsp+38h] [rbp-40B8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-40B8",
+            "rbp_offset_dec": -16568,
+            "original_line": "__int64 v27; // [rsp+38h] [rbp-40B8h]"
+        },
+        {
+            "name": "v28",
+            "type": "__int64",
+            "comment": "[rsp+40h] [rbp-40B0h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-40B0",
+            "rbp_offset_dec": -16560,
+            "original_line": "__int64 v28; // [rsp+40h] [rbp-40B0h]"
+        },
+        {
+            "name": "v29",
+            "type": "__int64",
+            "comment": "[rsp+48h] [rbp-40A8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-40A8",
+            "rbp_offset_dec": -16552,
+            "original_line": "__int64 v29; // [rsp+48h] [rbp-40A8h]"
+        },
+        {
+            "name": "v30",
+            "type": "__int64",
+            "comment": "[rsp+50h] [rbp-40A0h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-40A0",
+            "rbp_offset_dec": -16544,
+            "original_line": "__int64 v30; // [rsp+50h] [rbp-40A0h]"
+        },
+        {
+            "name": "v31",
+            "type": "unsigned __int64",
+            "comment": "[rsp+58h] [rbp-4098h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4098",
+            "rbp_offset_dec": -16536,
+            "original_line": "unsigned __int64 v31; // [rsp+58h] [rbp-4098h]"
+        },
+        {
+            "name": "s",
+            "type": "void *",
+            "comment": "[rsp+60h] [rbp-4090h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4090",
+            "rbp_offset_dec": -16528,
+            "original_line": "void *s; // [rsp+60h] [rbp-4090h]"
+        },
+        {
+            "name": "v33",
+            "type": "unsigned __int64",
+            "comment": "[rsp+68h] [rbp-4088h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4088",
+            "rbp_offset_dec": -16520,
+            "original_line": "unsigned __int64 v33; // [rsp+68h] [rbp-4088h]"
+        },
+        {
+            "name": "i",
+            "type": "size_t",
+            "comment": "[rsp+70h] [rbp-4080h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4080",
+            "rbp_offset_dec": -16512,
+            "original_line": "size_t i; // [rsp+70h] [rbp-4080h]"
+        },
+        {
+            "name": "v35",
+            "type": "char *",
+            "comment": "[rsp+78h] [rbp-4078h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4078",
+            "rbp_offset_dec": -16504,
+            "original_line": "char *v35; // [rsp+78h] [rbp-4078h]"
+        },
+        {
+            "name": "v36",
+            "type": "size_t",
+            "comment": "[rsp+80h] [rbp-4070h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4070",
+            "rbp_offset_dec": -16496,
+            "original_line": "size_t v36; // [rsp+80h] [rbp-4070h]"
+        },
+        {
+            "name": "v37",
+            "type": "unsigned __int64",
+            "comment": "[rsp+88h] [rbp-4068h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4068",
+            "rbp_offset_dec": -16488,
+            "original_line": "unsigned __int64 v37; // [rsp+88h] [rbp-4068h]"
+        },
+        {
+            "name": "v38",
+            "type": "char *",
+            "comment": "[rsp+90h] [rbp-4060h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4060",
+            "rbp_offset_dec": -16480,
+            "original_line": "char *v38; // [rsp+90h] [rbp-4060h]"
+        },
+        {
+            "name": "v39",
+            "type": "char *",
+            "comment": "[rsp+98h] [rbp-4058h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4058",
+            "rbp_offset_dec": -16472,
+            "original_line": "char *v39; // [rsp+98h] [rbp-4058h]"
+        },
+        {
+            "name": "v40",
+            "type": "__off_t",
+            "comment": "[rsp+A0h] [rbp-4050h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4050",
+            "rbp_offset_dec": -16464,
+            "original_line": "__off_t v40; // [rsp+A0h] [rbp-4050h]"
+        },
+        {
+            "name": "v41",
+            "type": "__off_t",
+            "comment": "[rsp+A8h] [rbp-4048h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4048",
+            "rbp_offset_dec": -16456,
+            "original_line": "__off_t v41; // [rsp+A8h] [rbp-4048h]"
+        },
+        {
+            "name": "p",
+            "type": "mbstate_t",
+            "comment": "[rsp+B0h] [rbp-4040h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4040",
+            "rbp_offset_dec": -16448,
+            "original_line": "mbstate_t p; // [rsp+B0h] [rbp-4040h] BYREF"
+        },
+        {
+            "name": "v43",
+            "type": "mbstate_t",
+            "comment": "[rsp+C0h] [rbp-4030h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4030",
+            "rbp_offset_dec": -16432,
+            "original_line": "mbstate_t v43; // [rsp+C0h] [rbp-4030h]"
+        },
+        {
+            "name": "dest",
+            "type": "char",
+            "comment": "[rsp+D0h] [rbp-4020h] BYREF",
+            "array_size": 16392,
+            "star_count": 0,
+            "rbp_offset_hex": "-4020",
+            "rbp_offset_dec": -16416,
+            "original_line": "char dest[16392]; // [rsp+D0h] [rbp-4020h] BYREF"
+        },
+        {
+            "name": "v45",
+            "type": "unsigned __int64",
+            "comment": "[rsp+40D8h] [rbp-18h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "unsigned __int64 v45; // [rsp+40D8h] [rbp-18h]"
+        }
+    ]
+}

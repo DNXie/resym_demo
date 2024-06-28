@@ -1,0 +1,82 @@
+[
+    {
+        "expr": "(_QWORD *)(a1 + 32)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 4,
+        "offset": 32,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 40)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 5,
+        "offset": 40,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_BYTE *)(a1 + 48)",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 6,
+        "offset": 48,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_BYTE *)(a1 + 49)",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 7,
+        "offset": 49,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_BYTE *)a1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8 *",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 8,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_BYTE *)(a1 + 54)",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 9,
+        "offset": 54,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_BYTE *)(a1 + 56)",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 10,
+        "offset": 56,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_BYTE *)(a1 + 51)",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 11,
+        "offset": 51,
+        "varName": "a1"
+    }
+]

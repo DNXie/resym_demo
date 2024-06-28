@@ -1,0 +1,30 @@
+{
+    "argument": [
+        {
+            "name": "fromfd",
+            "type": "int",
+            "original_line": "int fromfd"
+        },
+        {
+            "name": "from",
+            "type": "const char *",
+            "original_line": "const char *from"
+        },
+        {
+            "name": "tofd",
+            "type": "int",
+            "original_line": "int tofd"
+        },
+        {
+            "name": "to",
+            "type": "const char *",
+            "original_line": "const char *to"
+        },
+        {
+            "name": "flags",
+            "type": "int",
+            "original_line": "int flags"
+        }
+    ],
+    "variable": []
+}

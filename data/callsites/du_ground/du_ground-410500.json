@@ -1,0 +1,30 @@
+[
+    {
+        "args": [
+            "*(void **)(a1 + 8)"
+        ],
+        "funName": "sub_4121CD",
+        "lineNum": 26
+    },
+    {
+        "args": [
+            "a1 + 96"
+        ],
+        "funName": "sub_40FE94",
+        "lineNum": 46
+    },
+    {
+        "args": [
+            "*(_QWORD *)(a1 + 80)"
+        ],
+        "funName": "sub_4093BC",
+        "lineNum": 48
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_40FE47",
+        "lineNum": 49
+    }
+]

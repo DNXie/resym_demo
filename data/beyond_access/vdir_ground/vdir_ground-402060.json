@@ -1,0 +1,32 @@
+[
+    {
+        "expr": "assertion",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "assertion"
+    },
+    {
+        "expr": "file",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "file"
+    },
+    {
+        "expr": "function",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "function"
+    }
+]

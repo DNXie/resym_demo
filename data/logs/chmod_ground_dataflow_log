@@ -1,0 +1,2719 @@
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4070B5.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4070B5(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404AFD.c:2:57: error: unknown type name 'size_t'
+void *__fastcall sub_404AFD(int a1, int a2, __int64 a3, size_t a4)
+                                                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404AFD.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404AFD(int a1, int a2, __int64 a3, size_t a4)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409F56.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_409F56(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406588.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_406588(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406588.c:19:50: error: use of undeclared identifier 'sub_40652D'
+    *(_QWORD *)(v4 + 80) = sub_409277(13LL, 0LL, sub_40652D, sub_406556, free);
+                                                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406588.c:19:62: error: use of undeclared identifier 'sub_406556'
+    *(_QWORD *)(v4 + 80) = sub_409277(13LL, 0LL, sub_40652D, sub_406556, free);
+                                                             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406588.c:19:74: error: use of undeclared identifier 'free'
+    *(_QWORD *)(v4 + 80) = sub_409277(13LL, 0LL, sub_40652D, sub_406556, free);
+                                                                         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406588.c:28:7: warning: incompatible integer to pointer conversion assigning to 'uint8 *' (aka 'unsigned char *') from 'int'
+  ptr = malloc(0x10uLL);
+      ^ ~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40360D.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40360D(unsigned int a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:2:1: warning: return type of 'main' is not 'int'
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:2:1: note: change return type to 'int'
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+^~~~
+int
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:25:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v24; // [rsp+58h] [rbp-28h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:25:3: warning: expression result unused
+  size_t v24; // [rsp+58h] [rbp-28h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:25:10: error: use of undeclared identifier 'v24'
+  size_t v24; // [rsp+58h] [rbp-28h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:35:17: error: use of undeclared identifier 'locale'
+  setlocale(6, &locale);
+                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:38:14: error: use of undeclared identifier 'sub_402B4C'
+  sub_40AA30(sub_402B4C);
+             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:39:3: error: use of undeclared identifier 'byte_60E2EE'
+  byte_60E2EE = 0;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:40:3: error: use of undeclared identifier 'byte_60E2ED'
+  byte_60E2ED = 0;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:41:3: error: use of undeclared identifier 'byte_60E2EC'
+  byte_60E2EC = 0;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:48:83: error: use of undeclared identifier 'longopts'
+        v18 = getopt_long(a1, a2, "Rcfvr::w::x::X::s::t::u::g::o::a::,::+::=::", &longopts, 0LL);
+                                                                                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:55:18: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v3 = gettext("cannot combine mode and --reference options");
+                 ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:62:18: error: use of undeclared identifier 'optind'
+            v4 = optind++;
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:65:16: error: use of undeclared identifier 'optind'
+          if ( optind >= a1 )
+               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:67:28: error: use of undeclared identifier 'optind'
+            if ( v20 && a2[optind - 1] == v20 )
+                           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:70:18: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v7 = gettext("missing operand after %s");
+                 ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:75:18: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v5 = gettext("missing operand");
+                 ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:82:13: error: use of undeclared identifier 'qword_60E2E0'
+            qword_60E2E0 = sub_403344(v22);
+            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:83:19: error: use of undeclared identifier 'qword_60E2E0'
+            if ( !qword_60E2E0 )
+                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:86:18: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v9 = gettext("failed to get attributes of %s");
+                 ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:87:19: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+              v10 = __errno_location();
+                  ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:93:13: error: use of undeclared identifier 'qword_60E2E0'
+            qword_60E2E0 = sub_402FEF(v20);
+            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:94:19: error: use of undeclared identifier 'qword_60E2E0'
+            if ( !qword_60E2E0 )
+                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:97:19: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v12 = gettext("invalid mode: %s");
+                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:101:13: error: use of undeclared identifier 'dword_60E2E8'
+            dword_60E2E8 = umask(0);
+            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:103:16: error: use of undeclared identifier 'byte_60E2EC'
+          if ( byte_60E2EC && v17 )
+               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:105:13: error: use of undeclared identifier 'qword_60E2F0'
+            qword_60E2F0 = sub_4084EF(&unk_60E300);
+            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:105:40: error: use of undeclared identifier 'unk_60E300'
+            qword_60E2F0 = sub_4084EF(&unk_60E300);
+                                       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:106:19: error: use of undeclared identifier 'qword_60E2F0'
+            if ( !qword_60E2F0 )
+                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:109:19: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v14 = gettext("failed to get attributes of %s");
+                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:110:19: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+              v15 = __errno_location();
+                  ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:116:13: error: use of undeclared identifier 'qword_60E2F0'
+            qword_60E2F0 = 0LL;
+            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:118:42: error: use of undeclared identifier 'optind'
+          v16 = !sub_402348((__int64)&a2[optind], 0x411u);
+                                         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:123:9: error: use of undeclared identifier 'byte_60E2ED'
+        byte_60E2ED = 1;
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:139:11: error: use of undeclared identifier 'dword_60E220'
+          dword_60E220 = 1;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:145:11: error: use of undeclared identifier 'byte_60E2EC'
+          byte_60E2EC = 1;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:157:23: error: use of undeclared identifier 'stdout'
+              (_DWORD)stdout,
+                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:158:15: warning: cast to smaller integer type 'unsigned int' from 'char *'
+              (unsigned int)"chmod",
+              ^~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:159:15: warning: cast to smaller integer type 'unsigned int' from 'char *'
+              (unsigned int)"GNU coreutils",
+              ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:160:23: error: use of undeclared identifier 'off_60E228'
+              (_DWORD)off_60E228,
+                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:161:15: warning: cast to smaller integer type 'unsigned int' from 'char *'
+              (unsigned int)"David MacKenzie",
+              ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:162:15: warning: cast to smaller integer type 'unsigned int' from 'char *'
+              (unsigned int)"Jim Meyering",
+              ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:172:16: error: use of undeclared identifier 'optind'
+        s = a2[optind - 1];
+               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:173:9: error: use of undeclared identifier 'v24'
+        v24 = strlen(s);
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:175:21: error: use of undeclared identifier 'v24'
+        v26 = v25 + v24;
+                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:176:27: error: use of undeclared identifier 'v24'
+        if ( v19 <= v25 + v24 )
+                          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:179:17: warning: cast to 'char *' from smaller integer type 'int'
+          v20 = (char *)sub_4057F9(v20, &v19);
+                ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:184:9: error: use of undeclared identifier 'byte_60E2EE'
+        byte_60E2EE = 1;
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:189:7: error: use of undeclared identifier 'dword_60E220'
+      dword_60E220 = 0;
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40257B.c:229:17: error: use of undeclared identifier 'optarg'
+          v22 = optarg;
+                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402C37.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BYTE *__fastcall sub_402C37(_BYTE *a1)
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4093DC.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4093DC(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4093DC.c:16:20: warning: '__fastcall' calling convention is not supported for this target
+          (*(void (__fastcall **)(_QWORD))(a1 + 64))(*j);
+                   ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4093DC.c:20:30: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'uint64 *' (aka 'unsigned long long *'); dereference with *
+        *(_QWORD *)(a1 + 72) = j;
+                             ^ ~
+                               *
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4093DC.c:23:18: warning: '__fastcall' calling convention is not supported for this target
+        (*(void (__fastcall **)(_QWORD))(a1 + 64))(*i);
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408965.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408965(__int64 a1, char a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401510.c:3:24: error: unknown type name 'size_t'
+void qsort(void *base, size_t nmemb, size_t size, __compar_fn_t compar)
+                       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401510.c:3:38: error: unknown type name 'size_t'
+void qsort(void *base, size_t nmemb, size_t size, __compar_fn_t compar)
+                                     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401510.c:3:51: error: unknown type name '__compar_fn_t'
+void qsort(void *base, size_t nmemb, size_t size, __compar_fn_t compar)
+                                                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall fts_open(const char **a1, int a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:22:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v23; // [rsp+38h] [rbp-28h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:22:3: warning: expression result unused
+  size_t v23; // [rsp+38h] [rbp-28h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:22:10: error: use of undeclared identifier 'v23'
+  size_t v23; // [rsp+38h] [rbp-28h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:29:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = 22;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:32:6: warning: incompatible integer to pointer conversion assigning to 'void *' from 'int'
+  v4 = malloc(0x80uLL);
+     ^ ~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:55:37: error: use of undeclared identifier 'unk_40BA43'
+    ptr = (_QWORD *)sub_407F27(v5, &unk_40BA43, 0LL);
+                                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:74:5: error: use of undeclared identifier 'v23'
+    v23 = strlen(*v18);
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:75:32: error: use of undeclared identifier 'v23'
+    v11 = sub_407F27(v5, *v18, v23);
+                               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:80:26: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'uint64 *' (aka 'unsigned long long *'); dereference with *
+    *(_QWORD *)(v11 + 8) = ptr;
+                         ^ ~~~
+                           *
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:93:14: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'void *'
+      v12[2] = v9;
+             ^ ~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:100:16: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'uint64 *' (aka 'unsigned long long *'); dereference with *
+        v21[2] = v12;
+               ^ ~~~
+                 *
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:109:10: warning: cast to 'void *' from smaller integer type 'int'
+    v9 = (void *)sub_407DE0(v5, v9, v10);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:110:35: error: use of undeclared identifier 'unk_40BA43'
+  *(_QWORD *)v5 = sub_407F27(v5, &unk_40BA43, 0LL);
+                                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:112:43: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'void *'
+    || (*(_QWORD *)(*(_QWORD *)v5 + 16LL) = v9,
+                                          ^ ~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405EF4.c:123:43: warning: cast to smaller integer type 'int' from 'char *'
+    *(_DWORD *)(v5 + 40) = sub_405E47(v5, (int)".", v13, v14, v15, v16);
+                                          ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4014C0.c:5:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'int *'
+  return _errno_location();
+         ^~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408DC7.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_408DC7(__int64 a1, __int64 a2, unsigned __int64 a3)
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404B60.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_404B60(int a1, __int64 a2, size_t a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404B60.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404B60(int a1, __int64 a2, size_t a3)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A8ED.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_40A8ED(FILE *a1, __off_t a2, int a3)
+                          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A8ED.c:2:37: error: unknown type name '__off_t'
+int __fastcall sub_40A8ED(FILE *a1, __off_t a2, int a3)
+                                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A8ED.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_40A8ED(FILE *a1, __off_t a2, int a3)
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A8ED.c:5:3: error: use of undeclared identifier '__off_t'
+  __off_t v6; // [rsp+28h] [rbp-8h]
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A8ED.c:10:3: error: use of undeclared identifier 'v6'
+  v6 = lseek(v3, a2, a3);
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A8ED.c:11:8: error: use of undeclared identifier 'v6'
+  if ( v6 == -1 )
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A8ED.c:14:17: error: use of undeclared identifier 'v6'
+  a1->_offset = v6;
+                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4015C0.c:3:1: error: unknown type name 'size_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4015C0.c:3:16: error: unknown type name 'wchar_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4015C0.c:3:45: error: unknown type name 'size_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+                                            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4015C0.c:3:55: error: unknown type name 'mbstate_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+                                                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4084EF.c:2:1: error: unknown type name '__ino_t'
+__ino_t *__fastcall sub_4084EF(__ino_t *a1)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4084EF.c:2:32: error: unknown type name '__ino_t'
+__ino_t *__fastcall sub_4084EF(__ino_t *a1)
+                               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4084EF.c:2:10: warning: '__fastcall' calling convention is not supported for this target
+__ino_t *__fastcall sub_4084EF(__ino_t *a1)
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4084EF.c:4:15: error: variable has incomplete type 'struct stat'
+  struct stat stat_buf; // [rsp+10h] [rbp-90h] BYREF
+              ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4084EF.c:4:10: note: forward declaration of 'struct stat'
+  struct stat stat_buf; // [rsp+10h] [rbp-90h] BYREF
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401610.c:3:1: error: unknown type name '__off_t'
+__off_t lseek(int fd, __off_t offset, int whence)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401610.c:3:23: error: unknown type name '__off_t'
+__off_t lseek(int fd, __off_t offset, int whence)
+                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405E47.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405E47(__int64 a1, int a2, __int64 a3, int a4, int a5, int a6)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40338B.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40338B(__int16 a1, unsigned __int8 a2, int a3, char *a4, _DWORD *a5)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408853.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408853(const char *a1, char a2, unsigned int a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401880.c:3:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn start(__int64 a1, __int64 a2, void (*a3)(void))
+     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401880.c:12:21: error: use of undeclared identifier 'main'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401880.c:12:41: error: use of undeclared identifier 'init'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401880.c:12:47: error: use of undeclared identifier 'fini'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                                              ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A26F.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40A26F(__int64 a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4056A4.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4056A4(__int64 a1, unsigned __int64 *a2, unsigned __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40652D.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_40652D(_QWORD *a1, unsigned __int64 a2)
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409821.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_409821(__int64 a1, __int64 a2, char a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409821.c:20:14: warning: cast to 'uint64 *' (aka 'unsigned long long *') from smaller integer type 'int'
+        v9 = (_QWORD *)sub_408BE7(a1, *j);
+             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409821.c:25:17: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'long long *'
+          v9[1] = j;
+                ^ ~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409821.c:38:15: warning: cast to 'uint64 *' (aka 'unsigned long long *') from smaller integer type 'int'
+        v10 = (_QWORD *)sub_408BE7(a1, v8);
+              ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409821.c:41:15: warning: incompatible integer to pointer conversion assigning to 'uint64 *' (aka 'unsigned long long *') from 'int'
+          v12 = sub_40960C(a1);
+              ^ ~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409821.c:46:18: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'uint64 *' (aka 'unsigned long long *'); dereference with *
+          v10[1] = v12;
+                 ^ ~~~
+                   *
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A2F7.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40A2F7(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401810.c:3:32: warning: declaration of 'struct statfs' will not be visible outside of this function
+int fstatfs(int fildes, struct statfs *buf)
+                               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40AA70.c:2:50: warning: declaration of 'struct stat' will not be visible outside of this function
+int __fastcall sub_40AA70(char *filename, struct stat *stat_buf)
+                                                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40AA70.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_40AA70(char *filename, struct stat *stat_buf)
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4080DD.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4080DD(__int64 a1, _QWORD *a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402F60.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BYTE *__fastcall sub_402F60(__int64 a1, _BYTE *a2)
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402F60.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'uint8 *' (aka 'unsigned char *')
+  return sub_402D99(*(_DWORD *)(a1 + 24), a2);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406EC8.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall fts_set(__int64 a1, __int64 a2, int a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406EC8.c:13:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = 22;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40960C.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40960C(__int64 a1)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40960C.c:7:12: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+    return malloc(0x10uLL);
+           ^~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A25D.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40A25D(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401740.c:3:14: error: unknown type name 'size_t'
+void *malloc(size_t size)
+             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4086B7.c:2:31: error: unknown type name 'FILE'
+__int64 __fastcall sub_4086B7(FILE *a1)
+                              ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4086B7.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4086B7(FILE *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4086B7.c:11:30: error: indirection requires pointer operand ('int' invalid)
+  if ( !v3 && (!v4 || !v2 && *__errno_location() == 9) )
+                             ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4086B7.c:14:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = 0;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4054FB.c:2:16: error: unknown type name 'FILE'
+int sub_4054FB(FILE *a1, const char *a2, const char *a3, const char *a4, ...)
+               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4054FB.c:4:3: error: use of undeclared identifier 'gcc_va_list'
+  gcc_va_list va; // [rsp+28h] [rbp-C8h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4054FB.c:6:12: error: use of undeclared identifier 'va'
+  va_start(va, a4);
+           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4054FB.c:7:53: error: use of undeclared identifier 'va'
+  return sub_405422(a1, a2, a3, a4, (unsigned int *)va);
+                                                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404C20.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404C20(__int64 a1, unsigned __int8 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404C20.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_404B8C(a1, 0xFFFFFFFFFFFFFFFFLL, a2);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401860.c:3:14: error: unknown type name 'wint_t'
+int iswprint(wint_t wc)
+             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405422.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_405422(FILE *a1, const char *a2, const char *a3, const char *a4, unsigned int *a5)
+                          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405422.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_405422(FILE *a1, const char *a2, const char *a3, const char *a4, unsigned int *a5)
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405422.c:13:27: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'long long *'
+      *((_QWORD *)a5 + 1) = v5 + 1;
+                          ^ ~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4045C2.c:2:43: error: unknown type name 'size_t'
+__int64 __fastcall sub_4045C2(__int64 a1, size_t a2, _QWORD *a3, __int64 *a4)
+                                          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4045C2.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4045C2(__int64 a1, size_t a2, _QWORD *a3, __int64 *a4)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4045C2.c:14:11: error: use of undeclared identifier 'qword_60E340'
+    v4 = &qword_60E340;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4045C2.c:16:8: error: indirection requires pointer operand ('int' invalid)
+  v7 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4045C2.c:21:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v7;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4037F0.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+_QWORD *__fastcall sub_4037F0(_QWORD *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408F4D.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+bool __fastcall sub_408F4D(unsigned __int64 a1)
+     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407DE0.c:2:55: error: unknown type name 'size_t'
+__int64 __fastcall sub_407DE0(__int64 a1, __int64 a2, size_t a3)
+                                                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407DE0.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_407DE0(__int64 a1, __int64 a2, size_t a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407DE0.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v3; // r12
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407DE0.c:4:3: warning: expression result unused
+  size_t v3; // r12
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407DE0.c:4:10: error: use of undeclared identifier 'v3'
+  size_t v3; // r12
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407DE0.c:13:3: error: use of undeclared identifier 'v3'
+  v3 = a3;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407DE0.c:19:15: warning: incompatible integer to pointer conversion assigning to 'void *' from 'int'
+      || (v11 = realloc(*(void **)(a1 + 16), 8LL * *(_QWORD *)(a1 + 56))) == 0LL )
+              ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407DE0.c:26:26: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'void *'
+    *(_QWORD *)(a1 + 16) = v11;
+                         ^ ~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407DE0.c:34:30: error: use of undeclared identifier 'v3'
+  qsort(*(void **)(a1 + 16), v3, 8uLL, compar);
+                             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407DE0.c:37:13: error: use of undeclared identifier 'v3'
+  while ( --v3 )
+            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405CDE.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405CDE(__int64 a1, char a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401800.c:3:1: error: unknown type name 'DIR'
+DIR *fdopendir(int fd)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4016C0.c:3:11: error: unknown type name 'DIR'
+int dirfd(DIR *dirp)
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405798.c:2:39: error: unknown type name 'size_t'
+void *__fastcall sub_405798(void *a1, size_t a2)
+                                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405798.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405798(void *a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404B8C.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_404B8C(__int64 a1, size_t a2, unsigned __int8 a3)
+                                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404B8C.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404B8C(__int64 a1, size_t a2, unsigned __int8 a3)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404B8C.c:6:11: error: use of undeclared identifier 'qword_60E340'
+  v4[0] = qword_60E340;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404B8C.c:7:11: error: use of undeclared identifier 'qword_60E348'
+  v4[1] = qword_60E348;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404B8C.c:8:11: error: use of undeclared identifier 'qword_60E350'
+  v4[2] = qword_60E350;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404B8C.c:9:11: error: use of undeclared identifier 'qword_60E358'
+  v4[3] = qword_60E358;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404B8C.c:10:11: error: use of undeclared identifier 'qword_60E360'
+  v4[4] = qword_60E360;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404B8C.c:11:11: error: use of undeclared identifier 'qword_60E368'
+  v4[5] = qword_60E368;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404B8C.c:12:11: error: use of undeclared identifier 'qword_60E370'
+  v4[6] = qword_60E370;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405C9C.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405C9C(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40196D.c:2:51: error: unknown type name '__mode_t'
+int __fastcall sub_40196D(int a1, const char *a2, __mode_t a3)
+                                                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40196D.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_40196D(int a1, const char *a2, __mode_t a3)
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40854C.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40854C(const char **a1, int a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40854C.c:12:10: error: indirection requires pointer operand ('int' invalid)
+    if ( *__errno_location() == 22 )
+         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4085B4.c:2:1: error: unknown type name '_BOOL8'
+_BOOL8 __fastcall sub_4085B4(__int64 a1, __int64 a2)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4085B4.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BOOL8 __fastcall sub_4085B4(__int64 a1, __int64 a2)
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401850.c:3:19: error: unknown type name 'mbstate_t'
+int mbsinit(const mbstate_t *ps)
+                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4015B0.c:3:82: warning: declaration of 'struct option' will not be visible outside of this function
+int getopt_long(int argc, char *const *argv, const char *shortopts, const struct option *longopts, int *longind)
+                                                                                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40968C.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40968C(__int64 a1, __int64 a2, _QWORD *a3, char a4)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40968C.c:13:8: warning: cast to 'uint64 *' (aka 'unsigned long long *') from smaller integer type 'int'
+  v9 = (_QWORD *)sub_408BE7(a1, a2);
+       ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40968C.c:14:7: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'uint64 *' (aka 'unsigned long long *'); dereference with *
+  *a3 = v9;
+      ^ ~~
+        *
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40968C.c:17:41: warning: '__fastcall' calling convention is not supported for this target
+  if ( *v9 == a2 || (*(unsigned __int8 (__fastcall **)(__int64, _QWORD))(a1 + 56))(a2, *v9) )
+                                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40968C.c:43:57: warning: '__fastcall' calling convention is not supported for this target
+      if ( *(_QWORD *)i[1] == a2 || (*(unsigned __int8 (__fastcall **)(__int64, _QWORD))(a1 + 56))(a2, *(_QWORD *)i[1]) )
+                                                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4036B7.c:2:10: warning: '__fastcall' calling convention is not supported for this target
+__int64 *__fastcall sub_4036B7(__int64 *a1, int a2)
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4036B7.c:9:15: error: use of undeclared identifier 'qword_60E340'
+    result = &qword_60E340;
+              ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406556.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+bool __fastcall sub_406556(_QWORD *a1, _QWORD *a2)
+     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4089B7.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_4089B7(__int64 a1)
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401560.c:3:1: error: unknown type name 'size_t'
+size_t __ctype_get_mb_cur_max(void)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4058E5.c:6:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v0 = gettext("memory exhausted");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4058E5.c:7:9: error: use of undeclared identifier 'status'
+  error(status, 0, "%s", v0);
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404D8F.c:2:65: error: unknown type name 'size_t'
+void *__fastcall sub_404D8F(__int64 a1, __int64 a2, __int64 a3, size_t a4)
+                                                                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404D8F.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404D8F(__int64 a1, __int64 a2, __int64 a3, size_t a4)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4017C0.c:3:44: error: unknown type name 'size_t'
+void *memmove(void *dest, const void *src, size_t n)
+                                           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401580.c:3:52: warning: declaration of 'struct stat' will not be visible outside of this function
+int __lxstat(int ver, const char *filename, struct stat *stat_buf)
+                                                   ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4089A5.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4089A5(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4017F0.c:3:12: error: unknown type name 'FILE'
+int fseeko(FILE *stream, __off_t off, int whence)
+           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4017F0.c:3:26: error: unknown type name '__off_t'
+int fseeko(FILE *stream, __off_t off, int whence)
+                         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401AA1.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+bool __fastcall sub_401AA1(char *a1, unsigned __int16 a2, unsigned __int16 a3)
+     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401AA1.c:8:15: error: variable has incomplete type 'struct stat'
+  struct stat stat_buf; // [rsp+10h] [rbp-A0h] BYREF
+              ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401AA1.c:8:10: note: forward declaration of 'struct stat'
+  struct stat stat_buf; // [rsp+10h] [rbp-A0h] BYREF
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401AA1.c:18:8: error: use of undeclared identifier 'byte_60E2ED'
+  if ( byte_60E2ED != 1 )
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401AA1.c:21:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v4 = gettext("getting new attributes of %s");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401AA1.c:22:8: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+    v5 = __errno_location();
+       ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40719C(__int64 a1, int a2, __int64 a3, __int64 a4, int a5, int a6)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:17:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v20; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:17:3: warning: expression result unused
+  size_t v20; // rax
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:17:10: error: use of undeclared identifier 'v20'; did you mean 'v10'?
+  size_t v20; // rax
+         ^~~
+         v10
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:7:7: note: 'v10' declared here
+  int v10; // edi
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:19:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v22; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:19:3: warning: expression result unused
+  size_t v22; // rax
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:19:10: error: use of undeclared identifier 'v22'
+  size_t v22; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:20:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v23; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:20:3: warning: expression result unused
+  size_t v23; // rax
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:20:10: error: use of undeclared identifier 'v23'
+  size_t v23; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:22:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v25; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:22:3: warning: expression result unused
+  size_t v25; // rax
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:22:10: error: use of undeclared identifier 'v25'
+  size_t v25; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:43:3: error: use of undeclared identifier 'DIR'
+  DIR *dirp; // [rsp+48h] [rbp-58h]
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:43:8: error: use of undeclared identifier 'dirp'
+  DIR *dirp; // [rsp+48h] [rbp-58h]
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:55:5: error: use of undeclared identifier 'dirp'
+    dirp = *(DIR **)(v45 + 24);
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:55:20: error: expected expression
+    dirp = *(DIR **)(v45 + 24);
+                   ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:55:14: error: use of undeclared identifier 'DIR'
+    dirp = *(DIR **)(v45 + 24);
+             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:56:16: error: use of undeclared identifier 'dirp'; did you mean 'dirfd'?
+    fd = dirfd(dirp);
+               ^~~~
+               dirfd
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:56:10: note: 'dirfd' declared here
+    fd = dirfd(dirp);
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:59:24: error: expected expression
+      closedir(*(DIR **)(v45 + 24));
+                       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:59:18: error: use of undeclared identifier 'DIR'
+      closedir(*(DIR **)(v45 + 24));
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:64:33: error: indirection requires pointer operand ('int' invalid)
+        *(_DWORD *)(v45 + 64) = *__errno_location();
+                                ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:108:35: error: indirection requires pointer operand ('int' invalid)
+          *(_DWORD *)(v45 + 64) = *__errno_location();
+                                  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:111:26: error: expected expression
+        closedir(*(DIR **)(v45 + 24));
+                         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:111:20: error: use of undeclared identifier 'DIR'
+        closedir(*(DIR **)(v45 + 24));
+                   ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:150:29: error: expected expression
+      v50 = readdir(*(DIR **)(v45 + 24));
+                            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:150:23: error: use of undeclared identifier 'DIR'
+      v50 = readdir(*(DIR **)(v45 + 24));
+                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:154:15: error: incomplete definition of type 'struct dirent'
+        || v50->d_name[0] != 46
+           ~~~^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:47:10: note: forward declaration of 'struct dirent'
+  struct dirent *v50; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:155:15: error: incomplete definition of type 'struct dirent'
+        || v50->d_name[1] && (v50->d_name[1] != 46 || v50->d_name[2]) )
+           ~~~^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:47:10: note: forward declaration of 'struct dirent'
+  struct dirent *v50; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:155:34: error: incomplete definition of type 'struct dirent'
+        || v50->d_name[1] && (v50->d_name[1] != 46 || v50->d_name[2]) )
+                              ~~~^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:47:10: note: forward declaration of 'struct dirent'
+  struct dirent *v50; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:155:58: error: incomplete definition of type 'struct dirent'
+        || v50->d_name[1] && (v50->d_name[1] != 46 || v50->d_name[2]) )
+                                                      ~~~^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:47:10: note: forward declaration of 'struct dirent'
+  struct dirent *v50; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:157:25: error: incomplete definition of type 'struct dirent'
+        v20 = strlen(v50->d_name);
+                     ~~~^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:47:10: note: forward declaration of 'struct dirent'
+  struct dirent *v50; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:157:9: error: use of undeclared identifier 'v20'
+        v20 = strlen(v50->d_name);
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:158:33: error: incomplete definition of type 'struct dirent'
+        v21 = sub_407F27(a1, v50->d_name, v20);
+                             ~~~^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:47:10: note: forward declaration of 'struct dirent'
+  struct dirent *v50; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:158:43: error: use of undeclared identifier 'v20'
+        v21 = sub_407F27(a1, v50->d_name, v20);
+                                          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:161:25: error: incomplete definition of type 'struct dirent'
+        v22 = strlen(v50->d_name);
+                     ~~~^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:47:10: note: forward declaration of 'struct dirent'
+  struct dirent *v50; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:161:9: error: use of undeclared identifier 'v22'
+        v22 = strlen(v50->d_name);
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:162:14: error: use of undeclared identifier 'v22'
+        if ( v22 >= v43 )
+             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:165:27: error: incomplete definition of type 'struct dirent'
+          v23 = strlen(v50->d_name);
+                       ~~~^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:47:10: note: forward declaration of 'struct dirent'
+  struct dirent *v50; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:165:11: error: use of undeclared identifier 'v23'
+          v23 = strlen(v50->d_name);
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:166:54: error: use of undeclared identifier 'v23'
+          if ( (unsigned __int8)sub_408010(a1, v48 + v23 + 1) != 1 )
+                                                     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:169:19: error: indirection requires pointer operand ('int' invalid)
+            v40 = *__errno_location();
+                  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:172:30: error: expected expression
+            closedir(*(DIR **)(v45 + 24));
+                             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:172:24: error: use of undeclared identifier 'DIR'
+            closedir(*(DIR **)(v45 + 24));
+                       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:178:13: error: indirection requires pointer operand ('int' invalid)
+            *__errno_location() = v40;
+            ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:189:25: error: incomplete definition of type 'struct dirent'
+        v25 = strlen(v50->d_name);
+                     ~~~^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:47:10: note: forward declaration of 'struct dirent'
+  struct dirent *v50; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:189:9: error: use of undeclared identifier 'v25'
+        v25 = strlen(v50->d_name);
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:190:21: error: use of undeclared identifier 'v25'
+        v52 = v48 + v25;
+                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:191:20: error: use of undeclared identifier 'v25'
+        if ( v48 + v25 < v48 )
+                   ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:195:28: error: expected expression
+          closedir(*(DIR **)(v45 + 24));
+                           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:195:22: error: use of undeclared identifier 'DIR'
+          closedir(*(DIR **)(v45 + 24));
+                     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:201:11: error: indirection requires pointer operand ('int' invalid)
+          *__errno_location() = 36;
+          ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:207:37: error: incomplete definition of type 'struct dirent'
+        *(_QWORD *)(v21 + 128) = v50->d_ino;
+                                 ~~~^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:47:10: note: forward declaration of 'struct dirent'
+  struct dirent *v50; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:225:93: error: incomplete definition of type 'struct dirent'
+          v27 = (*(_DWORD *)(a1 + 72) & 0x10) != 0 && (*(_DWORD *)(a1 + 72) & 8) != 0 && v50->d_type && v50->d_type != 4;
+                                                                                         ~~~^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:47:10: note: forward declaration of 'struct dirent'
+  struct dirent *v50; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:225:108: error: incomplete definition of type 'struct dirent'
+          v27 = (*(_DWORD *)(a1 + 72) & 0x10) != 0 && (*(_DWORD *)(a1 + 72) & 8) != 0 && v50->d_type && v50->d_type != 4;
+                                                                                                        ~~~^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:47:10: note: forward declaration of 'struct dirent'
+  struct dirent *v50; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:228:36: error: incomplete definition of type 'struct dirent'
+          sub_407110(v21 + 120, v50->d_type);
+                                ~~~^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:47:10: note: forward declaration of 'struct dirent'
+  struct dirent *v50; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:230:58: error: incomplete definition of type 'struct dirent'
+          v28 = (*(_DWORD *)(a1 + 72) & 0x10) != 0 && v50->d_type == 4;
+                                                      ~~~^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:47:10: note: forward declaration of 'struct dirent'
+  struct dirent *v50; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:252:24: error: expected expression
+      closedir(*(DIR **)(v45 + 24));
+                       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:252:18: error: use of undeclared identifier 'DIR'
+      closedir(*(DIR **)(v45 + 24));
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:274:34: error: use of undeclared identifier 'sub_4070B5'
+          *(_QWORD *)(a1 + 64) = sub_4070B5;
+                                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:275:17: warning: cast to 'void *' from smaller integer type 'int'
+          v18 = (void *)sub_407DE0(a1, v18, v19);
+                ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:279:17: warning: cast to 'void *' from smaller integer type 'int'
+          v18 = (void *)sub_407DE0(a1, v18, v19);
+                ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:352:9: error: indirection requires pointer operand ('int' invalid)
+        *__errno_location() = 12;
+        ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40719C.c:361:29: error: indirection requires pointer operand ('int' invalid)
+    *(_DWORD *)(v45 + 64) = *__errno_location();
+                            ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40918D.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_40918D(__int64 a1, __int64 a2)
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408C3E.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408C3E(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408C3E.c:7:8: warning: cast to 'uint64 *' (aka 'unsigned long long *') from smaller integer type 'int'
+  v4 = (_QWORD *)sub_408BE7(a1, a2);
+       ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408C3E.c:12:42: warning: '__fastcall' calling convention is not supported for this target
+    if ( *i == a2 || (*(unsigned __int8 (__fastcall **)(__int64, _QWORD))(a1 + 56))(a2, *i) )
+                                         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40584E.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_40584E(size_t a1, size_t a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40584E.c:2:40: error: unknown type name 'size_t'
+void *__fastcall sub_40584E(size_t a1, size_t a2)
+                                       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40584E.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40584E(size_t a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40AA50.c:2:50: warning: declaration of 'struct stat' will not be visible outside of this function
+int __fastcall sub_40AA50(char *filename, struct stat *stat_buf)
+                                                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40AA50.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_40AA50(char *filename, struct stat *stat_buf)
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405B42.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall sub_405B42(__int64 a1, __int64 a2)
+     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405B42.c:14:11: warning: cast to 'void *' from smaller integer type 'int'
+    ptr = (void *)sub_409F56(*(_QWORD *)(a1 + 88), v5);
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407110.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_407110(__int64 a1, unsigned int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401750.c:3:12: error: unknown type name 'FILE'
+int fflush(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A379.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40A379(int a1, const char *a2, char a3, unsigned int a4)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A4B3.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40A4B3(int a1, __int64 a2, __int64 a3, int a4, int a5, int a6)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A4B3.c:12:10: error: indirection requires pointer operand ('int' invalid)
+    v9 = *__errno_location();
+         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A4B3.c:14:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = v9;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404C93.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404C93(unsigned int a1, __int64 a2, __int64 a3, __int64 a4)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A500.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_40A500(FILE *a1)
+                          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A500.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_40A500(FILE *a1)
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A500.c:14:12: error: indirection requires pointer operand ('int' invalid)
+      v3 = *__errno_location();
+           ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A500.c:19:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = v3;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404B3C.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404B3C(int a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404B3C.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_404ABC(0, a1, a2);
+         ^~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401630.c:3:30: error: unknown type name 'size_t'
+void *memset(void *s, int c, size_t n)
+                             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409F0D.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_409F0D(_QWORD *a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404A95.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_404A95(__int64 a1, size_t a2)
+                                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404A95.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404A95(__int64 a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404A76.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404A76(__int64 a1)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404A76.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_404A1F(0, a1);
+         ^~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4058B8.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4058B8(const char *a1)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4058B8.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v1; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4058B8.c:4:3: warning: expression result unused
+  size_t v1; // rax
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4058B8.c:4:10: error: use of undeclared identifier 'v1'
+  size_t v1; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4058B8.c:6:3: error: use of undeclared identifier 'v1'
+  v1 = strlen(a1);
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4058B8.c:7:25: error: use of undeclared identifier 'v1'
+  return sub_405887(a1, v1 + 1);
+                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409000.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_409000(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404DC9.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_404DC9(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5, unsigned __int64 a6)
+                          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404DC9.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_404DC9(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5, unsigned __int64 a6)
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404DC9.c:66:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v6 = gettext("(C)");
+     ^ ~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404DC9.c:68:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v7 = gettext(
+     ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404DC9.c:81:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v22 = gettext("Written by %s, %s, %s,\nand %s.\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404DC9.c:95:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v40 = gettext("Written by %s, %s, %s,\n%s, %s, %s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404DC9.c:110:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v46 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\nand %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404DC9.c:125:15: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+          v52 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\n%s, and %s.\n");
+              ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404DC9.c:127:15: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+          v52 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\n%s, %s, and others.\n");
+              ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404DC9.c:138:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v28 = gettext("Written by %s, %s, %s,\n%s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404DC9.c:149:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v34 = gettext("Written by %s, %s, %s,\n%s, %s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404DC9.c:159:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v9 = gettext("Written by %s.\n");
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404DC9.c:167:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v12 = gettext("Written by %s and %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404DC9.c:174:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v16 = gettext("Written by %s, %s, and %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403650.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403650(__int64 *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403650.c:8:8: error: indirection requires pointer operand ('int' invalid)
+  v3 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403650.c:12:11: error: use of undeclared identifier 'qword_60E340'
+    v1 = &qword_60E340;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403650.c:14:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v3;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4017A0.c:3:26: error: unknown type name 'size_t'
+void *realloc(void *ptr, size_t size)
+                         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402B37.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402B37(unsigned __int8 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402B37.c:7:3: error: use of undeclared identifier 'byte_60E318'
+  byte_60E318 = a1;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408FB9.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408FB9(unsigned __int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404ABC.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404ABC(int a1, int a2, __int64 a3)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404ABC.c:7:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_404799(a1, a3, 0xFFFFFFFFFFFFFFFFLL, (__int64)v5);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404D60.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404D60(__int64 a1, __int64 a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4044F0.c:2:85: error: unknown type name 'size_t'
+unsigned __int64 __fastcall sub_4044F0(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, __int64 *a5)
+                                                                                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4044F0.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_4044F0(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, __int64 *a5)
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4044F0.c:12:11: error: use of undeclared identifier 'qword_60E340'
+    v5 = &qword_60E340;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4044F0.c:14:8: error: indirection requires pointer operand ('int' invalid)
+  v9 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4044F0.c:25:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v9;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408246.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408246(__int64 a1, __int64 a2, int a3, const char *a4, int a5, int a6)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408246.c:11:15: error: variable has incomplete type 'struct stat'
+  struct stat stat_buf; // [rsp+40h] [rbp-90h] BYREF
+              ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408246.c:11:10: note: forward declaration of 'struct stat'
+  struct stat stat_buf; // [rsp+40h] [rbp-90h] BYREF
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408246.c:41:29: warning: cast to smaller integer type 'int' from 'char *'
+    fildes = sub_405E47(a1, (int)s1, (__int64)s1, (int)a4, a5, a6);
+                            ^~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408246.c:41:51: warning: cast to smaller integer type 'int' from 'const char *'
+    fildes = sub_405E47(a1, (int)s1, (__int64)s1, (int)a4, a5, a6);
+                                                  ^~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408246.c:51:7: error: indirection requires pointer operand ('int' invalid)
+      *__errno_location() = 2;
+      ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408246.c:68:11: error: indirection requires pointer operand ('int' invalid)
+    v14 = *__errno_location();
+          ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408246.c:70:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = v14;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409095.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_409095(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409095.c:7:27: error: use of undeclared identifier 'unk_40BAD0'
+  if ( (_UNKNOWN *)v2 == &unk_40BAD0 )
+                          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409095.c:19:27: error: use of undeclared identifier 'unk_40BAD0'
+  *(_QWORD *)(a1 + 40) = &unk_40BAD0;
+                          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40907C.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+bool __fastcall sub_40907C(__int64 a1, __int64 a2)
+     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40AA30.c:2:33: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_40AA30(void (__fastcall *a1)(void *))
+                                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40AA30.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_40AA30(void (__fastcall *a1)(void *))
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40AA30.c:6:9: error: use of undeclared identifier 'qword_60E218'
+  if ( &qword_60E218 )
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40AA30.c:7:18: error: use of undeclared identifier 'qword_60E218'
+    v1 = (void *)qword_60E218;
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4036DB.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4036DB(__int64 *a1, unsigned __int8 a2, char a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4036DB.c:10:11: error: use of undeclared identifier 'qword_60E340'
+    v3 = &qword_60E340;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A8A2.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_40A8A2(FILE *a1)
+                          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A8A2.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_40A8A2(FILE *a1)
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:2:1: error: unknown type name 'size_t'
+size_t __fastcall sub_4081F0(const char **a1)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+size_t __fastcall sub_4081F0(const char **a1)
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v3; // [rsp+10h] [rbp-10h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:4:3: warning: expression result unused
+  size_t v3; // [rsp+10h] [rbp-10h]
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:4:10: error: use of undeclared identifier 'v3'
+  size_t v3; // [rsp+10h] [rbp-10h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:5:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v4; // [rsp+18h] [rbp-8h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:5:3: warning: expression result unused
+  size_t v4; // [rsp+18h] [rbp-8h]
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:5:10: error: use of undeclared identifier 'v4'
+  size_t v4; // [rsp+18h] [rbp-8h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:7:3: error: use of undeclared identifier 'v3'
+  v3 = 0LL;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:10:5: error: use of undeclared identifier 'v4'
+    v4 = strlen(*a1);
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:11:10: error: use of undeclared identifier 'v4'
+    if ( v4 > v3 )
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:11:15: error: use of undeclared identifier 'v3'
+    if ( v4 > v3 )
+              ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:12:7: error: use of undeclared identifier 'v3'
+      v3 = v4;
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:12:12: error: use of undeclared identifier 'v4'
+      v3 = v4;
+           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4081F0.c:15:10: error: use of undeclared identifier 'v3'
+  return v3 + 1;
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408981.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408981(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405658.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405658(__int64 a1, unsigned __int64 a2, unsigned __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405763.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_405763(size_t a1, __int64 a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405763.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405763(size_t a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406F1F.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall fts_children(__int64 a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406F1F.c:16:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = 22;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406F1F.c:20:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = 0;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406F1F.c:45:23: warning: cast to smaller integer type 'int' from 'char *'
+  fd = sub_405E47(a1, (int)".", v4, v5, v6, v7);
+                      ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406F1F.c:60:13: error: indirection requires pointer operand ('int' invalid)
+      v11 = *__errno_location();
+            ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406F1F.c:62:7: error: indirection requires pointer operand ('int' invalid)
+      *__errno_location() = v11;
+      ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A86F.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40A86F(_DWORD *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401CE4(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:31:3: error: use of undeclared identifier '__mode_t'
+  __mode_t v29; // [rsp+24h] [rbp-6Ch]
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:60:14: error: use of undeclared identifier 'byte_60E2ED'
+        if ( byte_60E2ED != 1 )
+             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:63:14: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+          v5 = gettext("cannot access %s");
+             ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:69:14: error: use of undeclared identifier 'byte_60E2ED'
+        if ( byte_60E2ED != 1 )
+             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:72:15: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+          v10 = gettext("cannot operate on dangling symlink %s");
+              ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:78:14: error: use of undeclared identifier 'byte_60E2ED'
+        if ( byte_60E2ED != 1 )
+             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:80:16: warning: cast to 'const char *' from smaller integer type 'int'
+          v6 = (const char *)sub_403631(s1);
+               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:92:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v12 = gettext(
+          ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:104:10: error: use of undeclared identifier 'byte_60E2ED'
+    if ( byte_60E2ED != 1 )
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:107:10: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v8 = gettext("cannot read directory %s");
+         ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:114:44: error: use of undeclared identifier 'qword_60E2F0'
+    && *(_QWORD *)(a2 + 128) == *(_QWORD *)qword_60E2F0
+                                           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:113:8: error: use of undeclared identifier 'qword_60E2F0'
+    && qword_60E2F0
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:115:45: error: use of undeclared identifier 'qword_60E2F0'
+    && *(_QWORD *)(a2 + 120) == *(_QWORD *)(qword_60E2F0 + 8) )
+                                            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:120:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v14 = gettext("it is dangerous to operate recursively on %s");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:127:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v17 = gettext("it is dangerous to operate recursively on %s (same as %s)");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:130:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v18 = gettext("use --no-preserve-root to override this failsafe");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:141:69: error: use of undeclared identifier 'dword_60E2E8'
+      v29 = sub_40338B(v28, (v28 & 0xF000) == 0x4000, (unsigned int)dword_60E2E8, qword_60E2E0, 0LL);
+                                                                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:141:83: error: use of undeclared identifier 'qword_60E2E0'
+      v29 = sub_40338B(v28, (v28 & 0xF000) == 0x4000, (unsigned int)dword_60E2E8, qword_60E2E0, 0LL);
+                                                                                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:141:7: error: use of undeclared identifier 'v29'
+      v29 = sub_40338B(v28, (v28 & 0xF000) == 0x4000, (unsigned int)dword_60E2E8, qword_60E2E0, 0LL);
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:144:52: error: use of undeclared identifier 'v29'
+        if ( sub_40196D(*(_DWORD *)(a1 + 44), v32, v29) )
+                                                   ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:146:16: error: use of undeclared identifier 'byte_60E2ED'
+          if ( byte_60E2ED != 1 )
+               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:149:17: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+            v20 = gettext("changing permissions of %s");
+                ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:150:17: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+            v21 = __errno_location();
+                ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:161:10: error: use of undeclared identifier 'dword_60E220'
+    if ( dword_60E220 != 2 )
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:163:41: error: use of undeclared identifier 'v29'
+      v22 = v27 && sub_401AA1(v32, v28, v29);
+                                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:164:20: error: use of undeclared identifier 'dword_60E220'
+      if ( v22 || !dword_60E220 )
+                   ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:182:38: error: use of undeclared identifier 'v29'
+        sub_401B70((__int64)s1, v28, v29, v23);
+                                     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:187:12: error: use of undeclared identifier 'byte_60E2EE'
+      if ( byte_60E2EE )
+           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:189:62: error: use of undeclared identifier 'qword_60E2E0'
+        v30 = sub_40338B(v28, (v28 & 0xF000) == 0x4000, 0LL, qword_60E2E0, 0LL);
+                                                             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:190:15: error: use of undeclared identifier 'v29'
+        if ( (v29 & ~v30) != 0 )
+              ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:192:22: error: use of undeclared identifier 'v29'
+          sub_402D99(v29, &v33);
+                     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:197:15: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+          v25 = gettext("%s: new permissions are %s, not %s");
+              ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401CE4.c:203:10: error: use of undeclared identifier 'byte_60E2EC'
+    if ( byte_60E2EC != 1 )
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402CEE.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402CEE(__int16 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407BDE.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_407BDE(__int64 a1, __int64 a2, char a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407BDE.c:16:12: error: indirection requires pointer operand ('int' invalid)
+      v6 = *__errno_location();
+           ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407BDE.c:17:12: error: indirection requires pointer operand ('int' invalid)
+      if ( *__errno_location() == 2 && !(unsigned int)sub_40AA70(*(char **)(a2 + 48), s) )
+           ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407BDE.c:19:9: error: indirection requires pointer operand ('int' invalid)
+        *__errno_location() = 0;
+        ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407BDE.c:28:28: error: indirection requires pointer operand ('int' invalid)
+    *(_DWORD *)(a2 + 64) = *__errno_location();
+                           ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407BDE.c:30:18: error: invalid application of 'sizeof' to an incomplete type 'struct stat'
+    memset(s, 0, sizeof(struct stat));
+                 ^     ~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407BDE.c:7:10: note: forward declaration of 'struct stat'
+  struct stat *s; // [rsp+18h] [rbp-18h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408691.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408691(int a1, __int64 a2, __int64 a3, int a4, int a5, int a6)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401710.c:3:12: error: unknown type name 'FILE'
+int fileno(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40591A.c:2:1: error: unknown type name '_BOOL8'
+_BOOL8 __fastcall sub_40591A(_QWORD *a1, _QWORD *a2)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40591A.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BOOL8 __fastcall sub_40591A(_QWORD *a1, _QWORD *a2)
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4094E2.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall sub_4094E2(__int64 a1)
+     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4094E2.c:19:20: warning: '__fastcall' calling convention is not supported for this target
+          (*(void (__fastcall **)(_QWORD))(a1 + 64))(*ptr);
+                   ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403631.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403631(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4046EE.c:7:18: error: use of undeclared identifier 'off_60E260'
+  ptr = (void **)off_60E260;
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4046EE.c:8:20: error: use of undeclared identifier 'dword_60E240'
+  for ( i = 1; i < dword_60E240; ++i )
+                   ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4046EE.c:10:19: error: use of undeclared identifier 'unk_60E380'
+  if ( ptr[1] != &unk_60E380 )
+                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4046EE.c:13:5: error: use of undeclared identifier 'qword_60E250'
+    qword_60E250 = 256LL;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4046EE.c:14:5: error: use of undeclared identifier 'off_60E258'
+    off_60E258 = &unk_60E380;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4046EE.c:14:19: error: use of undeclared identifier 'unk_60E380'
+    off_60E258 = &unk_60E380;
+                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4046EE.c:16:25: error: use of undeclared identifier 'qword_60E250'
+  if ( ptr != (void **)&qword_60E250 )
+                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4046EE.c:19:5: error: use of undeclared identifier 'off_60E260'
+    off_60E260 = &qword_60E250;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4046EE.c:19:19: error: use of undeclared identifier 'qword_60E250'
+    off_60E260 = &qword_60E250;
+                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4046EE.c:21:3: error: use of undeclared identifier 'dword_60E240'
+  dword_60E240 = 1;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404590.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404590(__int64 a1, __int64 a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404C69.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_404C69(__int64 a1, size_t a2)
+                                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404C69.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404C69(__int64 a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405749.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405749(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4099EF.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4099EF(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4099EF.c:22:6: warning: incompatible integer to pointer conversion assigning to 'void *' from 'int'
+  v4 = calloc(nmemb, 0x10uLL);
+     ^ ~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4099EF.c:37:19: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'void *'
+    *(_QWORD *)a1 = v4;
+                  ^ ~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407F27.c:2:57: error: unknown type name 'size_t'
+char *__fastcall sub_407F27(__int64 a1, const void *a2, size_t a3)
+                                                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407F27.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+char *__fastcall sub_407F27(__int64 a1, const void *a2, size_t a3)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A205.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40A205(__int64 a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401780.c:3:16: error: unknown type name 'FILE'
+int __freading(FILE *fp)
+               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403796.c:2:10: warning: '__fastcall' calling convention is not supported for this target
+__int64 *__fastcall sub_403796(__int64 *a1, __int64 a2, __int64 a3)
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403796.c:9:11: error: use of undeclared identifier 'qword_60E340'
+    v4 = &qword_60E340;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408010.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408010(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408010.c:12:8: warning: incompatible integer to pointer conversion assigning to 'void *' from 'int'
+    v4 = realloc(*(void **)(a1 + 32), *(_QWORD *)(a1 + 48));
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408010.c:15:28: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'void *'
+      *(_QWORD *)(a1 + 32) = v4;
+                           ^ ~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408010.c:29:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = 36;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:2:85: error: unknown type name 'size_t'
+unsigned __int64 __fastcall sub_4038A5(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, unsigned int a5, int a6, __int64 a7, char *a8, char *a9)
+                                                                                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_4038A5(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, unsigned int a5, int a6, __int64 a7, char *a8, char *a9)
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:14:3: error: use of undeclared identifier 'wchar_t'
+  wchar_t pwc; // [rsp+6Ch] [rbp-64h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:18:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t n; // [rsp+88h] [rbp-48h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:18:3: warning: expression result unused
+  size_t n; // [rsp+88h] [rbp-48h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:18:10: error: use of undeclared identifier 'n'
+  size_t n; // [rsp+88h] [rbp-48h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:21:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v34; // [rsp+A0h] [rbp-30h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:21:3: warning: expression result unused
+  size_t v34; // [rsp+A0h] [rbp-30h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:21:10: error: use of undeclared identifier 'v34'
+  size_t v34; // [rsp+A0h] [rbp-30h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:23:3: error: use of undeclared identifier 'mbstate_t'
+  mbstate_t p; // [rsp+B0h] [rbp-20h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:29:3: error: use of undeclared identifier 'n'
+  n = 0LL;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:49:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        a8 = sub_403868((const char *)L"`'", a5);
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:50:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        a9 = sub_403868((const char *)L"'", a5);
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:63:7: error: use of undeclared identifier 'n'
+      n = strlen(a9);
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:77:5: error: use of undeclared identifier 'n'
+    n = 1LL;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:95:27: warning: adding 'int' to a string does not append to the string
+    s = (_BYTE *)(L"\"`'" + 4);
+                  ~~~~~~~~^~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:95:27: note: use array indexing to silence this warning
+    s = (_BYTE *)(L"\"`'" + 4);
+                          ^
+                  &       [  ]
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:95:7: warning: assigning to 'char *' from 'uint8 *' (aka 'unsigned char *') converts between pointers to integer types where one is of the unique plain 'char' type and the other is not
+    s = (_BYTE *)(L"\"`'" + 4);
+      ^ ~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:96:5: error: use of undeclared identifier 'n'
+    n = 1LL;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:104:26: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:104:17: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:104:72: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                                                                       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:140:23: error: indirection requires pointer operand ('int' invalid)
+              v25 = ((*__ctype_b_loc())[v22] & 0x4000) != 0;
+                      ^~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:144:36: error: use of undeclared identifier 'p'
+              memset(&p, 0, sizeof(p));
+                                   ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:144:23: error: use of undeclared identifier 'p'
+              memset(&p, 0, sizeof(p));
+                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:151:32: error: use of undeclared identifier 'pwc'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:151:84: error: use of undeclared identifier 'p'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                                                                                   ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:151:17: error: use of undeclared identifier 'v34'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:152:23: error: use of undeclared identifier 'v34'
+                if ( !v34 )
+                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:154:22: error: use of undeclared identifier 'v34'
+                if ( v34 == -1LL )
+                     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:159:22: error: use of undeclared identifier 'v34'
+                if ( v34 == -2LL )
+                     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:168:38: error: use of undeclared identifier 'v34'
+                  for ( j = 1LL; j < v34; ++j )
+                                     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:184:32: error: use of undeclared identifier 'pwc'
+                if ( !iswprint(pwc) )
+                               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:186:24: error: use of undeclared identifier 'v34'
+                v32 += v34;
+                       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:188:33: error: use of undeclared identifier 'p'
+              while ( !mbsinit(&p) );
+                                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4038A5.c:239:30: error: use of undeclared identifier 'n'
+          if ( v20 && v21 && n )
+                             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408E63.c:2:60: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408E63(__int64 a1, unsigned __int8 (__fastcall *a2)(_QWORD, __int64), __int64 a3)
+                                                           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408E63.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408E63(__int64 a1, unsigned __int8 (__fastcall *a2)(_QWORD, __int64), __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404C4A.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404C4A(__int64 a1)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404C4A.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_404C20(a1, 0x3Au);
+         ^~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406308.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall fts_close(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406308.c:34:12: error: indirection requires pointer operand ('int' invalid)
+      v5 = *__errno_location();
+           ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406308.c:41:12: error: indirection requires pointer operand ('int' invalid)
+      v5 = *__errno_location();
+           ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406308.c:53:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v5;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401730.c:3:24: error: unknown type name 'DIR'
+struct dirent *readdir(DIR *dirp)
+                       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405A32.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405A32(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405A32.c:9:9: warning: incompatible integer to pointer conversion assigning to 'uint64 *' (aka 'unsigned long long *') from 'int'
+    ptr = malloc(0x18uLL);
+        ^ ~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4014D0.c:3:45: error: unknown type name 'size_t'
+int strncmp(const char *s1, const char *s2, size_t n)
+                                            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404CC9.c:2:73: error: unknown type name 'size_t'
+void *__fastcall sub_404CC9(int a1, __int64 a2, __int64 a3, __int64 a4, size_t a5)
+                                                                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404CC9.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404CC9(int a1, __int64 a2, __int64 a3, __int64 a4, size_t a5)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404CC9.c:6:11: error: use of undeclared identifier 'qword_60E340'
+  v8[0] = qword_60E340;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404CC9.c:7:11: error: use of undeclared identifier 'qword_60E348'
+  v8[1] = qword_60E348;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404CC9.c:8:11: error: use of undeclared identifier 'qword_60E350'
+  v8[2] = qword_60E350;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404CC9.c:9:11: error: use of undeclared identifier 'qword_60E358'
+  v8[3] = qword_60E358;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404CC9.c:10:11: error: use of undeclared identifier 'qword_60E360'
+  v8[4] = qword_60E360;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404CC9.c:11:11: error: use of undeclared identifier 'qword_60E368'
+  v8[5] = qword_60E368;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404CC9.c:12:11: error: use of undeclared identifier 'qword_60E370'
+  v8[6] = qword_60E370;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405823.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_405823(size_t a1, __int64 a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405823.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405823(size_t a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402FEF.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402FEF(char *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402FEF.c:49:9: warning: cast to 'uint8 *' (aka 'unsigned char *') from smaller integer type 'int'
+  ptr = (_BYTE *)sub_40561A(v18, 16LL);
+        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402FEF.c:143:13: warning: assigning to 'char *' from 'uint8 *' (aka 'unsigned char *') converts between pointers to integer types where one is of the unique plain 'char' type and the other is not
+        v21 = &ptr[16 * v8];
+            ^ ~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408CD1.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408CD1(unsigned __int64 *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4057F9.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4057F9(__int64 a1, unsigned __int64 *a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408EF7.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_408EF7(_BYTE *a1, unsigned __int64 a2)
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408A35.c:2:1: error: unknown type name '_BOOL8'
+_BOOL8 __fastcall sub_408A35(__int64 a1)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408A35.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BOOL8 __fastcall sub_408A35(__int64 a1)
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4016D0.c:3:13: error: unknown type name 'FILE'
+int fprintf(FILE *stream, const char *format, ...)
+            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A48D.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40A48D(int a1, __int64 a2, __int64 a3, int a4, int a5, int a6)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405D21.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405D21(int a1, int a2, int a3, int *a4, int a5, int a6)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405D21.c:18:35: error: indirection requires pointer operand ('int' invalid)
+    *(_QWORD *)v9 = (unsigned int)*__errno_location();
+                                  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405D21.c:20:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = *(_DWORD *)v9;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40561A.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40561A(unsigned __int64 a1, unsigned __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401820.c:3:35: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __cxa_atexit(void (__fastcall *lpfunc)(void *), void *obj, void *lpdso_handle)
+                                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401820.c:3:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __cxa_atexit(void (__fastcall *lpfunc)(void *), void *obj, void *lpdso_handle)
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403344.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403344(char *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403344.c:5:15: error: variable has incomplete type 'struct stat'
+  struct stat stat_buf; // [rsp+10h] [rbp-90h] BYREF
+              ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403344.c:5:10: note: forward declaration of 'struct stat'
+  struct stat stat_buf; // [rsp+10h] [rbp-90h] BYREF
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408BE7.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408BE7(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408BE7.c:6:20: warning: '__fastcall' calling convention is not supported for this target
+  v3 = (*(__int64 (__fastcall **)(__int64, _QWORD))(a1 + 48))(a2, *(_QWORD *)(a1 + 16));
+                   ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401570.c:3:1: error: unknown type name 'size_t'
+size_t strlen(const char *s)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn sub_402446(int a1)
+     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:10:3: error: use of undeclared identifier 'FILE'
+  FILE *v7; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:10:9: error: use of undeclared identifier 'v7'
+  FILE *v7; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:12:3: error: use of undeclared identifier 'FILE'
+  FILE *v9; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:12:9: error: use of undeclared identifier 'v9'
+  FILE *v9; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:14:3: error: use of undeclared identifier 'FILE'
+  FILE *v11; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:14:9: error: use of undeclared identifier 'v11'
+  FILE *v11; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:16:3: error: use of undeclared identifier 'FILE'
+  FILE *v13; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:16:9: error: use of undeclared identifier 'v13'
+  FILE *v13; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:18:3: error: use of undeclared identifier 'FILE'
+  FILE *v15; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:18:9: error: use of undeclared identifier 'v15'
+  FILE *v15; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:20:3: error: use of undeclared identifier 'FILE'
+  FILE *v17; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:20:9: error: use of undeclared identifier 'v17'
+  FILE *v17; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:25:10: error: use of undeclared identifier 'qword_60E320'
+    v1 = qword_60E320;
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:26:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v2 = gettext("Try `%s --help' for more information.\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:27:13: error: use of undeclared identifier 'stderr'
+    fprintf(stderr, v2, v1);
+            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:31:10: error: use of undeclared identifier 'qword_60E320'
+    v3 = qword_60E320;
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:32:10: error: use of undeclared identifier 'qword_60E320'
+    v4 = qword_60E320;
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:33:10: error: use of undeclared identifier 'qword_60E320'
+    v5 = qword_60E320;
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:34:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v6 = gettext(
+       ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:39:5: error: use of undeclared identifier 'v7'
+    v7 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:39:10: error: use of undeclared identifier 'stdout'
+    v7 = stdout;
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:40:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v8 = gettext(
+       ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:44:24: error: use of undeclared identifier 'v7'
+    fputs_unlocked(v8, v7);
+                       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:45:5: error: use of undeclared identifier 'v9'
+    v9 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:45:10: error: use of undeclared identifier 'stdout'
+    v9 = stdout;
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:46:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v10 = gettext(
+        ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:49:25: error: use of undeclared identifier 'v9'
+    fputs_unlocked(v10, v9);
+                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:50:5: error: use of undeclared identifier 'v11'
+    v11 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:50:11: error: use of undeclared identifier 'stdout'
+    v11 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:51:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v12 = gettext(
+        ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:56:25: error: use of undeclared identifier 'v11'
+    fputs_unlocked(v12, v11);
+                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:57:5: error: use of undeclared identifier 'v13'
+    v13 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:57:11: error: use of undeclared identifier 'stdout'
+    v13 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:58:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v14 = gettext("      --help     display this help and exit\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:59:25: error: use of undeclared identifier 'v13'
+    fputs_unlocked(v14, v13);
+                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:60:5: error: use of undeclared identifier 'v15'
+    v15 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:60:11: error: use of undeclared identifier 'stdout'
+    v15 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:61:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v16 = gettext("      --version  output version information and exit\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:62:25: error: use of undeclared identifier 'v15'
+    fputs_unlocked(v16, v15);
+                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:63:5: error: use of undeclared identifier 'v17'
+    v17 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:63:11: error: use of undeclared identifier 'stdout'
+    v17 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:64:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v18 = gettext("\nEach MODE is of the form `[ugoa]*([-+=]([rwxXst]*|[ugo]))+'.\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402446.c:65:25: error: use of undeclared identifier 'v17'
+    fputs_unlocked(v18, v17);
+                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401690.c:3:21: error: unknown type name 'FILE'
+int ferror_unlocked(FILE *stream)
+                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403868.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+char *__fastcall sub_403868(const char *a1, int a2)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403868.c:6:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v3 = gettext(a1);
+     ^ ~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401720.c:3:51: warning: declaration of 'struct stat' will not be visible outside of this function
+int __xstat(int ver, const char *filename, struct stat *stat_buf)
+                                                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A9B0.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall init(unsigned int a1, __int64 a2, __int64 a3)
+     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A9B0.c:8:9: error: use of undeclared identifier 'off_60DE18'
+  v5 = &off_60DE18 - off_60DE10;
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A9B0.c:8:22: error: use of undeclared identifier 'off_60DE10'
+  v5 = &off_60DE18 - off_60DE10;
+                     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A9B0.c:13:55: error: use of undeclared identifier 'off_60DE10'
+      ((void (__fastcall *)(_QWORD, __int64, __int64))off_60DE10[v4++])(a1, a2, a3);
+                                                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4015A0.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405999.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405999(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405999.c:6:50: error: use of undeclared identifier 'sub_40596F'
+    *(_QWORD *)(a1 + 88) = sub_409277(31LL, 0LL, sub_40596F, sub_40591A, free);
+                                                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405999.c:6:62: error: use of undeclared identifier 'sub_40591A'
+    *(_QWORD *)(a1 + 88) = sub_409277(31LL, 0LL, sub_40596F, sub_40591A, free);
+                                                             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405999.c:6:74: error: use of undeclared identifier 'free'
+    *(_QWORD *)(a1 + 88) = sub_409277(31LL, 0LL, sub_40596F, sub_40591A, free);
+                                                                         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401997.c:7:3: error: use of undeclared identifier 'FILE'
+  FILE *v3; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401997.c:7:9: error: use of undeclared identifier 'v3'
+  FILE *v3; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401997.c:15:19: error: use of undeclared identifier 'qword_60E320'
+  v0 = sub_402C37(qword_60E320);
+                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401997.c:16:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v1 = gettext("\nReport %s bugs to %s\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401997.c:18:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v2 = gettext("%s home page: <%s>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401997.c:20:3: error: use of undeclared identifier 'v3'
+  v3 = stdout;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401997.c:20:8: error: use of undeclared identifier 'stdout'
+  v3 = stdout;
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401997.c:21:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v4 = gettext("General help using GNU software: <http://www.gnu.org/gethelp/>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401997.c:22:22: error: use of undeclared identifier 'v3'
+  fputs_unlocked(v4, v3);
+                     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401997.c:23:6: warning: incompatible integer to pointer conversion assigning to 'const char *' from 'int'
+  s1 = setlocale(5, 0LL);
+     ^ ~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401997.c:26:21: error: use of undeclared identifier 'qword_60E320'
+    v5 = sub_402C37(qword_60E320);
+                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401997.c:27:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v6 = gettext("Report %s translation bugs to <http://translationproject.org/team/>\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401997.c:30:19: error: use of undeclared identifier 'qword_60E320'
+  v7 = sub_402C37(qword_60E320);
+                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401997.c:31:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v8 = gettext("For complete documentation, run: info coreutils '%s invocation'\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401B70.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_401B70(__int64 a1, unsigned int a2, unsigned int a3, int a4)
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401B70.c:28:16: warning: incompatible integer to pointer conversion assigning to 'const char *' from 'int'
+        format = gettext("failed to change mode of %s from %04lo (%s) to %04lo (%s)\n");
+               ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401B70.c:31:17: warning: incompatible integer to pointer conversion assigning to 'const char *' from 'int'
+        formata = gettext("mode of %s retained as %04lo (%s)\n");
+                ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401B70.c:36:16: warning: incompatible integer to pointer conversion assigning to 'const char *' from 'int'
+        format = gettext("mode of %s changed from %04lo (%s) to %04lo (%s)\n");
+               ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401B70.c:46:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v5 = gettext("neither symbolic link %s nor referent has been changed\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401620.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40875E.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40875E(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405887.c:2:45: error: unknown type name 'size_t'
+void *__fastcall sub_405887(const void *a1, size_t a2)
+                                            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405887.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405887(const void *a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401680.c:3:35: error: unknown type name 'FILE'
+int fputs_unlocked(const char *s, FILE *stream)
+                                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408D2D.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408D2D(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401660.c:3:39: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __libc_start_main(int (__fastcall *main)(int, char **, char **), int argc, char **ubp_av, void (*init)(void), void (*fini)(void), void (*rtld_fini)(void), void *stack_end)
+                                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401660.c:3:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __libc_start_main(int (__fastcall *main)(int, char **, char **), int argc, char **ubp_av, void (*init)(void), void (*fini)(void), void (*rtld_fini)(void), void *stack_end)
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401500.c:3:1: error: unknown type name 'size_t'
+size_t __fpending(FILE *fp)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401500.c:3:19: error: unknown type name 'FILE'
+size_t __fpending(FILE *fp)
+                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408ACF.c:2:39: error: unknown type name 'FILE'
+int __fastcall sub_408ACF(__int64 a1, FILE *a2)
+                                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408ACF.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_408ACF(__int64 a1, FILE *a2)
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405C4F.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall sub_405C4F(__int64 a1)
+     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:2:1: error: unknown type name 'size_t'
+size_t *__fastcall sub_409277(__int64 a1, void *a2, unsigned __int64 (__fastcall *a3)(__int64 a1, unsigned __int64 a2), bool (__fastcall *a4)(__int64 a1, __int64 a2), size_t a5)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:2:71: warning: '__fastcall' calling convention is not supported for this target
+size_t *__fastcall sub_409277(__int64 a1, void *a2, unsigned __int64 (__fastcall *a3)(__int64 a1, unsigned __int64 a2), bool (__fastcall *a4)(__int64 a1, __int64 a2), size_t a5)
+                                                                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:2:127: warning: '__fastcall' calling convention is not supported for this target
+size_t *__fastcall sub_409277(__int64 a1, void *a2, unsigned __int64 (__fastcall *a3)(__int64 a1, unsigned __int64 a2), bool (__fastcall *a4)(__int64 a1, __int64 a2), size_t a5)
+                                                                                                                              ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:2:168: error: unknown type name 'size_t'
+size_t *__fastcall sub_409277(__int64 a1, void *a2, unsigned __int64 (__fastcall *a3)(__int64 a1, unsigned __int64 a2), bool (__fastcall *a4)(__int64 a1, __int64 a2), size_t a5)
+                                                                                                                                                                       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+size_t *__fastcall sub_409277(__int64 a1, void *a2, unsigned __int64 (__fastcall *a3)(__int64 a1, unsigned __int64 a2), bool (__fastcall *a4)(__int64 a1, __int64 a2), size_t a5)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:4:3: error: use of undeclared identifier 'size_t'
+  size_t *result; // rax
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:4:11: error: use of undeclared identifier 'result'
+  size_t *result; // rax
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:5:9: warning: '__fastcall' calling convention is not supported for this target
+  bool (__fastcall *v7)(__int64, __int64); // [rsp+10h] [rbp-30h]
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:6:21: warning: '__fastcall' calling convention is not supported for this target
+  unsigned __int64 (__fastcall *v8)(__int64, unsigned __int64); // [rsp+18h] [rbp-28h]
+                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:8:3: error: use of undeclared identifier 'size_t'
+  size_t *ptr; // [rsp+38h] [rbp-8h]
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:8:11: error: use of undeclared identifier 'ptr'
+  size_t *ptr; // [rsp+38h] [rbp-8h]
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:14:10: error: use of undeclared identifier 'sub_409045'
+    v8 = sub_409045;
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:16:10: error: use of undeclared identifier 'sub_40907C'
+    v7 = sub_40907C;
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:17:3: error: use of undeclared identifier 'ptr'
+  ptr = (size_t *)malloc(0x50uLL);
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:17:10: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  ptr = (size_t *)malloc(0x50uLL);
+         ^~~~~~
+         sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:17:18: error: expected expression
+  ptr = (size_t *)malloc(0x50uLL);
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:18:9: error: use of undeclared identifier 'ptr'
+  if ( !ptr )
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:21:11: error: use of undeclared identifier 'unk_40BAD0'
+    v9 = &unk_40BAD0;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:22:3: error: use of undeclared identifier 'ptr'
+  ptr[5] = (size_t)v9;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:22:13: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  ptr[5] = (size_t)v9;
+            ^~~~~~
+            sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:23:45: error: use of undeclared identifier 'ptr'
+  if ( (unsigned __int8)sub_409095((__int64)ptr) == 1
+                                            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:24:9: error: use of undeclared identifier 'ptr'
+    && (ptr[2] = sub_40918D(a1, (__int64)v9)) != 0
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:25:17: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+    && (*ptr = (size_t)calloc(ptr[2], 0x10uLL)) != 0 )
+                ^~~~~~
+                sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:25:14: error: assigning to '<dependent type>' from incompatible type '<overloaded function type>'
+    && (*ptr = (size_t)calloc(ptr[2], 0x10uLL)) != 0 )
+             ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:25:10: error: use of undeclared identifier 'ptr'
+    && (*ptr = (size_t)calloc(ptr[2], 0x10uLL)) != 0 )
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:27:5: error: use of undeclared identifier 'ptr'
+    ptr[1] = 16 * ptr[2] + *ptr;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:27:19: error: use of undeclared identifier 'ptr'
+    ptr[1] = 16 * ptr[2] + *ptr;
+                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:27:29: error: use of undeclared identifier 'ptr'
+    ptr[1] = 16 * ptr[2] + *ptr;
+                            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:28:5: error: use of undeclared identifier 'ptr'
+    ptr[3] = 0LL;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:29:5: error: use of undeclared identifier 'ptr'
+    ptr[4] = 0LL;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:30:5: error: use of undeclared identifier 'ptr'
+    ptr[6] = (size_t)v8;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:30:15: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+    ptr[6] = (size_t)v8;
+              ^~~~~~
+              sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:31:5: error: use of undeclared identifier 'ptr'
+    ptr[7] = (size_t)v7;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:31:15: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+    ptr[7] = (size_t)v7;
+              ^~~~~~
+              sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:32:5: error: use of undeclared identifier 'ptr'
+    ptr[8] = a5;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:33:5: error: use of undeclared identifier 'ptr'
+    ptr[9] = 0LL;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:34:5: error: use of undeclared identifier 'result'
+    result = ptr;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:34:14: error: use of undeclared identifier 'ptr'
+    result = ptr;
+             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:38:10: error: use of undeclared identifier 'ptr'
+    free(ptr);
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:39:5: error: use of undeclared identifier 'result'
+    result = 0LL;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409277.c:41:10: error: use of undeclared identifier 'result'
+  return result;
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403763.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403763(__int64 *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403763.c:9:11: error: use of undeclared identifier 'qword_60E340'
+    v3 = &qword_60E340;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4018B0.c:6:13: error: use of undeclared identifier 'unk_60E26F'
+  result = &unk_60E26F - &unk_60E268;
+            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4018B0.c:6:27: error: use of undeclared identifier 'unk_60E268'
+  result = &unk_60E26F - &unk_60E268;
+                          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4018B0.c:7:28: error: use of undeclared identifier 'unk_60E26F'
+  if ( (unsigned __int64)(&unk_60E26F - &unk_60E268) > 0xE )
+                           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4018B0.c:7:42: error: use of undeclared identifier 'unk_60E268'
+  if ( (unsigned __int64)(&unk_60E26F - &unk_60E268) > 0xE )
+                                         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402348.c:2:1: error: unknown type name '_BOOL8'
+_BOOL8 __fastcall sub_402348(__int64 a1, unsigned int a2)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402348.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BOOL8 __fastcall sub_402348(__int64 a1, unsigned int a2)
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402348.c:19:8: error: indirection requires pointer operand ('int' invalid)
+  if ( *__errno_location() )
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402348.c:21:10: error: use of undeclared identifier 'byte_60E2ED'
+    if ( byte_60E2ED != 1 )
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402348.c:23:10: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v2 = gettext("fts_read failed");
+         ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402348.c:24:10: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+      v3 = __errno_location();
+         ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402348.c:31:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v4 = gettext("fts_close failed");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402348.c:32:8: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+    v5 = __errno_location();
+       ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401650.c:3:14: error: unknown type name 'DIR'
+int closedir(DIR *dirp)
+             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408616.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408616(int a1, char a2, __int64 a3, int a4, int a5, int a6)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409657.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_409657(__int64 a1, _QWORD *a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409657.c:9:24: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'uint64 *' (aka 'unsigned long long *'); dereference with *
+  *(_QWORD *)(a1 + 72) = a2;
+                       ^ ~~
+                         *
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4016A0.c:3:14: error: unknown type name 'size_t'
+void *calloc(size_t nmemb, size_t size)
+             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4016A0.c:3:28: error: unknown type name 'size_t'
+void *calloc(size_t nmemb, size_t size)
+                           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407D9F.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_407D9F(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407D9F.c:4:22: warning: '__fastcall' calling convention is not supported for this target
+  return (*(__int64 (__fastcall **)(__int64, __int64))(*(_QWORD *)(*(_QWORD *)a1 + 80LL) + 64LL))(a1, a2);
+                     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40624E.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40624E(__int64 a1, const char *a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40624E.c:6:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v4; // r13
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40624E.c:6:3: warning: expression result unused
+  size_t v4; // r13
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40624E.c:6:10: error: use of undeclared identifier 'v4'
+  size_t v4; // r13
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40624E.c:11:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v2 = strrchr(a2 + 264, 47);
+     ^ ~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40624E.c:15:5: error: use of undeclared identifier 'v4'
+    v4 = strlen(v3);
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40624E.c:16:37: error: use of undeclared identifier 'v4'
+    memmove((void *)(a2 + 264), v3, v4 + 1);
+                                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40624E.c:17:28: error: use of undeclared identifier 'v4'
+    *((_QWORD *)a2 + 12) = v4;
+                           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408742.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+bool __fastcall sub_408742(__int64 a1)
+     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4053B4.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_4053B4(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5)
+                          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4053B4.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_4053B4(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5)
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403526.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+char *__fastcall sub_403526(const char *a1)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403526.c:13:87: error: use of undeclared identifier 'stderr'
+    fwrite("A NULL argv[0] was passed through an exec system call.\n", 1uLL, 0x37uLL, stderr);
+                                                                                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403526.c:16:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v4 = strrchr(a1, 47);
+     ^ ~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403526.c:28:7: error: use of undeclared identifier 'program_invocation_short_name'
+      program_invocation_short_name = (__int64)(s1 + 3);
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403526.c:31:3: error: use of undeclared identifier 'qword_60E320'
+  qword_60E320 = (__int64)s;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403526.c:33:3: error: use of undeclared identifier 'program_invocation_name'
+  program_invocation_name = (__int64)s;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402CA0.c:2:1: error: unknown type name 'size_t'
+size_t __fastcall sub_402CA0(const char *a1)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402CA0.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+size_t __fastcall sub_402CA0(const char *a1)
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402CA0.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t i; // [rsp+10h] [rbp-10h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402CA0.c:4:3: warning: expression result unused
+  size_t i; // [rsp+10h] [rbp-10h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402CA0.c:4:10: error: use of undeclared identifier 'i'
+  size_t i; // [rsp+10h] [rbp-10h]
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402CA0.c:6:9: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402CA0.c:6:37: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402CA0.c:6:25: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402CA0.c:6:53: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                                                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402CA0.c:8:10: error: use of undeclared identifier 'i'
+  return i;
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4066D5.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall fts_read(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4066D5.c:47:45: warning: cast to smaller integer type 'int' from 'char *'
+      *(_DWORD *)(v2 + 68) = sub_405E47(a1, (int)".", v4, v5, v6, v7);
+                                            ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4066D5.c:54:32: error: indirection requires pointer operand ('int' invalid)
+        *(_DWORD *)(v2 + 64) = *__errno_location();
+                               ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4066D5.c:87:32: error: indirection requires pointer operand ('int' invalid)
+        *(_DWORD *)(v2 + 64) = *__errno_location();
+                               ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4066D5.c:141:9: error: indirection requires pointer operand ('int' invalid)
+        *__errno_location() = 0;
+        ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4066D5.c:165:21: error: indirection requires pointer operand ('int' invalid)
+              v26 = *__errno_location();
+                    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4066D5.c:167:15: error: indirection requires pointer operand ('int' invalid)
+              *__errno_location() = v26;
+              ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4066D5.c:168:39: error: indirection requires pointer operand ('int' invalid)
+              *(_DWORD *)(v20 + 64) = *__errno_location();
+                                      ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4066D5.c:199:33: error: indirection requires pointer operand ('int' invalid)
+        *(_DWORD *)(v20 + 64) = *__errno_location();
+                                ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4066D5.c:232:49: warning: cast to smaller integer type 'int' from 'char *'
+          *(_DWORD *)(v2 + 68) = sub_405E47(a1, (int)".", v14, v15, v16, v17);
+                                                ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4066D5.c:239:36: error: indirection requires pointer operand ('int' invalid)
+            *(_DWORD *)(v2 + 64) = *__errno_location();
+                                   ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4066D5.c:300:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = 12;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404A4A.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_404A4A(int a1, __int64 a2, size_t a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404A4A.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404A4A(int a1, __int64 a2, size_t a3)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404A4A.c:4:43: error: use of undeclared identifier 'qword_60E340'
+  return sub_404799(a1, a2, a3, (__int64)&qword_60E340);
+                                          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402D99.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BYTE *__fastcall sub_402D99(__int16 a1, _BYTE *a2)
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409BF3.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_409BF3(_QWORD *a1, __int64 a2, _QWORD *a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409BF3.c:129:11: warning: incompatible integer to pointer conversion assigning to 'uint64 *' (aka 'unsigned long long *') from 'int'
+      v28 = sub_40960C((__int64)a1);
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:2:95: error: unknown type name '__m128'
+__int64 __fastcall sub_40A5B5(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                              ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:2:106: error: unknown type name '__m128'
+__int64 __fastcall sub_40A5B5(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:2:117: error: unknown type name '__m128'
+__int64 __fastcall sub_40A5B5(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:2:128: error: unknown type name '__m128'
+__int64 __fastcall sub_40A5B5(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:2:140: error: unknown type name '__m128'
+__int64 __fastcall sub_40A5B5(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                                           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:2:152: error: unknown type name '__m128'
+__int64 __fastcall sub_40A5B5(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                                                       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:2:164: error: unknown type name '__m128'
+__int64 __fastcall sub_40A5B5(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                                                                   ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:2:176: error: unknown type name '__m128'
+__int64 __fastcall sub_40A5B5(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                                                                               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40A5B5(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:15:3: error: use of undeclared identifier '__m128'
+  __m128 v26; // [rsp+70h] [rbp-80h]
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:16:3: error: use of undeclared identifier '__m128'
+  __m128 v27; // [rsp+80h] [rbp-70h]
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:17:3: error: use of undeclared identifier '__m128'
+  __m128 v28; // [rsp+90h] [rbp-60h]
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:18:3: error: use of undeclared identifier '__m128'
+  __m128 v29; // [rsp+A0h] [rbp-50h]
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:19:3: error: use of undeclared identifier '__m128'
+  __m128 v30; // [rsp+B0h] [rbp-40h]
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:20:3: error: use of undeclared identifier '__m128'
+  __m128 v31; // [rsp+C0h] [rbp-30h]
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:21:3: error: use of undeclared identifier '__m128'
+  __m128 v32; // [rsp+D0h] [rbp-20h]
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:22:3: error: use of undeclared identifier '__m128'
+  __m128 v33; // [rsp+E0h] [rbp-10h]
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:28:3: error: use of undeclared identifier 'v26'
+  v26 = a7;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:29:3: error: use of undeclared identifier 'v27'
+  v27 = a8;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:30:3: error: use of undeclared identifier 'v28'
+  v28 = a9;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:31:3: error: use of undeclared identifier 'v29'
+  v29 = a10;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:32:3: error: use of undeclared identifier 'v30'; did you mean 'v20'?
+  v30 = a11;
+  ^~~
+  v20
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:9:7: note: 'v20' declared here
+  int v20; // [rsp+18h] [rbp-D8h]
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:33:3: error: use of undeclared identifier 'v31'; did you mean 'v21'?
+  v31 = a12;
+  ^~~
+  v21
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:10:7: note: 'v21' declared here
+  int v21; // [rsp+1Ch] [rbp-D4h]
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:34:3: error: use of undeclared identifier 'v32'; did you mean 'v22'?
+  v32 = a13;
+  ^~~
+  v22
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:11:11: note: 'v22' declared here
+  __int64 v22; // [rsp+50h] [rbp-A0h]
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:35:3: error: use of undeclared identifier 'v33'; did you mean 'v23'?
+  v33 = a14;
+  ^~~
+  v23
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:12:11: note: 'v23' declared here
+  __int64 v23; // [rsp+58h] [rbp-98h]
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:39:8: error: use of undeclared identifier 'dword_60E480'
+  if ( dword_60E480 < 0 )
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:46:21: error: indirection requires pointer operand ('int' invalid)
+    if ( v18 < 0 && *__errno_location() == 22 )
+                    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:51:7: error: use of undeclared identifier 'dword_60E480'
+      dword_60E480 = -1;
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:55:7: error: use of undeclared identifier 'dword_60E480'
+      dword_60E480 = 1;
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:58:20: error: use of undeclared identifier 'dword_60E480'
+  if ( v18 >= 0 && dword_60E480 == -1 )
+                   ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:63:13: error: indirection requires pointer operand ('int' invalid)
+      v21 = *__errno_location();
+            ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40A5B5.c:65:7: error: indirection requires pointer operand ('int' invalid)
+      *__errno_location() = v21;
+      ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401870.c:5:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'const unsigned short **'
+  return _ctype_b_loc();
+         ^~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402F87.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402F87(unsigned int a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401700.c:3:43: error: unknown type name 'size_t'
+void *memcpy(void *dest, const void *src, size_t n)
+                                          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4015F0.c:3:66: warning: declaration of 'struct stat' will not be visible outside of this function
+int __fxstatat(int ver, int fildes, const char *filename, struct stat *stat_buf, int flag)
+                                                                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-405DBA.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405DBA(__int64 a1, int a2, char a3)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40AA80.c:2:62: warning: declaration of 'struct stat' will not be visible outside of this function
+int __fastcall sub_40AA80(int fildes, char *filename, struct stat *stat_buf, int flag)
+                                                             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40AA80.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_40AA80(int fildes, char *filename, struct stat *stat_buf, int flag)
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40596F.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_40596F(__int64 a1, unsigned __int64 a2)
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401540.c:3:12: error: unknown type name 'FILE'
+int fclose(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406491.c:2:1: error: unknown type name '_BOOL8'
+_BOOL8 __fastcall sub_406491(int a1)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406491.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BOOL8 __fastcall sub_406491(int a1)
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406491.c:4:17: error: variable has incomplete type 'struct statfs'
+  struct statfs buf; // [rsp+10h] [rbp-80h] BYREF
+                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-406491.c:4:10: note: forward declaration of 'struct statfs'
+  struct statfs buf; // [rsp+10h] [rbp-80h] BYREF
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404A1F.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404A1F(int a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404A1F.c:4:61: error: use of undeclared identifier 'qword_60E340'
+  return sub_404799(a1, a2, 0xFFFFFFFFFFFFFFFFLL, (__int64)&qword_60E340);
+                                                            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401840.c:3:1: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401840.c:3:32: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401840.c:3:45: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                                            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401840.c:3:55: error: unknown type name 'FILE'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                                                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4064E3.c:2:1: error: unknown type name '_BOOL8'
+_BOOL8 __fastcall sub_4064E3(int a1)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4064E3.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BOOL8 __fastcall sub_4064E3(int a1)
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4064E3.c:4:9: error: expected ';' after expression
+  _BOOL8 result; // rax
+        ^
+        ;
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4064E3.c:4:3: error: use of undeclared identifier '_BOOL8'
+  _BOOL8 result; // rax
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4064E3.c:4:10: error: use of undeclared identifier 'result'
+  _BOOL8 result; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4064E3.c:5:17: error: variable has incomplete type 'struct statfs'
+  struct statfs buf; // [rsp+10h] [rbp-80h] BYREF
+                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4064E3.c:5:10: note: forward declaration of 'struct statfs'
+  struct statfs buf; // [rsp+10h] [rbp-80h] BYREF
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4064E3.c:8:5: error: use of undeclared identifier 'result'
+    result = 0LL;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4064E3.c:10:5: error: use of undeclared identifier 'result'
+    result = buf.f_type == 1382369651;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4064E3.c:11:10: error: use of undeclared identifier 'result'
+  return result;
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-409045.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_409045(__int64 a1, unsigned __int64 a2)
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4014E0.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40877F.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40877F(__int64 a1, _QWORD *a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401670.c:3:44: error: unknown type name 'size_t'
+int memcmp(const void *s1, const void *s2, size_t n)
+                                           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402B4C.c:10:33: error: use of undeclared identifier 'stdout'
+  if ( (unsigned int)sub_4086B7(stdout) && (byte_60E318 != 1 || *__errno_location() != 32) )
+                                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402B4C.c:10:65: error: indirection requires pointer operand ('int' invalid)
+  if ( (unsigned int)sub_4086B7(stdout) && (byte_60E318 != 1 || *__errno_location() != 32) )
+                                                                ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402B4C.c:10:45: error: use of undeclared identifier 'byte_60E318'
+  if ( (unsigned int)sub_4086B7(stdout) && (byte_60E318 != 1 || *__errno_location() != 32) )
+                                            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402B4C.c:12:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v4 = gettext("write error");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402B4C.c:13:10: error: use of undeclared identifier 'qword_60E310'
+    if ( qword_60E310 )
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402B4C.c:15:37: error: use of undeclared identifier 'qword_60E310'
+      v0 = (const char *)sub_404C4A(qword_60E310);
+                                    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402B4C.c:16:10: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+      v1 = __errno_location();
+         ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402B4C.c:21:10: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+      v2 = __errno_location();
+         ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402B4C.c:24:11: error: use of undeclared identifier 'status'
+    _exit(status);
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402B4C.c:26:23: error: use of undeclared identifier 'stderr'
+  result = sub_4086B7(stderr);
+                      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402B4C.c:28:11: error: use of undeclared identifier 'status'
+    _exit(status);
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_404799(int a1, __int64 a2, size_t a3, __int64 a4)
+                                                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404799(int a1, __int64 a2, size_t a3, __int64 a4)
+      ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:16:9: error: indirection requires pointer operand ('int' invalid)
+  v10 = *__errno_location();
+        ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:17:9: error: use of undeclared identifier 'off_60E260'
+  v12 = off_60E260;
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:20:8: error: use of undeclared identifier 'dword_60E240'
+  if ( dword_60E240 <= (unsigned int)a1 )
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:23:10: error: use of undeclared identifier 'off_60E260'
+    v9 = off_60E260 == &qword_60E250;
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:23:25: error: use of undeclared identifier 'qword_60E250'
+    v9 = off_60E260 == &qword_60E250;
+                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:24:10: error: use of undeclared identifier 'off_60E260'
+    if ( off_60E260 == &qword_60E250 )
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:24:25: error: use of undeclared identifier 'qword_60E250'
+    if ( off_60E260 == &qword_60E250 )
+                        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:27:12: error: use of undeclared identifier 'off_60E260'
+      v4 = off_60E260;
+           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:28:11: warning: cast to 'long long *' from smaller integer type 'int'
+    v12 = (__int64 *)sub_405798(v4, 16 * v14);
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:29:5: error: use of undeclared identifier 'off_60E260'
+    off_60E260 = v12;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:32:12: error: use of undeclared identifier 'off_60E258'
+      v5 = off_60E258;
+           ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:33:14: error: use of undeclared identifier 'qword_60E250'
+      *v12 = qword_60E250;
+             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:36:35: error: use of undeclared identifier 'dword_60E240'
+    memset(&v12[2 * (unsigned int)dword_60E240], 0, 16 * (v14 - (unsigned int)dword_60E240));
+                                  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:36:79: error: use of undeclared identifier 'dword_60E240'
+    memset(&v12[2 * (unsigned int)dword_60E240], 0, 16 * (v14 - (unsigned int)dword_60E240));
+                                                                              ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:37:5: error: use of undeclared identifier 'dword_60E240'
+    dword_60E240 = a1 + 1;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:47:18: error: use of undeclared identifier 'unk_60E380'
+    if ( ptr != &unk_60E380 )
+                 ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:49:11: warning: cast to 'void *' from smaller integer type 'int'
+    ptr = (void *)sub_405749(v16);
+          ^~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-404799.c:53:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v10;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-402F93.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402F93(int a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401470.c:6:13: error: use of undeclared identifier '_gmon_start__'
+  result = &_gmon_start__;
+            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401470.c:7:9: error: use of undeclared identifier '_gmon_start__'
+  if ( &_gmon_start__ )
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401470.c:8:14: warning: cast to 'void *' from smaller integer type 'int'
+    result = (void *)__gmon_start__();
+             ^~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40AA60.c:2:46: warning: declaration of 'struct stat' will not be visible outside of this function
+int __fastcall sub_40AA60(int fildes, struct stat *stat_buf)
+                                             ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-40AA60.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_40AA60(int fildes, struct stat *stat_buf)
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4055B1.c:6:3: error: use of undeclared identifier 'FILE'
+  FILE *v2; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4055B1.c:6:9: error: use of undeclared identifier 'v2'
+  FILE *v2; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4055B1.c:9:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v0 = gettext("\nReport bugs to: %s\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4055B1.c:11:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v1 = gettext("%s home page: <%s>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4055B1.c:13:3: error: use of undeclared identifier 'v2'
+  v2 = stdout;
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4055B1.c:13:8: error: use of undeclared identifier 'stdout'
+  v2 = stdout;
+       ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4055B1.c:14:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v3 = gettext("General help using GNU software: <http://www.gnu.org/gethelp/>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4055B1.c:15:29: error: use of undeclared identifier 'v2'
+  return fputs_unlocked(v3, v2);
+                            ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-408993.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_408993(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403699.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403699(__int64 *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-403699.c:9:11: error: use of undeclared identifier 'qword_60E340'
+    v1 = &qword_60E340;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401920.c:6:9: error: use of undeclared identifier 'byte_60E2D8'
+  if ( !byte_60E2D8 )
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401920.c:9:5: error: use of undeclared identifier 'byte_60E2D8'
+    byte_60E2D8 = 1;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4016F0.c:3:1: error: unknown type name '__mode_t'
+__mode_t umask(__mode_t mask)
+^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-4016F0.c:3:16: error: unknown type name '__mode_t'
+__mode_t umask(__mode_t mask)
+               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401770.c:3:42: warning: declaration of 'struct stat' will not be visible outside of this function
+int __fxstat(int ver, int fildes, struct stat *stat_buf)
+                                         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407FD5.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall sub_407FD5(void *ptr)
+     ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407FD5.c:4:3: error: use of undeclared identifier 'DIR'
+  DIR **v2; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407FD5.c:4:9: error: use of undeclared identifier 'v2'
+  DIR **v2; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407FD5.c:8:5: error: use of undeclared identifier 'v2'
+    v2 = (DIR **)ptr;
+    ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407FD5.c:8:17: error: expected expression
+    v2 = (DIR **)ptr;
+                ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407FD5.c:8:11: error: use of undeclared identifier 'DIR'
+    v2 = (DIR **)ptr;
+          ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407FD5.c:12:10: error: use of undeclared identifier 'v2'
+    if ( v2[3] )
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407FD5.c:13:16: error: use of undeclared identifier 'v2'
+      closedir(v2[3]);
+               ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-407FD5.c:14:10: error: use of undeclared identifier 'v2'
+    free(v2);
+         ^
+/share/resym_darpa/data/decompiled_files/chmod_ground/chmod_ground-401760.c:3:40: error: unknown type name '__mode_t'
+int fchmodat(int fd, const char *file, __mode_t mode, int flag)
+                                       ^

@@ -1,0 +1,19 @@
+[
+    {
+        "args": [
+            "(__int64)v19",
+            "a4"
+        ],
+        "funName": "sub_405E29",
+        "lineNum": 27
+    },
+    {
+        "args": [
+            "v18",
+            "&v16",
+            "0x180uLL"
+        ],
+        "funName": "sub_405A7A",
+        "lineNum": 30
+    }
+]

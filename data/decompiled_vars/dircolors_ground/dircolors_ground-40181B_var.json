@@ -1,0 +1,25 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "s1",
+            "type": "char *",
+            "comment": "[rsp+8h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "char *s1; // [rsp+8h] [rbp-8h]"
+        },
+        {
+            "name": "s1a",
+            "type": "char *",
+            "comment": "[rsp+8h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "char *s1a; // [rsp+8h] [rbp-8h]"
+        }
+    ]
+}

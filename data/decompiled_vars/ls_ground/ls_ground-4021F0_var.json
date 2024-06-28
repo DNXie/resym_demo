@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "c",
+            "type": "wchar_t",
+            "original_line": "wchar_t c"
+        }
+    ],
+    "variable": []
+}

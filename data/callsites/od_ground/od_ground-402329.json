@@ -1,0 +1,22 @@
+[
+    {
+        "args": [
+            "v11"
+        ],
+        "funName": "sub_4057FE",
+        "lineNum": 25
+    },
+    {
+        "args": [
+            "(unsigned int)\"%*s\"",
+            "v15 - (i - 1) * v13 / a1 + a5",
+            "(unsigned int)&v18",
+            "v7",
+            "v8",
+            "v9",
+            "v12"
+        ],
+        "funName": "sub_407DDE",
+        "lineNum": 26
+    }
+]

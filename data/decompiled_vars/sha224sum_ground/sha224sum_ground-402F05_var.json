@@ -1,0 +1,26 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__int64",
+            "original_line": "__int64 a1"
+        },
+        {
+            "name": "a2",
+            "type": "__int64",
+            "original_line": "__int64 a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "i",
+            "type": "int",
+            "comment": "[rsp+14h] [rbp-Ch]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C",
+            "rbp_offset_dec": -12,
+            "original_line": "int i; // [rsp+14h] [rbp-Ch]"
+        }
+    ]
+}

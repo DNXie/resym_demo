@@ -1,0 +1,18 @@
+[
+    {
+        "args": [
+            "*(_QWORD **)(a1 + 88)",
+            "(__int64)ptr"
+        ],
+        "funName": "sub_40CCDE",
+        "lineNum": 15
+    },
+    {
+        "args": [
+            "*(_QWORD *)(a1 + 88)",
+            "a2 + 120"
+        ],
+        "funName": "sub_414EB6",
+        "lineNum": 25
+    }
+]

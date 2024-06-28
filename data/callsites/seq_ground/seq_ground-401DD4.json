@@ -1,0 +1,40 @@
+[
+    {
+        "args": [
+            "(unsigned int)&s2",
+            "(_DWORD)a1",
+            "DWORD2(v24)",
+            "(unsigned int)&s2",
+            "v12",
+            "v13",
+            "*(_QWORD *)&v24",
+            "v16"
+        ],
+        "funName": "sub_404DCD",
+        "lineNum": 48
+    },
+    {
+        "args": [],
+        "funName": "sub_404CE9",
+        "lineNum": 51
+    },
+    {
+        "args": [
+            "(unsigned int)&s1",
+            "(_DWORD)a1",
+            "DWORD2(v26)",
+            "(unsigned int)&s1",
+            "v14",
+            "v15",
+            "*(_QWORD *)&v26",
+            "v16"
+        ],
+        "funName": "sub_404DCD",
+        "lineNum": 57
+    },
+    {
+        "args": [],
+        "funName": "sub_404CE9",
+        "lineNum": 66
+    }
+]

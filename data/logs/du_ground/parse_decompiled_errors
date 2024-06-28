@@ -1,0 +1,10 @@
+Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/du_ground
+du_ground.decompiled - .iconv: Fail to match arguments char **inbuf
+du_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
+du_ground.decompiled - .__assert_fail: Fail to match arguments unsigned int line
+du_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
+du_ground.decompiled - .strftime: Fail to match arguments const struct tm *tp
+du_ground.decompiled - .strtoumax: Fail to match arguments char **endptr
+du_ground.decompiled - .strtoul: Fail to match arguments char **endptr
+du_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc
+du_ground.decompiled - .getdelim: Fail to match arguments char **lineptr

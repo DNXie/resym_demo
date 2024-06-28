@@ -1,0 +1,22 @@
+[
+    {
+        "expr": "a2",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 12,
+        "offset": 0,
+        "varName": "a2"
+    },
+    {
+        "expr": "a2",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 14,
+        "offset": 0,
+        "varName": "a2"
+    }
+]

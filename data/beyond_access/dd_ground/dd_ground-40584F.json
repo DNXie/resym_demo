@@ -1,0 +1,72 @@
+[
+    {
+        "expr": "a4",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 16,
+        "offset": 0,
+        "varName": "a4"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 19,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "a4",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 19,
+        "offset": 0,
+        "varName": "a4"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 21,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 22,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 29,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "v6",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 40,
+        "offset": 0,
+        "varName": "v6"
+    }
+]

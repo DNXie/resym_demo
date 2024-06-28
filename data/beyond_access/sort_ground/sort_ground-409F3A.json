@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "(_DWORD *)(v7 + 80)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 9,
+        "offset": 80,
+        "varName": "v7"
+    }
+]

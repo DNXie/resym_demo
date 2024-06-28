@@ -1,0 +1,37 @@
+[
+    {
+        "args": [
+            "a1 + 96"
+        ],
+        "funName": "sub_415090",
+        "lineNum": 26
+    },
+    {
+        "args": [
+            "a1 + 96"
+        ],
+        "funName": "sub_41512A",
+        "lineNum": 28
+    },
+    {
+        "args": [
+            "a1",
+            "s1",
+            "(__int64)s1",
+            "(__int64)a4",
+            "a5",
+            "a6"
+        ],
+        "funName": "sub_411B05",
+        "lineNum": 41
+    },
+    {
+        "args": [
+            "a1",
+            "fildes",
+            "v10 == 0"
+        ],
+        "funName": "sub_411A78",
+        "lineNum": 58
+    }
+]

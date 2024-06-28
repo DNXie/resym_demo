@@ -1,0 +1,40 @@
+[
+    {
+        "args": [
+            "(_QWORD *)a1"
+        ],
+        "funName": "sub_403515",
+        "lineNum": 12
+    },
+    {
+        "args": [
+            "(_QWORD *)a2",
+            "*(_QWORD *)(a1 + 24)"
+        ],
+        "funName": "sub_403551",
+        "lineNum": 20
+    },
+    {
+        "args": [
+            "(_QWORD *)a1",
+            "a2"
+        ],
+        "funName": "sub_40306D",
+        "lineNum": 38
+    },
+    {
+        "args": [
+            "a1",
+            "a2"
+        ],
+        "funName": "sub_40365E",
+        "lineNum": 46
+    },
+    {
+        "args": [
+            "(_QWORD *)a2"
+        ],
+        "funName": "sub_4037A7",
+        "lineNum": 50
+    }
+]

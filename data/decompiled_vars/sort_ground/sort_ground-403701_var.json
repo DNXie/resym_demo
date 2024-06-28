@@ -1,0 +1,136 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int *",
+            "original_line": "int *a1"
+        },
+        {
+            "name": "a2",
+            "type": "__int64",
+            "original_line": "__int64 a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v3",
+            "type": "int",
+            "comment": "er8",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v3; // er8"
+        },
+        {
+            "name": "v4",
+            "type": "int",
+            "comment": "er9",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v4; // er9"
+        },
+        {
+            "name": "v6",
+            "type": "_QWORD",
+            "comment": "[rsp+0h] [rbp-150h] BYREF",
+            "array_size": 17,
+            "star_count": 0,
+            "rbp_offset_hex": "-150",
+            "rbp_offset_dec": -336,
+            "original_line": "_QWORD v6[17]; // [rsp+0h] [rbp-150h] BYREF"
+        },
+        {
+            "name": "v7",
+            "type": "double",
+            "comment": "[rsp+88h] [rbp-C8h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C8",
+            "rbp_offset_dec": -200,
+            "original_line": "double v7; // [rsp+88h] [rbp-C8h] BYREF"
+        },
+        {
+            "name": "v8",
+            "type": "__int64",
+            "comment": "[rsp+90h] [rbp-C0h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C0",
+            "rbp_offset_dec": -192,
+            "original_line": "__int64 v8; // [rsp+90h] [rbp-C0h]"
+        },
+        {
+            "name": "pipedes",
+            "type": "int *__attribute__((__org_arrdim(0,2)))",
+            "comment": "[rsp+98h] [rbp-B8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-B8",
+            "rbp_offset_dec": -184,
+            "original_line": "int *__attribute__((__org_arrdim(0,2))) pipedes; // [rsp+98h] [rbp-B8h]"
+        },
+        {
+            "name": "v10",
+            "type": "__pid_t",
+            "comment": "[rsp+A8h] [rbp-A8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-A8",
+            "rbp_offset_dec": -168,
+            "original_line": "__pid_t v10; // [rsp+A8h] [rbp-A8h]"
+        },
+        {
+            "name": "v11",
+            "type": "int",
+            "comment": "[rsp+ACh] [rbp-A4h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-A4",
+            "rbp_offset_dec": -164,
+            "original_line": "int v11; // [rsp+ACh] [rbp-A4h]"
+        },
+        {
+            "name": "v12",
+            "type": "double",
+            "comment": "[rsp+B0h] [rbp-A0h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-A0",
+            "rbp_offset_dec": -160,
+            "original_line": "double v12; // [rsp+B0h] [rbp-A0h]"
+        },
+        {
+            "name": "v13",
+            "type": "__int64",
+            "comment": "[rsp+B8h] [rbp-98h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-98",
+            "rbp_offset_dec": -152,
+            "original_line": "__int64 v13; // [rsp+B8h] [rbp-98h]"
+        },
+        {
+            "name": "v14",
+            "type": "int",
+            "comment": "[rsp+C0h] [rbp-90h] BYREF",
+            "array_size": 34,
+            "star_count": 0,
+            "rbp_offset_hex": "-90",
+            "rbp_offset_dec": -144,
+            "original_line": "int v14[34]; // [rsp+C0h] [rbp-90h] BYREF"
+        },
+        {
+            "name": "v15",
+            "type": "__int64",
+            "comment": "[rsp+148h] [rbp-8h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "__int64 v15; // [rsp+148h] [rbp-8h] BYREF"
+        }
+    ]
+}

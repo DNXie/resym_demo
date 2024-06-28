@@ -1,0 +1,41 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__uid_t",
+            "original_line": "__uid_t a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v1",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v1; // rax"
+        },
+        {
+            "name": "result",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int result; // eax"
+        },
+        {
+            "name": "v3",
+            "type": "struct passwd *",
+            "comment": "[rsp+18h] [rbp-18h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "struct passwd *v3; // [rsp+18h] [rbp-18h]"
+        }
+    ]
+}

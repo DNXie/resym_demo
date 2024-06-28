@@ -1,0 +1,35 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "char *",
+            "original_line": "char *a1"
+        },
+        {
+            "name": "a2",
+            "type": "__int64",
+            "original_line": "__int64 a2"
+        },
+        {
+            "name": "a3",
+            "type": "const char *",
+            "original_line": "const char *a3"
+        },
+        {
+            "name": "a4",
+            "type": "const struct tm *",
+            "original_line": "const struct tm *a4"
+        },
+        {
+            "name": "a5",
+            "type": "int",
+            "original_line": "int a5"
+        },
+        {
+            "name": "a6",
+            "type": "int",
+            "original_line": "int a6"
+        }
+    ],
+    "variable": []
+}

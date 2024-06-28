@@ -1,0 +1,32 @@
+[
+    {
+        "args": [
+            "v11"
+        ],
+        "funName": "sub_4052C0",
+        "lineNum": 18
+    },
+    {
+        "args": [
+            "\"/\""
+        ],
+        "funName": "sub_40280C",
+        "lineNum": 21
+    },
+    {
+        "args": [
+            "\".\""
+        ],
+        "funName": "sub_40280C",
+        "lineNum": 28
+    },
+    {
+        "args": [
+            "a1",
+            "&locale",
+            "0LL"
+        ],
+        "funName": "sub_401B3F",
+        "lineNum": 40
+    }
+]

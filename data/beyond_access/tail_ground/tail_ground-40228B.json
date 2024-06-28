@@ -1,0 +1,122 @@
+[
+    {
+        "expr": "v8",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 34,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "v9",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 35,
+        "offset": 0,
+        "varName": "v9"
+    },
+    {
+        "expr": "v9",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 36,
+        "offset": 0,
+        "varName": "v9"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 36,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "a6",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 41,
+        "offset": 0,
+        "varName": "a6"
+    },
+    {
+        "expr": "v13",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 62,
+        "offset": 0,
+        "varName": "v13"
+    },
+    {
+        "expr": "v14",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 63,
+        "offset": 0,
+        "varName": "v14"
+    },
+    {
+        "expr": "v14",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 64,
+        "offset": 0,
+        "varName": "v14"
+    },
+    {
+        "expr": "v13",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 64,
+        "offset": 0,
+        "varName": "v13"
+    },
+    {
+        "expr": "a6",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 67,
+        "offset": 0,
+        "varName": "a6"
+    },
+    {
+        "expr": "v23 + 1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 76,
+        "offset": 1,
+        "varName": "v23"
+    },
+    {
+        "expr": "a6",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 77,
+        "offset": 0,
+        "varName": "a6"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "s",
+            "type": "char *",
+            "original_line": "char *s"
+        },
+        {
+            "name": "delim",
+            "type": "const char *",
+            "original_line": "const char *delim"
+        }
+    ],
+    "variable": []
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "expr": "lpfunc",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void (*)(void *) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "void (*)(void *) __attribute__((fastcall))",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "lpfunc"
+    },
+    {
+        "expr": "obj",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "obj"
+    },
+    {
+        "expr": "lpdso_handle",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "lpdso_handle"
+    }
+]

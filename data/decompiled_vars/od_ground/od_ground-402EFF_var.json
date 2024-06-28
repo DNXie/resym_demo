@@ -1,0 +1,35 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "v1",
+            "type": "const char *",
+            "comment": "rbx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "const char *v1; // rbx"
+        },
+        {
+            "name": "v2",
+            "type": "int *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int *v2; // rax"
+        },
+        {
+            "name": "v3",
+            "type": "unsigned __int8",
+            "comment": "[rsp+Fh] [rbp-11h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-11",
+            "rbp_offset_dec": -17,
+            "original_line": "unsigned __int8 v3; // [rsp+Fh] [rbp-11h]"
+        }
+    ]
+}

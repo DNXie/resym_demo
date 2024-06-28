@@ -1,0 +1,36 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__int64",
+            "original_line": "__int64 a1"
+        },
+        {
+            "name": "a2",
+            "type": "__int64",
+            "original_line": "__int64 a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "i",
+            "type": "char *",
+            "comment": "[rsp+10h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "char *i; // [rsp+10h] [rbp-10h]"
+        },
+        {
+            "name": "dest",
+            "type": "char *",
+            "comment": "[rsp+18h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "char *dest; // [rsp+18h] [rbp-8h]"
+        }
+    ]
+}

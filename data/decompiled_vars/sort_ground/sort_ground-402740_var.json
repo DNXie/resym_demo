@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "cond",
+            "type": "pthread_cond_t *",
+            "original_line": "pthread_cond_t *cond"
+        },
+        {
+            "name": "cond_attr",
+            "type": "const pthread_condattr_t *",
+            "original_line": "const pthread_condattr_t *cond_attr"
+        }
+    ],
+    "variable": []
+}

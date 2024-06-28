@@ -1,0 +1,122 @@
+[
+    {
+        "expr": "(_QWORD *)(a1 + 40)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 6,
+        "offset": 40,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_UNKNOWN *)v2",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 7,
+        "offset": 0,
+        "varName": "v2"
+    },
+    {
+        "expr": "(float *)(v2 + 8)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "float",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 9,
+        "offset": 8,
+        "varName": "v2"
+    },
+    {
+        "expr": "(float *)(v2 + 8)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "float",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 10,
+        "offset": 8,
+        "varName": "v2"
+    },
+    {
+        "expr": "(float *)(v2 + 12)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "float",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 11,
+        "offset": 12,
+        "varName": "v2"
+    },
+    {
+        "expr": "(float *)v2",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "float *",
+        "lhsPointeeSize": 4,
+        "lhsType": "float *",
+        "lineNum": 12,
+        "offset": 0,
+        "varName": "v2"
+    },
+    {
+        "expr": "(float *)(v2 + 4)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "float",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 13,
+        "offset": 4,
+        "varName": "v2"
+    },
+    {
+        "expr": "(float *)v2",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "float *",
+        "lhsPointeeSize": 4,
+        "lhsType": "float *",
+        "lineNum": 13,
+        "offset": 0,
+        "varName": "v2"
+    },
+    {
+        "expr": "(float *)(v2 + 4)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "float",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 14,
+        "offset": 4,
+        "varName": "v2"
+    },
+    {
+        "expr": "(float *)(v2 + 8)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "float",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 15,
+        "offset": 8,
+        "varName": "v2"
+    },
+    {
+        "expr": "(float *)v2",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "float *",
+        "lhsPointeeSize": 4,
+        "lhsType": "float *",
+        "lineNum": 15,
+        "offset": 0,
+        "varName": "v2"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 40)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 19,
+        "offset": 40,
+        "varName": "a1"
+    }
+]

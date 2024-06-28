@@ -1,0 +1,25 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "i",
+            "type": "unsigned int",
+            "comment": "[rsp+4h] [rbp-Ch]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C",
+            "rbp_offset_dec": -12,
+            "original_line": "unsigned int i; // [rsp+4h] [rbp-Ch]"
+        },
+        {
+            "name": "ptr",
+            "type": "void **",
+            "comment": "[rsp+8h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "void **ptr; // [rsp+8h] [rbp-8h]"
+        }
+    ]
+}

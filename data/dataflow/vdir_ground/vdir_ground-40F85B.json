@@ -1,0 +1,17 @@
+[
+    {
+        "lhsVarName": "dest",
+        "lineNum": 14,
+        "rhsVarName": "a3"
+    },
+    {
+        "lhsVarName": "v10",
+        "lineNum": 39,
+        "rhsVarName": "v12"
+    },
+    {
+        "lhsVarName": "v11",
+        "lineNum": 40,
+        "rhsVarName": "a2"
+    }
+]

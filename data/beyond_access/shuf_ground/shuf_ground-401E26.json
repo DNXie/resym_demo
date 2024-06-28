@@ -1,0 +1,232 @@
+[
+    {
+        "expr": "v13",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 16,
+        "offset": 0,
+        "varName": "v13"
+    },
+    {
+        "expr": "v13",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 17,
+        "offset": 0,
+        "varName": "v13"
+    },
+    {
+        "expr": "v13",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 18,
+        "offset": 0,
+        "varName": "v13"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 20,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 21,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 22,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 22,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 31,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "v13",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 31,
+        "offset": 0,
+        "varName": "v13"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 31,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 31,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "v15",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "char **",
+        "lineNum": 33,
+        "offset": 0,
+        "varName": "v15"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "char ***",
+        "lhsPointeeSize": 8,
+        "lhsType": "char ***",
+        "lineNum": 34,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "v15",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "char **",
+        "lineNum": 34,
+        "offset": 0,
+        "varName": "v15"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 35,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "v13",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 35,
+        "offset": 0,
+        "varName": "v13"
+    },
+    {
+        "expr": "v15",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "char **",
+        "lineNum": 36,
+        "offset": 0,
+        "varName": "v15"
+    },
+    {
+        "expr": "v13",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 36,
+        "offset": 0,
+        "varName": "v13"
+    },
+    {
+        "expr": "v6",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "char **",
+        "lineNum": 39,
+        "offset": 0,
+        "varName": "v6"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 40,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 40,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "v6",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "char **",
+        "lineNum": 41,
+        "offset": 0,
+        "varName": "v6"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 41,
+        "offset": 0,
+        "varName": "i"
+    }
+]

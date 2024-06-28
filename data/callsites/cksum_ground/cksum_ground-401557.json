@@ -1,0 +1,25 @@
+[
+    {
+        "args": [
+            "stdin",
+            "2LL"
+        ],
+        "funName": "sub_401D98",
+        "lineNum": 30
+    },
+    {
+        "args": [
+            "stream",
+            "2LL"
+        ],
+        "funName": "sub_401D98",
+        "lineNum": 41
+    },
+    {
+        "args": [
+            "stream"
+        ],
+        "funName": "sub_404357",
+        "lineNum": 67
+    }
+]

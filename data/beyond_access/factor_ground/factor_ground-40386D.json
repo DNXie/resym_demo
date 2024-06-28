@@ -1,0 +1,172 @@
+[
+    {
+        "expr": "v17",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 15,
+        "offset": 0,
+        "varName": "v17"
+    },
+    {
+        "expr": "(__int64 *)&v20",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 15,
+        "offset": 0,
+        "varName": "v20"
+    },
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 22,
+        "offset": 0,
+        "varName": "ptr"
+    },
+    {
+        "expr": "v17",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 24,
+        "offset": 0,
+        "varName": "v17"
+    },
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 31,
+        "offset": 0,
+        "varName": "ptr"
+    },
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 31,
+        "offset": 0,
+        "varName": "ptr"
+    },
+    {
+        "expr": "dest",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 35,
+        "offset": 0,
+        "varName": "dest"
+    },
+    {
+        "expr": "v6",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "void **",
+        "lhsPointeeSize": 8,
+        "lhsType": "void **",
+        "lineNum": 37,
+        "offset": 0,
+        "varName": "v6"
+    },
+    {
+        "expr": "v6",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "void **",
+        "lhsPointeeSize": 8,
+        "lhsType": "void **",
+        "lineNum": 38,
+        "offset": 0,
+        "varName": "v6"
+    },
+    {
+        "expr": "dest",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 38,
+        "offset": 0,
+        "varName": "dest"
+    },
+    {
+        "expr": "v17[1]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 38,
+        "offset": 1,
+        "varName": "v17"
+    },
+    {
+        "expr": "v17[1]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 43,
+        "offset": 1,
+        "varName": "v17"
+    },
+    {
+        "expr": "a5",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 44,
+        "offset": 0,
+        "varName": "a5"
+    },
+    {
+        "expr": "a6",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "void **",
+        "lhsPointeeSize": 8,
+        "lhsType": "void **",
+        "lineNum": 45,
+        "offset": 0,
+        "varName": "a6"
+    },
+    {
+        "expr": "a6",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "void **",
+        "lhsPointeeSize": 8,
+        "lhsType": "void **",
+        "lineNum": 46,
+        "offset": 0,
+        "varName": "a6"
+    },
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 46,
+        "offset": 0,
+        "varName": "ptr"
+    },
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 48,
+        "offset": 0,
+        "varName": "ptr"
+    }
+]

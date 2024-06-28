@@ -1,0 +1,33 @@
+[
+    {
+        "args": [
+            "a1",
+            "*j"
+        ],
+        "funName": "sub_403E0B",
+        "lineNum": 20
+    },
+    {
+        "args": [
+            "a1",
+            "j"
+        ],
+        "funName": "sub_40487B",
+        "lineNum": 31
+    },
+    {
+        "args": [
+            "a1",
+            "v8"
+        ],
+        "funName": "sub_403E0B",
+        "lineNum": 38
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_404830",
+        "lineNum": 41
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "expr": "(const void **)(a1 + 8)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 9,
+        "offset": 8,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 9,
+        "offset": 0,
+        "varName": "a1"
+    }
+]

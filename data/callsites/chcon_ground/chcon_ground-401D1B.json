@@ -1,0 +1,49 @@
+[
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_401C53",
+        "lineNum": 25
+    },
+    {
+        "args": [
+            "qword_610318"
+        ],
+        "funName": "sub_40315E",
+        "lineNum": 30
+    },
+    {
+        "args": [
+            "qword_610328"
+        ],
+        "funName": "sub_40315E",
+        "lineNum": 38
+    },
+    {
+        "args": [
+            "qword_610320"
+        ],
+        "funName": "sub_40315E",
+        "lineNum": 46
+    },
+    {
+        "args": [
+            "qword_610330"
+        ],
+        "funName": "sub_40315E",
+        "lineNum": 54
+    },
+    {
+        "args": [],
+        "funName": "sub_401C8E",
+        "lineNum": 63
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_404777",
+        "lineNum": 75
+    }
+]

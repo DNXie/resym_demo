@@ -1,0 +1,60 @@
+[
+    {
+        "args": [
+            "*a2",
+            "a2",
+            "a3"
+        ],
+        "funName": "sub_408E96",
+        "lineNum": 29
+    },
+    {
+        "args": [
+            "sub_40706C"
+        ],
+        "funName": "sub_40C6B0",
+        "lineNum": 33
+    },
+    {
+        "args": [
+            "\"-\""
+        ],
+        "funName": "sub_408FA1",
+        "lineNum": 63
+    },
+    {
+        "args": [
+            "v19",
+            "96LL"
+        ],
+        "funName": "sub_40B048",
+        "lineNum": 72
+    },
+    {
+        "args": [
+            "v22",
+            "v19"
+        ],
+        "funName": "sub_4065F0",
+        "lineNum": 79
+    },
+    {
+        "args": [
+            "v16",
+            "v22",
+            "v19",
+            "*(double *)&v18"
+        ],
+        "funName": "sub_40467E",
+        "lineNum": 94
+    },
+    {
+        "args": [
+            "v22",
+            "v19",
+            "*(double *)&v18"
+        ],
+        "funName": "sub_40396A",
+        "lineNum": 102
+    }
+]

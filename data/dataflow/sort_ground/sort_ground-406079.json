@@ -1,0 +1,27 @@
+[
+    {
+        "lhsVarName": "nptr",
+        "lineNum": 21,
+        "rhsVarName": "v14"
+    },
+    {
+        "lhsVarName": "endptr",
+        "lineNum": 35,
+        "rhsVarName": "nptr"
+    },
+    {
+        "lhsVarName": "endptr",
+        "lineNum": 82,
+        "rhsVarName": "v12"
+    },
+    {
+        "lhsVarName": "endptr",
+        "lineNum": 87,
+        "rhsVarName": "v12"
+    },
+    {
+        "lhsVarName": "v12",
+        "lineNum": 90,
+        "rhsVarName": "endptr"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "expr": "s1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 8,
+        "offset": 0,
+        "varName": "s1"
+    },
+    {
+        "expr": "s1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 9,
+        "offset": 0,
+        "varName": "s1"
+    },
+    {
+        "expr": "s1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 9,
+        "offset": 0,
+        "varName": "s1"
+    },
+    {
+        "expr": "s1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 9,
+        "offset": 0,
+        "varName": "s1"
+    }
+]

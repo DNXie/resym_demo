@@ -1,0 +1,75 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int",
+            "original_line": "int a1"
+        },
+        {
+            "name": "a2",
+            "type": "__m128",
+            "original_line": "__m128 a2"
+        },
+        {
+            "name": "a3",
+            "type": "__m128",
+            "original_line": "__m128 a3"
+        },
+        {
+            "name": "a4",
+            "type": "__m128",
+            "original_line": "__m128 a4"
+        },
+        {
+            "name": "a5",
+            "type": "__m128",
+            "original_line": "__m128 a5"
+        },
+        {
+            "name": "a6",
+            "type": "__m128",
+            "original_line": "__m128 a6"
+        },
+        {
+            "name": "a7",
+            "type": "__m128",
+            "original_line": "__m128 a7"
+        },
+        {
+            "name": "a8",
+            "type": "__m128",
+            "original_line": "__m128 a8"
+        },
+        {
+            "name": "a9",
+            "type": "__m128",
+            "original_line": "__m128 a9"
+        },
+        {
+            "name": "a10",
+            "type": "__int64",
+            "original_line": "__int64 a10"
+        },
+        {
+            "name": "a11",
+            "type": "__int64",
+            "original_line": "__int64 a11"
+        },
+        {
+            "name": "a12",
+            "type": "__int64",
+            "original_line": "__int64 a12"
+        },
+        {
+            "name": "a13",
+            "type": "__int64",
+            "original_line": "__int64 a13"
+        },
+        {
+            "name": "a14",
+            "type": "__int64",
+            "original_line": "__int64 a14"
+        }
+    ],
+    "variable": []
+}

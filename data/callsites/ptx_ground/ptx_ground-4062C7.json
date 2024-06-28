@@ -1,0 +1,53 @@
+[
+    {
+        "args": [
+            "a2",
+            "2LL"
+        ],
+        "funName": "sub_4088EF",
+        "lineNum": 30
+    },
+    {
+        "args": [
+            "a1",
+            "s"
+        ],
+        "funName": "sub_40B280",
+        "lineNum": 34
+    },
+    {
+        "args": [
+            "(__int64)v17"
+        ],
+        "funName": "sub_4060E7",
+        "lineNum": 66
+    },
+    {
+        "args": [
+            "(__int64)&v26"
+        ],
+        "funName": "sub_4060E7",
+        "lineNum": 91
+    },
+    {
+        "args": [
+            "(__int64)v17"
+        ],
+        "funName": "sub_4060E7",
+        "lineNum": 94
+    },
+    {
+        "args": [
+            "(__int64)v17"
+        ],
+        "funName": "sub_4060E7",
+        "lineNum": 102
+    },
+    {
+        "args": [
+            "(__int64)v17"
+        ],
+        "funName": "sub_4060E7",
+        "lineNum": 126
+    }
+]

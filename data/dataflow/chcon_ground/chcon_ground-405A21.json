@@ -1,0 +1,32 @@
+[
+    {
+        "lhsVarName": "v18",
+        "lineNum": 24,
+        "rhsVarName": "a1"
+    },
+    {
+        "lhsVarName": "v7",
+        "lineNum": 50,
+        "rhsVarName": "v22"
+    },
+    {
+        "lhsVarName": "v19",
+        "lineNum": 69,
+        "rhsVarName": "v8"
+    },
+    {
+        "lhsVarName": "v9",
+        "lineNum": 94,
+        "rhsVarName": "v12"
+    },
+    {
+        "lhsVarName": "v9",
+        "lineNum": 102,
+        "rhsVarName": "v12"
+    },
+    {
+        "lhsVarName": "v21",
+        "lineNum": 103,
+        "rhsVarName": "v12"
+    }
+]

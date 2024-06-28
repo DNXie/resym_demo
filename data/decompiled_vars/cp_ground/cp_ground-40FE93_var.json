@@ -1,0 +1,91 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "DIR *",
+            "original_line": "DIR *a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "__int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v2; // rax"
+        },
+        {
+            "name": "v3",
+            "type": "int",
+            "comment": "[rsp+1Ch] [rbp-34h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-34",
+            "rbp_offset_dec": -52,
+            "original_line": "int v3; // [rsp+1Ch] [rbp-34h]"
+        },
+        {
+            "name": "ptr",
+            "type": "_BYTE *",
+            "comment": "[rsp+20h] [rbp-30h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-30",
+            "rbp_offset_dec": -48,
+            "original_line": "_BYTE *ptr; // [rsp+20h] [rbp-30h]"
+        },
+        {
+            "name": "v5",
+            "type": "unsigned __int64",
+            "comment": "[rsp+28h] [rbp-28h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-28",
+            "rbp_offset_dec": -40,
+            "original_line": "unsigned __int64 v5; // [rsp+28h] [rbp-28h]"
+        },
+        {
+            "name": "v6",
+            "type": "size_t",
+            "comment": "[rsp+30h] [rbp-20h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-20",
+            "rbp_offset_dec": -32,
+            "original_line": "size_t v6; // [rsp+30h] [rbp-20h]"
+        },
+        {
+            "name": "v7",
+            "type": "struct dirent *",
+            "comment": "[rsp+38h] [rbp-18h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "struct dirent *v7; // [rsp+38h] [rbp-18h]"
+        },
+        {
+            "name": "src",
+            "type": "char *",
+            "comment": "[rsp+40h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "char *src; // [rsp+40h] [rbp-10h]"
+        },
+        {
+            "name": "n",
+            "type": "size_t",
+            "comment": "[rsp+48h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "size_t n; // [rsp+48h] [rbp-8h]"
+        }
+    ]
+}

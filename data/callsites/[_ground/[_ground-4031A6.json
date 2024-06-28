@@ -1,0 +1,32 @@
+[
+    {
+        "args": [
+            "0"
+        ],
+        "funName": "sub_4016DE",
+        "lineNum": 10
+    },
+    {
+        "args": [],
+        "funName": "sub_403176",
+        "lineNum": 11
+    },
+    {
+        "args": [],
+        "funName": "sub_401736",
+        "lineNum": 19
+    },
+    {
+        "args": [
+            "v1",
+            "v0"
+        ],
+        "funName": "sub_40165F",
+        "lineNum": 25
+    },
+    {
+        "args": [],
+        "funName": "sub_402825",
+        "lineNum": 27
+    }
+]

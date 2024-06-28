@@ -1,0 +1,25 @@
+{
+    "argument": [
+        {
+            "name": "user",
+            "type": "const char *",
+            "original_line": "const char *user"
+        },
+        {
+            "name": "group",
+            "type": "__gid_t",
+            "original_line": "__gid_t group"
+        },
+        {
+            "name": "groups",
+            "type": "__gid_t *",
+            "original_line": "__gid_t *groups"
+        },
+        {
+            "name": "ngroups",
+            "type": "int *",
+            "original_line": "int *ngroups"
+        }
+    ],
+    "variable": []
+}

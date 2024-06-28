@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "unsigned __int8 *",
+            "original_line": "unsigned __int8 *a1"
+        },
+        {
+            "name": "a2",
+            "type": "unsigned __int8 *",
+            "original_line": "unsigned __int8 *a2"
+        }
+    ],
+    "variable": []
+}

@@ -1,0 +1,20 @@
+{
+    "argument": [
+        {
+            "name": "file",
+            "type": "const char *",
+            "original_line": "const char *file"
+        },
+        {
+            "name": "owner",
+            "type": "__uid_t",
+            "original_line": "__uid_t owner"
+        },
+        {
+            "name": "group",
+            "type": "__gid_t",
+            "original_line": "__gid_t group"
+        }
+    ],
+    "variable": []
+}

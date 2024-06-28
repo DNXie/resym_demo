@@ -1,0 +1,147 @@
+[
+    {
+        "args": [
+            "*a2",
+            "a2",
+            "a3"
+        ],
+        "funName": "sub_40D16D",
+        "lineNum": 41
+    },
+    {
+        "args": [
+            "sub_40A9A6"
+        ],
+        "funName": "sub_415400",
+        "lineNum": 45
+    },
+    {
+        "args": [
+            "(__int64)&v30"
+        ],
+        "funName": "sub_40263B",
+        "lineNum": 46
+    },
+    {
+        "args": [],
+        "funName": "sub_402587",
+        "lineNum": 47
+    },
+    {
+        "args": [
+            "*v29"
+        ],
+        "funName": "sub_40D278",
+        "lineNum": 64
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_4029FD",
+        "lineNum": 73
+    },
+    {
+        "args": [
+            "v29[2]"
+        ],
+        "funName": "sub_40D278",
+        "lineNum": 84
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_4029FD",
+        "lineNum": 87
+    },
+    {
+        "args": [
+            "(char *)v29[v23 - 1]"
+        ],
+        "funName": "sub_402779",
+        "lineNum": 94
+    },
+    {
+        "args": [
+            "v29[v23 - 1]"
+        ],
+        "funName": "sub_40D278",
+        "lineNum": 100
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_4029FD",
+        "lineNum": 109
+    },
+    {
+        "args": [
+            "v18",
+            "v27"
+        ],
+        "funName": "sub_40A941",
+        "lineNum": 116
+    },
+    {
+        "args": [],
+        "funName": "sub_4098C8",
+        "lineNum": 123
+    },
+    {
+        "args": [
+            "&v30"
+        ],
+        "funName": "sub_406AEF",
+        "lineNum": 127
+    },
+    {
+        "args": [
+            "v29[i]",
+            "(__int64)v28",
+            "1",
+            "(__int64)&v30"
+        ],
+        "funName": "sub_402947",
+        "lineNum": 130
+    },
+    {
+        "args": [
+            "*v29",
+            "v29[1]",
+            "0",
+            "(__int64)&v30"
+        ],
+        "funName": "sub_402947",
+        "lineNum": 134
+    },
+    {
+        "args": [
+            "optarg"
+        ],
+        "funName": "sub_40D278",
+        "lineNum": 155
+    },
+    {
+        "args": [
+            "optarg"
+        ],
+        "funName": "sub_40D278",
+        "lineNum": 162
+    },
+    {
+        "args": [
+            "0"
+        ],
+        "funName": "sub_4029FD",
+        "lineNum": 220
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_4029FD",
+        "lineNum": 222
+    }
+]

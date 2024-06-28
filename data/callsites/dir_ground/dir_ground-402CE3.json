@@ -1,0 +1,16 @@
+[
+    {
+        "args": [
+            "qword_61D3A0"
+        ],
+        "funName": "sub_40A1D5",
+        "lineNum": 4
+    },
+    {
+        "args": [
+            "&qword_61D3B0"
+        ],
+        "funName": "sub_40A1D5",
+        "lineNum": 5
+    }
+]

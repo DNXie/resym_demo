@@ -1,0 +1,102 @@
+[
+    {
+        "expr": "v7",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(const char *, int) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(const char *, int) __attribute__((fastcall))",
+        "lineNum": 10,
+        "offset": 0,
+        "varName": "v7"
+    },
+    {
+        "expr": "a2",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "char **",
+        "lineNum": 11,
+        "offset": 0,
+        "varName": "a2"
+    },
+    {
+        "expr": "a2",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "char **",
+        "lineNum": 11,
+        "offset": 0,
+        "varName": "a2"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "char **",
+        "lineNum": 11,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a2",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "char **",
+        "lineNum": 20,
+        "offset": 0,
+        "varName": "a2"
+    },
+    {
+        "expr": "v7",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(const char *, int) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(const char *, int) __attribute__((fastcall))",
+        "lineNum": 35,
+        "offset": 0,
+        "varName": "v7"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 41,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 42,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "v7",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(const char *, int) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(const char *, int) __attribute__((fastcall))",
+        "lineNum": 53,
+        "offset": 0,
+        "varName": "v7"
+    },
+    {
+        "expr": "v7",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(const char *, int) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(const char *, int) __attribute__((fastcall))",
+        "lineNum": 59,
+        "offset": 0,
+        "varName": "v7"
+    }
+]

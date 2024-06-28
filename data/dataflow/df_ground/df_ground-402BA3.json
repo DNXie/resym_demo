@@ -1,0 +1,97 @@
+[
+    {
+        "lhsVarName": "v34",
+        "lineNum": 58,
+        "rhsVarName": "a1"
+    },
+    {
+        "lhsVarName": "v32",
+        "lineNum": 59,
+        "rhsVarName": "a4"
+    },
+    {
+        "lhsVarName": "v7",
+        "lineNum": 70,
+        "rhsVarName": "a2"
+    },
+    {
+        "lhsVarName": "v7",
+        "lineNum": 72,
+        "rhsVarName": "a1"
+    },
+    {
+        "lhsVarName": "a3",
+        "lineNum": 73,
+        "rhsVarName": "v7"
+    },
+    {
+        "lhsVarName": "v40",
+        "lineNum": 109,
+        "rhsVarName": "v58"
+    },
+    {
+        "lhsVarName": "v41",
+        "lineNum": 110,
+        "rhsVarName": "v59"
+    },
+    {
+        "lhsVarName": "v42",
+        "lineNum": 112,
+        "rhsVarName": "v59"
+    },
+    {
+        "lhsVarName": "v38",
+        "lineNum": 120,
+        "rhsVarName": "v53"
+    },
+    {
+        "lhsVarName": "v40",
+        "lineNum": 122,
+        "rhsVarName": "v54"
+    },
+    {
+        "lhsVarName": "v41",
+        "lineNum": 123,
+        "rhsVarName": "v56"
+    },
+    {
+        "lhsVarName": "v35",
+        "lineNum": 125,
+        "rhsVarName": "v10"
+    },
+    {
+        "lhsVarName": "v42",
+        "lineNum": 126,
+        "rhsVarName": "v55"
+    },
+    {
+        "lhsVarName": "v44",
+        "lineNum": 168,
+        "rhsVarName": "v19"
+    },
+    {
+        "lhsVarName": "v48",
+        "lineNum": 190,
+        "rhsVarName": "v22"
+    },
+    {
+        "lhsVarName": "v49",
+        "lineNum": 209,
+        "rhsVarName": "v25"
+    },
+    {
+        "lhsVarName": "v27",
+        "lineNum": 227,
+        "rhsVarName": "v44"
+    },
+    {
+        "lhsVarName": "v27",
+        "lineNum": 234,
+        "rhsVarName": "v44"
+    },
+    {
+        "lhsVarName": "v37",
+        "lineNum": 268,
+        "rhsVarName": "v11"
+    }
+]

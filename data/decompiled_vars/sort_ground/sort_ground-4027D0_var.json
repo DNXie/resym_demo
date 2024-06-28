@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "char *",
+            "original_line": "char *a1"
+        }
+    ],
+    "variable": []
+}

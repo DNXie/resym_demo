@@ -1,0 +1,20 @@
+{
+    "argument": [
+        {
+            "name": "ver",
+            "type": "int",
+            "original_line": "int ver"
+        },
+        {
+            "name": "fildes",
+            "type": "int",
+            "original_line": "int fildes"
+        },
+        {
+            "name": "stat_buf",
+            "type": "struct stat *",
+            "original_line": "struct stat *stat_buf"
+        }
+    ],
+    "variable": []
+}

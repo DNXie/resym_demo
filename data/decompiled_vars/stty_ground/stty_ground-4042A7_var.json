@@ -1,0 +1,21 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int",
+            "original_line": "int a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "i",
+            "type": "int",
+            "comment": "[rsp+10h] [rbp-4h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4",
+            "rbp_offset_dec": -4,
+            "original_line": "int i; // [rsp+10h] [rbp-4h]"
+        }
+    ]
+}

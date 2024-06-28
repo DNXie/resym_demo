@@ -1,0 +1,32 @@
+[
+    {
+        "args": [
+            "v18"
+        ],
+        "funName": "sub_4034BC",
+        "lineNum": 70
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_401B3F",
+        "lineNum": 112
+    },
+    {
+        "args": [
+            "32",
+            "a1 + 44",
+            "v10",
+            "32",
+            "a1 + 8",
+            "(__int64)v8",
+            "v15",
+            "s",
+            "(__int64)v7",
+            "&locale"
+        ],
+        "funName": "sub_401BAC",
+        "lineNum": 113
+    }
+]

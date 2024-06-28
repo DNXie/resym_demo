@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "_QWORD *",
+            "original_line": "_QWORD *a1"
+        }
+    ],
+    "variable": []
+}

@@ -1,0 +1,19 @@
+{
+    "argument": [
+        {
+            "name": "stream",
+            "type": "FILE *",
+            "original_line": "FILE *stream"
+        },
+        {
+            "name": "format",
+            "type": "const char *",
+            "original_line": "const char *format"
+        },
+        {
+            "name": "...",
+            "original_line": "..."
+        }
+    ],
+    "variable": []
+}

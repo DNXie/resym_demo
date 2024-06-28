@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "response",
+            "type": "const char *",
+            "original_line": "const char *response"
+        }
+    ],
+    "variable": []
+}

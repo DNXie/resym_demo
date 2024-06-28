@@ -1,0 +1,31 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "_BYTE *",
+            "original_line": "_BYTE *a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "char",
+            "comment": "[rsp+17h] [rbp-11h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-11",
+            "rbp_offset_dec": -17,
+            "original_line": "char v2; // [rsp+17h] [rbp-11h]"
+        },
+        {
+            "name": "i",
+            "type": "_BYTE *",
+            "comment": "[rsp+20h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "_BYTE *i; // [rsp+20h] [rbp-8h]"
+        }
+    ]
+}

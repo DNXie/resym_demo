@@ -1,0 +1,91 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int",
+            "original_line": "int a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v1",
+            "type": "__pid_t",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__pid_t v1; // eax"
+        },
+        {
+            "name": "v2",
+            "type": "char *",
+            "comment": "r12",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v2; // r12"
+        },
+        {
+            "name": "v3",
+            "type": "char *",
+            "comment": "rbx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v3; // rbx"
+        },
+        {
+            "name": "v4",
+            "type": "int *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int *v4; // rax"
+        },
+        {
+            "name": "v5",
+            "type": "char *",
+            "comment": "rbx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v5; // rbx"
+        },
+        {
+            "name": "v6",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v6; // rax"
+        },
+        {
+            "name": "stat_loc",
+            "type": "int",
+            "comment": "[rsp+28h] [rbp-18h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "int stat_loc; // [rsp+28h] [rbp-18h] BYREF"
+        },
+        {
+            "name": "v9",
+            "type": "__pid_t",
+            "comment": "[rsp+2Ch] [rbp-14h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-14",
+            "rbp_offset_dec": -20,
+            "original_line": "__pid_t v9; // [rsp+2Ch] [rbp-14h]"
+        }
+    ]
+}

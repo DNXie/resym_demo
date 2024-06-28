@@ -1,0 +1,15 @@
+[
+    {
+        "args": [
+            "a1",
+            "a2",
+            "0LL",
+            "0LL",
+            "0LL",
+            "readlinkat",
+            "a2"
+        ],
+        "funName": "sub_40874D",
+        "lineNum": 4
+    }
+]

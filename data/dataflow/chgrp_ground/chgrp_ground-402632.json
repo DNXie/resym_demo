@@ -1,0 +1,37 @@
+[
+    {
+        "lhsVarName": "v8",
+        "lineNum": 27,
+        "rhsVarName": "a4"
+    },
+    {
+        "lhsVarName": "v9",
+        "lineNum": 31,
+        "rhsVarName": "a3"
+    },
+    {
+        "lhsVarName": "format",
+        "lineNum": 52,
+        "rhsVarName": "v11"
+    },
+    {
+        "lhsVarName": "format",
+        "lineNum": 68,
+        "rhsVarName": "v12"
+    },
+    {
+        "lhsVarName": "ptr",
+        "lineNum": 70,
+        "rhsVarName": "v21"
+    },
+    {
+        "lhsVarName": "format",
+        "lineNum": 87,
+        "rhsVarName": "v13"
+    },
+    {
+        "lhsVarName": "format",
+        "lineNum": 102,
+        "rhsVarName": "v10"
+    }
+]

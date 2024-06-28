@@ -1,0 +1,25 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int",
+            "original_line": "int a1"
+        },
+        {
+            "name": "a2",
+            "type": "off_t",
+            "original_line": "off_t a2"
+        },
+        {
+            "name": "a3",
+            "type": "off_t",
+            "original_line": "off_t a3"
+        },
+        {
+            "name": "a4",
+            "type": "int",
+            "original_line": "int a4"
+        }
+    ],
+    "variable": []
+}

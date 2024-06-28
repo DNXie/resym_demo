@@ -1,0 +1,162 @@
+[
+    {
+        "expr": "v4",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 19,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 19,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "v5",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "v5"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 24,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[1]",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 25,
+        "offset": 1,
+        "varName": "a1"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 29,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 29,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a1[1]",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 32,
+        "offset": 1,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[2]",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 33,
+        "offset": 2,
+        "varName": "a1"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 40,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "v12",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 43,
+        "offset": 0,
+        "varName": "v12"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 43,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "v12",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 45,
+        "offset": 0,
+        "varName": "v12"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 51,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 54,
+        "offset": 0,
+        "varName": "a3"
+    }
+]

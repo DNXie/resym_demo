@@ -1,0 +1,35 @@
+[
+    {
+        "args": [
+            "a1",
+            "1LL"
+        ],
+        "funName": "sub_403E6E",
+        "lineNum": 13
+    },
+    {
+        "args": [
+            "1",
+            "a2"
+        ],
+        "funName": "sub_4035F0",
+        "lineNum": 14
+    },
+    {
+        "args": [
+            "(__int64)\"line = %d;\"",
+            "a1[16]"
+        ],
+        "funName": "sub_4019C6",
+        "lineNum": 15
+    },
+    {
+        "args": [
+            "(__int64)\"min = %lu; time = %lu;\"",
+            "a1[23]",
+            "a1[22]"
+        ],
+        "funName": "sub_4019C6",
+        "lineNum": 23
+    }
+]

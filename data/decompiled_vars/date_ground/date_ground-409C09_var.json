@@ -1,0 +1,46 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__int64",
+            "original_line": "__int64 a1"
+        },
+        {
+            "name": "a2",
+            "type": "_DWORD *",
+            "original_line": "_DWORD *a2"
+        },
+        {
+            "name": "a3",
+            "type": "__int64",
+            "original_line": "__int64 a3"
+        },
+        {
+            "name": "a4",
+            "type": "char",
+            "original_line": "char a4"
+        }
+    ],
+    "variable": [
+        {
+            "name": "timer",
+            "type": "time_t",
+            "comment": "[rsp+20h] [rbp-10h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "time_t timer; // [rsp+20h] [rbp-10h] BYREF"
+        },
+        {
+            "name": "v6",
+            "type": "struct tm *",
+            "comment": "[rsp+28h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "struct tm *v6; // [rsp+28h] [rbp-8h]"
+        }
+    ]
+}

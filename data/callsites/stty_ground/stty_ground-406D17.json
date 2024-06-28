@@ -1,0 +1,98 @@
+[
+    {
+        "args": [
+            "&v17",
+            "v13",
+            "3"
+        ],
+        "funName": "sub_406CD6",
+        "lineNum": 77
+    },
+    {
+        "args": [
+            "&v17",
+            "512"
+        ],
+        "funName": "sub_406C36",
+        "lineNum": 85
+    },
+    {
+        "args": [
+            "&v17",
+            "v13",
+            "7"
+        ],
+        "funName": "sub_406CD6",
+        "lineNum": 91
+    },
+    {
+        "args": [
+            "&v17",
+            "2"
+        ],
+        "funName": "sub_406C36",
+        "lineNum": 106
+    },
+    {
+        "args": [
+            "&v17",
+            "v13",
+            "4"
+        ],
+        "funName": "sub_406CD6",
+        "lineNum": 110
+    },
+    {
+        "args": [
+            "&v17",
+            "v13",
+            "6"
+        ],
+        "funName": "sub_406CD6",
+        "lineNum": 122
+    },
+    {
+        "args": [
+            "&v17",
+            "1024"
+        ],
+        "funName": "sub_406C36",
+        "lineNum": 133
+    },
+    {
+        "args": [
+            "&v17",
+            "v13",
+            "5"
+        ],
+        "funName": "sub_406CD6",
+        "lineNum": 140
+    },
+    {
+        "args": [
+            "&v17",
+            "v13",
+            "2"
+        ],
+        "funName": "sub_406CD6",
+        "lineNum": 148
+    },
+    {
+        "args": [
+            "&v17",
+            "v13",
+            "1"
+        ],
+        "funName": "sub_406CD6",
+        "lineNum": 153
+    },
+    {
+        "args": [
+            "&v17",
+            "v13",
+            "8"
+        ],
+        "funName": "sub_406CD6",
+        "lineNum": 156
+    }
+]

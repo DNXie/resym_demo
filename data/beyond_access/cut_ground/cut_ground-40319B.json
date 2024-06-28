@@ -1,0 +1,172 @@
+[
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "ptr"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "void **",
+        "lhsPointeeSize": 8,
+        "lhsType": "void **",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 25,
+        "offset": 0,
+        "varName": "ptr"
+    },
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 31,
+        "offset": 0,
+        "varName": "ptr"
+    },
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 32,
+        "offset": 0,
+        "varName": "ptr"
+    },
+    {
+        "expr": "src",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 53,
+        "offset": 0,
+        "varName": "src"
+    },
+    {
+        "expr": "src",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 57,
+        "offset": 0,
+        "varName": "src"
+    },
+    {
+        "expr": "v27",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 85,
+        "offset": 0,
+        "varName": "v27"
+    },
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 87,
+        "offset": 0,
+        "varName": "ptr"
+    },
+    {
+        "expr": "v27",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 87,
+        "offset": 0,
+        "varName": "v27"
+    },
+    {
+        "expr": "src",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 96,
+        "offset": 0,
+        "varName": "src"
+    },
+    {
+        "expr": "(_BYTE *)dest",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8 *",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 99,
+        "offset": 0,
+        "varName": "dest"
+    },
+    {
+        "expr": "dest",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 116,
+        "offset": 0,
+        "varName": "dest"
+    },
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 116,
+        "offset": 0,
+        "varName": "ptr"
+    },
+    {
+        "expr": "(_BYTE *)dest",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8 *",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 119,
+        "offset": 0,
+        "varName": "dest"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "void **",
+        "lhsPointeeSize": 8,
+        "lhsType": "void **",
+        "lineNum": 122,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 122,
+        "offset": 0,
+        "varName": "ptr"
+    }
+]

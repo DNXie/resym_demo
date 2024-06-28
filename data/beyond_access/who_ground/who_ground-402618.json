@@ -1,0 +1,42 @@
+[
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 10,
+        "offset": 0,
+        "varName": "ptr"
+    },
+    {
+        "expr": "(int *)(a1 + 4)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 11,
+        "offset": 4,
+        "varName": "a1"
+    },
+    {
+        "expr": "v1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 12,
+        "offset": 0,
+        "varName": "v1"
+    },
+    {
+        "expr": "ptr",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 14,
+        "offset": 0,
+        "varName": "ptr"
+    }
+]

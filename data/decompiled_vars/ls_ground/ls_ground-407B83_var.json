@@ -1,0 +1,36 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "_QWORD *",
+            "original_line": "_QWORD *a1"
+        },
+        {
+            "name": "a2",
+            "type": "_QWORD *",
+            "original_line": "_QWORD *a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v3",
+            "type": "bool",
+            "comment": "[rsp+1Eh] [rbp-2h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-2",
+            "rbp_offset_dec": -2,
+            "original_line": "bool v3; // [rsp+1Eh] [rbp-2h]"
+        },
+        {
+            "name": "v4",
+            "type": "bool",
+            "comment": "[rsp+1Fh] [rbp-1h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-1",
+            "rbp_offset_dec": -1,
+            "original_line": "bool v4; // [rsp+1Fh] [rbp-1h]"
+        }
+    ]
+}

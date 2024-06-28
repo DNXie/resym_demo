@@ -1,0 +1,96 @@
+[
+    {
+        "args": [
+            "(__int64)v21",
+            "8uLL"
+        ],
+        "funName": "sub_40170B",
+        "lineNum": 27
+    },
+    {
+        "args": [
+            "*a2"
+        ],
+        "funName": "sub_40AABA",
+        "lineNum": 31
+    },
+    {
+        "args": [
+            "sub_402C91"
+        ],
+        "funName": "sub_40D450",
+        "lineNum": 35
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401869",
+        "lineNum": 52
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401869",
+        "lineNum": 58
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401869",
+        "lineNum": 64
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401869",
+        "lineNum": 70
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401869",
+        "lineNum": 76
+    },
+    {
+        "args": [
+            "(__int64)\"-\""
+        ],
+        "funName": "sub_40185B",
+        "lineNum": 83
+    },
+    {
+        "args": [
+            "s"
+        ],
+        "funName": "sub_401FAC",
+        "lineNum": 90
+    },
+    {
+        "args": [
+            "s",
+            "(__int64)&v15",
+            "v19"
+        ],
+        "funName": "sub_401E5D",
+        "lineNum": 95
+    },
+    {
+        "args": [
+            "0"
+        ],
+        "funName": "sub_401869",
+        "lineNum": 182
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401869",
+        "lineNum": 199
+    }
+]

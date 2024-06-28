@@ -1,0 +1,51 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "_QWORD *",
+            "original_line": "_QWORD *a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "_QWORD *",
+            "comment": "rsi",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "_QWORD *v2; // rsi"
+        },
+        {
+            "name": "v3",
+            "type": "__int64",
+            "comment": "rdi",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v3; // rdi"
+        },
+        {
+            "name": "v4",
+            "type": "__int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v4; // rax"
+        },
+        {
+            "name": "v6",
+            "type": "__int64",
+            "comment": "[rsp+18h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "__int64 v6; // [rsp+18h] [rbp-8h]"
+        }
+    ]
+}

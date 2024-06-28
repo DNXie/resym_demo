@@ -1,0 +1,41 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "FILE *",
+            "original_line": "FILE *a1"
+        },
+        {
+            "name": "a2",
+            "type": "const char *",
+            "original_line": "const char *a2"
+        },
+        {
+            "name": "a3",
+            "type": "const char *",
+            "original_line": "const char *a3"
+        },
+        {
+            "name": "a4",
+            "type": "const char *",
+            "original_line": "const char *a4"
+        },
+        {
+            "name": "a5",
+            "type": "__int64 *",
+            "original_line": "__int64 *a5"
+        }
+    ],
+    "variable": [
+        {
+            "name": "i",
+            "type": "unsigned __int64",
+            "comment": "[rsp+38h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "unsigned __int64 i; // [rsp+38h] [rbp-8h]"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+[
+    {
+        "args": [],
+        "funName": "sub_405FEF",
+        "lineNum": 5
+    },
+    {
+        "args": [
+            "a2 * a1",
+            "a2"
+        ],
+        "funName": "sub_405E6D",
+        "lineNum": 6
+    }
+]

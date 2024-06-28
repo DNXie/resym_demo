@@ -1,0 +1,20 @@
+{
+    "argument": [
+        {
+            "name": "fd",
+            "type": "int",
+            "original_line": "int fd"
+        },
+        {
+            "name": "name",
+            "type": "const char *",
+            "original_line": "const char *name"
+        },
+        {
+            "name": "mask",
+            "type": "uint32_t",
+            "original_line": "uint32_t mask"
+        }
+    ],
+    "variable": []
+}

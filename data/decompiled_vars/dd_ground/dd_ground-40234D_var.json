@@ -1,0 +1,35 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "result",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int result; // eax"
+        },
+        {
+            "name": "v1",
+            "type": "bool",
+            "comment": "[rsp+Fh] [rbp-A1h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-A1",
+            "rbp_offset_dec": -161,
+            "original_line": "bool v1; // [rsp+Fh] [rbp-A1h]"
+        },
+        {
+            "name": "v2",
+            "type": "struct sigaction",
+            "comment": "[rsp+10h] [rbp-A0h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-A0",
+            "rbp_offset_dec": -160,
+            "original_line": "struct sigaction v2; // [rsp+10h] [rbp-A0h] BYREF"
+        }
+    ]
+}

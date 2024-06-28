@@ -1,0 +1,60 @@
+[
+    {
+        "args": [
+            "*(_QWORD *)(v6 + 8)",
+            "v3"
+        ],
+        "funName": "sub_4023D9",
+        "lineNum": 23
+    },
+    {
+        "args": [
+            "qword_60A208",
+            "a2"
+        ],
+        "funName": "sub_4023D9",
+        "lineNum": 27
+    },
+    {
+        "args": [
+            "qword_60A200",
+            "(__int64)a1"
+        ],
+        "funName": "sub_4023D9",
+        "lineNum": 31
+    },
+    {
+        "args": [
+            "qword_60A208",
+            "a2"
+        ],
+        "funName": "sub_4023D9",
+        "lineNum": 43
+    },
+    {
+        "args": [
+            "qword_60A200",
+            "(__int64)a1"
+        ],
+        "funName": "sub_4023D9",
+        "lineNum": 45
+    },
+    {
+        "args": [
+            "(__int64)a1",
+            "qword_60A200",
+            "qword_60A318"
+        ],
+        "funName": "sub_402497",
+        "lineNum": 46
+    },
+    {
+        "args": [
+            "a2",
+            "qword_60A208",
+            "qword_60A320"
+        ],
+        "funName": "sub_402497",
+        "lineNum": 47
+    }
+]

@@ -1,0 +1,51 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "void **",
+            "original_line": "void **a1"
+        },
+        {
+            "name": "a2",
+            "type": "__int64",
+            "original_line": "__int64 a2"
+        },
+        {
+            "name": "a3",
+            "type": "__int64",
+            "original_line": "__int64 a3"
+        }
+    ],
+    "variable": [
+        {
+            "name": "result",
+            "type": "unsigned __int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "unsigned __int64 result; // rax"
+        },
+        {
+            "name": "v4",
+            "type": "unsigned __int64",
+            "comment": "[rsp+20h] [rbp-10h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "unsigned __int64 v4; // [rsp+20h] [rbp-10h] BYREF"
+        },
+        {
+            "name": "ptr",
+            "type": "void *",
+            "comment": "[rsp+28h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "void *ptr; // [rsp+28h] [rbp-8h]"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "args": [
+            "dest"
+        ],
+        "funName": "sub_4073EC",
+        "lineNum": 57
+    },
+    {
+        "args": [
+            "src[1]"
+        ],
+        "funName": "sub_40210B",
+        "lineNum": 71
+    },
+    {
+        "args": [
+            "src[1]"
+        ],
+        "funName": "sub_40210B",
+        "lineNum": 87
+    },
+    {
+        "args": [
+            "*src"
+        ],
+        "funName": "sub_4041A8",
+        "lineNum": 106
+    }
+]

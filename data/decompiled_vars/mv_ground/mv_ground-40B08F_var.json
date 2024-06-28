@@ -1,0 +1,31 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__int64",
+            "original_line": "__int64 a1"
+        },
+        {
+            "name": "a2",
+            "type": "__int64",
+            "original_line": "__int64 a2"
+        },
+        {
+            "name": "a3",
+            "type": "__int64 *",
+            "original_line": "__int64 *a3"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v4",
+            "type": "__int64",
+            "comment": "[rsp+20h] [rbp-20h] BYREF",
+            "array_size": 4,
+            "star_count": 0,
+            "rbp_offset_hex": "-20",
+            "rbp_offset_dec": -32,
+            "original_line": "__int64 v4[4]; // [rsp+20h] [rbp-20h] BYREF"
+        }
+    ]
+}

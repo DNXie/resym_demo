@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "v3",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8 *",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 8,
+        "offset": 0,
+        "varName": "v3"
+    }
+]

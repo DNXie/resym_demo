@@ -1,0 +1,25 @@
+[
+    {
+        "args": [
+            "\"/proc/self/exe\""
+        ],
+        "funName": "sub_4062C3",
+        "lineNum": 14
+    },
+    {
+        "args": [
+            "v1"
+        ],
+        "funName": "sub_406261",
+        "lineNum": 24
+    },
+    {
+        "args": [
+            "i",
+            "a1",
+            "0LL"
+        ],
+        "funName": "sub_402D0F",
+        "lineNum": 27
+    }
+]

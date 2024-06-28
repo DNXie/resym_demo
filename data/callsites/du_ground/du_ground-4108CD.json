@@ -1,0 +1,214 @@
+[
+    {
+        "args": [
+            "a1",
+            "v2",
+            "0LL"
+        ],
+        "funName": "sub_411DD6",
+        "lineNum": 39
+    },
+    {
+        "args": [
+            "a1",
+            "v2",
+            "1LL"
+        ],
+        "funName": "sub_411DD6",
+        "lineNum": 44
+    },
+    {
+        "args": [
+            "a1",
+            "(int)\".\"",
+            "v4",
+            "v5",
+            "v6",
+            "v7"
+        ],
+        "funName": "sub_41003F",
+        "lineNum": 47
+    },
+    {
+        "args": [
+            "*(void **)(a1 + 8)"
+        ],
+        "funName": "sub_4121CD",
+        "lineNum": 68
+    },
+    {
+        "args": [
+            "a1",
+            "v2"
+        ],
+        "funName": "sub_40FD3A",
+        "lineNum": 72
+    },
+    {
+        "args": [
+            "*(void **)(a1 + 8)"
+        ],
+        "funName": "sub_4121CD",
+        "lineNum": 80
+    },
+    {
+        "args": [
+            "a1",
+            "v2",
+            "0xFFFFFFFFLL",
+            "*(_QWORD *)(v2 + 48)"
+        ],
+        "funName": "sub_41243E",
+        "lineNum": 85
+    },
+    {
+        "args": [
+            "a1",
+            "3LL"
+        ],
+        "funName": "sub_411394",
+        "lineNum": 95
+    },
+    {
+        "args": [
+            "a1",
+            "v2"
+        ],
+        "funName": "sub_40FD3A",
+        "lineNum": 102
+    },
+    {
+        "args": [
+            "a1",
+            "3LL"
+        ],
+        "funName": "sub_411394",
+        "lineNum": 126
+    },
+    {
+        "args": [
+            "a1",
+            "*(_DWORD *)(v20 + 68)",
+            "1"
+        ],
+        "funName": "sub_40FFB2",
+        "lineNum": 156
+    },
+    {
+        "args": [
+            "a1",
+            "*(_QWORD *)(v20 + 8)",
+            "0xFFFFFFFFLL",
+            "\"..\""
+        ],
+        "funName": "sub_41243E",
+        "lineNum": 177
+    },
+    {
+        "args": [
+            "a1 + 96"
+        ],
+        "funName": "sub_40FE94",
+        "lineNum": 181
+    },
+    {
+        "args": [
+            "a1",
+            "-100",
+            "1"
+        ],
+        "funName": "sub_40FFB2",
+        "lineNum": 186
+    },
+    {
+        "args": [
+            "a1",
+            "v20"
+        ],
+        "funName": "sub_40FD3A",
+        "lineNum": 211
+    },
+    {
+        "args": [
+            "a1",
+            "v2",
+            "1LL"
+        ],
+        "funName": "sub_411DD6",
+        "lineNum": 229
+    },
+    {
+        "args": [
+            "a1",
+            "(int)\".\"",
+            "v14",
+            "v15",
+            "v16",
+            "v17"
+        ],
+        "funName": "sub_41003F",
+        "lineNum": 232
+    },
+    {
+        "args": [
+            "a1 + 96"
+        ],
+        "funName": "sub_40FE94",
+        "lineNum": 248
+    },
+    {
+        "args": [
+            "a1",
+            "-100",
+            "1"
+        ],
+        "funName": "sub_40FFB2",
+        "lineNum": 253
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_40FE47",
+        "lineNum": 268
+    },
+    {
+        "args": [
+            "a1",
+            "(const char *)v2"
+        ],
+        "funName": "sub_410446",
+        "lineNum": 269
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_40FB91",
+        "lineNum": 270
+    },
+    {
+        "args": [
+            "v27"
+        ],
+        "funName": "sub_410780",
+        "lineNum": 282
+    },
+    {
+        "args": [
+            "a1",
+            "v2",
+            "0LL"
+        ],
+        "funName": "sub_411DD6",
+        "lineNum": 284
+    },
+    {
+        "args": [
+            "a1",
+            "v2"
+        ],
+        "funName": "sub_40FC2A",
+        "lineNum": 298
+    }
+]

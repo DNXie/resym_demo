@@ -1,0 +1,20 @@
+{
+    "argument": [
+        {
+            "name": "dest",
+            "type": "char *",
+            "original_line": "char *dest"
+        },
+        {
+            "name": "src",
+            "type": "const char *",
+            "original_line": "const char *src"
+        },
+        {
+            "name": "n",
+            "type": "size_t",
+            "original_line": "size_t n"
+        }
+    ],
+    "variable": []
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "lhsVarName": "v16",
+        "lineNum": 26,
+        "rhsVarName": "v0"
+    },
+    {
+        "lhsVarName": "v15",
+        "lineNum": 84,
+        "rhsVarName": "v2"
+    },
+    {
+        "lhsVarName": "v15",
+        "lineNum": 128,
+        "rhsVarName": "v10"
+    },
+    {
+        "lhsVarName": "ptr",
+        "lineNum": 147,
+        "rhsVarName": "v19"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "args": [
+            "a4->tm_yday",
+            "a4->tm_wday"
+        ],
+        "funName": "sub_402F4E",
+        "lineNum": 718
+    },
+    {
+        "args": [
+            "a4->tm_yday + -365 - v26",
+            "a4->tm_wday"
+        ],
+        "funName": "sub_402F4E",
+        "lineNum": 722
+    },
+    {
+        "args": [
+            "a4->tm_yday + v25 + 365",
+            "a4->tm_wday"
+        ],
+        "funName": "sub_402F4E",
+        "lineNum": 733
+    }
+]

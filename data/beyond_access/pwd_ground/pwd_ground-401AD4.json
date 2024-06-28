@@ -1,0 +1,92 @@
+[
+    {
+        "expr": "v1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 6,
+        "offset": 0,
+        "varName": "v1"
+    },
+    {
+        "expr": "v1[1]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 7,
+        "offset": 1,
+        "varName": "v1"
+    },
+    {
+        "expr": "v1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 8,
+        "offset": 0,
+        "varName": "v1"
+    },
+    {
+        "expr": "v1[1]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 8,
+        "offset": 1,
+        "varName": "v1"
+    },
+    {
+        "expr": "v1[2]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 9,
+        "offset": 2,
+        "varName": "v1"
+    },
+    {
+        "expr": "v1[1]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 9,
+        "offset": 1,
+        "varName": "v1"
+    },
+    {
+        "expr": "v1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 9,
+        "offset": 0,
+        "varName": "v1"
+    },
+    {
+        "expr": "v1[2]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 10,
+        "offset": 2,
+        "varName": "v1"
+    },
+    {
+        "expr": "v1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 11,
+        "offset": 0,
+        "varName": "v1"
+    }
+]

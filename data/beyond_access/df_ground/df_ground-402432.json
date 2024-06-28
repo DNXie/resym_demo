@@ -1,0 +1,72 @@
+[
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 20,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 26,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 31,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "v0",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 32,
+        "offset": 0,
+        "varName": "v0"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 32,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "v0",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 35,
+        "offset": 0,
+        "varName": "v0"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 36,
+        "offset": 0,
+        "varName": "s"
+    }
+]

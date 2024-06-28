@@ -1,0 +1,36 @@
+[
+    {
+        "args": [
+            "stream",
+            "2LL"
+        ],
+        "funName": "sub_4022DA",
+        "lineNum": 25
+    },
+    {
+        "args": [
+            "stdin",
+            "2LL"
+        ],
+        "funName": "sub_4022DA",
+        "lineNum": 31
+    },
+    {
+        "args": [
+            "stream"
+        ],
+        "funName": "sub_405AEB",
+        "lineNum": 46
+    },
+    {
+        "args": [
+            "v10",
+            "v11",
+            "0LL",
+            "1LL",
+            "1024LL"
+        ],
+        "funName": "sub_402542",
+        "lineNum": 56
+    }
+]

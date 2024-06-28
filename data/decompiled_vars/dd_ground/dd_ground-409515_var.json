@@ -1,0 +1,15 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "tp",
+            "type": "struct timespec",
+            "comment": "[rsp+0h] [rbp-10h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "struct timespec tp; // [rsp+0h] [rbp-10h] BYREF"
+        }
+    ]
+}

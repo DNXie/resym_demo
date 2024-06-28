@@ -1,0 +1,56 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "const char *",
+            "original_line": "const char *a1"
+        },
+        {
+            "name": "a2",
+            "type": "__int64",
+            "original_line": "__int64 a2"
+        },
+        {
+            "name": "a3",
+            "type": "const char *",
+            "original_line": "const char *a3"
+        },
+        {
+            "name": "a4",
+            "type": "__int64",
+            "original_line": "__int64 a4"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v10",
+            "type": "unsigned int",
+            "comment": "[rsp+2Ch] [rbp-14h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-14",
+            "rbp_offset_dec": -20,
+            "original_line": "unsigned int v10; // [rsp+2Ch] [rbp-14h]"
+        },
+        {
+            "name": "v11",
+            "type": "size_t",
+            "comment": "[rsp+30h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "size_t v11; // [rsp+30h] [rbp-10h]"
+        },
+        {
+            "name": "v12",
+            "type": "size_t",
+            "comment": "[rsp+38h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "size_t v12; // [rsp+38h] [rbp-8h]"
+        }
+    ]
+}

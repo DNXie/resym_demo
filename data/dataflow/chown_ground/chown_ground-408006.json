@@ -1,0 +1,37 @@
+[
+    {
+        "lhsVarName": "v47",
+        "lineNum": 73,
+        "rhsVarName": "v14"
+    },
+    {
+        "lhsVarName": "v48",
+        "lineNum": 130,
+        "rhsVarName": "v16"
+    },
+    {
+        "lhsVarName": "v36",
+        "lineNum": 221,
+        "rhsVarName": "v29"
+    },
+    {
+        "lhsVarName": "v38",
+        "lineNum": 226,
+        "rhsVarName": "v27"
+    },
+    {
+        "lhsVarName": "v36",
+        "lineNum": 231,
+        "rhsVarName": "v28"
+    },
+    {
+        "lhsVarName": "v42",
+        "lineNum": 234,
+        "rhsVarName": "v35"
+    },
+    {
+        "lhsVarName": "result",
+        "lineNum": 280,
+        "rhsVarName": "v18"
+    }
+]

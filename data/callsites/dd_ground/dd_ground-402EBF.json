@@ -1,0 +1,156 @@
+[
+    {
+        "args": [
+            "s"
+        ],
+        "funName": "sub_40685B",
+        "lineNum": 40
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401D9F",
+        "lineNum": 43
+    },
+    {
+        "args": [
+            "s",
+            "\"if\""
+        ],
+        "funName": "sub_402E95",
+        "lineNum": 46
+    },
+    {
+        "args": [
+            "s",
+            "\"of\""
+        ],
+        "funName": "sub_402E95",
+        "lineNum": 50
+    },
+    {
+        "args": [
+            "s",
+            "\"conv\""
+        ],
+        "funName": "sub_402E95",
+        "lineNum": 54
+    },
+    {
+        "args": [
+            "s",
+            "\"iflag\""
+        ],
+        "funName": "sub_402E95",
+        "lineNum": 58
+    },
+    {
+        "args": [
+            "s",
+            "\"oflag\""
+        ],
+        "funName": "sub_402E95",
+        "lineNum": 62
+    },
+    {
+        "args": [
+            "s",
+            "\"status\""
+        ],
+        "funName": "sub_402E95",
+        "lineNum": 66
+    },
+    {
+        "args": [
+            "(__int64)v28",
+            "&v24"
+        ],
+        "funName": "sub_402DD8",
+        "lineNum": 73
+    },
+    {
+        "args": [
+            "s",
+            "\"ibs\""
+        ],
+        "funName": "sub_402E95",
+        "lineNum": 74
+    },
+    {
+        "args": [
+            "s",
+            "\"obs\""
+        ],
+        "funName": "sub_402E95",
+        "lineNum": 89
+    },
+    {
+        "args": [
+            "s",
+            "\"bs\""
+        ],
+        "funName": "sub_402E95",
+        "lineNum": 104
+    },
+    {
+        "args": [
+            "s",
+            "\"cbs\""
+        ],
+        "funName": "sub_402E95",
+        "lineNum": 119
+    },
+    {
+        "args": [
+            "s",
+            "\"skip\""
+        ],
+        "funName": "sub_402E95",
+        "lineNum": 124
+    },
+    {
+        "args": [
+            "s",
+            "\"seek\""
+        ],
+        "funName": "sub_402E95",
+        "lineNum": 128
+    },
+    {
+        "args": [
+            "s",
+            "\"count\""
+        ],
+        "funName": "sub_402E95",
+        "lineNum": 134
+    },
+    {
+        "args": [
+            "s"
+        ],
+        "funName": "sub_40685B",
+        "lineNum": 136
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401D9F",
+        "lineNum": 139
+    },
+    {
+        "args": [
+            "v28"
+        ],
+        "funName": "sub_40685B",
+        "lineNum": 145
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401D9F",
+        "lineNum": 174
+    }
+]

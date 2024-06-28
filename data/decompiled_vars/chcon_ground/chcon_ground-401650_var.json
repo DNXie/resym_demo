@@ -1,0 +1,25 @@
+{
+    "argument": [
+        {
+            "name": "base",
+            "type": "void *",
+            "original_line": "void *base"
+        },
+        {
+            "name": "nmemb",
+            "type": "size_t",
+            "original_line": "size_t nmemb"
+        },
+        {
+            "name": "size",
+            "type": "size_t",
+            "original_line": "size_t size"
+        },
+        {
+            "name": "compar",
+            "type": "__compar_fn_t",
+            "original_line": "__compar_fn_t compar"
+        }
+    ],
+    "variable": []
+}

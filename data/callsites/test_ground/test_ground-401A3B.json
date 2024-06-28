@@ -1,0 +1,78 @@
+[
+    {
+        "args": [],
+        "funName": "sub_401736",
+        "lineNum": 22
+    },
+    {
+        "args": [
+            "1LL"
+        ],
+        "funName": "sub_401E45",
+        "lineNum": 30
+    },
+    {
+        "args": [
+            "0LL"
+        ],
+        "funName": "sub_401E45",
+        "lineNum": 34
+    },
+    {
+        "args": [
+            "v4",
+            "v3"
+        ],
+        "funName": "sub_40165F",
+        "lineNum": 44
+    },
+    {
+        "args": [],
+        "funName": "sub_402825",
+        "lineNum": 46
+    },
+    {
+        "args": [
+            "0"
+        ],
+        "funName": "sub_4016DE",
+        "lineNum": 51
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_4016DE",
+        "lineNum": 56
+    },
+    {
+        "args": [
+            "i"
+        ],
+        "funName": "sub_40349F",
+        "lineNum": 68
+    },
+    {
+        "args": [
+            "v0",
+            "0LL"
+        ],
+        "funName": "sub_40165F",
+        "lineNum": 72
+    },
+    {
+        "args": [
+            "v2",
+            "v1"
+        ],
+        "funName": "sub_40165F",
+        "lineNum": 79
+    },
+    {
+        "args": [
+            "0"
+        ],
+        "funName": "sub_4016DE",
+        "lineNum": 81
+    }
+]

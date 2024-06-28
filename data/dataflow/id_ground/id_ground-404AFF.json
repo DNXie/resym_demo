@@ -1,0 +1,12 @@
+[
+    {
+        "lhsVarName": "v8",
+        "lineNum": 25,
+        "rhsVarName": "ngroups"
+    },
+    {
+        "lhsVarName": "ngroups",
+        "lineNum": 37,
+        "rhsVarName": "v10"
+    }
+]

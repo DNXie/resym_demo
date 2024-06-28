@@ -1,0 +1,31 @@
+[
+    {
+        "args": [
+            "\".\"",
+            "0",
+            "a3"
+        ],
+        "funName": "sub_408E30",
+        "lineNum": 10
+    },
+    {
+        "args": [
+            "*(_DWORD *)a1",
+            "1",
+            "a1",
+            "v3",
+            "v4",
+            "v5"
+        ],
+        "funName": "sub_408BF3",
+        "lineNum": 13
+    },
+    {
+        "args": [
+            "0LL",
+            "0LL"
+        ],
+        "funName": "sub_40B4DA",
+        "lineNum": 18
+    }
+]

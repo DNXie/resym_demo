@@ -1,0 +1,75 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "v0",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v0; // al"
+        },
+        {
+            "name": "v1",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v1; // al"
+        },
+        {
+            "name": "result",
+            "type": "_QWORD *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "_QWORD *result; // rax"
+        },
+        {
+            "name": "i",
+            "type": "int",
+            "comment": "[rsp+0h] [rbp-14h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-14",
+            "rbp_offset_dec": -20,
+            "original_line": "int i; // [rsp+0h] [rbp-14h]"
+        },
+        {
+            "name": "v4",
+            "type": "int",
+            "comment": "[rsp+4h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "int v4; // [rsp+4h] [rbp-10h]"
+        },
+        {
+            "name": "v5",
+            "type": "int",
+            "comment": "[rsp+8h] [rbp-Ch]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C",
+            "rbp_offset_dec": -12,
+            "original_line": "int v5; // [rsp+8h] [rbp-Ch]"
+        },
+        {
+            "name": "v6",
+            "type": "_QWORD *",
+            "comment": "[rsp+Ch] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "_QWORD *v6; // [rsp+Ch] [rbp-8h]"
+        }
+    ]
+}

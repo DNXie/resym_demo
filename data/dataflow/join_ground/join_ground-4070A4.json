@@ -1,0 +1,22 @@
+[
+    {
+        "lhsVarName": "a1",
+        "lineNum": 16,
+        "rhsVarName": "v10"
+    },
+    {
+        "lhsVarName": "a3",
+        "lineNum": 17,
+        "rhsVarName": "v10"
+    },
+    {
+        "lhsVarName": "a2",
+        "lineNum": 18,
+        "rhsVarName": "v10"
+    },
+    {
+        "lhsVarName": "a4",
+        "lineNum": 19,
+        "rhsVarName": "v10"
+    }
+]

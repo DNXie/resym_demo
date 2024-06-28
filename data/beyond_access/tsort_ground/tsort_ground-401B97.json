@@ -1,0 +1,92 @@
+[
+    {
+        "expr": "(const char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 7,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(const char **)a2",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 7,
+        "offset": 0,
+        "varName": "a2"
+    },
+    {
+        "expr": "(_QWORD *)(a2 + 32)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 10,
+        "offset": 32,
+        "varName": "a2"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 11,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 12,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "v3[1]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 13,
+        "offset": 1,
+        "varName": "v3"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 48)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 13,
+        "offset": 48,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 48)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 15,
+        "offset": 48,
+        "varName": "a1"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 15,
+        "offset": 0,
+        "varName": "v3"
+    }
+]

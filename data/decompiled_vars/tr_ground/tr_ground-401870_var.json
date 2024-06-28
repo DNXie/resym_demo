@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "char",
+            "original_line": "char a1"
+        },
+        {
+            "name": "a2",
+            "type": "char",
+            "original_line": "char a2"
+        }
+    ],
+    "variable": []
+}

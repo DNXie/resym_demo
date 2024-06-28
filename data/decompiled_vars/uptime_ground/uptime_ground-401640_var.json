@@ -1,0 +1,20 @@
+{
+    "argument": [
+        {
+            "name": "s",
+            "type": "char *",
+            "original_line": "char *s"
+        },
+        {
+            "name": "n",
+            "type": "int",
+            "original_line": "int n"
+        },
+        {
+            "name": "stream",
+            "type": "FILE *",
+            "original_line": "FILE *stream"
+        }
+    ],
+    "variable": []
+}

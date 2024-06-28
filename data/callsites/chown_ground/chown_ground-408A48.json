@@ -1,0 +1,28 @@
+[
+    {
+        "args": [
+            "*(char **)(a2 + 48)",
+            "s"
+        ],
+        "funName": "sub_40B8B0",
+        "lineNum": 14
+    },
+    {
+        "args": [
+            "*(char **)(a2 + 48)",
+            "s"
+        ],
+        "funName": "sub_40B8D0",
+        "lineNum": 17
+    },
+    {
+        "args": [
+            "*(_DWORD *)(a1 + 44)",
+            "*(char **)(a2 + 48)",
+            "s",
+            "256"
+        ],
+        "funName": "sub_40B8E0",
+        "lineNum": 26
+    }
+]

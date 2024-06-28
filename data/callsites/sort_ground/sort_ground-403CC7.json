@@ -1,0 +1,16 @@
+[
+    {
+        "args": [
+            "*((_DWORD *)ptr + 2)"
+        ],
+        "funName": "sub_403204",
+        "lineNum": 26
+    },
+    {
+        "args": [
+            "v11"
+        ],
+        "funName": "sub_402F69",
+        "lineNum": 28
+    }
+]

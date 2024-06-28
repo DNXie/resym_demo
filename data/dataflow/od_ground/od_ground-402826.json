@@ -1,0 +1,32 @@
+[
+    {
+        "lhsVarName": "v19",
+        "lineNum": 70,
+        "rhsVarName": "v33"
+    },
+    {
+        "lhsVarName": "v28",
+        "lineNum": 76,
+        "rhsVarName": "v34"
+    },
+    {
+        "lhsVarName": "v9",
+        "lineNum": 187,
+        "rhsVarName": "v33"
+    },
+    {
+        "lhsVarName": "v28",
+        "lineNum": 193,
+        "rhsVarName": "v34"
+    },
+    {
+        "lhsVarName": "v35",
+        "lineNum": 300,
+        "rhsVarName": "v15"
+    },
+    {
+        "lhsVarName": "v35",
+        "lineNum": 309,
+        "rhsVarName": "v16"
+    }
+]

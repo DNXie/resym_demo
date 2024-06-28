@@ -1,0 +1,31 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "const char *",
+            "original_line": "const char *a1"
+        },
+        {
+            "name": "a2",
+            "type": "int",
+            "original_line": "int a2"
+        },
+        {
+            "name": "a3",
+            "type": "__mode_t",
+            "original_line": "__mode_t a3"
+        }
+    ],
+    "variable": [
+        {
+            "name": "result",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int result; // eax"
+        }
+    ]
+}

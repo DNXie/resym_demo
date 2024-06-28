@@ -1,0 +1,32 @@
+[
+    {
+        "args": [],
+        "funName": "sub_409515",
+        "lineNum": 26
+    },
+    {
+        "args": [
+            "qword_60E3E0"
+        ],
+        "funName": "sub_401C0C",
+        "lineNum": 36
+    },
+    {
+        "args": [
+            "qword_60E3B8",
+            "v19",
+            "465LL",
+            "1LL",
+            "1LL"
+        ],
+        "funName": "sub_405986",
+        "lineNum": 42
+    },
+    {
+        "args": [
+            "qword_60E3B8"
+        ],
+        "funName": "sub_401C0C",
+        "lineNum": 44
+    }
+]

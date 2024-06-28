@@ -1,0 +1,22 @@
+[
+    {
+        "expr": "(_DWORD *)(a1 + 160)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 4,
+        "offset": 160,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_DWORD *)(a1 + 160)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 4,
+        "offset": 160,
+        "varName": "a1"
+    }
+]

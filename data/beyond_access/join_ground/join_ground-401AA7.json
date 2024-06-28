@@ -1,0 +1,432 @@
+[
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 14,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "a1[2]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 14,
+        "offset": 2,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[1]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 15,
+        "offset": 1,
+        "varName": "a1"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 16,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 17,
+        "offset": 0,
+        "varName": "result"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 17,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 18,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "v9",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 25,
+        "offset": 0,
+        "varName": "v9"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 27,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 28,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "v9 + 1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 28,
+        "offset": 1,
+        "varName": "v9"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 30,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 33,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "v3",
+        "exprPointeeSize": 2,
+        "exprPointeeType": "const unsigned short *",
+        "lhsPointeeSize": 2,
+        "lhsType": "const unsigned short *",
+        "lineNum": 36,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 37,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 39,
+        "offset": 0,
+        "varName": "result"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 39,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 40,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 40,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 41,
+        "offset": 0,
+        "varName": "result"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 45,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "s + 1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 45,
+        "offset": 1,
+        "varName": "s"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 45,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 45,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 45,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 2,
+        "exprPointeeType": "const unsigned short *",
+        "lhsPointeeSize": 2,
+        "lhsType": "const unsigned short *",
+        "lineNum": 47,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 48,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 51,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 52,
+        "offset": 0,
+        "varName": "result"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 52,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "i",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 53,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 53,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 55,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "i + 1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 55,
+        "offset": 1,
+        "varName": "i"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 55,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 55,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 55,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "v5",
+        "exprPointeeSize": 2,
+        "exprPointeeType": "const unsigned short *",
+        "lhsPointeeSize": 2,
+        "lhsType": "const unsigned short *",
+        "lineNum": 57,
+        "offset": 0,
+        "varName": "v5"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 58,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "s",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 61,
+        "offset": 0,
+        "varName": "s"
+    },
+    {
+        "expr": "v8",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 61,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 62,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "unsigned char *",
+        "lineNum": 65,
+        "offset": 0,
+        "varName": "result"
+    }
+]

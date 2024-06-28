@@ -1,0 +1,17 @@
+[
+    {
+        "lhsVarName": "v12",
+        "lineNum": 15,
+        "rhsVarName": "a6"
+    },
+    {
+        "lhsVarName": "v14",
+        "lineNum": 17,
+        "rhsVarName": "a6"
+    },
+    {
+        "lhsVarName": "i",
+        "lineNum": 18,
+        "rhsVarName": "a1"
+    }
+]

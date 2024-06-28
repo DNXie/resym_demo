@@ -1,0 +1,19 @@
+{
+    "argument": [
+        {
+            "name": "s",
+            "type": "char *",
+            "original_line": "char *s"
+        },
+        {
+            "name": "format",
+            "type": "const char *",
+            "original_line": "const char *format"
+        },
+        {
+            "name": "...",
+            "original_line": "..."
+        }
+    ],
+    "variable": []
+}

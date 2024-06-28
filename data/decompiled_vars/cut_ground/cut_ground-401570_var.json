@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "nmemb",
+            "type": "size_t",
+            "original_line": "size_t nmemb"
+        },
+        {
+            "name": "size",
+            "type": "size_t",
+            "original_line": "size_t size"
+        }
+    ],
+    "variable": []
+}

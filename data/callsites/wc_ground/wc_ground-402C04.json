@@ -1,0 +1,183 @@
+[
+    {
+        "args": [
+            "*a2",
+            "a2",
+            "a3"
+        ],
+        "funName": "sub_403B47",
+        "lineNum": 46
+    },
+    {
+        "args": [
+            "sub_4037BF"
+        ],
+        "funName": "sub_406990",
+        "lineNum": 50
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401ACC",
+        "lineNum": 87
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_403C52",
+        "lineNum": 99
+    },
+    {
+        "args": [
+            "stream"
+        ],
+        "funName": "sub_4035D2",
+        "lineNum": 113
+    },
+    {
+        "args": [
+            "&v41"
+        ],
+        "funName": "sub_4053EA",
+        "lineNum": 118
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_403C52",
+        "lineNum": 121
+    },
+    {
+        "args": [
+            "v42"
+        ],
+        "funName": "sub_403581",
+        "lineNum": 127
+    },
+    {
+        "args": [
+            "v33"
+        ],
+        "funName": "sub_403581",
+        "lineNum": 142
+    },
+    {
+        "args": [],
+        "funName": "sub_40665D",
+        "lineNum": 145
+    },
+    {
+        "args": [
+            "v30",
+            "v33"
+        ],
+        "funName": "sub_402941",
+        "lineNum": 146
+    },
+    {
+        "args": [
+            "v38"
+        ],
+        "funName": "sub_403C52",
+        "lineNum": 157
+    },
+    {
+        "args": [
+            "v35"
+        ],
+        "funName": "sub_403722",
+        "lineNum": 166
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_40526B",
+        "lineNum": 168
+    },
+    {
+        "args": [
+            "v38",
+            "(__int64)&ptr[v23]"
+        ],
+        "funName": "sub_402853",
+        "lineNum": 188
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_40526B",
+        "lineNum": 195
+    },
+    {
+        "args": [
+            "v35"
+        ],
+        "funName": "sub_403722",
+        "lineNum": 205
+    },
+    {
+        "args": [
+            "0LL",
+            "(__int64)ptr"
+        ],
+        "funName": "sub_402853",
+        "lineNum": 206
+    },
+    {
+        "args": [
+            "&v41"
+        ],
+        "funName": "sub_40548C",
+        "lineNum": 208
+    },
+    {
+        "args": [
+            "v35"
+        ],
+        "funName": "sub_403722",
+        "lineNum": 209
+    },
+    {
+        "args": [
+            "qword_6092E0",
+            "qword_6092E8",
+            "qword_6092F0",
+            "qword_6092F8",
+            "qword_609300",
+            "v24"
+        ],
+        "funName": "sub_401BBD",
+        "lineNum": 212
+    },
+    {
+        "args": [
+            "v35"
+        ],
+        "funName": "sub_40375F",
+        "lineNum": 214
+    },
+    {
+        "args": [],
+        "funName": "sub_40665D",
+        "lineNum": 226
+    },
+    {
+        "args": [
+            "0"
+        ],
+        "funName": "sub_401ACC",
+        "lineNum": 259
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401ACC",
+        "lineNum": 275
+    }
+]

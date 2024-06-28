@@ -1,0 +1,35 @@
+[
+    {
+        "args": [
+            "&unk_609720",
+            "a1"
+        ],
+        "funName": "sub_402B5D",
+        "lineNum": 9
+    },
+    {
+        "args": [],
+        "funName": "sub_401E58",
+        "lineNum": 12
+    },
+    {
+        "args": [],
+        "funName": "sub_401C39",
+        "lineNum": 15
+    },
+    {
+        "args": [],
+        "funName": "sub_401C62",
+        "lineNum": 21
+    },
+    {
+        "args": [],
+        "funName": "sub_401C8B",
+        "lineNum": 25
+    },
+    {
+        "args": [],
+        "funName": "sub_401BF7",
+        "lineNum": 30
+    }
+]

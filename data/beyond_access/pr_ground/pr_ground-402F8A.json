@@ -1,0 +1,172 @@
+[
+    {
+        "expr": "v6",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 25,
+        "offset": 0,
+        "varName": "v6"
+    },
+    {
+        "expr": "v6[4]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 30,
+        "offset": 4,
+        "varName": "v6"
+    },
+    {
+        "expr": "v6[3]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 31,
+        "offset": 3,
+        "varName": "v6"
+    },
+    {
+        "expr": "v6[4]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 35,
+        "offset": 4,
+        "varName": "v6"
+    },
+    {
+        "expr": "v6[3]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 36,
+        "offset": 3,
+        "varName": "v6"
+    },
+    {
+        "expr": "(_BYTE *)v6 + 56",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 39,
+        "offset": 56,
+        "varName": "v6"
+    },
+    {
+        "expr": "(_DWORD *)v6 + 13",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 40,
+        "offset": 13,
+        "varName": "v6"
+    },
+    {
+        "expr": "v6",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 51,
+        "offset": 0,
+        "varName": "v6"
+    },
+    {
+        "expr": "v6[4]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 55,
+        "offset": 4,
+        "varName": "v6"
+    },
+    {
+        "expr": "v6[3]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 56,
+        "offset": 3,
+        "varName": "v6"
+    },
+    {
+        "expr": "v6[4]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 60,
+        "offset": 4,
+        "varName": "v6"
+    },
+    {
+        "expr": "v6[3]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 61,
+        "offset": 3,
+        "varName": "v6"
+    },
+    {
+        "expr": "(_BYTE *)v6 + 56",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 64,
+        "offset": 56,
+        "varName": "v6"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 65,
+        "offset": 0,
+        "varName": "result"
+    },
+    {
+        "expr": "v6",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 65,
+        "offset": 0,
+        "varName": "v6"
+    },
+    {
+        "expr": "(_DWORD *)v6 + 13",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 66,
+        "offset": 13,
+        "varName": "v6"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 67,
+        "offset": 0,
+        "varName": "result"
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "sig",
+            "type": "int",
+            "original_line": "int sig"
+        }
+    ],
+    "variable": []
+}

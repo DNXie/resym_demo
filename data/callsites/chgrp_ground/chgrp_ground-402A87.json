@@ -1,0 +1,124 @@
+[
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_4039AF",
+        "lineNum": 57
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_4039AF",
+        "lineNum": 69
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_4039AF",
+        "lineNum": 84
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_4039AF",
+        "lineNum": 107
+    },
+    {
+        "args": [
+            "1LL",
+            "\"/\""
+        ],
+        "funName": "sub_40398B",
+        "lineNum": 113
+    },
+    {
+        "args": [
+            "0LL",
+            "s1"
+        ],
+        "funName": "sub_40398B",
+        "lineNum": 114
+    },
+    {
+        "args": [
+            "a1",
+            "a2"
+        ],
+        "funName": "sub_408E3E",
+        "lineNum": 125
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_4039AF",
+        "lineNum": 127
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_4039AF",
+        "lineNum": 156
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_4039AF",
+        "lineNum": 176
+    },
+    {
+        "args": [
+            "1LL",
+            "\"/\""
+        ],
+        "funName": "sub_40398B",
+        "lineNum": 182
+    },
+    {
+        "args": [
+            "0LL",
+            "s1"
+        ],
+        "funName": "sub_40398B",
+        "lineNum": 183
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_4039AF",
+        "lineNum": 231
+    },
+    {
+        "args": [
+            "v49->st_uid"
+        ],
+        "funName": "sub_402514",
+        "lineNum": 263
+    },
+    {
+        "args": [
+            "v49->st_gid"
+        ],
+        "funName": "sub_4024AC",
+        "lineNum": 268
+    },
+    {
+        "args": [
+            "(__int64)s1",
+            "v48",
+            "ptr",
+            "v40",
+            "*(const char **)(a7 + 24)",
+            "*(const char **)(a7 + 32)"
+        ],
+        "funName": "sub_402632",
+        "lineNum": 272
+    }
+]

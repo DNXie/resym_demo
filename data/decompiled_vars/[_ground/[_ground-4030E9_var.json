@@ -1,0 +1,21 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "_BYTE *",
+            "original_line": "_BYTE *a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v2; // eax"
+        }
+    ]
+}

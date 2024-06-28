@@ -1,0 +1,46 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "FILE *",
+            "original_line": "FILE *a1"
+        },
+        {
+            "name": "a2",
+            "type": "unsigned int",
+            "original_line": "unsigned int a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v2; // rax"
+        },
+        {
+            "name": "c",
+            "type": "unsigned int",
+            "comment": "[rsp+4h] [rbp-1Ch]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-1C",
+            "rbp_offset_dec": -28,
+            "original_line": "unsigned int c; // [rsp+4h] [rbp-1Ch]"
+        },
+        {
+            "name": "i",
+            "type": "char *",
+            "comment": "[rsp+18h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "char *i; // [rsp+18h] [rbp-8h]"
+        }
+    ]
+}

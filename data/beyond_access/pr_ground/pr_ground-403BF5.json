@@ -1,0 +1,22 @@
+[
+    {
+        "expr": "result",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 21,
+        "offset": 0,
+        "varName": "result"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "result"
+    }
+]

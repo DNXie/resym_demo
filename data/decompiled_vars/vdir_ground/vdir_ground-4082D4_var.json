@@ -1,0 +1,106 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__int64",
+            "original_line": "__int64 a1"
+        },
+        {
+            "name": "a2",
+            "type": "__int64",
+            "original_line": "__int64 a2"
+        },
+        {
+            "name": "a3",
+            "type": "const char *",
+            "original_line": "const char *a3"
+        },
+        {
+            "name": "a4",
+            "type": "__int64",
+            "original_line": "__int64 a4"
+        },
+        {
+            "name": "a5",
+            "type": "unsigned int",
+            "original_line": "unsigned int a5"
+        },
+        {
+            "name": "a6",
+            "type": "unsigned int",
+            "original_line": "unsigned int a6"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v6",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v6; // rax"
+        },
+        {
+            "name": "haystack",
+            "type": "char *",
+            "comment": "[rsp+18h] [rbp-158h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-158",
+            "rbp_offset_dec": -344,
+            "original_line": "char *haystack; // [rsp+18h] [rbp-158h]"
+        },
+        {
+            "name": "v12",
+            "type": "char *",
+            "comment": "[rsp+30h] [rbp-140h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-140",
+            "rbp_offset_dec": -320,
+            "original_line": "char *v12; // [rsp+30h] [rbp-140h]"
+        },
+        {
+            "name": "v13",
+            "type": "char *",
+            "comment": "[rsp+38h] [rbp-138h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-138",
+            "rbp_offset_dec": -312,
+            "original_line": "char *v13; // [rsp+38h] [rbp-138h]"
+        },
+        {
+            "name": "dest",
+            "type": "char *",
+            "comment": "[rsp+40h] [rbp-130h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-130",
+            "rbp_offset_dec": -304,
+            "original_line": "char *dest; // [rsp+40h] [rbp-130h]"
+        },
+        {
+            "name": "v15",
+            "type": "char",
+            "comment": "[rsp+50h] [rbp-120h] BYREF",
+            "array_size": 264,
+            "star_count": 0,
+            "rbp_offset_hex": "-120",
+            "rbp_offset_dec": -288,
+            "original_line": "char v15[264]; // [rsp+50h] [rbp-120h] BYREF"
+        },
+        {
+            "name": "v16",
+            "type": "unsigned __int64",
+            "comment": "[rsp+158h] [rbp-18h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "unsigned __int64 v16; // [rsp+158h] [rbp-18h]"
+        }
+    ]
+}

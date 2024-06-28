@@ -1,0 +1,35 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "result",
+            "type": "__int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 result; // rax"
+        },
+        {
+            "name": "v1",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v1; // eax"
+        },
+        {
+            "name": "v2",
+            "type": "unsigned __int8",
+            "comment": "[rsp+Fh] [rbp-1h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-1",
+            "rbp_offset_dec": -1,
+            "original_line": "unsigned __int8 v2; // [rsp+Fh] [rbp-1h]"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/fold_ground
+fold_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
+fold_ground.decompiled - .__assert_fail: Fail to match arguments unsigned int line
+fold_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
+fold_ground.decompiled - .strtoul: Fail to match arguments char **endptr
+fold_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc

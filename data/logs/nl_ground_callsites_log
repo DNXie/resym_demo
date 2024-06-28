@@ -1,0 +1,2062 @@
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401470.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4016C0.c:3:19: error: unknown type name 'mbstate_t'
+int mbsinit(const mbstate_t *ps)
+                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404FE3.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_404FE3(size_t a1, __int64 a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404FE3.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404FE3(size_t a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402F23.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402F23(__int64 *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402F23.c:9:11: error: use of undeclared identifier 'qword_609780'
+    v3 = &qword_609780;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403CB0.c:2:85: error: unknown type name 'size_t'
+unsigned __int64 __fastcall sub_403CB0(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, __int64 *a5)
+                                                                                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403CB0.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_403CB0(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, __int64 *a5)
+                 ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403CB0.c:12:11: error: use of undeclared identifier 'qword_609780'
+    v5 = &qword_609780;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403CB0.c:14:8: error: indirection requires pointer operand ('int' invalid)
+  v9 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403CB0.c:25:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v9;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404236.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404236(__int64 a1)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404236.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_4041DF(0, a1);
+         ^~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404429.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_404429(__int64 a1, size_t a2)
+                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404429.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404429(__int64 a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401630.c:3:26: error: unknown type name 'size_t'
+void *realloc(void *ptr, size_t size)
+                         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402E77.c:2:10: warning: '__fastcall' calling convention is not supported for this target
+__int64 *__fastcall sub_402E77(__int64 *a1, int a2)
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402E77.c:9:15: error: use of undeclared identifier 'qword_609780'
+    result = &qword_609780;
+              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40517A.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40517A(__int64 *a1, int a2, int a3)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402E10.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402E10(__int64 *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402E10.c:8:8: error: indirection requires pointer operand ('int' invalid)
+  v3 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402E10.c:12:11: error: use of undeclared identifier 'qword_609780'
+    v1 = &qword_609780;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402E10.c:14:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v3;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C62.c:4:3: error: use of undeclared identifier 'qword_609300'
+  qword_609300 = (__int64)off_609200[0];
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C62.c:4:27: error: use of undeclared identifier 'off_609200'
+  qword_609300 = (__int64)off_609200[0];
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C62.c:5:3: error: use of undeclared identifier 'buffer'
+  buffer = (struct re_pattern_buffer *)&unk_6093A0;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C62.c:5:41: error: use of undeclared identifier 'unk_6093A0'
+  buffer = (struct re_pattern_buffer *)&unk_6093A0;
+                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:2:66: error: unknown type name 'intmax_t'
+__int64 __fastcall sub_4051BB(const char *a1, char **a2, int a3, intmax_t *a4, const char *a5)
+                                                                 ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4051BB(const char *a1, char **a2, int a3, intmax_t *a4, const char *a5)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:12:3: error: use of undeclared identifier 'intmax_t'
+  intmax_t v17; // [rsp+50h] [rbp-10h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:23:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = 0;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:24:3: error: use of undeclared identifier 'v17'
+  v17 = strtoimax(a1, endptr, a3);
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:29:5: error: use of undeclared identifier 'v17'
+    v17 = 1LL;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:31:13: error: indirection requires pointer operand ('int' invalid)
+  else if ( *__errno_location() )
+            ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:33:10: error: indirection requires pointer operand ('int' invalid)
+    if ( *__errno_location() != 34 )
+         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:39:11: error: use of undeclared identifier 'v17'
+    *a4 = v17;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:48:11: error: use of undeclared identifier 'v17'
+    *a4 = v17;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:77:27: error: use of undeclared identifier 'v17'
+        v15 = sub_40517A(&v17, v13, 3);
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:85:31: error: use of undeclared identifier 'v17'
+            v15 = sub_4050DA(&v17, 512);
+                              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:91:31: error: use of undeclared identifier 'v17'
+            v15 = sub_40517A(&v17, v13, 7);
+                              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:106:29: error: use of undeclared identifier 'v17'
+          v15 = sub_4050DA(&v17, 2);
+                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:110:27: error: use of undeclared identifier 'v17'
+        v15 = sub_40517A(&v17, v13, 4);
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:122:29: error: use of undeclared identifier 'v17'
+          v15 = sub_40517A(&v17, v13, 6);
+                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:130:19: error: use of undeclared identifier 'v17'
+            *a4 = v17;
+                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:133:29: error: use of undeclared identifier 'v17'
+          v15 = sub_4050DA(&v17, 1024);
+                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:140:27: error: use of undeclared identifier 'v17'
+        v15 = sub_40517A(&v17, v13, 5);
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:148:27: error: use of undeclared identifier 'v17'
+        v15 = sub_40517A(&v17, v13, 2);
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:153:23: error: use of undeclared identifier 'v17'
+    v15 = sub_40517A(&v17, v13, 1);
+                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:156:21: error: use of undeclared identifier 'v17'
+  v15 = sub_40517A(&v17, v13, 8);
+                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4051BB.c:163:9: error: use of undeclared identifier 'v17'
+  *a4 = v17;
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402CC8.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall sub_402CC8(__int64 a1)
+     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4015D0.c:3:12: error: unknown type name 'FILE'
+int fileno(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404320.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_404320(int a1, __int64 a2, size_t a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404320.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404320(int a1, __int64 a2, size_t a3)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401550.c:3:21: error: unknown type name 'FILE'
+int ferror_unlocked(FILE *stream)
+                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405047.c:2:45: error: unknown type name 'size_t'
+void *__fastcall sub_405047(const void *a1, size_t a2)
+                                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405047.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405047(const void *a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401540.c:3:35: error: unknown type name 'FILE'
+int fputs_unlocked(const char *s, FILE *stream)
+                                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401460.c:3:1: error: unknown type name 'size_t'
+size_t strlen(const char *s)
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4015B0.c:3:43: error: unknown type name 'size_t'
+void *memcpy(void *dest, const void *src, size_t n)
+                                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404255.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_404255(__int64 a1, size_t a2)
+                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404255.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404255(__int64 a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404DDA.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404DDA(unsigned __int64 a1, unsigned __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402E59.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402E59(__int64 *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402E59.c:9:11: error: use of undeclared identifier 'qword_609780'
+    v1 = &qword_609780;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401580.c:3:13: error: unknown type name 'FILE'
+int fprintf(FILE *stream, const char *format, ...)
+            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404FB9.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404FB9(__int64 a1, unsigned __int64 *a2)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401450.c:3:1: error: unknown type name 'size_t'
+size_t __ctype_get_mb_cur_max(void)
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401380.c:3:1: error: unknown type name 'intmax_t'
+intmax_t strtoimax(const char *nptr, char **endptr, int base)
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404F09.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404F09(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn sub_4018F7(int a1)
+     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:7:3: error: use of undeclared identifier 'FILE'
+  FILE *v4; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:7:9: error: use of undeclared identifier 'v4'
+  FILE *v4; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:9:3: error: use of undeclared identifier 'FILE'
+  FILE *v6; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:9:9: error: use of undeclared identifier 'v6'
+  FILE *v6; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:11:3: error: use of undeclared identifier 'FILE'
+  FILE *v8; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:11:9: error: use of undeclared identifier 'v8'
+  FILE *v8; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:13:3: error: use of undeclared identifier 'FILE'
+  FILE *v10; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:13:9: error: use of undeclared identifier 'v10'; did you mean 'v1'?
+  FILE *v10; // rbx
+        ^~~
+        v1
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:4:11: note: 'v1' declared here
+  __int64 v1; // rbx
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:15:3: error: use of undeclared identifier 'FILE'
+  FILE *v12; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:15:9: error: use of undeclared identifier 'v12'
+  FILE *v12; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:17:3: error: use of undeclared identifier 'FILE'
+  FILE *v14; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:17:9: error: use of undeclared identifier 'v14'
+  FILE *v14; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:19:3: error: use of undeclared identifier 'FILE'
+  FILE *v16; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:19:9: error: use of undeclared identifier 'v16'
+  FILE *v16; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:21:3: error: use of undeclared identifier 'FILE'
+  FILE *v18; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:21:9: error: use of undeclared identifier 'v18'
+  FILE *v18; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:23:3: error: use of undeclared identifier 'FILE'
+  FILE *v20; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:23:9: error: use of undeclared identifier 'v20'; did you mean 'v2'?
+  FILE *v20; // rbx
+        ^~~
+        v2
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:5:9: note: 'v2' declared here
+  char *v2; // rax
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:26:8: error: use of undeclared identifier 'qword_609768'
+  v1 = qword_609768;
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:29:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v2 = gettext("Try `%s --help' for more information.\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:30:13: error: use of undeclared identifier 'stderr'
+    fprintf(stderr, v2, v1);
+            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:34:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v3 = gettext("Usage: %s [OPTION]... [FILE]...\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:36:5: error: use of undeclared identifier 'v4'
+    v4 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:36:10: error: use of undeclared identifier 'stdout'
+    v4 = stdout;
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:37:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v5 = gettext(
+       ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:41:24: error: use of undeclared identifier 'v4'
+    fputs_unlocked(v5, v4);
+                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:42:5: error: use of undeclared identifier 'v6'
+    v6 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:42:10: error: use of undeclared identifier 'stdout'
+    v6 = stdout;
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:43:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v7 = gettext("Mandatory arguments to long options are mandatory for short options too.\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:44:24: error: use of undeclared identifier 'v6'
+    fputs_unlocked(v7, v6);
+                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:45:5: error: use of undeclared identifier 'v8'
+    v8 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:45:10: error: use of undeclared identifier 'stdout'
+    v8 = stdout;
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:46:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v9 = gettext(
+       ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:50:24: error: use of undeclared identifier 'v8'
+    fputs_unlocked(v9, v8);
+                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:51:5: error: use of undeclared identifier 'v10'
+    v10 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:51:11: error: use of undeclared identifier 'stdout'
+    v10 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:52:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v11 = gettext(
+        ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:59:25: error: use of undeclared identifier 'v10'
+    fputs_unlocked(v11, v10);
+                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:60:5: error: use of undeclared identifier 'v12'
+    v12 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:60:11: error: use of undeclared identifier 'stdout'
+    v12 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:61:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v13 = gettext(
+        ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:64:25: error: use of undeclared identifier 'v12'
+    fputs_unlocked(v13, v12);
+                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:65:5: error: use of undeclared identifier 'v14'
+    v14 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:65:11: error: use of undeclared identifier 'stdout'
+    v14 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:66:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v15 = gettext("      --help     display this help and exit\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:67:25: error: use of undeclared identifier 'v14'
+    fputs_unlocked(v15, v14);
+                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:68:5: error: use of undeclared identifier 'v16'
+    v16 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:68:11: error: use of undeclared identifier 'stdout'
+    v16 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:69:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v17 = gettext("      --version  output version information and exit\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:70:25: error: use of undeclared identifier 'v16'
+    fputs_unlocked(v17, v16);
+                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:71:5: error: use of undeclared identifier 'v18'
+    v18 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:71:11: error: use of undeclared identifier 'stdout'
+    v18 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:72:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v19 = gettext(
+        ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:77:25: error: use of undeclared identifier 'v18'
+    fputs_unlocked(v19, v18);
+                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:78:5: error: use of undeclared identifier 'v20'
+    v20 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:78:11: error: use of undeclared identifier 'stdout'
+    v20 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:79:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v21 = gettext(
+        ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4018F7.c:93:25: error: use of undeclared identifier 'v20'
+    fputs_unlocked(v21, v20);
+                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401600.c:3:22: warning: declaration of 'struct re_pattern_buffer' will not be visible outside of this function
+int re_search(struct re_pattern_buffer *buffer, const char *string, int length, int start, int range, struct re_registers *regs)
+                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401600.c:3:110: warning: declaration of 'struct re_registers' will not be visible outside of this function
+int re_search(struct re_pattern_buffer *buffer, const char *string, int length, int start, int range, struct re_registers *regs)
+                                                                                                             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404BE2.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_404BE2(FILE *a1, const char *a2, const char *a3, const char *a4, unsigned int *a5)
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404BE2.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_404BE2(FILE *a1, const char *a2, const char *a3, const char *a4, unsigned int *a5)
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404BE2.c:13:27: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'long long *'
+      *((_QWORD *)a5 + 1) = v5 + 1;
+                          ^ ~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404D71.c:6:3: error: use of undeclared identifier 'FILE'
+  FILE *v2; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404D71.c:6:9: error: use of undeclared identifier 'v2'
+  FILE *v2; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404D71.c:9:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v0 = gettext("\nReport bugs to: %s\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404D71.c:11:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v1 = gettext("%s home page: <%s>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404D71.c:13:3: error: use of undeclared identifier 'v2'
+  v2 = stdout;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404D71.c:13:8: error: use of undeclared identifier 'stdout'
+  v2 = stdout;
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404D71.c:14:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v3 = gettext("General help using GNU software: <http://www.gnu.org/gethelp/>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404D71.c:15:29: error: use of undeclared identifier 'v2'
+  return fputs_unlocked(v3, v2);
+                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405D50.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall init(unsigned int a1, __int64 a2, __int64 a3)
+     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405D50.c:8:9: error: use of undeclared identifier 'off_608E18'
+  v5 = &off_608E18 - off_608E10;
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405D50.c:8:22: error: use of undeclared identifier 'off_608E10'
+  v5 = &off_608E18 - off_608E10;
+                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405D50.c:13:55: error: use of undeclared identifier 'off_608E10'
+      ((void (__fastcall *)(_QWORD, __int64, __int64))off_608E10[v4++])(a1, a2, a3);
+                                                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405BFF.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_405BFF(FILE *a1, __off_t a2, int a3)
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405BFF.c:2:37: error: unknown type name '__off_t'
+int __fastcall sub_405BFF(FILE *a1, __off_t a2, int a3)
+                                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405BFF.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_405BFF(FILE *a1, __off_t a2, int a3)
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405BFF.c:5:3: error: use of undeclared identifier '__off_t'
+  __off_t v6; // [rsp+28h] [rbp-8h]
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405BFF.c:10:3: error: use of undeclared identifier 'v6'
+  v6 = lseek(v3, a2, a3);
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405BFF.c:11:8: error: use of undeclared identifier 'v6'
+  if ( v6 == -1 )
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405BFF.c:14:17: error: use of undeclared identifier 'v6'
+  a1->_offset = v6;
+                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40427C.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40427C(int a1, int a2, __int64 a3)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40427C.c:7:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_403F59(a1, a3, 0xFFFFFFFFFFFFFFFFLL, (__int64)v5);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401520.c:3:39: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __libc_start_main(int (__fastcall *main)(int, char **, char **), int argc, char **ubp_av, void (*init)(void), void (*fini)(void), void (*rtld_fini)(void), void *stack_end)
+                                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401520.c:3:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __libc_start_main(int (__fastcall *main)(int, char **, char **), int argc, char **ubp_av, void (*init)(void), void (*fini)(void), void (*rtld_fini)(void), void *stack_end)
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4013F0.c:3:19: error: unknown type name 'FILE'
+int getc_unlocked(FILE *stream)
+                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401480.c:3:82: warning: declaration of 'struct option' will not be visible outside of this function
+int getopt_long(int argc, char *const *argv, const char *shortopts, const struct option *longopts, int *longind)
+                                                                                 ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4055D3.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4055D3(__int64 *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40420A.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_40420A(int a1, __int64 a2, size_t a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40420A.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40420A(int a1, __int64 a2, size_t a3)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40420A.c:4:43: error: use of undeclared identifier 'qword_609780'
+  return sub_403F59(a1, a2, a3, (__int64)&qword_609780);
+                                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405078.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405078(const char *a1)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405078.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v1; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405078.c:4:3: warning: expression result unused
+  size_t v1; // rax
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405078.c:4:10: error: use of undeclared identifier 'v1'
+  size_t v1; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405078.c:6:3: error: use of undeclared identifier 'v1'
+  v1 = strlen(a1);
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405078.c:7:25: error: use of undeclared identifier 'v1'
+  return sub_405047(a1, v1 + 1);
+                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4016A0.c:3:1: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4016A0.c:3:32: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4016A0.c:3:45: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4016A0.c:3:55: error: unknown type name 'FILE'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                                                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404F23.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_404F23(size_t a1, __int64 a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404F23.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404F23(size_t a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40454F.c:2:65: error: unknown type name 'size_t'
+void *__fastcall sub_40454F(__int64 a1, __int64 a2, __int64 a3, size_t a4)
+                                                                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40454F.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40454F(__int64 a1, __int64 a2, __int64 a3, size_t a4)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405B81.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405B81(_DWORD *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402ACF.c:2:35: error: unknown type name 'off_t'
+int __fastcall sub_402ACF(int a1, off_t a2, off_t a3, int a4)
+                                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402ACF.c:2:45: error: unknown type name 'off_t'
+int __fastcall sub_402ACF(int a1, off_t a2, off_t a3, int a4)
+                                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402ACF.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_402ACF(int a1, off_t a2, off_t a3, int a4)
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403028.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+char *__fastcall sub_403028(const char *a1, int a2)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403028.c:6:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v3 = gettext(a1);
+     ^ ~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404CBB.c:2:16: error: unknown type name 'FILE'
+int sub_404CBB(FILE *a1, const char *a2, const char *a3, const char *a4, ...)
+               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404CBB.c:4:3: error: use of undeclared identifier 'gcc_va_list'
+  gcc_va_list va; // [rsp+28h] [rbp-C8h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404CBB.c:6:12: error: use of undeclared identifier 'va'
+  va_start(va, a4);
+           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404CBB.c:7:53: error: use of undeclared identifier 'va'
+  return sub_404BE2(a1, a2, a3, a4, (unsigned int *)va);
+                                                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401B77.c:8:36: error: use of undeclared identifier 'dword_609238'
+  printf(off_609240, (unsigned int)dword_609238, qword_609740, off_609208);
+                                   ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401B77.c:8:10: error: use of undeclared identifier 'off_609240'
+  printf(off_609240, (unsigned int)dword_609238, qword_609740, off_609208);
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401B77.c:8:50: error: use of undeclared identifier 'qword_609740'
+  printf(off_609240, (unsigned int)dword_609238, qword_609740, off_609208);
+                                                 ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401B77.c:8:64: error: use of undeclared identifier 'off_609208'
+  printf(off_609240, (unsigned int)dword_609238, qword_609740, off_609208);
+                                                               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401B77.c:9:8: error: use of undeclared identifier 'qword_609740'
+  v2 = qword_609740 + qword_609220;
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401B77.c:9:23: error: use of undeclared identifier 'qword_609220'
+  v2 = qword_609740 + qword_609220;
+                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401B77.c:10:8: error: use of undeclared identifier 'qword_609740'
+  if ( qword_609740 + qword_609220 < qword_609740 )
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401B77.c:10:23: error: use of undeclared identifier 'qword_609220'
+  if ( qword_609740 + qword_609220 < qword_609740 )
+                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401B77.c:10:38: error: use of undeclared identifier 'qword_609740'
+  if ( qword_609740 + qword_609220 < qword_609740 )
+                                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401B77.c:12:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v0 = gettext("line number overflow");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401B77.c:16:3: error: use of undeclared identifier 'qword_609740'
+  qword_609740 = v2;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401F51.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401F51(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401F51.c:9:26: error: use of undeclared identifier 'unk_609720'
+    result = sub_402B5D(&unk_609720, a1);
+                         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4042FC.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4042FC(int a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4042FC.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_40427C(0, a1, a2);
+         ^~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401620.c:3:1: error: unknown type name 'size_t'
+size_t fwrite_unlocked(const void *ptr, size_t size, size_t n, FILE *stream)
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401620.c:3:41: error: unknown type name 'size_t'
+size_t fwrite_unlocked(const void *ptr, size_t size, size_t n, FILE *stream)
+                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401620.c:3:54: error: unknown type name 'size_t'
+size_t fwrite_unlocked(const void *ptr, size_t size, size_t n, FILE *stream)
+                                                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401620.c:3:64: error: unknown type name 'FILE'
+size_t fwrite_unlocked(const void *ptr, size_t size, size_t n, FILE *stream)
+                                                               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403D50.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403D50(__int64 a1, __int64 a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404F58.c:2:39: error: unknown type name 'size_t'
+void *__fastcall sub_404F58(void *a1, size_t a2)
+                                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404F58.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404F58(void *a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405BB4.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_405BB4(FILE *a1)
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405BB4.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_405BB4(FILE *a1)
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405CB7.c:2:31: error: unknown type name 'FILE'
+__int64 __fastcall sub_405CB7(FILE *a1)
+                              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405CB7.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405CB7(FILE *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405CB7.c:11:30: error: indirection requires pointer operand ('int' invalid)
+  if ( !v3 && (!v4 || !v2 && *__errno_location() == 9) )
+                             ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405CB7.c:14:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = 0;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4014F0.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4016D0.c:3:14: error: unknown type name 'wint_t'
+int iswprint(wint_t wc)
+             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4041DF.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4041DF(int a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4041DF.c:4:61: error: use of undeclared identifier 'qword_609780'
+  return sub_403F59(a1, a2, 0xFFFFFFFFFFFFFFFFLL, (__int64)&qword_609780);
+                                                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4016F0.c:5:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'const unsigned short **'
+  return _ctype_b_loc();
+         ^~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401660.c:3:12: error: unknown type name 'FILE'
+int fseeko(FILE *stream, __off_t off, int whence)
+           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401660.c:3:26: error: unknown type name '__off_t'
+int fseeko(FILE *stream, __off_t off, int whence)
+                         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:2:1: warning: return type of 'main' is not 'int'
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:2:1: note: change return type to 'int'
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+^~~~
+int
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:31:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v30; // [rsp+38h] [rbp-18h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:31:3: warning: expression result unused
+  size_t v30; // [rsp+38h] [rbp-18h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:31:10: error: use of undeclared identifier 'v30'
+  size_t v30; // [rsp+38h] [rbp-18h]
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:35:17: error: use of undeclared identifier 'locale'
+  setlocale(6, &locale);
+                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:38:14: error: use of undeclared identifier 'sub_40292D'; did you mean 'sub_402CE6'?
+  sub_405DD0(sub_40292D);
+             ^~~~~~~~~~
+             sub_402CE6
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:34:3: note: 'sub_402CE6' declared here
+  sub_402CE6(*a2, a2, a3);
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:39:3: error: use of undeclared identifier 'byte_609748'
+  byte_609748 = 0;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:44:59: error: use of undeclared identifier 'longopts'
+      v28 = getopt_long(a1, a2, "h:b:f:v:i:pl:s:w:n:d:", &longopts, 0LL);
+                                                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:49:9: error: use of undeclared identifier 'v30'
+        v30 = strlen(src);
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:49:22: error: use of undeclared identifier 'src'
+        v30 = strlen(src);
+                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:50:9: error: use of undeclared identifier 'qword_6096F0'
+        qword_6096F0 = 3 * v30;
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:50:28: error: use of undeclared identifier 'v30'; did you mean 'v3'?
+        qword_6096F0 = 3 * v30;
+                           ^~~
+                           v3
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:4:11: note: 'v3' declared here
+  __int64 v3; // rbx
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:51:9: error: use of undeclared identifier 'dest'
+        dest = (char *)sub_404F23(3 * v30 + 1);
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:51:39: error: use of undeclared identifier 'v30'; did you mean 'v3'?
+        dest = (char *)sub_404F23(3 * v30 + 1);
+                                      ^~~
+                                      v3
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:4:11: note: 'v3' declared here
+  __int64 v3; // rbx
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:51:16: warning: cast to 'char *' from smaller integer type 'int'
+        dest = (char *)sub_404F23(3 * v30 + 1);
+               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:52:15: error: use of undeclared identifier 'src'
+        v20 = src;
+              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:53:15: error: use of undeclared identifier 'src'
+        v21 = src;
+              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:54:22: error: use of undeclared identifier 'dest'
+        v22 = stpcpy(dest, src);
+                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:54:28: error: use of undeclared identifier 'src'
+        v22 = stpcpy(dest, src);
+                           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:55:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v23 = stpcpy(v22, v21);
+            ^ ~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:57:9: error: use of undeclared identifier 'qword_609700'
+        qword_609700 = 2 * v30;
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:57:28: error: use of undeclared identifier 'v30'; did you mean 'v3'?
+        qword_609700 = 2 * v30;
+                           ^~~
+                           v3
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:4:11: note: 'v3' declared here
+  __int64 v3; // rbx
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:58:9: error: use of undeclared identifier 'qword_6096F8'
+        qword_6096F8 = (char *)sub_404F23(2 * v30 + 1);
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:58:47: error: use of undeclared identifier 'v30'; did you mean 'v3'?
+        qword_6096F8 = (char *)sub_404F23(2 * v30 + 1);
+                                              ^~~
+                                              v3
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:4:11: note: 'v3' declared here
+  __int64 v3; // rbx
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:58:24: warning: cast to 'char *' from smaller integer type 'int'
+        qword_6096F8 = (char *)sub_404F23(2 * v30 + 1);
+                       ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:59:15: error: use of undeclared identifier 'src'
+        v24 = src;
+              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:60:22: error: use of undeclared identifier 'qword_6096F8'
+        v25 = stpcpy(qword_6096F8, src);
+                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:60:36: error: use of undeclared identifier 'src'
+        v25 = stpcpy(qword_6096F8, src);
+                                   ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:62:9: error: use of undeclared identifier 'qword_609710'
+        qword_609710 = v30;
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:62:24: error: use of undeclared identifier 'v30'
+        qword_609710 = v30;
+                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:63:9: error: use of undeclared identifier 'qword_609708'
+        qword_609708 = (char *)sub_404F23(v30 + 1);
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:63:43: error: use of undeclared identifier 'v30'
+        qword_609708 = (char *)sub_404F23(v30 + 1);
+                                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:64:16: error: use of undeclared identifier 'qword_609708'
+        strcpy(qword_609708, src);
+               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:64:30: error: use of undeclared identifier 'src'
+        strcpy(qword_609708, src);
+                             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:65:21: error: use of undeclared identifier 'unk_609720'
+        sub_402B39(&unk_609720);
+                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:66:9: error: use of undeclared identifier 'v30'
+        v30 = strlen(off_609208);
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:66:22: error: use of undeclared identifier 'off_609208'
+        v30 = strlen(off_609208);
+                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:67:9: error: use of undeclared identifier 's'
+        s = (char *)sub_404F23(dword_609238 + v30 + 1);
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:67:32: error: use of undeclared identifier 'dword_609238'
+        s = (char *)sub_404F23(dword_609238 + v30 + 1);
+                               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:67:47: error: use of undeclared identifier 'v30'
+        s = (char *)sub_404F23(dword_609238 + v30 + 1);
+                                              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:68:16: error: use of undeclared identifier 's'
+        memset(s, 32, v30 + dword_609238);
+               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:68:23: error: use of undeclared identifier 'v30'
+        memset(s, 32, v30 + dword_609238);
+                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:68:29: error: use of undeclared identifier 'dword_609238'
+        memset(s, 32, v30 + dword_609238);
+                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:69:9: error: use of undeclared identifier 's'
+        s[dword_609238 + v30] = 0;
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:69:11: error: use of undeclared identifier 'dword_609238'
+        s[dword_609238 + v30] = 0;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:69:26: error: use of undeclared identifier 'v30'
+        s[dword_609238 + v30] = 0;
+                         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:70:9: error: use of undeclared identifier 'qword_609740'
+        qword_609740 = qword_609218;
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:70:24: error: use of undeclared identifier 'qword_609218'
+        qword_609740 = qword_609218;
+                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:71:9: error: use of undeclared identifier 'qword_609300'
+        qword_609300 = (__int64)off_6091F0[0];
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:71:33: error: use of undeclared identifier 'off_6091F0'
+        qword_609300 = (__int64)off_6091F0[0];
+                                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:72:9: error: use of undeclared identifier 'buffer'
+        buffer = &stru_609320;
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:72:19: error: use of undeclared identifier 'stru_609320'
+        buffer = &stru_609320;
+                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:73:14: error: use of undeclared identifier 'optind'
+        if ( optind == a1 )
+             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:79:19: error: use of undeclared identifier 'optind'
+          while ( optind < a1 )
+                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:81:57: error: use of undeclared identifier 'optind'
+            v27 = (unsigned __int8)(v27 & sub_401FAD(a2[optind])) != 0;
+                                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:82:15: error: use of undeclared identifier 'optind'
+            ++optind;
+              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:85:14: error: use of undeclared identifier 'byte_609748'
+        if ( byte_609748 )
+             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:87:41: error: use of undeclared identifier 'stdin'
+          if ( (unsigned int)sub_405ACC(stdin) == -1 )
+                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:89:17: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+            v26 = __errno_location();
+                ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:98:37: error: use of undeclared identifier 'optarg'
+      if ( (unsigned int)sub_4051BB(optarg, 0LL, 10LL, &qword_609220, &locale) || qword_609220 <= 0 )
+                                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:98:57: error: use of undeclared identifier 'qword_609220'
+      if ( (unsigned int)sub_4051BB(optarg, 0LL, 10LL, &qword_609220, &locale) || qword_609220 <= 0 )
+                                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:98:72: error: use of undeclared identifier 'locale'
+      if ( (unsigned int)sub_4051BB(optarg, 0LL, 10LL, &qword_609220, &locale) || qword_609220 <= 0 )
+                                                                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:98:83: error: use of undeclared identifier 'qword_609220'
+      if ( (unsigned int)sub_4051BB(optarg, 0LL, 10LL, &qword_609220, &locale) || qword_609220 <= 0 )
+                                                                                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:100:26: error: use of undeclared identifier 'optarg'
+        v12 = sub_402DF1(optarg);
+                         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:101:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v13 = gettext("invalid line number increment: %s");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:110:9: error: use of undeclared identifier 'off_609208'
+        off_609208 = optarg;
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:110:22: error: use of undeclared identifier 'optarg'
+        off_609208 = optarg;
+                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:117:43: error: use of undeclared identifier 'optarg'
+            if ( (unsigned int)sub_4056B4(optarg, 0LL, 10LL, &v29, &locale) || v29 <= 0 || v29 > 0x7FFFFFFF )
+                                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:117:69: error: use of undeclared identifier 'locale'
+            if ( (unsigned int)sub_4056B4(optarg, 0LL, 10LL, &v29, &locale) || v29 <= 0 || v29 > 0x7FFFFFFF )
+                                                                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:119:32: error: use of undeclared identifier 'optarg'
+              v16 = sub_402DF1(optarg);
+                               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:120:19: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v17 = gettext("invalid line number field width: %s");
+                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:126:15: error: use of undeclared identifier 'dword_609238'
+              dword_609238 = v29;
+              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:130:17: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+            v11 = gettext("WARNING: --page-increment is deprecated; use --line-increment instead");
+                ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:134:43: error: use of undeclared identifier 'optarg'
+            if ( (unsigned int)sub_4051BB(optarg, 0LL, 10LL, &qword_609218, &locale) )
+                                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:134:63: error: use of undeclared identifier 'qword_609218'
+            if ( (unsigned int)sub_4051BB(optarg, 0LL, 10LL, &qword_609218, &locale) )
+                                                              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:134:78: error: use of undeclared identifier 'locale'
+            if ( (unsigned int)sub_4051BB(optarg, 0LL, 10LL, &qword_609218, &locale) )
+                                                                             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:136:31: error: use of undeclared identifier 'optarg'
+              v9 = sub_402DF1(optarg);
+                              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:137:19: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v10 = gettext("invalid starting line number: %s");
+                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:151:26: error: use of undeclared identifier 'optarg'
+            if ( !strcmp(optarg, "ln") )
+                         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:153:15: error: use of undeclared identifier 'off_609240'
+              off_609240 = "%-*ld%s";
+              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:155:31: error: use of undeclared identifier 'optarg'
+            else if ( !strcmp(optarg, "rn") )
+                              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:157:15: error: use of undeclared identifier 'off_609240'
+              off_609240 = "%*ld%s";
+              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:159:31: error: use of undeclared identifier 'optarg'
+            else if ( !strcmp(optarg, "rz") )
+                              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:161:15: error: use of undeclared identifier 'off_609240'
+              off_609240 = "%0*ld%s";
+              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:165:32: error: use of undeclared identifier 'optarg'
+              v18 = sub_402DF1(optarg);
+                               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:166:19: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v19 = gettext("invalid line numbering format: %s");
+                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:172:13: error: use of undeclared identifier 'byte_609228'
+            byte_609228 = 0;
+            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:175:43: error: use of undeclared identifier 'optarg'
+            if ( (unsigned int)sub_4051BB(optarg, 0LL, 10LL, &qword_609230, &locale) || qword_609230 <= 0 )
+                                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:175:63: error: use of undeclared identifier 'qword_609230'
+            if ( (unsigned int)sub_4051BB(optarg, 0LL, 10LL, &qword_609230, &locale) || qword_609230 <= 0 )
+                                                              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:175:78: error: use of undeclared identifier 'locale'
+            if ( (unsigned int)sub_4051BB(optarg, 0LL, 10LL, &qword_609230, &locale) || qword_609230 <= 0 )
+                                                                             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:175:89: error: use of undeclared identifier 'qword_609230'
+            if ( (unsigned int)sub_4051BB(optarg, 0LL, 10LL, &qword_609230, &locale) || qword_609230 <= 0 )
+                                                                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:177:32: error: use of undeclared identifier 'optarg'
+              v14 = sub_402DF1(optarg);
+                               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:178:19: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v15 = gettext("invalid number of blank lines: %s");
+                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:190:40: error: use of undeclared identifier 'off_6091F0'
+      if ( (unsigned __int8)sub_401A68(off_6091F0, &stru_609320, byte_6093E0) != 1 )
+                                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:190:53: error: use of undeclared identifier 'stru_609320'
+      if ( (unsigned __int8)sub_401A68(off_6091F0, &stru_609320, byte_6093E0) != 1 )
+                                                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:190:66: error: use of undeclared identifier 'byte_6093E0'
+      if ( (unsigned __int8)sub_401A68(off_6091F0, &stru_609320, byte_6093E0) != 1 )
+                                                                 ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:192:25: error: use of undeclared identifier 'optarg'
+        v5 = sub_402DF1(optarg);
+                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:193:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v6 = gettext("invalid body numbering style: %s");
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:203:44: error: use of undeclared identifier 'off_609200'
+          if ( (unsigned __int8)sub_401A68(off_609200, &stru_6093A0, byte_6095E0) != 1 )
+                                           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:203:57: error: use of undeclared identifier 'stru_6093A0'
+          if ( (unsigned __int8)sub_401A68(off_609200, &stru_6093A0, byte_6095E0) != 1 )
+                                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:203:70: error: use of undeclared identifier 'byte_6095E0'
+          if ( (unsigned __int8)sub_401A68(off_609200, &stru_6093A0, byte_6095E0) != 1 )
+                                                                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:205:29: error: use of undeclared identifier 'optarg'
+            v7 = sub_402DF1(optarg);
+                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:206:16: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+            v8 = gettext("invalid footer numbering style: %s");
+               ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:212:44: error: use of undeclared identifier 'off_6091F8'
+          if ( (unsigned __int8)sub_401A68(off_6091F8, &stru_609360, byte_6094E0) != 1 )
+                                           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:212:57: error: use of undeclared identifier 'stru_609360'
+          if ( (unsigned __int8)sub_401A68(off_6091F8, &stru_609360, byte_6094E0) != 1 )
+                                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:212:70: error: use of undeclared identifier 'byte_6094E0'
+          if ( (unsigned __int8)sub_401A68(off_6091F8, &stru_609360, byte_6094E0) != 1 )
+                                                                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:214:29: error: use of undeclared identifier 'optarg'
+            v3 = sub_402DF1(optarg);
+                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:215:16: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+            v4 = gettext("invalid header numbering style: %s");
+               ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:221:11: error: use of undeclared identifier 'src'
+          src = optarg;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:221:17: error: use of undeclared identifier 'optarg'
+          src = optarg;
+                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:232:19: error: use of undeclared identifier 'stdout'
+          (_DWORD)stdout,
+                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:233:11: warning: cast to smaller integer type 'unsigned int' from 'char *'
+          (unsigned int)"nl",
+          ^~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:234:11: warning: cast to smaller integer type 'unsigned int' from 'char *'
+          (unsigned int)"GNU coreutils",
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:235:19: error: use of undeclared identifier 'off_609248'
+          (_DWORD)off_609248,
+                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:236:11: warning: cast to smaller integer type 'unsigned int' from 'char *'
+          (unsigned int)"Scott Bartram",
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4020EA.c:237:11: warning: cast to smaller integer type 'unsigned int' from 'char *'
+          (unsigned int)"David MacKenzie",
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4043E0.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4043E0(__int64 a1, unsigned __int8 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4043E0.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_40434C(a1, 0xFFFFFFFFFFFFFFFFLL, a2);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40500E.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_40500E(size_t a1, size_t a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40500E.c:2:40: error: unknown type name 'size_t'
+void *__fastcall sub_40500E(size_t a1, size_t a2)
+                                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40500E.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40500E(size_t a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402B5D.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402B5D(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:2:1: error: unknown type name 'size_t'
+size_t sub_401C8B()
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:9:17: error: use of undeclared identifier 'qword_609300'
+  v0 = *(char *)qword_609300;
+                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:17:32: error: use of undeclared identifier 's1'
+        return fwrite_unlocked(s1, 1uLL, n, stdout);
+                               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:17:42: error: use of undeclared identifier 'n'
+        return fwrite_unlocked(s1, 1uLL, n, stdout);
+                                         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:17:45: error: use of undeclared identifier 'stdout'
+        return fwrite_unlocked(s1, 1uLL, n, stdout);
+                                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:18:12: error: use of undeclared identifier 'n'
+      if ( n <= 1 )
+           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:22:30: error: use of undeclared identifier 's1'
+      return fwrite_unlocked(s1, 1uLL, n, stdout);
+                             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:22:40: error: use of undeclared identifier 'n'
+      return fwrite_unlocked(s1, 1uLL, n, stdout);
+                                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:22:43: error: use of undeclared identifier 'stdout'
+      return fwrite_unlocked(s1, 1uLL, n, stdout);
+                                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:24:20: error: use of undeclared identifier 'buffer'
+    v1 = re_search(buffer, s1, n - 1, 0, n - 1, 0LL);
+                   ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:24:28: error: use of undeclared identifier 's1'
+    v1 = re_search(buffer, s1, n - 1, 0, n - 1, 0LL);
+                           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:24:32: error: use of undeclared identifier 'n'
+    v1 = re_search(buffer, s1, n - 1, 0, n - 1, 0LL);
+                               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:24:42: error: use of undeclared identifier 'n'
+    v1 = re_search(buffer, s1, n - 1, 0, n - 1, 0LL);
+                                         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:27:10: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v2 = gettext("error in regular expression search");
+         ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:28:10: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+      v3 = __errno_location();
+         ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:36:20: error: use of undeclared identifier 's'
+    fputs_unlocked(s, stdout);
+                   ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:36:23: error: use of undeclared identifier 'stdout'
+    fputs_unlocked(s, stdout);
+                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:37:28: error: use of undeclared identifier 's1'
+    return fwrite_unlocked(s1, 1uLL, n, stdout);
+                           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:37:38: error: use of undeclared identifier 'n'
+    return fwrite_unlocked(s1, 1uLL, n, stdout);
+                                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:37:41: error: use of undeclared identifier 'stdout'
+    return fwrite_unlocked(s1, 1uLL, n, stdout);
+                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:40:28: error: use of undeclared identifier 's1'
+    return fwrite_unlocked(s1, 1uLL, n, stdout);
+                           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:40:38: error: use of undeclared identifier 'n'
+    return fwrite_unlocked(s1, 1uLL, n, stdout);
+                                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:40:41: error: use of undeclared identifier 'stdout'
+    return fwrite_unlocked(s1, 1uLL, n, stdout);
+                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:41:8: error: use of undeclared identifier 'qword_609230'
+  if ( qword_609230 <= 1 )
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:43:8: error: use of undeclared identifier 'n'
+  if ( n <= 1 && ++qword_609750 != qword_609230 )
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:43:20: error: use of undeclared identifier 'qword_609750'
+  if ( n <= 1 && ++qword_609750 != qword_609230 )
+                   ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:43:36: error: use of undeclared identifier 'qword_609230'
+  if ( n <= 1 && ++qword_609750 != qword_609230 )
+                                   ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:46:3: error: use of undeclared identifier 'qword_609750'
+  qword_609750 = 0LL;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:47:26: error: use of undeclared identifier 's1'
+  return fwrite_unlocked(s1, 1uLL, n, stdout);
+                         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:47:36: error: use of undeclared identifier 'n'
+  return fwrite_unlocked(s1, 1uLL, n, stdout);
+                                   ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C8B.c:47:39: error: use of undeclared identifier 'stdout'
+  return fwrite_unlocked(s1, 1uLL, n, stdout);
+                                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402F56.c:2:10: warning: '__fastcall' calling convention is not supported for this target
+__int64 *__fastcall sub_402F56(__int64 *a1, __int64 a2, __int64 a3)
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402F56.c:9:11: error: use of undeclared identifier 'qword_609780'
+    v4 = &qword_609780;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4013C0.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401610.c:3:16: error: unknown type name 'FILE'
+int __freading(FILE *fp)
+               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402A18.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BYTE *__fastcall sub_402A18(_BYTE *a1)
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403EAE.c:7:18: error: use of undeclared identifier 'off_609280'
+  ptr = (void **)off_609280;
+                 ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403EAE.c:8:20: error: use of undeclared identifier 'dword_609260'
+  for ( i = 1; i < dword_609260; ++i )
+                   ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403EAE.c:10:19: error: use of undeclared identifier 'unk_6097C0'
+  if ( ptr[1] != &unk_6097C0 )
+                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403EAE.c:13:5: error: use of undeclared identifier 'qword_609270'
+    qword_609270 = 256LL;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403EAE.c:14:5: error: use of undeclared identifier 'off_609278'
+    off_609278 = &unk_6097C0;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403EAE.c:14:19: error: use of undeclared identifier 'unk_6097C0'
+    off_609278 = &unk_6097C0;
+                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403EAE.c:16:25: error: use of undeclared identifier 'qword_609270'
+  if ( ptr != (void **)&qword_609270 )
+                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403EAE.c:19:5: error: use of undeclared identifier 'off_609280'
+    off_609280 = &qword_609270;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403EAE.c:19:19: error: use of undeclared identifier 'qword_609270'
+    off_609280 = &qword_609270;
+                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403EAE.c:21:3: error: use of undeclared identifier 'dword_609260'
+  dword_609260 = 1;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4015F0.c:3:12: error: unknown type name 'FILE'
+int fflush(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401400.c:3:24: error: unknown type name 'FILE'
+void clearerr_unlocked(FILE *stream)
+                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017A0.c:6:9: error: use of undeclared identifier 'byte_6092F8'
+  if ( !byte_6092F8 )
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017A0.c:9:5: error: use of undeclared identifier 'byte_6092F8'
+    byte_6092F8 = 1;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401730.c:6:13: error: use of undeclared identifier 'unk_60928F'
+  result = &unk_60928F - &unk_609288;
+            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401730.c:6:27: error: use of undeclared identifier 'unk_609288'
+  result = &unk_60928F - &unk_609288;
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401730.c:7:28: error: use of undeclared identifier 'unk_60928F'
+  if ( (unsigned __int64)(&unk_60928F - &unk_609288) > 0xE )
+                           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401730.c:7:42: error: use of undeclared identifier 'unk_609288'
+  if ( (unsigned __int64)(&unk_60928F - &unk_609288) > 0xE )
+                                         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401530.c:3:44: error: unknown type name 'size_t'
+int memcmp(const void *s1, const void *s2, size_t n)
+                                           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403D82.c:2:43: error: unknown type name 'size_t'
+__int64 __fastcall sub_403D82(__int64 a1, size_t a2, _QWORD *a3, __int64 *a4)
+                                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403D82.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403D82(__int64 a1, size_t a2, _QWORD *a3, __int64 *a4)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403D82.c:14:11: error: use of undeclared identifier 'qword_609780'
+    v4 = &qword_609780;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403D82.c:16:8: error: indirection requires pointer operand ('int' invalid)
+  v7 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403D82.c:21:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v7;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404589.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_404589(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5, unsigned __int64 a6)
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404589.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_404589(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5, unsigned __int64 a6)
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404589.c:66:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v6 = gettext("(C)");
+     ^ ~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404589.c:68:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v7 = gettext(
+     ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404589.c:81:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v22 = gettext("Written by %s, %s, %s,\nand %s.\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404589.c:95:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v40 = gettext("Written by %s, %s, %s,\n%s, %s, %s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404589.c:110:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v46 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\nand %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404589.c:125:15: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+          v52 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\n%s, and %s.\n");
+              ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404589.c:127:15: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+          v52 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\n%s, %s, and others.\n");
+              ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404589.c:138:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v28 = gettext("Written by %s, %s, %s,\n%s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404589.c:149:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v34 = gettext("Written by %s, %s, %s,\n%s, %s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404589.c:159:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v9 = gettext("Written by %s.\n");
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404589.c:167:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v12 = gettext("Written by %s and %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404589.c:174:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v16 = gettext("Written by %s, %s, and %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4042BD.c:2:57: error: unknown type name 'size_t'
+void *__fastcall sub_4042BD(int a1, int a2, __int64 a3, size_t a4)
+                                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4042BD.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4042BD(int a1, int a2, __int64 a3, size_t a4)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4016E0.c:3:19: error: unknown type name 'FILE'
+int feof_unlocked(FILE *stream)
+                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:2:85: error: unknown type name 'size_t'
+unsigned __int64 __fastcall sub_403065(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, unsigned int a5, int a6, __int64 a7, char *a8, char *a9)
+                                                                                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_403065(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, unsigned int a5, int a6, __int64 a7, char *a8, char *a9)
+                 ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:14:3: error: use of undeclared identifier 'wchar_t'
+  wchar_t pwc; // [rsp+6Ch] [rbp-64h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:18:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t n; // [rsp+88h] [rbp-48h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:18:3: warning: expression result unused
+  size_t n; // [rsp+88h] [rbp-48h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:18:10: error: use of undeclared identifier 'n'
+  size_t n; // [rsp+88h] [rbp-48h]
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:21:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v34; // [rsp+A0h] [rbp-30h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:21:3: warning: expression result unused
+  size_t v34; // [rsp+A0h] [rbp-30h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:21:10: error: use of undeclared identifier 'v34'
+  size_t v34; // [rsp+A0h] [rbp-30h]
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:23:3: error: use of undeclared identifier 'mbstate_t'
+  mbstate_t p; // [rsp+B0h] [rbp-20h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:29:3: error: use of undeclared identifier 'n'
+  n = 0LL;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:49:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        a8 = sub_403028((const char *)L"`'", a5);
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:50:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        a9 = sub_403028((const char *)L"'", a5);
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:63:7: error: use of undeclared identifier 'n'
+      n = strlen(a9);
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:77:5: error: use of undeclared identifier 'n'
+    n = 1LL;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:95:27: warning: adding 'int' to a string does not append to the string
+    s = (_BYTE *)(L"\"`'" + 4);
+                  ~~~~~~~~^~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:95:27: note: use array indexing to silence this warning
+    s = (_BYTE *)(L"\"`'" + 4);
+                          ^
+                  &       [  ]
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:95:7: warning: assigning to 'char *' from 'uint8 *' (aka 'unsigned char *') converts between pointers to integer types where one is of the unique plain 'char' type and the other is not
+    s = (_BYTE *)(L"\"`'" + 4);
+      ^ ~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:96:5: error: use of undeclared identifier 'n'
+    n = 1LL;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:104:26: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:104:17: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:104:72: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                                                                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:140:23: error: indirection requires pointer operand ('int' invalid)
+              v25 = ((*__ctype_b_loc())[v22] & 0x4000) != 0;
+                      ^~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:144:36: error: use of undeclared identifier 'p'
+              memset(&p, 0, sizeof(p));
+                                   ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:144:23: error: use of undeclared identifier 'p'
+              memset(&p, 0, sizeof(p));
+                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:151:32: error: use of undeclared identifier 'pwc'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:151:84: error: use of undeclared identifier 'p'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                                                                                   ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:151:17: error: use of undeclared identifier 'v34'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:152:23: error: use of undeclared identifier 'v34'
+                if ( !v34 )
+                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:154:22: error: use of undeclared identifier 'v34'
+                if ( v34 == -1LL )
+                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:159:22: error: use of undeclared identifier 'v34'
+                if ( v34 == -2LL )
+                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:168:38: error: use of undeclared identifier 'v34'
+                  for ( j = 1LL; j < v34; ++j )
+                                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:184:32: error: use of undeclared identifier 'pwc'
+                if ( !iswprint(pwc) )
+                               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:186:24: error: use of undeclared identifier 'v34'
+                v32 += v34;
+                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:188:33: error: use of undeclared identifier 'p'
+              while ( !mbsinit(&p) );
+                                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403065.c:239:30: error: use of undeclared identifier 'n'
+          if ( v20 && v21 && n )
+                             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401BF7.c:4:3: error: use of undeclared identifier 'qword_609300'
+  qword_609300 = (__int64)off_6091F8[0];
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401BF7.c:4:27: error: use of undeclared identifier 'off_6091F8'
+  qword_609300 = (__int64)off_6091F8[0];
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401BF7.c:5:3: error: use of undeclared identifier 'buffer'
+  buffer = (struct re_pattern_buffer *)&unk_609360;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401BF7.c:5:41: error: use of undeclared identifier 'unk_609360'
+  buffer = (struct re_pattern_buffer *)&unk_609360;
+                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401BF7.c:6:8: error: use of undeclared identifier 'byte_609228'
+  if ( byte_609228 )
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401BF7.c:7:5: error: use of undeclared identifier 'qword_609740'
+    qword_609740 = qword_609218;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401BF7.c:7:20: error: use of undeclared identifier 'qword_609218'
+    qword_609740 = qword_609218;
+                   ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402A81.c:2:1: error: unknown type name 'size_t'
+size_t __fastcall sub_402A81(const char *a1)
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402A81.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+size_t __fastcall sub_402A81(const char *a1)
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402A81.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t i; // [rsp+10h] [rbp-10h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402A81.c:4:3: warning: expression result unused
+  size_t i; // [rsp+10h] [rbp-10h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402A81.c:4:10: error: use of undeclared identifier 'i'
+  size_t i; // [rsp+10h] [rbp-10h]
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402A81.c:6:9: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402A81.c:6:37: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402A81.c:6:25: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402A81.c:6:53: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                                                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402A81.c:8:10: error: use of undeclared identifier 'i'
+  return i;
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404489.c:2:73: error: unknown type name 'size_t'
+void *__fastcall sub_404489(int a1, __int64 a2, __int64 a3, __int64 a4, size_t a5)
+                                                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404489.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404489(int a1, __int64 a2, __int64 a3, __int64 a4, size_t a5)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404489.c:6:11: error: use of undeclared identifier 'qword_609780'
+  v8[0] = qword_609780;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404489.c:7:11: error: use of undeclared identifier 'qword_609788'
+  v8[1] = qword_609788;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404489.c:8:11: error: use of undeclared identifier 'qword_609790'
+  v8[2] = qword_609790;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404489.c:9:11: error: use of undeclared identifier 'qword_609798'
+  v8[3] = qword_609798;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404489.c:10:11: error: use of undeclared identifier 'qword_6097A0'
+  v8[4] = qword_6097A0;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404489.c:11:11: error: use of undeclared identifier 'qword_6097A8'
+  v8[5] = qword_6097A8;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404489.c:12:11: error: use of undeclared identifier 'qword_6097B0'
+  v8[6] = qword_6097B0;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40440A.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40440A(__int64 a1)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40440A.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_4043E0(a1, 0x3Au);
+         ^~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402FB0.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+_QWORD *__fastcall sub_402FB0(_QWORD *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404520.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404520(__int64 a1, __int64 a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4014E0.c:3:1: error: unknown type name '__off_t'
+__off_t lseek(int fd, __off_t offset, int whence)
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4014E0.c:3:23: error: unknown type name '__off_t'
+__off_t lseek(int fd, __off_t offset, int whence)
+                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40434C.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_40434C(__int64 a1, size_t a2, unsigned __int8 a3)
+                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40434C.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40434C(__int64 a1, size_t a2, unsigned __int8 a3)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40434C.c:6:11: error: use of undeclared identifier 'qword_609780'
+  v4[0] = qword_609780;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40434C.c:7:11: error: use of undeclared identifier 'qword_609788'
+  v4[1] = qword_609788;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40434C.c:8:11: error: use of undeclared identifier 'qword_609790'
+  v4[2] = qword_609790;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40434C.c:9:11: error: use of undeclared identifier 'qword_609798'
+  v4[3] = qword_609798;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40434C.c:10:11: error: use of undeclared identifier 'qword_6097A0'
+  v4[4] = qword_6097A0;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40434C.c:11:11: error: use of undeclared identifier 'qword_6097A8'
+  v4[5] = qword_6097A8;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40434C.c:12:11: error: use of undeclared identifier 'qword_6097B0'
+  v4[6] = qword_6097B0;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401510.c:3:27: error: unknown type name 'off_t'
+int posix_fadvise(int fd, off_t offset, off_t len, int advise)
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401510.c:3:41: error: unknown type name 'off_t'
+int posix_fadvise(int fd, off_t offset, off_t len, int advise)
+                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401FAD(const char *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:5:3: error: use of undeclared identifier 'FILE'
+  FILE *stream; // [rsp+18h] [rbp-8h]
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:5:9: error: use of undeclared identifier 'stream'
+  FILE *stream; // [rsp+18h] [rbp-8h]
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:9:5: error: use of undeclared identifier 'byte_609748'
+    byte_609748 = 1;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:10:5: error: use of undeclared identifier 'stream'
+    stream = (FILE *)stdin;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:10:21: error: expected expression
+    stream = (FILE *)stdin;
+                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:10:15: error: use of undeclared identifier 'FILE'
+    stream = (FILE *)stdin;
+              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:11:16: error: use of undeclared identifier 'stdin'
+    sub_402AFF(stdin, 2LL);
+               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:15:5: error: use of undeclared identifier 'stream'
+    stream = fopen(a1, "r");
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:16:11: error: use of undeclared identifier 'stream'
+    if ( !stream )
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:18:16: error: use of undeclared identifier 'stream'
+    sub_402AFF(stream, 2LL);
+               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:20:23: error: use of undeclared identifier 'stream'
+  sub_401F51((__int64)stream);
+                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:21:24: error: use of undeclared identifier 'stream'
+  if ( ferror_unlocked(stream) )
+                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:25:35: error: use of undeclared identifier 'stream'
+    if ( (unsigned int)sub_405ACC(stream) != -1 )
+                                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:28:8: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+    v1 = __errno_location();
+       ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401FAD.c:32:21: error: use of undeclared identifier 'stream'
+  clearerr_unlocked(stream);
+                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401340.c:6:13: error: use of undeclared identifier '_gmon_start__'
+  result = &_gmon_start__;
+            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401340.c:7:9: error: use of undeclared identifier '_gmon_start__'
+  if ( &_gmon_start__ )
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401340.c:8:14: warning: cast to 'void *' from smaller integer type 'int'
+    result = (void *)__gmon_start__();
+             ^~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4050DA.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4050DA(__int64 *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401700.c:3:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn start(__int64 a1, __int64 a2, void (*a3)(void))
+     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401700.c:12:21: error: use of undeclared identifier 'main'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401700.c:12:41: error: use of undeclared identifier 'init'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401700.c:12:47: error: use of undeclared identifier 'fini'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                                              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405DD0.c:2:33: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_405DD0(void (__fastcall *a1)(void *))
+                                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405DD0.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_405DD0(void (__fastcall *a1)(void *))
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405DD0.c:6:9: error: use of undeclared identifier 'qword_6091E8'
+  if ( &qword_6091E8 )
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405DD0.c:7:18: error: use of undeclared identifier 'qword_6091E8'
+    v1 = (void *)qword_6091E8;
+                 ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402918.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402918(unsigned __int8 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402918.c:7:3: error: use of undeclared identifier 'byte_609760'
+  byte_609760 = a1;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404E64.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404E64(__int64 a1, unsigned __int64 *a2, unsigned __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402E9B.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402E9B(__int64 *a1, unsigned __int8 a2, char a3)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402E9B.c:10:11: error: use of undeclared identifier 'qword_609780'
+    v3 = &qword_609780;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404B74.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_404B74(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5)
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404B74.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_404B74(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5)
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402B39.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_402B39(void *a1)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402B39.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return memset(a1, 0, 0x18uLL);
+         ^~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404E18.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404E18(__int64 a1, unsigned __int64 a2, unsigned __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-404453.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404453(unsigned int a1, __int64 a2, __int64 a3, __int64 a4)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402AFF.c:2:28: error: unknown type name 'FILE'
+void __fastcall sub_402AFF(FILE *a1, int a2)
+                           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402AFF.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall sub_402AFF(FILE *a1, int a2)
+     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402DCD.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402DCD(unsigned int a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4013E0.c:3:1: error: unknown type name 'size_t'
+size_t __fpending(FILE *fp)
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4013E0.c:3:19: error: unknown type name 'FILE'
+size_t __fpending(FILE *fp)
+                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40292D.c:10:33: error: use of undeclared identifier 'stdout'
+  if ( (unsigned int)sub_405CB7(stdout) && (byte_609760 != 1 || *__errno_location() != 32) )
+                                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40292D.c:10:65: error: indirection requires pointer operand ('int' invalid)
+  if ( (unsigned int)sub_405CB7(stdout) && (byte_609760 != 1 || *__errno_location() != 32) )
+                                                                ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40292D.c:10:45: error: use of undeclared identifier 'byte_609760'
+  if ( (unsigned int)sub_405CB7(stdout) && (byte_609760 != 1 || *__errno_location() != 32) )
+                                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40292D.c:12:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v4 = gettext("write error");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40292D.c:13:10: error: use of undeclared identifier 'qword_609758'
+    if ( qword_609758 )
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40292D.c:15:37: error: use of undeclared identifier 'qword_609758'
+      v0 = (const char *)sub_40440A(qword_609758);
+                                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40292D.c:16:10: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+      v1 = __errno_location();
+         ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40292D.c:21:10: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+      v2 = __errno_location();
+         ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40292D.c:24:11: error: use of undeclared identifier 'status'
+    _exit(status);
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40292D.c:26:23: error: use of undeclared identifier 'stderr'
+  result = sub_405CB7(stderr);
+                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-40292D.c:28:11: error: use of undeclared identifier 'status'
+    _exit(status);
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401560.c:3:14: error: unknown type name 'size_t'
+void *calloc(size_t nmemb, size_t size)
+             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401560.c:3:28: error: unknown type name 'size_t'
+void *calloc(size_t nmemb, size_t size)
+                           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4056B4.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4056B4(const char *a1, char **a2, int a3, _QWORD *a4, const char *a5)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4056B4.c:23:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = 0;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4056B4.c:31:13: error: indirection requires pointer operand ('int' invalid)
+  else if ( *__errno_location() )
+            ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4056B4.c:33:10: error: indirection requires pointer operand ('int' invalid)
+    if ( *__errno_location() != 34 )
+         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405673.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405673(__int64 *a1, int a2, int a3)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_403F59(int a1, __int64 a2, size_t a3, __int64 a4)
+                                                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403F59(int a1, __int64 a2, size_t a3, __int64 a4)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:16:9: error: indirection requires pointer operand ('int' invalid)
+  v10 = *__errno_location();
+        ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:17:9: error: use of undeclared identifier 'off_609280'
+  v12 = off_609280;
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:20:8: error: use of undeclared identifier 'dword_609260'
+  if ( dword_609260 <= (unsigned int)a1 )
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:23:10: error: use of undeclared identifier 'off_609280'
+    v9 = off_609280 == &qword_609270;
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:23:25: error: use of undeclared identifier 'qword_609270'
+    v9 = off_609280 == &qword_609270;
+                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:24:10: error: use of undeclared identifier 'off_609280'
+    if ( off_609280 == &qword_609270 )
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:24:25: error: use of undeclared identifier 'qword_609270'
+    if ( off_609280 == &qword_609270 )
+                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:27:12: error: use of undeclared identifier 'off_609280'
+      v4 = off_609280;
+           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:28:11: warning: cast to 'long long *' from smaller integer type 'int'
+    v12 = (__int64 *)sub_404F58(v4, 16 * v14);
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:29:5: error: use of undeclared identifier 'off_609280'
+    off_609280 = v12;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:32:12: error: use of undeclared identifier 'off_609278'
+      v5 = off_609278;
+           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:33:14: error: use of undeclared identifier 'qword_609270'
+      *v12 = qword_609270;
+             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:36:35: error: use of undeclared identifier 'dword_609260'
+    memset(&v12[2 * (unsigned int)dword_609260], 0, 16 * (v14 - (unsigned int)dword_609260));
+                                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:36:79: error: use of undeclared identifier 'dword_609260'
+    memset(&v12[2 * (unsigned int)dword_609260], 0, 16 * (v14 - (unsigned int)dword_609260));
+                                                                              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:37:5: error: use of undeclared identifier 'dword_609260'
+    dword_609260 = a1 + 1;
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:47:18: error: use of undeclared identifier 'unk_6097C0'
+    if ( ptr != &unk_6097C0 )
+                 ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:49:11: warning: cast to 'void *' from smaller integer type 'int'
+    ptr = (void *)sub_404F09(v16);
+          ^~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-403F59.c:53:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v10;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4016B0.c:3:53: error: unknown type name 'size_t'
+const char *re_compile_pattern(const char *pattern, size_t length, struct re_pattern_buffer *buffer)
+                                                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4016B0.c:3:75: warning: declaration of 'struct re_pattern_buffer' will not be visible outside of this function
+const char *re_compile_pattern(const char *pattern, size_t length, struct re_pattern_buffer *buffer)
+                                                                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4013B0.c:3:45: error: unknown type name 'size_t'
+int strncmp(const char *s1, const char *s2, size_t n)
+                                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4050A5.c:6:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v0 = gettext("memory exhausted");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4050A5.c:7:9: error: use of undeclared identifier 'status'
+  error(status, 0, "%s", v0);
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402DF1.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402DF1(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401680.c:3:35: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __cxa_atexit(void (__fastcall *lpfunc)(void *), void *obj, void *lpdso_handle)
+                                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401680.c:3:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __cxa_atexit(void (__fastcall *lpfunc)(void *), void *obj, void *lpdso_handle)
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405ACC.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_405ACC(FILE *a1)
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405ACC.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_405ACC(FILE *a1)
+    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405ACC.c:14:12: error: indirection requires pointer operand ('int' invalid)
+      v3 = *__errno_location();
+           ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-405ACC.c:19:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = v3;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:2:49: warning: declaration of 'struct re_pattern_buffer' will not be visible outside of this function
+__int64 __fastcall sub_401A68(char **a1, struct re_pattern_buffer *a2, char *a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401A68(char **a1, struct re_pattern_buffer *a2, char *a3)
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:6:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v5; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:6:3: warning: expression result unused
+  size_t v5; // rax
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:6:10: error: use of undeclared identifier 'v5'
+  size_t v5; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:11:9: error: use of undeclared identifier 'optarg'
+  v3 = *optarg;
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:15:11: error: use of undeclared identifier 'optarg'
+    *a1 = optarg;
+          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:30:8: error: use of undeclared identifier 'optarg'
+  v4 = optarg++;
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:32:5: error: incomplete definition of type 'struct re_pattern_buffer'
+  a2->buffer = 0LL;
+  ~~^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:2:49: note: forward declaration of 'struct re_pattern_buffer'
+__int64 __fastcall sub_401A68(char **a1, struct re_pattern_buffer *a2, char *a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:33:5: error: incomplete definition of type 'struct re_pattern_buffer'
+  a2->allocated = 0LL;
+  ~~^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:2:49: note: forward declaration of 'struct re_pattern_buffer'
+__int64 __fastcall sub_401A68(char **a1, struct re_pattern_buffer *a2, char *a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:34:5: error: incomplete definition of type 'struct re_pattern_buffer'
+  a2->fastmap = a3;
+  ~~^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:2:49: note: forward declaration of 'struct re_pattern_buffer'
+__int64 __fastcall sub_401A68(char **a1, struct re_pattern_buffer *a2, char *a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:35:5: error: incomplete definition of type 'struct re_pattern_buffer'
+  a2->translate = 0LL;
+  ~~^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:2:49: note: forward declaration of 'struct re_pattern_buffer'
+__int64 __fastcall sub_401A68(char **a1, struct re_pattern_buffer *a2, char *a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:36:3: error: use of undeclared identifier 're_syntax_options'
+  re_syntax_options = 710LL;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:37:3: error: use of undeclared identifier 'v5'
+  v5 = strlen(optarg);
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:37:15: error: use of undeclared identifier 'optarg'
+  v5 = strlen(optarg);
+              ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:38:27: error: use of undeclared identifier 'optarg'
+  v8 = re_compile_pattern(optarg, v5, a2);
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401A68.c:38:35: error: use of undeclared identifier 'v5'
+  v8 = re_compile_pattern(optarg, v5, a2);
+                                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402B87.c:2:45: error: unknown type name 'FILE'
+__int64 *__fastcall sub_402B87(__int64 *a1, FILE *a2, char a3)
+                                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402B87.c:2:10: warning: '__fastcall' calling convention is not supported for this target
+__int64 *__fastcall sub_402B87(__int64 *a1, FILE *a2, char a3)
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017ED.c:7:3: error: use of undeclared identifier 'FILE'
+  FILE *v3; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017ED.c:7:9: error: use of undeclared identifier 'v3'
+  FILE *v3; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017ED.c:15:19: error: use of undeclared identifier 'qword_609768'
+  v0 = sub_402A18(qword_609768);
+                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017ED.c:16:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v1 = gettext("\nReport %s bugs to %s\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017ED.c:18:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v2 = gettext("%s home page: <%s>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017ED.c:20:3: error: use of undeclared identifier 'v3'
+  v3 = stdout;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017ED.c:20:8: error: use of undeclared identifier 'stdout'
+  v3 = stdout;
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017ED.c:21:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v4 = gettext("General help using GNU software: <http://www.gnu.org/gethelp/>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017ED.c:22:22: error: use of undeclared identifier 'v3'
+  fputs_unlocked(v4, v3);
+                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017ED.c:23:6: warning: incompatible integer to pointer conversion assigning to 'const char *' from 'int'
+  s1 = setlocale(5, 0LL);
+     ^ ~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017ED.c:26:21: error: use of undeclared identifier 'qword_609768'
+    v5 = sub_402A18(qword_609768);
+                    ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017ED.c:27:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v6 = gettext("Report %s translation bugs to <http://translationproject.org/team/>\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017ED.c:30:19: error: use of undeclared identifier 'qword_609768'
+  v7 = sub_402A18(qword_609768);
+                  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4017ED.c:31:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v8 = gettext("For complete documentation, run: info coreutils '%s invocation'\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401500.c:3:30: error: unknown type name 'size_t'
+void *memset(void *s, int c, size_t n)
+                             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v1; // [rsp+8h] [rbp-8h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:4:3: warning: expression result unused
+  size_t v1; // [rsp+8h] [rbp-8h]
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:4:10: error: use of undeclared identifier 'v1'
+  size_t v1; // [rsp+8h] [rbp-8h]
+         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:6:3: error: use of undeclared identifier 'v1'
+  v1 = n - 1;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:6:8: error: use of undeclared identifier 'n'
+  v1 = n - 1;
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:7:8: error: use of undeclared identifier 'n'
+  if ( n - 1 <= 1 || memcmp(s1, src, 2uLL) )
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:7:29: error: use of undeclared identifier 's1'
+  if ( n - 1 <= 1 || memcmp(s1, src, 2uLL) )
+                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:7:33: error: use of undeclared identifier 'src'
+  if ( n - 1 <= 1 || memcmp(s1, src, 2uLL) )
+                                ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:9:8: error: use of undeclared identifier 'v1'
+  if ( v1 == qword_6096F0 && !memcmp(s1, dest, qword_6096F0) )
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:9:14: error: use of undeclared identifier 'qword_6096F0'
+  if ( v1 == qword_6096F0 && !memcmp(s1, dest, qword_6096F0) )
+             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:9:38: error: use of undeclared identifier 's1'
+  if ( v1 == qword_6096F0 && !memcmp(s1, dest, qword_6096F0) )
+                                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:9:42: error: use of undeclared identifier 'dest'
+  if ( v1 == qword_6096F0 && !memcmp(s1, dest, qword_6096F0) )
+                                         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:9:48: error: use of undeclared identifier 'qword_6096F0'
+  if ( v1 == qword_6096F0 && !memcmp(s1, dest, qword_6096F0) )
+                                               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:11:8: error: use of undeclared identifier 'v1'
+  if ( v1 == qword_609700 && !memcmp(s1, qword_6096F8, qword_609700) )
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:11:14: error: use of undeclared identifier 'qword_609700'
+  if ( v1 == qword_609700 && !memcmp(s1, qword_6096F8, qword_609700) )
+             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:11:38: error: use of undeclared identifier 's1'
+  if ( v1 == qword_609700 && !memcmp(s1, qword_6096F8, qword_609700) )
+                                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:11:42: error: use of undeclared identifier 'qword_6096F8'
+  if ( v1 == qword_609700 && !memcmp(s1, qword_6096F8, qword_609700) )
+                                         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:11:56: error: use of undeclared identifier 'qword_609700'
+  if ( v1 == qword_609700 && !memcmp(s1, qword_6096F8, qword_609700) )
+                                                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:13:8: error: use of undeclared identifier 'v1'
+  if ( v1 == qword_609710 && !memcmp(s1, qword_609708, qword_609710) )
+       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:13:14: error: use of undeclared identifier 'qword_609710'
+  if ( v1 == qword_609710 && !memcmp(s1, qword_609708, qword_609710) )
+             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:13:38: error: use of undeclared identifier 's1'
+  if ( v1 == qword_609710 && !memcmp(s1, qword_609708, qword_609710) )
+                                     ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:13:42: error: use of undeclared identifier 'qword_609708'
+  if ( v1 == qword_609710 && !memcmp(s1, qword_609708, qword_609710) )
+                                         ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401E58.c:13:56: error: use of undeclared identifier 'qword_609710'
+  if ( v1 == qword_609710 && !memcmp(s1, qword_609708, qword_609710) )
+                                                       ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4013A0.c:5:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'int *'
+  return _errno_location();
+         ^~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401420.c:3:12: error: unknown type name 'FILE'
+int fclose(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402CE6.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+char *__fastcall sub_402CE6(const char *a1)
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402CE6.c:13:87: error: use of undeclared identifier 'stderr'
+    fwrite("A NULL argv[0] was passed through an exec system call.\n", 1uLL, 0x37uLL, stderr);
+                                                                                      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402CE6.c:16:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v4 = strrchr(a1, 47);
+     ^ ~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402CE6.c:28:7: error: use of undeclared identifier 'program_invocation_short_name'
+      program_invocation_short_name = (__int64)(s1 + 3);
+      ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402CE6.c:31:3: error: use of undeclared identifier 'qword_609768'
+  qword_609768 = (__int64)s;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-402CE6.c:33:3: error: use of undeclared identifier 'program_invocation_name'
+  program_invocation_name = (__int64)s;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C39.c:4:3: error: use of undeclared identifier 'qword_609300'
+  qword_609300 = (__int64)off_6091F0[0];
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C39.c:4:27: error: use of undeclared identifier 'off_6091F0'
+  qword_609300 = (__int64)off_6091F0[0];
+                          ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C39.c:5:3: error: use of undeclared identifier 'buffer'
+  buffer = (struct re_pattern_buffer *)&unk_609320;
+  ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401C39.c:5:41: error: use of undeclared identifier 'unk_609320'
+  buffer = (struct re_pattern_buffer *)&unk_609320;
+                                        ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-4015E0.c:3:14: error: unknown type name 'size_t'
+void *malloc(size_t size)
+             ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401670.c:3:1: error: unknown type name 'FILE'
+FILE *fopen(const char *filename, const char *modes)
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401490.c:3:1: error: unknown type name 'size_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401490.c:3:16: error: unknown type name 'wchar_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+               ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401490.c:3:45: error: unknown type name 'size_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+                                            ^
+/share/resym_darpa/data/decompiled_files/nl_ground/nl_ground-401490.c:3:55: error: unknown type name 'mbstate_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+                                                      ^

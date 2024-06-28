@@ -1,0 +1,32 @@
+[
+    {
+        "expr": "(_QWORD *)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 4,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(void **)(a1 + 16)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 5,
+        "offset": 16,
+        "varName": "a1"
+    },
+    {
+        "expr": "(void *)a1",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 6,
+        "offset": 0,
+        "varName": "a1"
+    }
+]

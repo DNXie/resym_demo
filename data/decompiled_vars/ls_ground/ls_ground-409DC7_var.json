@@ -1,0 +1,136 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__int64",
+            "original_line": "__int64 a1"
+        },
+        {
+            "name": "a2",
+            "type": "char",
+            "original_line": "char a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v2; // eax"
+        },
+        {
+            "name": "v3",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v3; // eax"
+        },
+        {
+            "name": "v4",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v4; // eax"
+        },
+        {
+            "name": "v5",
+            "type": "__int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v5; // rax"
+        },
+        {
+            "name": "v7",
+            "type": "unsigned int",
+            "comment": "[rsp+14h] [rbp-2Ch]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-2C",
+            "rbp_offset_dec": -44,
+            "original_line": "unsigned int v7; // [rsp+14h] [rbp-2Ch]"
+        },
+        {
+            "name": "v8",
+            "type": "int",
+            "comment": "[rsp+18h] [rbp-28h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-28",
+            "rbp_offset_dec": -40,
+            "original_line": "int v8; // [rsp+18h] [rbp-28h]"
+        },
+        {
+            "name": "v9",
+            "type": "int",
+            "comment": "[rsp+1Ch] [rbp-24h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-24",
+            "rbp_offset_dec": -36,
+            "original_line": "int v9; // [rsp+1Ch] [rbp-24h]"
+        },
+        {
+            "name": "i",
+            "type": "__int64",
+            "comment": "[rsp+20h] [rbp-20h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-20",
+            "rbp_offset_dec": -32,
+            "original_line": "__int64 i; // [rsp+20h] [rbp-20h]"
+        },
+        {
+            "name": "s",
+            "type": "char *",
+            "comment": "[rsp+28h] [rbp-18h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "char *s; // [rsp+28h] [rbp-18h]"
+        },
+        {
+            "name": "sa",
+            "type": "char *",
+            "comment": "[rsp+28h] [rbp-18h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "char *sa; // [rsp+28h] [rbp-18h]"
+        },
+        {
+            "name": "v13",
+            "type": "size_t",
+            "comment": "[rsp+30h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "size_t v13; // [rsp+30h] [rbp-10h]"
+        },
+        {
+            "name": "v14",
+            "type": "__int64",
+            "comment": "[rsp+38h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "__int64 v14; // [rsp+38h] [rbp-8h]"
+        }
+    ]
+}

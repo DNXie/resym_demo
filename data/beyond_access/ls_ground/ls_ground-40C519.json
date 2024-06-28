@@ -1,0 +1,42 @@
+[
+    {
+        "expr": "(__int64 (__fastcall **)(__int64, _QWORD))(a1 + 48)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long (*)(long long, uint64) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 6,
+        "offset": 48,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 16)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 6,
+        "offset": 16,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 16)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 7,
+        "offset": 16,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 9,
+        "offset": 0,
+        "varName": "a1"
+    }
+]

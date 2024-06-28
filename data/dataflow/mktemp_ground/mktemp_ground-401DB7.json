@@ -1,0 +1,42 @@
+[
+    {
+        "lhsVarName": "sa",
+        "lineNum": 107,
+        "rhsVarName": "desta"
+    },
+    {
+        "lhsVarName": "v12",
+        "lineNum": 140,
+        "rhsVarName": "v47"
+    },
+    {
+        "lhsVarName": "v12",
+        "lineNum": 144,
+        "rhsVarName": "v35"
+    },
+    {
+        "lhsVarName": "v34",
+        "lineNum": 150,
+        "rhsVarName": "v12"
+    },
+    {
+        "lhsVarName": "v34",
+        "lineNum": 162,
+        "rhsVarName": "v35"
+    },
+    {
+        "lhsVarName": "v15",
+        "lineNum": 168,
+        "rhsVarName": "v48"
+    },
+    {
+        "lhsVarName": "v34",
+        "lineNum": 171,
+        "rhsVarName": "v15"
+    },
+    {
+        "lhsVarName": "sa",
+        "lineNum": 182,
+        "rhsVarName": "destb"
+    }
+]

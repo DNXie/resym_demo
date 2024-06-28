@@ -1,0 +1,20 @@
+[
+    {
+        "args": [
+            "v5",
+            "a2"
+        ],
+        "funName": "sub_4023C4",
+        "lineNum": 6
+    },
+    {
+        "args": [
+            "a1",
+            "a3",
+            "0xFFFFFFFFFFFFFFFFLL",
+            "(__int64)v5"
+        ],
+        "funName": "sub_40336D",
+        "lineNum": 7
+    }
+]

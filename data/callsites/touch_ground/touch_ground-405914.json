@@ -1,0 +1,25 @@
+[
+    {
+        "args": [
+            "(unsigned __int8)*i"
+        ],
+        "funName": "sub_40A5D0",
+        "lineNum": 23
+    },
+    {
+        "args": [
+            "a1",
+            "a2"
+        ],
+        "funName": "sub_405843",
+        "lineNum": 41
+    },
+    {
+        "args": [
+            "a1",
+            "a2"
+        ],
+        "funName": "sub_405843",
+        "lineNum": 88
+    }
+]

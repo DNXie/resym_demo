@@ -1,0 +1,18 @@
+[
+    {
+        "args": [
+            "*(_DWORD *)(i + 16)",
+            "j"
+        ],
+        "funName": "sub_40188A",
+        "lineNum": 28
+    },
+    {
+        "args": [
+            "*(_BYTE *)(i + 16)",
+            "k"
+        ],
+        "funName": "sub_401870",
+        "lineNum": 41
+    }
+]

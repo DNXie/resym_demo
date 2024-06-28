@@ -1,0 +1,32 @@
+[
+    {
+        "args": [
+            "v7"
+        ],
+        "funName": "sub_4054D8",
+        "lineNum": 28
+    },
+    {
+        "args": [
+            "v8",
+            "v11",
+            "v5"
+        ],
+        "funName": "sub_405D50",
+        "lineNum": 32
+    },
+    {
+        "args": [
+            "v3"
+        ],
+        "funName": "sub_4054D8",
+        "lineNum": 36
+    },
+    {
+        "args": [
+            "v4"
+        ],
+        "funName": "sub_4054D8",
+        "lineNum": 37
+    }
+]

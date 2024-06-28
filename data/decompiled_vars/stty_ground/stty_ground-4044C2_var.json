@@ -1,0 +1,31 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "unsigned __int8",
+            "original_line": "unsigned __int8 a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "_BYTE *",
+            "comment": "[rsp+Ch] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "_BYTE *v2; // [rsp+Ch] [rbp-8h]"
+        },
+        {
+            "name": "v3",
+            "type": "_BYTE *",
+            "comment": "[rsp+Ch] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "_BYTE *v3; // [rsp+Ch] [rbp-8h]"
+        }
+    ]
+}

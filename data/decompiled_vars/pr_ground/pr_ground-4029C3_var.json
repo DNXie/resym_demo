@@ -1,0 +1,76 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "unsigned __int8 *",
+            "original_line": "unsigned __int8 *a1"
+        },
+        {
+            "name": "a2",
+            "type": "char",
+            "original_line": "char a2"
+        },
+        {
+            "name": "a3",
+            "type": "unsigned __int8 *",
+            "original_line": "unsigned __int8 *a3"
+        },
+        {
+            "name": "a4",
+            "type": "_DWORD *",
+            "original_line": "_DWORD *a4"
+        }
+    ],
+    "variable": [
+        {
+            "name": "result",
+            "type": "_DWORD *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "_DWORD *result; // rax"
+        },
+        {
+            "name": "v5",
+            "type": "__int64",
+            "comment": "r12",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v5; // r12"
+        },
+        {
+            "name": "v6",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v6; // rax"
+        },
+        {
+            "name": "v8",
+            "type": "unsigned __int8 *",
+            "comment": "[rsp+18h] [rbp-28h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-28",
+            "rbp_offset_dec": -40,
+            "original_line": "unsigned __int8 *v8; // [rsp+18h] [rbp-28h]"
+        },
+        {
+            "name": "v9",
+            "type": "__int64",
+            "comment": "[rsp+28h] [rbp-18h] BYREF",
+            "array_size": 3,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "__int64 v9[3]; // [rsp+28h] [rbp-18h] BYREF"
+        }
+    ]
+}

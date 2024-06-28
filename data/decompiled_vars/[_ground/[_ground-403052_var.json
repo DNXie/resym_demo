@@ -1,0 +1,15 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "v1",
+            "type": "unsigned __int8",
+            "comment": "[rsp+Fh] [rbp-11h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-11",
+            "rbp_offset_dec": -17,
+            "original_line": "unsigned __int8 v1; // [rsp+Fh] [rbp-11h]"
+        }
+    ]
+}

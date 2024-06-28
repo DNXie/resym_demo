@@ -1,0 +1,32 @@
+[
+    {
+        "args": [
+            "a1",
+            "*(_QWORD *)(a2 + 56)"
+        ],
+        "funName": "sub_4097BD",
+        "lineNum": 10
+    },
+    {
+        "args": [
+            "*(_QWORD *)(a2 + 56)"
+        ],
+        "funName": "sub_4096ED",
+        "lineNum": 14
+    },
+    {
+        "args": [
+            "a1",
+            "*(_QWORD *)(a2 + 56)"
+        ],
+        "funName": "sub_409DDF",
+        "lineNum": 15
+    },
+    {
+        "args": [
+            "*(_QWORD *)(a2 + 56)"
+        ],
+        "funName": "sub_40970B",
+        "lineNum": 16
+    }
+]

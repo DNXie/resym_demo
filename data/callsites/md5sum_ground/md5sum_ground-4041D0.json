@@ -1,0 +1,16 @@
+[
+    {
+        "args": [
+            "(unsigned int)v3"
+        ],
+        "funName": "sub_405B16",
+        "lineNum": 16
+    },
+    {
+        "args": [
+            "stream"
+        ],
+        "funName": "sub_40668D",
+        "lineNum": 20
+    }
+]

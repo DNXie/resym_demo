@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "fildes",
+            "type": "int",
+            "original_line": "int fildes"
+        },
+        {
+            "name": "buf",
+            "type": "struct statfs *",
+            "original_line": "struct statfs *buf"
+        }
+    ],
+    "variable": []
+}

@@ -1,0 +1,96 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "const void *",
+            "original_line": "const void *a1"
+        },
+        {
+            "name": "a2",
+            "type": "const void *",
+            "original_line": "const void *a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "__int16",
+            "comment": "ax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int16 v2; // ax"
+        },
+        {
+            "name": "v3",
+            "type": "int",
+            "comment": "ebx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v3; // ebx"
+        },
+        {
+            "name": "v5",
+            "type": "int",
+            "comment": "ebx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v5; // ebx"
+        },
+        {
+            "name": "i",
+            "type": "int",
+            "comment": "[rsp+14h] [rbp-14h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-14",
+            "rbp_offset_dec": -20,
+            "original_line": "int i; // [rsp+14h] [rbp-14h]"
+        },
+        {
+            "name": "j",
+            "type": "int",
+            "comment": "[rsp+14h] [rbp-14h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-14",
+            "rbp_offset_dec": -20,
+            "original_line": "int j; // [rsp+14h] [rbp-14h]"
+        },
+        {
+            "name": "v8",
+            "type": "int",
+            "comment": "[rsp+18h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "int v8; // [rsp+18h] [rbp-10h]"
+        },
+        {
+            "name": "v9",
+            "type": "unsigned int",
+            "comment": "[rsp+1Ch] [rbp-Ch]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C",
+            "rbp_offset_dec": -12,
+            "original_line": "unsigned int v9; // [rsp+1Ch] [rbp-Ch]"
+        },
+        {
+            "name": "v10",
+            "type": "unsigned int",
+            "comment": "[rsp+1Ch] [rbp-Ch]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C",
+            "rbp_offset_dec": -12,
+            "original_line": "unsigned int v10; // [rsp+1Ch] [rbp-Ch]"
+        }
+    ]
+}

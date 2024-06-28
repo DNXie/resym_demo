@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "ecode",
+            "type": "int",
+            "original_line": "int ecode"
+        }
+    ],
+    "variable": []
+}

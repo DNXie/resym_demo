@@ -1,0 +1,34 @@
+[
+    {
+        "args": [
+            "*(_DWORD *)(v9 + 16)",
+            "i"
+        ],
+        "funName": "sub_40188A",
+        "lineNum": 39
+    },
+    {
+        "args": [
+            "*(_DWORD *)(v9 + 16)",
+            "a1[2]"
+        ],
+        "funName": "sub_40188A",
+        "lineNum": 45
+    },
+    {
+        "args": [
+            "*(_DWORD *)(v9 + 16)",
+            "j"
+        ],
+        "funName": "sub_40188A",
+        "lineNum": 48
+    },
+    {
+        "args": [
+            "a1",
+            "a2"
+        ],
+        "funName": "sub_402C37",
+        "lineNum": 89
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "args": [
+            "*a2",
+            "a2",
+            "a3"
+        ],
+        "funName": "sub_403B55",
+        "lineNum": 8
+    },
+    {
+        "args": [
+            "2u"
+        ],
+        "funName": "sub_4014BD",
+        "lineNum": 12
+    },
+    {
+        "args": [
+            "sub_40392E"
+        ],
+        "funName": "sub_405FF0",
+        "lineNum": 13
+    },
+    {
+        "args": [
+            "dword_609234 - 1"
+        ],
+        "funName": "sub_40349F",
+        "lineNum": 19
+    },
+    {
+        "args": [
+            "v4",
+            "v3"
+        ],
+        "funName": "sub_40165F",
+        "lineNum": 24
+    }
+]

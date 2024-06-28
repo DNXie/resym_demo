@@ -1,0 +1,2315 @@
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4052C6.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4052C6(_DWORD *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405D50.c:2:1: error: unknown type name 'size_t'
+size_t __fastcall sub_405D50(_QWORD *a1, char *a2, size_t a3)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405D50.c:2:52: error: unknown type name 'size_t'
+size_t __fastcall sub_405D50(_QWORD *a1, char *a2, size_t a3)
+                                                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405D50.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+size_t __fastcall sub_405D50(_QWORD *a1, char *a2, size_t a3)
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405D50.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t result; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405D50.c:4:3: warning: expression result unused
+  size_t result; // rax
+  ^~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405D50.c:4:10: error: use of undeclared identifier 'result'
+  size_t result; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405D50.c:7:5: error: use of undeclared identifier 'result'
+    result = sub_405B7A((__int64)a1, a2, a3);
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405D50.c:9:5: error: use of undeclared identifier 'result'
+    result = (size_t)sub_405C1A(a1 + 3, a2, a3);
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405D50.c:9:15: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+    result = (size_t)sub_405C1A(a1 + 3, a2, a3);
+              ^~~~~~
+              sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405D50.c:10:10: error: use of undeclared identifier 'result'
+  return result;
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4015D0.c:3:12: error: unknown type name 'FILE'
+int fclose(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4025C1.c:10:33: error: use of undeclared identifier 'stdout'
+  if ( (unsigned int)sub_40250C(stdout) && (byte_60A308 != 1 || *__errno_location() != 32) )
+                                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4025C1.c:10:65: error: indirection requires pointer operand ('int' invalid)
+  if ( (unsigned int)sub_40250C(stdout) && (byte_60A308 != 1 || *__errno_location() != 32) )
+                                                                ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4025C1.c:10:45: error: use of undeclared identifier 'byte_60A308'
+  if ( (unsigned int)sub_40250C(stdout) && (byte_60A308 != 1 || *__errno_location() != 32) )
+                                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4025C1.c:12:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v4 = gettext("write error");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4025C1.c:13:10: error: use of undeclared identifier 'qword_60A300'
+    if ( qword_60A300 )
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4025C1.c:15:37: error: use of undeclared identifier 'qword_60A300'
+      v0 = (const char *)sub_4041DB(qword_60A300);
+                                    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4025C1.c:16:10: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+      v1 = __errno_location();
+         ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4025C1.c:21:10: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+      v2 = __errno_location();
+         ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4025C1.c:24:11: error: use of undeclared identifier 'status'
+    _exit(status);
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4025C1.c:26:23: error: use of undeclared identifier 'stderr'
+  result = sub_40250C(stderr);
+                      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4025C1.c:28:11: error: use of undeclared identifier 'status'
+    _exit(status);
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402C2A.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402C2A(__int64 *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402C2A.c:9:11: error: use of undeclared identifier 'qword_60A320'
+    v1 = &qword_60A320;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401740.c:3:39: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __libc_start_main(int (__fastcall *main)(int, char **, char **), int argc, char **ubp_av, void (*init)(void), void (*fini)(void), void (*rtld_fini)(void), void *stack_end)
+                                      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401740.c:3:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __libc_start_main(int (__fastcall *main)(int, char **, char **), int argc, char **ubp_av, void (*init)(void), void (*fini)(void), void (*rtld_fini)(void), void *stack_end)
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404007.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404007(__int64 a1)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404007.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_403FB0(0, a1);
+         ^~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402DF9.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+char *__fastcall sub_402DF9(const char *a1, int a2)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402DF9.c:6:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v3 = gettext(a1);
+     ^ ~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40468E.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40468E(char *a1, int a2, int a3, int a4)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403A81.c:2:85: error: unknown type name 'size_t'
+unsigned __int64 __fastcall sub_403A81(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, __int64 *a5)
+                                                                                    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403A81.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_403A81(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, __int64 *a5)
+                 ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403A81.c:12:11: error: use of undeclared identifier 'qword_60A320'
+    v5 = &qword_60A320;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403A81.c:14:8: error: indirection requires pointer operand ('int' invalid)
+  v9 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403A81.c:25:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v9;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401830.c:3:1: error: unknown type name 'FILE'
+FILE *fdopen(int fd, const char *modes)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402B9E.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402B9E(unsigned int a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401630.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401CEB.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401CEB(__int64 a1, unsigned int a2, __int64 a3, char a4)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40425A.c:2:73: error: unknown type name 'size_t'
+void *__fastcall sub_40425A(int a1, __int64 a2, __int64 a3, __int64 a4, size_t a5)
+                                                                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40425A.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40425A(int a1, __int64 a2, __int64 a3, __int64 a4, size_t a5)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40425A.c:6:11: error: use of undeclared identifier 'qword_60A320'
+  v8[0] = qword_60A320;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40425A.c:7:11: error: use of undeclared identifier 'qword_60A328'
+  v8[1] = qword_60A328;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40425A.c:8:11: error: use of undeclared identifier 'qword_60A330'
+  v8[2] = qword_60A330;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40425A.c:9:11: error: use of undeclared identifier 'qword_60A338'
+  v8[3] = qword_60A338;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40425A.c:10:11: error: use of undeclared identifier 'qword_60A340'
+  v8[4] = qword_60A340;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40425A.c:11:11: error: use of undeclared identifier 'qword_60A348'
+  v8[5] = qword_60A348;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40425A.c:12:11: error: use of undeclared identifier 'qword_60A350'
+  v8[6] = qword_60A350;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4046C0.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_4046C0(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5, unsigned __int64 a6)
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4046C0.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_4046C0(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5, unsigned __int64 a6)
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4046C0.c:66:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v6 = gettext("(C)");
+     ^ ~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4046C0.c:68:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v7 = gettext(
+     ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4046C0.c:81:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v22 = gettext("Written by %s, %s, %s,\nand %s.\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4046C0.c:95:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v40 = gettext("Written by %s, %s, %s,\n%s, %s, %s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4046C0.c:110:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v46 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\nand %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4046C0.c:125:15: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+          v52 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\n%s, and %s.\n");
+              ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4046C0.c:127:15: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+          v52 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\n%s, %s, and others.\n");
+              ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4046C0.c:138:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v28 = gettext("Written by %s, %s, %s,\n%s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4046C0.c:149:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v34 = gettext("Written by %s, %s, %s,\n%s, %s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4046C0.c:159:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v9 = gettext("Written by %s.\n");
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4046C0.c:167:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v12 = gettext("Written by %s and %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4046C0.c:174:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v16 = gettext("Written by %s, %s, and %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40543D.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+_QWORD *__fastcall sub_40543D(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40543D.c:6:10: warning: incompatible integer to pointer conversion assigning to 'uint64 *' (aka 'unsigned long long *') from 'int'
+  result = sub_40505A(0x18uLL, a2);
+         ^ ~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40411D.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_40411D(__int64 a1, size_t a2, unsigned __int8 a3)
+                                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40411D.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40411D(__int64 a1, size_t a2, unsigned __int8 a3)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40411D.c:6:11: error: use of undeclared identifier 'qword_60A320'
+  v4[0] = qword_60A320;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40411D.c:7:11: error: use of undeclared identifier 'qword_60A328'
+  v4[1] = qword_60A328;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40411D.c:8:11: error: use of undeclared identifier 'qword_60A330'
+  v4[2] = qword_60A330;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40411D.c:9:11: error: use of undeclared identifier 'qword_60A338'
+  v4[3] = qword_60A338;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40411D.c:10:11: error: use of undeclared identifier 'qword_60A340'
+  v4[4] = qword_60A340;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40411D.c:11:11: error: use of undeclared identifier 'qword_60A348'
+  v4[5] = qword_60A348;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40411D.c:12:11: error: use of undeclared identifier 'qword_60A350'
+  v4[6] = qword_60A350;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40250C.c:2:31: error: unknown type name 'FILE'
+__int64 __fastcall sub_40250C(FILE *a1)
+                              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40250C.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40250C(FILE *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40250C.c:11:30: error: indirection requires pointer operand ('int' invalid)
+  if ( !v3 && (!v4 || !v2 && *__errno_location() == 9) )
+                             ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40250C.c:14:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = 0;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401560.c:3:1: error: unknown type name 'size_t'
+size_t __fpending(FILE *fp)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401560.c:3:19: error: unknown type name 'FILE'
+size_t __fpending(FILE *fp)
+                  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4018A0.c:3:1: error: unknown type name 'FILE'
+FILE *fopen(const char *filename, const char *modes)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402597.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402597(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402597.c:7:3: error: use of undeclared identifier 'qword_60A300'
+  qword_60A300 = a1;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4056FD.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4056FD(_QWORD *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4056FD.c:8:8: error: indirection requires pointer operand ('int' invalid)
+  v3 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4056FD.c:10:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v3;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405E3C.c:2:10: warning: '__fastcall' calling convention is not supported for this target
+__int64 *__fastcall sub_405E3C(__int64 *a1, __int64 *a2)
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4017C0.c:3:43: error: unknown type name 'size_t'
+void *memcpy(void *dest, const void *src, size_t n)
+                                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404F4F.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404F4F(__int64 a1, unsigned __int64 a2, unsigned __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402C6C.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402C6C(__int64 *a1, unsigned __int8 a2, char a3)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402C6C.c:10:11: error: use of undeclared identifier 'qword_60A320'
+    v3 = &qword_60A320;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40511A.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_40511A(size_t a1, __int64 a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40511A.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40511A(size_t a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401750.c:3:44: error: unknown type name 'size_t'
+int memcmp(const void *s1, const void *s2, size_t n)
+                                           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:2:1: warning: return type of 'main' is not 'int'
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:2:1: note: change return type to 'int'
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+^~~~
+int
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:42:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v41; // [rsp+60h] [rbp-40h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:42:3: warning: expression result unused
+  size_t v41; // [rsp+60h] [rbp-40h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:42:10: error: use of undeclared identifier 'v41'
+  size_t v41; // [rsp+60h] [rbp-40h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:43:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t n; // [rsp+68h] [rbp-38h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:43:3: warning: expression result unused
+  size_t n; // [rsp+68h] [rbp-38h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:43:10: error: use of undeclared identifier 'n'
+  size_t n; // [rsp+68h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:60:16: error: use of undeclared identifier 'locale'
+  setlocale(6, locale);
+               ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:63:14: error: use of undeclared identifier 'sub_401D7F'
+  sub_406F80(sub_401D7F);
+             ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:70:47: error: use of undeclared identifier 'longopts'
+        v31 = getopt_long(a1, a2, "dp:qtuV", &longopts, 0LL);
+                                              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:73:54: error: use of undeclared identifier 'stderr'
+          if ( v25 && !sub_402964("/dev/null", "wb", stderr) )
+                                                     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:75:16: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+            v3 = gettext("failed to redirect stderr to /dev/null");
+               ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:76:16: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+            v4 = __errno_location();
+               ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:79:36: error: use of undeclared identifier 'optind'
+          if ( (unsigned int)(a1 - optind) > 1 )
+                                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:81:16: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+            v5 = gettext("too many templates");
+               ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:85:22: error: use of undeclared identifier 'optind'
+          if ( a1 == optind )
+                     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:88:17: error: use of undeclared identifier 'off_60A240'
+            s = off_60A240[0];
+                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:92:20: error: use of undeclared identifier 'optind'
+            s = a2[optind];
+                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:96:13: error: use of undeclared identifier 'n'
+            n = strlen(s);
+            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:97:26: error: use of undeclared identifier 'n'
+            if ( !n || s[n - 1] != 88 )
+                         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:97:19: error: use of undeclared identifier 'n'
+            if ( !n || s[n - 1] != 88 )
+                  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:100:18: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v7 = gettext("with --suffix, template %s must end in X");
+                 ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:103:13: error: use of undeclared identifier 'v41'
+            v41 = strlen(v38);
+            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:104:40: error: use of undeclared identifier 'n'
+            desta = (char *)sub_405040(n + v41 + 1);
+                                       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:104:44: error: use of undeclared identifier 'v41'
+            desta = (char *)sub_405040(n + v41 + 1);
+                                           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:105:30: error: use of undeclared identifier 'n'
+            memcpy(desta, s, n);
+                             ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:106:27: error: use of undeclared identifier 'n'
+            memcpy(&desta[n], v38, v41 + 1);
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:106:36: error: use of undeclared identifier 'v41'
+            memcpy(&desta[n], v38, v41 + 1);
+                                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:108:26: error: use of undeclared identifier 'n'
+            v39 = &desta[n];
+                         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:112:18: warning: cast to 'char *' from smaller integer type 'int'
+            sa = (char *)sub_4051AF(s);
+                 ^~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:113:17: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+            v40 = strrchr(sa, 88);
+                ^ ~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:117:19: warning: incompatible integer to pointer conversion assigning to 'const char *' from 'int'
+              v39 = strchr(sa, 0);
+                  ^ ~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:118:13: error: use of undeclared identifier 'v41'
+            v41 = strlen(v39);
+            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:120:23: warning: cast to 'const char *' from smaller integer type 'int'
+          if ( v41 && (const char *)sub_4026AC(v39) != v39 )
+                      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:120:16: error: use of undeclared identifier 'v41'
+          if ( v41 && (const char *)sub_4026AC(v39) != v39 )
+               ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:120:23: warning: cast to 'const char *' from smaller integer type 'int'
+          if ( v41 && (const char *)sub_4026AC(v39) != v39 )
+                      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:123:16: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+            v9 = gettext("invalid suffix %s, contains directory separator");
+               ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:130:17: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+            v11 = gettext("too few X's in template %s");
+                ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:137:19: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v47 = getenv("TMPDIR");
+                  ^ ~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:151:20: warning: cast to 'char *' from smaller integer type 'int'
+              if ( (char *)sub_4026AC(sa) != sa )
+                   ^~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:154:21: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+                v14 = gettext("invalid template, %s, contains directory separator");
+                    ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:166:21: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+                v48 = getenv("TMPDIR");
+                    ^ ~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:176:21: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+                v17 = gettext("invalid template, %s; with --tmpdir, it may not be absolute");
+                    ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:180:21: warning: cast to 'char *' from smaller integer type 'int'
+            destb = (char *)sub_402763(v34, sa, 0LL);
+                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:184:18: warning: cast to 'const char *' from smaller integer type 'int'
+          dest = (const char *)sub_4051AF(sa);
+                 ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:187:58: error: use of undeclared identifier 'v41'
+            if ( (unsigned int)sub_401D35((__int64)dest, v41, v46, v29) )
+                                                         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:190:19: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v19 = gettext("failed to create directory via template %s");
+                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:191:19: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+              v20 = __errno_location();
+                  ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:198:44: error: use of undeclared identifier 'v41'
+            fd = sub_401CEB((__int64)dest, v41, v46, v29);
+                                           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:202:19: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v22 = gettext("failed to create file via template %s");
+                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:203:19: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+              v23 = __errno_location();
+                  ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:213:15: error: use of undeclared identifier 'byte_60A2F9'
+              byte_60A2F9 = 1;
+              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:214:45: error: use of undeclared identifier 'stdout'
+              if ( (unsigned int)sub_40250C(stdout) )
+                                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:216:26: error: indirection requires pointer operand ('int' invalid)
+                errnum = *__errno_location();
+                         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:218:21: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+                v24 = gettext("write error");
+                    ^ ~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:227:29: error: use of undeclared identifier 'optarg'
+        v35 = (const char *)optarg;
+                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:240:25: error: use of undeclared identifier 'optarg'
+          v38 = (char *)optarg;
+                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:247:31: error: use of undeclared identifier 'optarg'
+          v35 = (const char *)optarg;
+                              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:276:15: error: use of undeclared identifier 'stdout'
+      (_DWORD)stdout,
+              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:277:7: warning: cast to smaller integer type 'unsigned int' from 'char *'
+      (unsigned int)"mktemp",
+      ^~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:278:7: warning: cast to smaller integer type 'unsigned int' from 'char *'
+      (unsigned int)"GNU coreutils",
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:279:15: error: use of undeclared identifier 'off_60A248'
+      (_DWORD)off_60A248,
+              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:280:7: warning: cast to smaller integer type 'unsigned int' from 'char *'
+      (unsigned int)"Jim Meyering",
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401DB7.c:281:7: warning: cast to smaller integer type 'unsigned int' from 'char *'
+      (unsigned int)"Eric Blake",
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40505A.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_40505A(size_t a1, __int64 a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40505A.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40505A(size_t a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401860.c:3:44: error: unknown type name 'size_t'
+void *mempcpy(void *dest, const void *src, size_t n)
+                                           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401550.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4054EA.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_4054EA(__int64 *a1, unsigned __int64 a2)
+                 ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4027C4(_BYTE *a1, _BYTE *a2, _QWORD *a3)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:6:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v7; // [rsp+28h] [rbp-38h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:6:3: warning: expression result unused
+  size_t v7; // [rsp+28h] [rbp-38h]
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:6:10: error: use of undeclared identifier 'v7'
+  size_t v7; // [rsp+28h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:7:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t n; // [rsp+30h] [rbp-30h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:7:3: warning: expression result unused
+  size_t n; // [rsp+30h] [rbp-30h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:7:10: error: use of undeclared identifier 'n'
+  size_t n; // [rsp+30h] [rbp-30h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:8:9: error: expected ';' after expression
+  _BOOL8 v9; // [rsp+38h] [rbp-28h]
+        ^
+        ;
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:8:3: error: use of undeclared identifier '_BOOL8'
+  _BOOL8 v9; // [rsp+38h] [rbp-28h]
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:8:10: error: use of undeclared identifier 'v9'
+  _BOOL8 v9; // [rsp+38h] [rbp-28h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:10:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v11; // [rsp+48h] [rbp-18h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:10:3: warning: expression result unused
+  size_t v11; // [rsp+48h] [rbp-18h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:10:10: error: use of undeclared identifier 'v11'
+  size_t v11; // [rsp+48h] [rbp-18h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:15:6: warning: incompatible integer to pointer conversion assigning to 'const char *' from 'int'
+  v6 = sub_4026AC(a1);
+     ^ ~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:16:3: error: use of undeclared identifier 'v7'
+  v7 = sub_402715(v6);
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:17:3: error: use of undeclared identifier 'n'
+  n = v6 - a1 + v7;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:17:10: error: 'const char *' and 'uint8 *' (aka 'unsigned char *') are not pointers to compatible types
+  n = v6 - a1 + v7;
+      ~~ ^ ~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:17:17: error: use of undeclared identifier 'v7'
+  n = v6 - a1 + v7;
+                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:18:17: error: use of undeclared identifier 'v7'
+  v3 = v7 && v6[v7 - 1] != 47;
+                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:18:8: error: use of undeclared identifier 'v7'
+  v3 = v7 && v6[v7 - 1] != 47;
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:19:3: error: use of undeclared identifier 'v9'
+  v9 = v3;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:20:5: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  s = sub_4027A4(a2);
+    ^ ~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:21:3: error: use of undeclared identifier 'v11'
+  v11 = strlen(s);
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:22:17: error: use of undeclared identifier 'v9'
+  dest = malloc(v9 + n + v11 + 1);
+                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:22:22: error: use of undeclared identifier 'n'
+  dest = malloc(v9 + n + v11 + 1);
+                     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:22:26: error: use of undeclared identifier 'v11'
+  dest = malloc(v9 + n + v11 + 1);
+                         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:25:27: error: use of undeclared identifier 'n'
+  v13 = mempcpy(dest, a1, n);
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:27:14: error: use of undeclared identifier 'v9'
+  v14 = &v13[v9];
+             ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:29:9: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'char *'
+    *a3 = &v14[-(*a2 == 47)];
+        ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027C4.c:30:29: error: use of undeclared identifier 'v11'
+  *(_BYTE *)mempcpy(v14, s, v11) = 0;
+                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4019C0.c:6:9: error: use of undeclared identifier 'byte_60A2F8'
+  if ( !byte_60A2F8 )
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4019C0.c:9:5: error: use of undeclared identifier 'byte_60A2F8'
+    byte_60A2F8 = 1;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401CA8.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401CA8(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4017D0.c:3:12: error: unknown type name 'FILE'
+int fileno(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402D81.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+_QWORD *__fastcall sub_402D81(_QWORD *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B60.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405B60(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:2:65: error: unknown type name 'size_t'
+__int64 __fastcall sub_404384(char *a1, int a2, int a3, int a4, size_t a5)
+                                                                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404384(char *a1, int a2, int a3, int a4, size_t a5)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:9:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t j; // [rsp+40h] [rbp-C0h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:9:3: warning: expression result unused
+  size_t j; // [rsp+40h] [rbp-C0h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:9:10: error: use of undeclared identifier 'j'
+  size_t j; // [rsp+40h] [rbp-C0h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:10:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v15; // [rsp+48h] [rbp-B8h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:10:3: warning: expression result unused
+  size_t v15; // [rsp+48h] [rbp-B8h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:10:10: error: use of undeclared identifier 'v15'
+  size_t v15; // [rsp+48h] [rbp-B8h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:12:15: error: variable has incomplete type 'struct stat'
+  struct stat stat_buf; // [rsp+60h] [rbp-A0h] BYREF
+              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:12:10: note: forward declaration of 'struct stat'
+  struct stat stat_buf; // [rsp+60h] [rbp-A0h] BYREF
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:14:9: error: indirection requires pointer operand ('int' invalid)
+  v12 = *__errno_location();
+        ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:15:3: error: use of undeclared identifier 'v15'
+  v15 = strlen(a1);
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:16:18: error: use of undeclared identifier 'v15'
+  if ( a2 + a5 > v15 || !sub_40435A(&a1[v15 - a5 - a2], a5) )
+                 ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:16:41: error: use of undeclared identifier 'v15'
+  if ( a2 + a5 > v15 || !sub_40435A(&a1[v15 - a5 - a2], a5) )
+                                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:18:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = 22;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:29:7: error: indirection requires pointer operand ('int' invalid)
+      *__errno_location() = 17;
+      ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:32:11: error: use of undeclared identifier 'j'
+    for ( j = 0LL; j < a5; ++j )
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:32:20: error: use of undeclared identifier 'j'
+    for ( j = 0LL; j < a5; ++j )
+                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:32:30: error: use of undeclared identifier 'j'
+    for ( j = 0LL; j < a5; ++j )
+                             ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:33:10: error: use of undeclared identifier 'v15'
+      a1[v15 - a5 - a2 + j] = byte_407BE0[sub_4054EA(v16, 61LL)];
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:33:26: error: use of undeclared identifier 'j'
+      a1[v15 - a5 - a2 + j] = byte_407BE0[sub_4054EA(v16, 61LL)];
+                         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:33:31: error: use of undeclared identifier 'byte_407BE0'
+      a1[v15 - a5 - a2 + j] = byte_407BE0[sub_4054EA(v16, 61LL)];
+                              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:49:7: error: indirection requires pointer operand ('int' invalid)
+      *__errno_location() = v12;
+      ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:52:10: error: indirection requires pointer operand ('int' invalid)
+    if ( *__errno_location() != 17 )
+         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:62:8: error: indirection requires pointer operand ('int' invalid)
+  if ( *__errno_location() == 2 )
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:64:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = v12;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:72:9: error: indirection requires pointer operand ('int' invalid)
+  v13 = *__errno_location();
+        ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404384.c:74:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v13;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403FB0.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403FB0(int a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403FB0.c:4:61: error: use of undeclared identifier 'qword_60A320'
+  return sub_403D2A(a1, a2, 0xFFFFFFFFFFFFFFFFLL, (__int64)&qword_60A320);
+                                                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4018F0.c:3:19: error: unknown type name 'mbstate_t'
+int mbsinit(const mbstate_t *ps)
+                  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401650.c:3:82: warning: declaration of 'struct option' will not be visible outside of this function
+int getopt_long(int argc, char *const *argv, const char *shortopts, const struct option *longopts, int *longind)
+                                                                                 ^
+/share/resym_darpa/data/commands/mktemp_ground_beyond_access_command.sh: line 51: 25645 Segmentation fault      (core dumped) /home/clang-parser/beyond_access/beyond_access /share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401650.c /share/resym_darpa/data/beyond_access/mktemp_ground/mktemp_ground-401650.json
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4016E0.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401700.c:3:1: error: unknown type name 'FILE'
+FILE *freopen(const char *filename, const char *modes, FILE *stream)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401700.c:3:56: error: unknown type name 'FILE'
+FILE *freopen(const char *filename, const char *modes, FILE *stream)
+                                                       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401520.c:5:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'int *'
+  return _errno_location();
+         ^~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405740.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn sub_405740(__int64 a1)
+     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405740.c:11:8: warning: incompatible integer to pointer conversion assigning to 'void *' from 'int'
+    v1 = sub_4041DB(a1);
+       ^ ~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405740.c:12:10: error: indirection requires pointer operand ('int' invalid)
+    if ( *__errno_location() )
+         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405740.c:16:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v3 = gettext(v2);
+       ^ ~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405740.c:17:8: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+    v4 = __errno_location();
+       ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405740.c:18:11: error: use of undeclared identifier 'status'
+    error(status, *v4, v3, v1);
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401A0D.c:7:3: error: use of undeclared identifier 'FILE'
+  FILE *v3; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401A0D.c:7:9: error: use of undeclared identifier 'v3'
+  FILE *v3; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401A0D.c:15:19: error: use of undeclared identifier 'qword_60A310'
+  v0 = sub_4026AC(qword_60A310);
+                  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401A0D.c:16:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v1 = gettext("\nReport %s bugs to %s\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401A0D.c:18:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v2 = gettext("%s home page: <%s>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401A0D.c:20:3: error: use of undeclared identifier 'v3'
+  v3 = stdout;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401A0D.c:20:8: error: use of undeclared identifier 'stdout'
+  v3 = stdout;
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401A0D.c:21:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v4 = gettext("General help using GNU software: <http://www.gnu.org/gethelp/>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401A0D.c:22:22: error: use of undeclared identifier 'v3'
+  fputs_unlocked(v4, v3);
+                     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401A0D.c:23:6: warning: incompatible integer to pointer conversion assigning to 'const char *' from 'int'
+  s1 = setlocale(5, 0LL);
+     ^ ~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401A0D.c:26:21: error: use of undeclared identifier 'qword_60A310'
+    v5 = sub_4026AC(qword_60A310);
+                    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401A0D.c:27:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v6 = gettext("Report %s translation bugs to <http://translationproject.org/team/>\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401A0D.c:30:19: error: use of undeclared identifier 'qword_60A310'
+  v7 = sub_4026AC(qword_60A310);
+                  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401A0D.c:31:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v8 = gettext("For complete documentation, run: info coreutils '%s invocation'\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403B53.c:2:43: error: unknown type name 'size_t'
+__int64 __fastcall sub_403B53(__int64 a1, size_t a2, _QWORD *a3, __int64 *a4)
+                                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403B53.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403B53(__int64 a1, size_t a2, _QWORD *a3, __int64 *a4)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403B53.c:14:11: error: use of undeclared identifier 'qword_60A320'
+    v4 = &qword_60A320;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403B53.c:16:8: error: indirection requires pointer operand ('int' invalid)
+  v7 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403B53.c:21:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v7;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401910.c:5:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'const unsigned short **'
+  return _ctype_b_loc();
+         ^~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4040CD.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4040CD(int a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4040CD.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_40404D(0, a1, a2);
+         ^~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401780.c:3:14: error: unknown type name 'size_t'
+void *calloc(size_t nmemb, size_t size)
+             ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401780.c:3:28: error: unknown type name 'size_t'
+void *calloc(size_t nmemb, size_t size)
+                           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401800.c:3:12: error: unknown type name 'FILE'
+int fflush(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403C7F.c:7:18: error: use of undeclared identifier 'off_60A280'
+  ptr = (void **)off_60A280;
+                 ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403C7F.c:8:20: error: use of undeclared identifier 'dword_60A260'
+  for ( i = 1; i < dword_60A260; ++i )
+                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403C7F.c:10:19: error: use of undeclared identifier 'unk_60A360'
+  if ( ptr[1] != &unk_60A360 )
+                  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403C7F.c:13:5: error: use of undeclared identifier 'qword_60A270'
+    qword_60A270 = 256LL;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403C7F.c:14:5: error: use of undeclared identifier 'off_60A278'
+    off_60A278 = &unk_60A360;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403C7F.c:14:19: error: use of undeclared identifier 'unk_60A360'
+    off_60A278 = &unk_60A360;
+                  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403C7F.c:16:25: error: use of undeclared identifier 'qword_60A270'
+  if ( ptr != (void **)&qword_60A270 )
+                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403C7F.c:19:5: error: use of undeclared identifier 'off_60A280'
+    off_60A280 = &qword_60A270;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403C7F.c:19:19: error: use of undeclared identifier 'qword_60A270'
+    off_60A280 = &qword_60A270;
+                  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403C7F.c:21:3: error: use of undeclared identifier 'dword_60A260'
+  dword_60A260 = 1;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_403D2A(int a1, __int64 a2, size_t a3, __int64 a4)
+                                                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403D2A(int a1, __int64 a2, size_t a3, __int64 a4)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:16:9: error: indirection requires pointer operand ('int' invalid)
+  v10 = *__errno_location();
+        ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:17:9: error: use of undeclared identifier 'off_60A280'
+  v12 = off_60A280;
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:20:8: error: use of undeclared identifier 'dword_60A260'
+  if ( dword_60A260 <= (unsigned int)a1 )
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:23:10: error: use of undeclared identifier 'off_60A280'
+    v9 = off_60A280 == &qword_60A270;
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:23:25: error: use of undeclared identifier 'qword_60A270'
+    v9 = off_60A280 == &qword_60A270;
+                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:24:10: error: use of undeclared identifier 'off_60A280'
+    if ( off_60A280 == &qword_60A270 )
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:24:25: error: use of undeclared identifier 'qword_60A270'
+    if ( off_60A280 == &qword_60A270 )
+                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:27:12: error: use of undeclared identifier 'off_60A280'
+      v4 = off_60A280;
+           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:28:11: warning: cast to 'long long *' from smaller integer type 'int'
+    v12 = (__int64 *)sub_40508F(v4, 16 * v14);
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:29:5: error: use of undeclared identifier 'off_60A280'
+    off_60A280 = v12;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:32:12: error: use of undeclared identifier 'off_60A278'
+      v5 = off_60A278;
+           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:33:14: error: use of undeclared identifier 'qword_60A270'
+      *v12 = qword_60A270;
+             ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:36:35: error: use of undeclared identifier 'dword_60A260'
+    memset(&v12[2 * (unsigned int)dword_60A260], 0, 16 * (v14 - (unsigned int)dword_60A260));
+                                  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:36:79: error: use of undeclared identifier 'dword_60A260'
+    memset(&v12[2 * (unsigned int)dword_60A260], 0, 16 * (v14 - (unsigned int)dword_60A260));
+                                                                              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:37:5: error: use of undeclared identifier 'dword_60A260'
+    dword_60A260 = a1 + 1;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:47:18: error: use of undeclared identifier 'unk_60A360'
+    if ( ptr != &unk_60A360 )
+                 ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:49:11: warning: cast to 'void *' from smaller integer type 'int'
+    ptr = (void *)sub_405040(v16);
+          ^~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403D2A.c:53:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v10;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40517E.c:2:45: error: unknown type name 'size_t'
+void *__fastcall sub_40517E(const void *a1, size_t a2)
+                                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40517E.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40517E(const void *a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402715.c:2:1: error: unknown type name 'size_t'
+size_t __fastcall sub_402715(const char *a1)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402715.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+size_t __fastcall sub_402715(const char *a1)
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402715.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t i; // [rsp+10h] [rbp-10h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402715.c:4:3: warning: expression result unused
+  size_t i; // [rsp+10h] [rbp-10h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402715.c:4:10: error: use of undeclared identifier 'i'
+  size_t i; // [rsp+10h] [rbp-10h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402715.c:6:9: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402715.c:6:37: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                                    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402715.c:6:25: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402715.c:6:53: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                                                    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402715.c:8:10: error: use of undeclared identifier 'i'
+  return i;
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40508F.c:2:39: error: unknown type name 'size_t'
+void *__fastcall sub_40508F(void *a1, size_t a2)
+                                      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40508F.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40508F(void *a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403FDB.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_403FDB(int a1, __int64 a2, size_t a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403FDB.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403FDB(int a1, __int64 a2, size_t a3)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403FDB.c:4:43: error: use of undeclared identifier 'qword_60A320'
+  return sub_403D2A(a1, a2, a3, (__int64)&qword_60A320);
+                                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4026AC.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BYTE *__fastcall sub_4026AC(_BYTE *a1)
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4015B0.c:3:1: error: unknown type name 'size_t'
+size_t fread_unlocked(void *ptr, size_t size, size_t n, FILE *stream)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4015B0.c:3:34: error: unknown type name 'size_t'
+size_t fread_unlocked(void *ptr, size_t size, size_t n, FILE *stream)
+                                 ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4015B0.c:3:47: error: unknown type name 'size_t'
+size_t fread_unlocked(void *ptr, size_t size, size_t n, FILE *stream)
+                                              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4015B0.c:3:57: error: unknown type name 'FILE'
+size_t fread_unlocked(void *ptr, size_t size, size_t n, FILE *stream)
+                                                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401900.c:3:14: error: unknown type name 'wint_t'
+int iswprint(wint_t wc)
+             ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B46.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405B46(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:2:1: error: unknown type name 'size_t'
+size_t *__fastcall sub_405C1A(size_t *a1, char *a2, size_t a3)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:2:31: error: unknown type name 'size_t'
+size_t *__fastcall sub_405C1A(size_t *a1, char *a2, size_t a3)
+                              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:2:53: error: unknown type name 'size_t'
+size_t *__fastcall sub_405C1A(size_t *a1, char *a2, size_t a3)
+                                                    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+size_t *__fastcall sub_405C1A(size_t *a1, char *a2, size_t a3)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:4:3: error: use of undeclared identifier 'size_t'
+  size_t *result; // rax
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:4:11: error: use of undeclared identifier 'result'
+  size_t *result; // rax
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:5:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t i; // [rsp+20h] [rbp-10h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:5:3: warning: expression result unused
+  size_t i; // [rsp+20h] [rbp-10h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:5:10: error: use of undeclared identifier 'i'
+  size_t i; // [rsp+20h] [rbp-10h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:8:9: error: use of undeclared identifier 'i'
+  for ( i = *a1; a3 > i; i = 2048LL )
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:8:23: error: use of undeclared identifier 'i'
+  for ( i = *a1; a3 > i; i = 2048LL )
+                      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:8:26: error: use of undeclared identifier 'i'
+  for ( i = *a1; a3 > i; i = 2048LL )
+                         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:10:36: error: use of undeclared identifier 'i'
+    memcpy(a2, (char *)a1 + 2048 - i + 2080, i);
+                                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:10:46: error: use of undeclared identifier 'i'
+    memcpy(a2, (char *)a1 + 2048 - i + 2080, i);
+                                             ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:11:11: error: use of undeclared identifier 'i'
+    a2 += i;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:12:11: error: use of undeclared identifier 'i'
+    a3 -= i;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:13:11: warning: cast to smaller integer type 'unsigned char' from 'char *'
+    if ( ((unsigned __int8)a2 & 7) == 0 )
+          ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:23:11: error: use of undeclared identifier 'result'
+          result = a1;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:25:18: error: use of undeclared identifier 'result'
+          return result;
+                 ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:32:34: error: use of undeclared identifier 'i'
+  memcpy(a2, (char *)a1 + 2048 - i + 2080, a3);
+                                 ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:33:3: error: use of undeclared identifier 'result'
+  result = a1;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:34:9: error: use of undeclared identifier 'i'
+  *a1 = i - a3;
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405C1A.c:35:10: error: use of undeclared identifier 'result'
+  return result;
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401730.c:3:1: error: unknown type name 'ssize_t'
+ssize_t read(int fd, void *buf, size_t nbytes)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401730.c:3:33: error: unknown type name 'size_t'
+ssize_t read(int fd, void *buf, size_t nbytes)
+                                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4016C0.c:3:1: error: unknown type name '__off_t'
+__off_t lseek(int fd, __off_t offset, int whence)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4016C0.c:3:23: error: unknown type name '__off_t'
+__off_t lseek(int fd, __off_t offset, int whence)
+                      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402AB7.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+char *__fastcall sub_402AB7(const char *a1)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402AB7.c:13:87: error: use of undeclared identifier 'stderr'
+    fwrite("A NULL argv[0] was passed through an exec system call.\n", 1uLL, 0x37uLL, stderr);
+                                                                                      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402AB7.c:16:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v4 = strrchr(a1, 47);
+     ^ ~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402AB7.c:28:7: error: use of undeclared identifier 'program_invocation_short_name'
+      program_invocation_short_name = (__int64)(s1 + 3);
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402AB7.c:31:3: error: use of undeclared identifier 'qword_60A310'
+  qword_60A310 = (__int64)s;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402AB7.c:33:3: error: use of undeclared identifier 'program_invocation_name'
+  program_invocation_name = (__int64)s;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4050F0.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4050F0(__int64 a1, unsigned __int64 *a2)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4042F1.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4042F1(__int64 a1, __int64 a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402BE1.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402BE1(__int64 *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402BE1.c:8:8: error: indirection requires pointer operand ('int' invalid)
+  v3 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402BE1.c:12:11: error: use of undeclared identifier 'qword_60A320'
+    v1 = &qword_60A320;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402BE1.c:14:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v3;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40435A.c:2:44: error: unknown type name 'size_t'
+bool __fastcall sub_40435A(const char *a1, size_t a2)
+                                           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40435A.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+bool __fastcall sub_40435A(const char *a1, size_t a2)
+     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4041DB.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4041DB(__int64 a1)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4041DB.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_4041B1(a1, 0x3Au);
+         ^~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4041FA.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_4041FA(__int64 a1, size_t a2)
+                                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4041FA.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4041FA(__int64 a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401720.c:3:1: error: unknown type name 'size_t'
+size_t strspn(const char *s, const char *accept)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405344.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_405344(FILE *a1, __off_t a2, int a3)
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405344.c:2:37: error: unknown type name '__off_t'
+int __fastcall sub_405344(FILE *a1, __off_t a2, int a3)
+                                    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405344.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_405344(FILE *a1, __off_t a2, int a3)
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405344.c:5:3: error: use of undeclared identifier '__off_t'
+  __off_t v6; // [rsp+28h] [rbp-8h]
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405344.c:10:3: error: use of undeclared identifier 'v6'
+  v6 = lseek(v3, a2, a3);
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405344.c:11:8: error: use of undeclared identifier 'v6'
+  if ( v6 == -1 )
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405344.c:14:17: error: use of undeclared identifier 'v6'
+  a1->_offset = v6;
+                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401610.c:3:1: error: unknown type name 'size_t'
+size_t strlen(const char *s)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4053FC.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4053FC(const char *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4053FC.c:7:14: error: indirection requires pointer operand ('int' invalid)
+  if ( v2 && *__errno_location() == 20 )
+             ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4014B8.c:6:13: error: use of undeclared identifier '_gmon_start__'
+  result = &_gmon_start__;
+            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4014B8.c:7:9: error: use of undeclared identifier '_gmon_start__'
+  if ( &_gmon_start__ )
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4014B8.c:8:14: warning: cast to 'void *' from smaller integer type 'int'
+    result = (void *)__gmon_start__();
+             ^~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4018B0.c:3:35: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __cxa_atexit(void (__fastcall *lpfunc)(void *), void *obj, void *lpdso_handle)
+                                  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4018B0.c:3:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __cxa_atexit(void (__fastcall *lpfunc)(void *), void *obj, void *lpdso_handle)
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:2:85: error: unknown type name 'size_t'
+unsigned __int64 __fastcall sub_402E36(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, unsigned int a5, int a6, __int64 a7, char *a8, char *a9)
+                                                                                    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_402E36(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, unsigned int a5, int a6, __int64 a7, char *a8, char *a9)
+                 ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:14:3: error: use of undeclared identifier 'wchar_t'
+  wchar_t pwc; // [rsp+6Ch] [rbp-64h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:18:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t n; // [rsp+88h] [rbp-48h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:18:3: warning: expression result unused
+  size_t n; // [rsp+88h] [rbp-48h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:18:10: error: use of undeclared identifier 'n'
+  size_t n; // [rsp+88h] [rbp-48h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:21:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v34; // [rsp+A0h] [rbp-30h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:21:3: warning: expression result unused
+  size_t v34; // [rsp+A0h] [rbp-30h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:21:10: error: use of undeclared identifier 'v34'
+  size_t v34; // [rsp+A0h] [rbp-30h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:23:3: error: use of undeclared identifier 'mbstate_t'
+  mbstate_t p; // [rsp+B0h] [rbp-20h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:29:3: error: use of undeclared identifier 'n'
+  n = 0LL;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:49:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        a8 = sub_402DF9((const char *)L"`'", a5);
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:50:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        a9 = sub_402DF9((const char *)L"'", a5);
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:63:7: error: use of undeclared identifier 'n'
+      n = strlen(a9);
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:77:5: error: use of undeclared identifier 'n'
+    n = 1LL;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:95:27: warning: adding 'int' to a string does not append to the string
+    s = (_BYTE *)(L"\"`'" + 4);
+                  ~~~~~~~~^~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:95:27: note: use array indexing to silence this warning
+    s = (_BYTE *)(L"\"`'" + 4);
+                          ^
+                  &       [  ]
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:95:7: warning: assigning to 'char *' from 'uint8 *' (aka 'unsigned char *') converts between pointers to integer types where one is of the unique plain 'char' type and the other is not
+    s = (_BYTE *)(L"\"`'" + 4);
+      ^ ~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:96:5: error: use of undeclared identifier 'n'
+    n = 1LL;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:104:26: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:104:17: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:104:72: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                                                                       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:140:23: error: indirection requires pointer operand ('int' invalid)
+              v25 = ((*__ctype_b_loc())[v22] & 0x4000) != 0;
+                      ^~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:144:36: error: use of undeclared identifier 'p'
+              memset(&p, 0, sizeof(p));
+                                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:144:23: error: use of undeclared identifier 'p'
+              memset(&p, 0, sizeof(p));
+                      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:151:32: error: use of undeclared identifier 'pwc'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                               ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:151:84: error: use of undeclared identifier 'p'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                                                                                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:151:17: error: use of undeclared identifier 'v34'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:152:23: error: use of undeclared identifier 'v34'
+                if ( !v34 )
+                      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:154:22: error: use of undeclared identifier 'v34'
+                if ( v34 == -1LL )
+                     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:159:22: error: use of undeclared identifier 'v34'
+                if ( v34 == -2LL )
+                     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:168:38: error: use of undeclared identifier 'v34'
+                  for ( j = 1LL; j < v34; ++j )
+                                     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:184:32: error: use of undeclared identifier 'pwc'
+                if ( !iswprint(pwc) )
+                               ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:186:24: error: use of undeclared identifier 'v34'
+                v32 += v34;
+                       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:188:33: error: use of undeclared identifier 'p'
+              while ( !mbsinit(&p) );
+                                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402E36.c:239:30: error: use of undeclared identifier 'n'
+          if ( v20 && v21 && n )
+                             ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4017E0.c:3:1: error: unknown type name '__gid_t'
+__gid_t getgid(void)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406FA0.c:2:50: warning: declaration of 'struct stat' will not be visible outside of this function
+int __fastcall sub_406FA0(char *filename, struct stat *stat_buf)
+                                                 ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406FA0.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_406FA0(char *filename, struct stat *stat_buf)
+    ^
+/share/resym_darpa/data/commands/mktemp_ground_beyond_access_command.sh: line 96: 25690 Segmentation fault      (core dumped) /home/clang-parser/beyond_access/beyond_access /share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406FA0.c /share/resym_darpa/data/beyond_access/mktemp_ground/mktemp_ground-406FA0.json
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406F80.c:2:33: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_406F80(void (__fastcall *a1)(void *))
+                                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406F80.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_406F80(void (__fastcall *a1)(void *))
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406F80.c:6:9: error: use of undeclared identifier 'qword_60A238'
+  if ( &qword_60A238 )
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406F80.c:7:18: error: use of undeclared identifier 'qword_60A238'
+    v1 = (void *)qword_60A238;
+                 ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404026.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_404026(__int64 a1, size_t a2)
+                                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404026.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404026(__int64 a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:2:95: error: unknown type name '__m128'
+__int64 __fastcall sub_406C37(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:2:106: error: unknown type name '__m128'
+__int64 __fastcall sub_406C37(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:2:117: error: unknown type name '__m128'
+__int64 __fastcall sub_406C37(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:2:128: error: unknown type name '__m128'
+__int64 __fastcall sub_406C37(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                               ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:2:140: error: unknown type name '__m128'
+__int64 __fastcall sub_406C37(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                                           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:2:152: error: unknown type name '__m128'
+__int64 __fastcall sub_406C37(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                                                       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:2:164: error: unknown type name '__m128'
+__int64 __fastcall sub_406C37(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                                                                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:2:176: error: unknown type name '__m128'
+__int64 __fastcall sub_406C37(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                                                                               ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_406C37(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:15:3: error: use of undeclared identifier '__m128'
+  __m128 v26; // [rsp+70h] [rbp-80h]
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:16:3: error: use of undeclared identifier '__m128'
+  __m128 v27; // [rsp+80h] [rbp-70h]
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:17:3: error: use of undeclared identifier '__m128'
+  __m128 v28; // [rsp+90h] [rbp-60h]
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:18:3: error: use of undeclared identifier '__m128'
+  __m128 v29; // [rsp+A0h] [rbp-50h]
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:19:3: error: use of undeclared identifier '__m128'
+  __m128 v30; // [rsp+B0h] [rbp-40h]
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:20:3: error: use of undeclared identifier '__m128'
+  __m128 v31; // [rsp+C0h] [rbp-30h]
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:21:3: error: use of undeclared identifier '__m128'
+  __m128 v32; // [rsp+D0h] [rbp-20h]
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:22:3: error: use of undeclared identifier '__m128'
+  __m128 v33; // [rsp+E0h] [rbp-10h]
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:28:3: error: use of undeclared identifier 'v26'
+  v26 = a7;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:29:3: error: use of undeclared identifier 'v27'
+  v27 = a8;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:30:3: error: use of undeclared identifier 'v28'
+  v28 = a9;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:31:3: error: use of undeclared identifier 'v29'
+  v29 = a10;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:32:3: error: use of undeclared identifier 'v30'; did you mean 'v20'?
+  v30 = a11;
+  ^~~
+  v20
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:9:7: note: 'v20' declared here
+  int v20; // [rsp+18h] [rbp-D8h]
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:33:3: error: use of undeclared identifier 'v31'; did you mean 'v21'?
+  v31 = a12;
+  ^~~
+  v21
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:10:7: note: 'v21' declared here
+  int v21; // [rsp+1Ch] [rbp-D4h]
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:34:3: error: use of undeclared identifier 'v32'; did you mean 'v22'?
+  v32 = a13;
+  ^~~
+  v22
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:11:11: note: 'v22' declared here
+  __int64 v22; // [rsp+50h] [rbp-A0h]
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:35:3: error: use of undeclared identifier 'v33'; did you mean 'v23'?
+  v33 = a14;
+  ^~~
+  v23
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:12:11: note: 'v23' declared here
+  __int64 v23; // [rsp+58h] [rbp-98h]
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:39:8: error: use of undeclared identifier 'dword_60A460'
+  if ( dword_60A460 < 0 )
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:46:21: error: indirection requires pointer operand ('int' invalid)
+    if ( v18 < 0 && *__errno_location() == 22 )
+                    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:51:7: error: use of undeclared identifier 'dword_60A460'
+      dword_60A460 = -1;
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:55:7: error: use of undeclared identifier 'dword_60A460'
+      dword_60A460 = 1;
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:58:20: error: use of undeclared identifier 'dword_60A460'
+  if ( v18 >= 0 && dword_60A460 == -1 )
+                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:63:13: error: indirection requires pointer operand ('int' invalid)
+      v21 = *__errno_location();
+            ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C37.c:65:7: error: indirection requires pointer operand ('int' invalid)
+      *__errno_location() = v21;
+      ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406C11.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_406C11(int a1, __int64 a2, __int64 a3, int a4, int a5, int a6)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404CAB.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_404CAB(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5)
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404CAB.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_404CAB(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5)
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405040.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405040(__int64 a1, __int64 a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401790.c:3:27: error: unknown type name 'FILE'
+int fputc_unlocked(int c, FILE *stream)
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404F11.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404F11(unsigned __int64 a1, unsigned __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-403B21.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403B21(__int64 a1, __int64 a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401660.c:3:1: error: unknown type name 'size_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401660.c:3:16: error: unknown type name 'wchar_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+               ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401660.c:3:45: error: unknown type name 'size_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+                                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401660.c:3:55: error: unknown type name 'mbstate_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+                                                      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401850.c:3:13: error: unknown type name 'FILE'
+int setvbuf(FILE *stream, char *buf, int modes, size_t n)
+            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401850.c:3:49: error: unknown type name 'size_t'
+int setvbuf(FILE *stream, char *buf, int modes, size_t n)
+                                                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401950.c:6:13: error: use of undeclared identifier 'unk_60A28F'
+  result = &unk_60A28F - &unk_60A288;
+            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401950.c:6:27: error: use of undeclared identifier 'unk_60A288'
+  result = &unk_60A28F - &unk_60A288;
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401950.c:7:28: error: use of undeclared identifier 'unk_60A28F'
+  if ( (unsigned __int64)(&unk_60A28F - &unk_60A288) > 0xE )
+                           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401950.c:7:42: error: use of undeclared identifier 'unk_60A288'
+  if ( (unsigned __int64)(&unk_60A28F - &unk_60A288) > 0xE )
+                                         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402D27.c:2:10: warning: '__fastcall' calling convention is not supported for this target
+__int64 *__fastcall sub_402D27(__int64 *a1, __int64 a2, __int64 a3)
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402D27.c:9:11: error: use of undeclared identifier 'qword_60A320'
+    v4 = &qword_60A320;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:2:1: error: unknown type name 'size_t'
+size_t __fastcall sub_405B7A(__int64 a1, char *a2, size_t a3)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:2:52: error: unknown type name 'size_t'
+size_t __fastcall sub_405B7A(__int64 a1, char *a2, size_t a3)
+                                                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+size_t __fastcall sub_405B7A(__int64 a1, char *a2, size_t a3)
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t result; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:4:3: warning: expression result unused
+  size_t result; // rax
+  ^~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:4:10: error: use of undeclared identifier 'result'
+  size_t result; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:8:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v9; // [rsp+28h] [rbp-18h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:8:3: warning: expression result unused
+  size_t v9; // [rsp+28h] [rbp-18h]
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:8:10: error: use of undeclared identifier 'v9'
+  size_t v9; // [rsp+28h] [rbp-18h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:12:5: error: use of undeclared identifier 'v9'
+    v9 = fread_unlocked(a2, 1uLL, a3, *(FILE **)a1);
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:12:48: error: expected expression
+    v9 = fread_unlocked(a2, 1uLL, a3, *(FILE **)a1);
+                                               ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:12:41: error: use of undeclared identifier 'FILE'
+    v9 = fread_unlocked(a2, 1uLL, a3, *(FILE **)a1);
+                                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:13:10: error: indirection requires pointer operand ('int' invalid)
+    v8 = *__errno_location();
+         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:14:11: error: use of undeclared identifier 'v9'
+    a2 += v9;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:15:5: error: use of undeclared identifier 'result'
+    result = v9;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:15:14: error: use of undeclared identifier 'v9'
+    result = v9;
+             ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:16:11: error: use of undeclared identifier 'v9'
+    a3 -= v9;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:19:8: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+    v4 = __errno_location();
+       ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:20:35: error: expected expression
+    if ( ferror_unlocked(*(FILE **)a1) )
+                                  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:20:28: error: use of undeclared identifier 'FILE'
+    if ( ferror_unlocked(*(FILE **)a1) )
+                           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:25:14: warning: '__fastcall' calling convention is not supported for this target
+    (*(void (__fastcall **)(_QWORD))(a1 + 8))(*(_QWORD *)(a1 + 16));
+             ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405B7A.c:27:10: error: use of undeclared identifier 'result'
+  return result;
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404D19.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_404D19(FILE *a1, const char *a2, const char *a3, const char *a4, unsigned int *a5)
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404D19.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_404D19(FILE *a1, const char *a2, const char *a3, const char *a4, unsigned int *a5)
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404D19.c:13:27: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'long long *'
+      *((_QWORD *)a5 + 1) = v5 + 1;
+                          ^ ~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405E18.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405E18(__int64 a1, __int16 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4056CD.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall sub_4056CD(void *a1)
+     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402BC2.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402BC2(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn sub_401B17(int a1)
+     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:7:3: error: use of undeclared identifier 'FILE'
+  FILE *v4; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:7:9: error: use of undeclared identifier 'v4'
+  FILE *v4; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:9:3: error: use of undeclared identifier 'FILE'
+  FILE *v6; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:9:9: error: use of undeclared identifier 'v6'
+  FILE *v6; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:11:3: error: use of undeclared identifier 'FILE'
+  FILE *v8; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:11:9: error: use of undeclared identifier 'v8'
+  FILE *v8; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:13:3: error: use of undeclared identifier 'FILE'
+  FILE *v10; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:13:9: error: use of undeclared identifier 'v10'; did you mean 'v1'?
+  FILE *v10; // rbx
+        ^~~
+        v1
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:4:11: note: 'v1' declared here
+  __int64 v1; // rbx
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:15:3: error: use of undeclared identifier 'FILE'
+  FILE *v12; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:15:9: error: use of undeclared identifier 'v12'
+  FILE *v12; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:17:3: error: use of undeclared identifier 'FILE'
+  FILE *v14; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:17:9: error: use of undeclared identifier 'v14'
+  FILE *v14; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:19:3: error: use of undeclared identifier 'FILE'
+  FILE *v16; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:19:9: error: use of undeclared identifier 'v16'
+  FILE *v16; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:21:3: error: use of undeclared identifier 'FILE'
+  FILE *v18; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:21:9: error: use of undeclared identifier 'v18'
+  FILE *v18; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:24:8: error: use of undeclared identifier 'qword_60A310'
+  v1 = qword_60A310;
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:27:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v2 = gettext("Try `%s --help' for more information.\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:28:13: error: use of undeclared identifier 'stderr'
+    fprintf(stderr, v2, v1);
+            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:32:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v3 = gettext("Usage: %s [OPTION]... [TEMPLATE]\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:34:5: error: use of undeclared identifier 'v4'
+    v4 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:34:10: error: use of undeclared identifier 'stdout'
+    v4 = stdout;
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:35:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v5 = gettext(
+       ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:39:24: error: use of undeclared identifier 'v4'
+    fputs_unlocked(v5, v4);
+                       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:40:5: error: use of undeclared identifier 'v6'
+    v6 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:40:10: error: use of undeclared identifier 'stdout'
+    v6 = stdout;
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:41:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v7 = gettext("Files are created u+rw, and directories u+rwx, minus umask restrictions.\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:42:24: error: use of undeclared identifier 'v6'
+    fputs_unlocked(v7, v6);
+                       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:43:24: error: use of undeclared identifier 'stdout'
+    fputc_unlocked(10, stdout);
+                       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:44:5: error: use of undeclared identifier 'v8'
+    v8 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:44:10: error: use of undeclared identifier 'stdout'
+    v8 = stdout;
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:45:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v9 = gettext(
+       ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:49:24: error: use of undeclared identifier 'v8'
+    fputs_unlocked(v9, v8);
+                       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:50:5: error: use of undeclared identifier 'v10'
+    v10 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:50:11: error: use of undeclared identifier 'stdout'
+    v10 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:51:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v11 = gettext(
+        ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:54:25: error: use of undeclared identifier 'v10'
+    fputs_unlocked(v11, v10);
+                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:55:5: error: use of undeclared identifier 'v12'
+    v12 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:55:11: error: use of undeclared identifier 'stdout'
+    v12 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:56:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v13 = gettext(
+        ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:62:25: error: use of undeclared identifier 'v12'
+    fputs_unlocked(v13, v12);
+                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:63:24: error: use of undeclared identifier 'stdout'
+    fputc_unlocked(10, stdout);
+                       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:64:5: error: use of undeclared identifier 'v14'
+    v14 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:64:11: error: use of undeclared identifier 'stdout'
+    v14 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:65:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v15 = gettext(
+        ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:70:25: error: use of undeclared identifier 'v14'
+    fputs_unlocked(v15, v14);
+                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:71:24: error: use of undeclared identifier 'stdout'
+    fputc_unlocked(10, stdout);
+                       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:72:5: error: use of undeclared identifier 'v16'
+    v16 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:72:11: error: use of undeclared identifier 'stdout'
+    v16 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:73:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v17 = gettext("      --help     display this help and exit\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:74:25: error: use of undeclared identifier 'v16'
+    fputs_unlocked(v17, v16);
+                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:75:5: error: use of undeclared identifier 'v18'
+    v18 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:75:11: error: use of undeclared identifier 'stdout'
+    v18 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:76:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v19 = gettext("      --version  output version information and exit\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401B17.c:77:25: error: use of undeclared identifier 'v18'
+    fputs_unlocked(v19, v18);
+                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:2:41: error: unknown type name 'size_t'
+char *__fastcall sub_405A57(__int64 a1, size_t a2)
+                                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+char *__fastcall sub_405A57(__int64 a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v3; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:4:3: warning: expression result unused
+  size_t v3; // rax
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:4:10: error: use of undeclared identifier 'v3'
+  size_t v3; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:5:3: error: use of undeclared identifier 'FILE'
+  FILE *stream; // [rsp+10h] [rbp-10h]
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:5:9: error: use of undeclared identifier 'stream'
+  FILE *stream; // [rsp+10h] [rbp-10h]
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:9:12: warning: cast to 'char *' from smaller integer type 'int'
+    return (char *)sub_4057AB(0LL, 0LL);
+           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:10:3: error: use of undeclared identifier 'stream'
+  stream = 0LL;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:13:5: error: use of undeclared identifier 'stream'
+    stream = (FILE *)sub_406B2B(a1, "rb");
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:13:21: error: expected expression
+    stream = (FILE *)sub_406B2B(a1, "rb");
+                    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:13:15: error: use of undeclared identifier 'FILE'
+    stream = (FILE *)sub_406B2B(a1, "rb");
+              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:14:11: error: use of undeclared identifier 'stream'
+    if ( !stream )
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:17:36: error: use of undeclared identifier 'stream'
+  v5 = (char *)sub_4057AB((__int64)stream, a1);
+                                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:18:8: error: use of undeclared identifier 'stream'
+  if ( stream )
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:20:5: error: use of undeclared identifier 'v3'
+    v3 = 4096LL;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:22:7: error: use of undeclared identifier 'v3'
+      v3 = a2;
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:23:13: error: use of undeclared identifier 'stream'
+    setvbuf(stream, v5 + 24, 0, v3);
+            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405A57.c:23:33: error: use of undeclared identifier 'v3'
+    setvbuf(stream, v5 + 24, 0, v3);
+                                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405484.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+_QWORD *__fastcall sub_405484(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405484.c:9:12: warning: incompatible integer to pointer conversion assigning to 'uint64 *' (aka 'unsigned long long *') from 'int'
+    result = sub_40543D(v3, a2);
+           ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4051DC.c:6:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v0 = gettext("memory exhausted");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4051DC.c:7:9: error: use of undeclared identifier 'status'
+  error(status, 0, "%s", v0);
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405DFB.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405DFB(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402911.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402911(int a1)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402911.c:12:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = 9;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4027A4.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BYTE *__fastcall sub_4027A4(_BYTE *a1)
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405DA6.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_405DA6(FILE **a1)
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405DA6.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_405DA6(FILE **a1)
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405DA6.c:5:3: error: use of undeclared identifier 'FILE'
+  FILE *v2; // [rsp+18h] [rbp-8h]
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405DA6.c:5:9: error: use of undeclared identifier 'v2'
+  FILE *v2; // [rsp+18h] [rbp-8h]
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405DA6.c:7:3: error: use of undeclared identifier 'v2'
+  v2 = *a1;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405DA6.c:10:8: error: use of undeclared identifier 'v2'
+  if ( v2 )
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405DA6.c:11:25: error: use of undeclared identifier 'v2'
+    result = sub_405211(v2);
+                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401570.c:3:29: error: unknown type name '__mode_t'
+int mkdir(const char *path, __mode_t mode)
+                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402CF4.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402CF4(__int64 *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402CF4.c:9:11: error: use of undeclared identifier 'qword_60A320'
+    v3 = &qword_60A320;
+          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401640.c:3:1: error: unknown type name '__uid_t'
+__uid_t getuid(void)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401760.c:3:35: error: unknown type name 'FILE'
+int fputs_unlocked(const char *s, FILE *stream)
+                                  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405211.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_405211(FILE *a1)
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405211.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_405211(FILE *a1)
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405211.c:14:12: error: indirection requires pointer operand ('int' invalid)
+      v3 = *__errno_location();
+           ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405211.c:19:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = v3;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4017F0.c:3:14: error: unknown type name 'size_t'
+void *malloc(size_t size)
+             ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402964.c:2:1: error: unknown type name 'FILE'
+FILE *__fastcall sub_402964(const char *a1, const char *a2, FILE *a3)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402964.c:2:61: error: unknown type name 'FILE'
+FILE *__fastcall sub_402964(const char *a1, const char *a2, FILE *a3)
+                                                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402964.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+FILE *__fastcall sub_402964(const char *a1, const char *a2, FILE *a3)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402964.c:5:3: error: use of undeclared identifier 'FILE'
+  FILE *streama; // [rsp+8h] [rbp-28h]
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402964.c:5:9: error: use of undeclared identifier 'streama'
+  FILE *streama; // [rsp+8h] [rbp-28h]
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402964.c:32:5: error: use of undeclared identifier 'streama'
+    streama = 0LL;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402964.c:36:5: error: use of undeclared identifier 'streama'
+    streama = 0LL;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402964.c:40:5: error: use of undeclared identifier 'streama'
+    streama = 0LL;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402964.c:44:5: error: use of undeclared identifier 'streama'
+    streama = freopen(a1, a2, a3);
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402964.c:46:9: error: indirection requires pointer operand ('int' invalid)
+  v10 = *__errno_location();
+        ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402964.c:53:9: error: use of undeclared identifier 'streama'
+  if ( !streama )
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402964.c:54:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = v10;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402964.c:55:10: error: use of undeclared identifier 'streama'
+  return streama;
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401920.c:3:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn start(__int64 a1, __int64 a2, void (*a3)(void))
+     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401920.c:12:21: error: use of undeclared identifier 'main'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401920.c:12:41: error: use of undeclared identifier 'init'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401920.c:12:47: error: use of undeclared identifier 'fini'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                                              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40408E.c:2:57: error: unknown type name 'size_t'
+void *__fastcall sub_40408E(int a1, int a2, __int64 a3, size_t a4)
+                                                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40408E.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40408E(int a1, int a2, __int64 a3, size_t a4)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401620.c:3:52: warning: declaration of 'struct stat' will not be visible outside of this function
+int __lxstat(int ver, const char *filename, struct stat *stat_buf)
+                                                   ^
+/share/resym_darpa/data/commands/mktemp_ground_beyond_access_command.sh: line 138: 25732 Segmentation fault      (core dumped) /home/clang-parser/beyond_access/beyond_access /share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401620.c /share/resym_darpa/data/beyond_access/mktemp_ground/mktemp_ground-401620.json
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401D35.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401D35(__int64 a1, unsigned int a2, __int64 a3, char a4)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4017A0.c:3:13: error: unknown type name 'FILE'
+int fprintf(FILE *stream, const char *format, ...)
+            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:2:71: error: unknown type name 'size_t'
+unsigned __int64 __fastcall sub_4057F2(char *a1, unsigned __int64 a2, size_t a3)
+                                                                      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_4057F2(char *a1, unsigned __int64 a2, size_t a3)
+                 ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v3; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:4:3: warning: expression result unused
+  size_t v3; // rax
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:4:10: error: use of undeclared identifier 'v3'
+  size_t v3; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:13:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t n; // [rsp+38h] [rbp-38h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:13:3: warning: expression result unused
+  size_t n; // [rsp+38h] [rbp-38h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:13:10: error: use of undeclared identifier 'n'
+  size_t n; // [rsp+38h] [rbp-38h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:14:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v14; // [rsp+40h] [rbp-30h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:14:3: warning: expression result unused
+  size_t v14; // [rsp+40h] [rbp-30h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:14:10: error: use of undeclared identifier 'v14'
+  size_t v14; // [rsp+40h] [rbp-30h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:15:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v15; // [rsp+48h] [rbp-28h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:15:3: warning: expression result unused
+  size_t v15; // [rsp+48h] [rbp-28h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:15:10: error: use of undeclared identifier 'v15'
+  size_t v15; // [rsp+48h] [rbp-28h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:16:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v16; // [rsp+50h] [rbp-20h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:16:3: warning: expression result unused
+  size_t v16; // [rsp+50h] [rbp-20h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:16:10: error: use of undeclared identifier 'v16'
+  size_t v16; // [rsp+50h] [rbp-20h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:17:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v17; // [rsp+58h] [rbp-18h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:17:3: warning: expression result unused
+  size_t v17; // [rsp+58h] [rbp-18h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:17:10: error: use of undeclared identifier 'v17'
+  size_t v17; // [rsp+58h] [rbp-18h]
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:18:18: error: variable has incomplete type 'struct timeval'
+  struct timeval tv; // [rsp+60h] [rbp-10h] BYREF
+                 ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:18:10: note: forward declaration of 'struct timeval'
+  struct timeval tv; // [rsp+60h] [rbp-10h] BYREF
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:24:5: error: use of undeclared identifier 'v3'
+    v3 = a2;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:26:7: error: use of undeclared identifier 'v3'
+      v3 = a3;
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:27:24: error: use of undeclared identifier 'v3'
+    v12 = read(fd, a1, v3);
+                       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:37:5: error: use of undeclared identifier 'n'
+    n = v4;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:39:27: error: use of undeclared identifier 'n'
+    memcpy(&a1[v12], &tv, n);
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:40:12: error: use of undeclared identifier 'n'
+    v12 += n;
+           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:47:5: error: use of undeclared identifier 'v14'
+    v14 = v5;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:49:27: error: use of undeclared identifier 'v14'
+    memcpy(&a1[v12], &tv, v14);
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:50:12: error: use of undeclared identifier 'v14'
+    v12 += v14;
+           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:57:5: error: use of undeclared identifier 'v15'
+    v15 = v6;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:59:27: error: use of undeclared identifier 'v15'
+    memcpy(&a1[v12], &tv, v15);
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:60:12: error: use of undeclared identifier 'v15'
+    v12 += v15;
+           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:67:5: error: use of undeclared identifier 'v16'
+    v16 = v7;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:69:27: error: use of undeclared identifier 'v16'
+    memcpy(&a1[v12], &tv, v16);
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:70:12: error: use of undeclared identifier 'v16'
+    v12 += v16;
+           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:78:5: error: use of undeclared identifier 'v17'
+    v17 = v9;
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:80:27: error: use of undeclared identifier 'v17'
+    memcpy(&a1[v12], &tv, v17);
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057F2.c:81:20: error: use of undeclared identifier 'v17'
+    result = v12 + v17;
+                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406F00.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall init(unsigned int a1, __int64 a2, __int64 a3)
+     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406F00.c:8:9: error: use of undeclared identifier 'off_609E18'
+  v5 = &off_609E18 - off_609E10;
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406F00.c:8:22: error: use of undeclared identifier 'off_609E10'
+  v5 = &off_609E18 - off_609E10;
+                     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406F00.c:13:55: error: use of undeclared identifier 'off_609E10'
+      ((void (__fastcall *)(_QWORD, __int64, __int64))off_609E10[v4++])(a1, a2, a3);
+                                                      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402763.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402763(__int64 a1, __int64 a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404DF2.c:2:16: error: unknown type name 'FILE'
+int sub_404DF2(FILE *a1, const char *a2, const char *a3, const char *a4, ...)
+               ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404DF2.c:4:3: error: use of undeclared identifier 'gcc_va_list'
+  gcc_va_list va; // [rsp+28h] [rbp-C8h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404DF2.c:6:12: error: use of undeclared identifier 'va'
+  va_start(va, a4);
+           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404DF2.c:7:53: error: use of undeclared identifier 'va'
+  return sub_404D19(a1, a2, a3, a4, (unsigned int *)va);
+                                                    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401890.c:3:12: error: unknown type name 'FILE'
+int fseeko(FILE *stream, __off_t off, int whence)
+           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401890.c:3:26: error: unknown type name '__off_t'
+int fseeko(FILE *stream, __off_t off, int whence)
+                         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4054C7.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4054C7(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401770.c:3:21: error: unknown type name 'FILE'
+int ferror_unlocked(FILE *stream)
+                    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4065A4.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+_QWORD *__fastcall sub_4065A4(_QWORD *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4018E0.c:3:1: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4018E0.c:3:32: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                               ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4018E0.c:3:45: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4018E0.c:3:55: error: unknown type name 'FILE'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                                                      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4054D8.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4054D8(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405145.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_405145(size_t a1, size_t a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405145.c:2:40: error: unknown type name 'size_t'
+void *__fastcall sub_405145(size_t a1, size_t a2)
+                                       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-405145.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405145(size_t a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4025AC.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4025AC(unsigned __int8 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4025AC.c:7:3: error: use of undeclared identifier 'byte_60A308'
+  byte_60A308 = a1;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4016D0.c:3:25: warning: declaration of 'struct timeval' will not be visible outside of this function
+int gettimeofday(struct timeval *tv, __timezone_ptr_t tz)
+                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4016D0.c:3:38: error: unknown type name '__timezone_ptr_t'
+int gettimeofday(struct timeval *tv, __timezone_ptr_t tz)
+                                     ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404F9B.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404F9B(__int64 a1, unsigned __int64 *a2, unsigned __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404224.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404224(unsigned int a1, __int64 a2, __int64 a3, __int64 a4)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4016F0.c:3:30: error: unknown type name 'size_t'
+void *memset(void *s, int c, size_t n)
+                             ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40404D.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40404D(int a1, int a2, __int64 a3)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-40404D.c:7:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_403D2A(a1, a3, 0xFFFFFFFFFFFFFFFFLL, (__int64)v5);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4040F1.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_4040F1(int a1, __int64 a2, size_t a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4040F1.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4040F1(int a1, __int64 a2, size_t a3)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404EA8.c:6:3: error: use of undeclared identifier 'FILE'
+  FILE *v2; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404EA8.c:6:9: error: use of undeclared identifier 'v2'
+  FILE *v2; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404EA8.c:9:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v0 = gettext("\nReport bugs to: %s\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404EA8.c:11:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v1 = gettext("%s home page: <%s>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404EA8.c:13:3: error: use of undeclared identifier 'v2'
+  v2 = stdout;
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404EA8.c:13:8: error: use of undeclared identifier 'stdout'
+  v2 = stdout;
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404EA8.c:14:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v3 = gettext("General help using GNU software: <http://www.gnu.org/gethelp/>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404EA8.c:15:29: error: use of undeclared identifier 'v2'
+  return fputs_unlocked(v3, v2);
+                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402C48.c:2:10: warning: '__fastcall' calling convention is not supported for this target
+__int64 *__fastcall sub_402C48(__int64 *a1, int a2)
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-402C48.c:9:15: error: use of undeclared identifier 'qword_60A320'
+    result = &qword_60A320;
+              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401820.c:3:26: error: unknown type name 'size_t'
+void *realloc(void *ptr, size_t size)
+                         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4015A0.c:3:1: error: unknown type name '__pid_t'
+__pid_t getpid(void)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057AB.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+_QWORD *__fastcall sub_4057AB(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057AB.c:6:10: warning: incompatible integer to pointer conversion assigning to 'uint64 *' (aka 'unsigned long long *') from 'int'
+  result = sub_40505A(0x1038uLL, a2);
+         ^ ~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057AB.c:8:15: error: use of undeclared identifier 'sub_405740'; did you mean 'sub_4057AB'?
+  result[1] = sub_405740;
+              ^~~~~~~~~~
+              sub_4057AB
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4057AB.c:2:20: note: 'sub_4057AB' declared here
+_QWORD *__fastcall sub_4057AB(__int64 a1, __int64 a2)
+                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4052F9.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_4052F9(FILE *a1)
+                          ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4052F9.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_4052F9(FILE *a1)
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401810.c:3:16: error: unknown type name 'FILE'
+int __freading(FILE *fp)
+               ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4018C0.c:3:1: error: unknown type name '__pid_t'
+__pid_t getppid(void)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4041B1.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4041B1(__int64 a1, unsigned __int8 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4041B1.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_40411D(a1, 0xFFFFFFFFFFFFFFFFLL, a2);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404320.c:2:65: error: unknown type name 'size_t'
+void *__fastcall sub_404320(__int64 a1, __int64 a2, __int64 a3, size_t a4)
+                                                                ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-404320.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_404320(__int64 a1, __int64 a2, __int64 a3, size_t a4)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:2:1: error: unknown type name 'FILE'
+FILE *__fastcall sub_406B2B(const char *a1, const char *a2)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+FILE *__fastcall sub_406B2B(const char *a1, const char *a2)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:8:3: error: use of undeclared identifier 'FILE'
+  FILE *stream; // [rsp+28h] [rbp-8h]
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:8:9: error: use of undeclared identifier 'stream'
+  FILE *stream; // [rsp+28h] [rbp-8h]
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:10:3: error: use of undeclared identifier 'stream'
+  stream = fopen(a1, a2);
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:11:9: error: use of undeclared identifier 'stream'
+  if ( !stream )
+        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:12:12: error: use of undeclared identifier 'stream'
+    return stream;
+           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:13:15: error: use of undeclared identifier 'stream'
+  v3 = fileno(stream);
+              ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:15:12: error: use of undeclared identifier 'stream'
+    return stream;
+           ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:19:10: error: indirection requires pointer operand ('int' invalid)
+    v5 = *__errno_location();
+         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:20:16: error: use of undeclared identifier 'stream'
+    sub_405211(stream);
+               ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:21:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = v5;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:24:20: error: use of undeclared identifier 'stream'
+  if ( !sub_405211(stream) )
+                   ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:26:5: error: use of undeclared identifier 'stream'
+    stream = fdopen(fd, a2);
+    ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:27:10: error: use of undeclared identifier 'stream'
+    if ( stream )
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:28:14: error: use of undeclared identifier 'stream'
+      return stream;
+             ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:30:8: error: indirection requires pointer operand ('int' invalid)
+  v6 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-406B2B.c:32:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v6;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401540.c:3:45: error: unknown type name 'size_t'
+int strncmp(const char *s1, const char *s2, size_t n)
+                                            ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401600.c:3:1: error: unknown type name 'size_t'
+size_t __ctype_get_mb_cur_max(void)
+^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4051AF.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4051AF(const char *a1)
+      ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4051AF.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v1; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4051AF.c:4:3: warning: expression result unused
+  size_t v1; // rax
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4051AF.c:4:10: error: use of undeclared identifier 'v1'
+  size_t v1; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4051AF.c:6:3: error: use of undeclared identifier 'v1'
+  v1 = strlen(a1);
+  ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-4051AF.c:7:25: error: use of undeclared identifier 'v1'
+  return sub_40517E(a1, v1 + 1);
+                        ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401D7F.c:6:8: error: use of undeclared identifier 'byte_60A2F9'
+  if ( byte_60A2F9 != 1 )
+       ^
+/share/resym_darpa/data/decompiled_files/mktemp_ground/mktemp_ground-401D7F.c:8:23: error: use of undeclared identifier 'stderr'
+  result = sub_40250C(stderr);
+                      ^

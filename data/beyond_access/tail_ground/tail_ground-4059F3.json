@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "a4",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 6,
+        "offset": 0,
+        "varName": "a4"
+    }
+]

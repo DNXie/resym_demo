@@ -1,0 +1,18 @@
+[
+    {
+        "args": [
+            "times"
+        ],
+        "funName": "sub_41110B",
+        "lineNum": 31
+    },
+    {
+        "args": [
+            "-1",
+            "a1",
+            "&times->tv_sec"
+        ],
+        "funName": "sub_4113BA",
+        "lineNum": 76
+    }
+]

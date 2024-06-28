@@ -1,0 +1,23 @@
+[
+    {
+        "args": [
+            "a2",
+            "*(_DWORD *)(a3 + 24)"
+        ],
+        "funName": "sub_406E5E",
+        "lineNum": 12
+    },
+    {
+        "args": [
+            "a2",
+            "a3"
+        ],
+        "funName": "sub_406EAB",
+        "lineNum": 13
+    },
+    {
+        "args": [],
+        "funName": "sub_412968",
+        "lineNum": 13
+    }
+]

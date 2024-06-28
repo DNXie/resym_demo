@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "which",
+            "type": "__priority_which_t",
+            "original_line": "__priority_which_t which"
+        },
+        {
+            "name": "who",
+            "type": "id_t",
+            "original_line": "id_t who"
+        }
+    ],
+    "variable": []
+}

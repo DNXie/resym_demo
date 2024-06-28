@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "(_BYTE *)(a1 + 26)",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 4,
+        "offset": 26,
+        "varName": "a1"
+    }
+]

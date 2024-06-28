@@ -1,0 +1,18 @@
+[
+    {
+        "args": [
+            "a1",
+            "\"r\""
+        ],
+        "funName": "sub_4055E7",
+        "lineNum": 16
+    },
+    {
+        "args": [
+            "*(_QWORD *)a2",
+            "2LL"
+        ],
+        "funName": "sub_4055AD",
+        "lineNum": 20
+    }
+]

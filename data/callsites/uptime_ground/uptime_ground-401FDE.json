@@ -1,0 +1,40 @@
+[
+    {
+        "args": [
+            "*a2",
+            "a2",
+            "a3"
+        ],
+        "funName": "sub_40512F",
+        "lineNum": 7
+    },
+    {
+        "args": [
+            "sub_40222C"
+        ],
+        "funName": "sub_407AA0",
+        "lineNum": 11
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401EE2",
+        "lineNum": 24
+    },
+    {
+        "args": [
+            "\"/var/run/utmp\"",
+            "1u"
+        ],
+        "funName": "sub_401E7F",
+        "lineNum": 27
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401EE2",
+        "lineNum": 36
+    }
+]

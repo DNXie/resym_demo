@@ -1,0 +1,10 @@
+[
+    {
+        "args": [
+            "(const char *)a1",
+            "endptr"
+        ],
+        "funName": "sub_401A57",
+        "lineNum": 21
+    }
+]

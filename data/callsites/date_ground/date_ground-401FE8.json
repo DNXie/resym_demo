@@ -1,0 +1,128 @@
+[
+    {
+        "args": [
+            "*a2",
+            "a2",
+            "a3"
+        ],
+        "funName": "sub_40A1EC",
+        "lineNum": 43
+    },
+    {
+        "args": [
+            "sub_402D12"
+        ],
+        "funName": "sub_40CBE0",
+        "lineNum": 47
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401B80",
+        "lineNum": 58
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401B80",
+        "lineNum": 64
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401B80",
+        "lineNum": 73
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401B80",
+        "lineNum": 93
+    },
+    {
+        "args": [
+            "v30",
+            "(__int64)v29"
+        ],
+        "funName": "sub_401E15",
+        "lineNum": 104
+    },
+    {
+        "args": [
+            "&v33",
+            "v27",
+            "0LL"
+        ],
+        "funName": "sub_408BFC",
+        "lineNum": 126
+    },
+    {
+        "args": [
+            "&v33"
+        ],
+        "funName": "sub_405AC6",
+        "lineNum": 131
+    },
+    {
+        "args": [
+            "&v33",
+            "v27",
+            "14LL"
+        ],
+        "funName": "sub_409FCC",
+        "lineNum": 137
+    },
+    {
+        "args": [
+            "v27"
+        ],
+        "funName": "sub_40A2F7",
+        "lineNum": 142
+    },
+    {
+        "args": [
+            "&v33"
+        ],
+        "funName": "sub_40BA8F",
+        "lineNum": 148
+    },
+    {
+        "args": [
+            "v29",
+            "v33",
+            "v34"
+        ],
+        "funName": "sub_4027CC",
+        "lineNum": 156
+    },
+    {
+        "args": [
+            "(__int64)\"TZ=UTC0\""
+        ],
+        "funName": "sub_401B5C",
+        "lineNum": 176
+    },
+    {
+        "args": [],
+        "funName": "sub_40C62D",
+        "lineNum": 178
+    },
+    {
+        "args": [
+            "0"
+        ],
+        "funName": "sub_401B80",
+        "lineNum": 210
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401B80",
+        "lineNum": 226
+    }
+]

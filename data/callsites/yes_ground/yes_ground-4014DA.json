@@ -1,0 +1,32 @@
+[
+    {
+        "args": [
+            "*a2",
+            "a2",
+            "a3"
+        ],
+        "funName": "sub_401986",
+        "lineNum": 11
+    },
+    {
+        "args": [
+            "sub_401695"
+        ],
+        "funName": "sub_404030",
+        "lineNum": 15
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401405",
+        "lineNum": 26
+    },
+    {
+        "args": [
+            "(__int64)\"y\""
+        ],
+        "funName": "sub_4013F7",
+        "lineNum": 31
+    }
+]

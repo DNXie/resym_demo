@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__int64",
+            "original_line": "__int64 a1"
+        },
+        {
+            "name": "a2",
+            "type": "_BYTE *",
+            "original_line": "_BYTE *a2"
+        }
+    ],
+    "variable": []
+}

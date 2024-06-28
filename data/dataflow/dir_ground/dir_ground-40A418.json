@@ -1,0 +1,22 @@
+[
+    {
+        "lhsVarName": "result",
+        "lineNum": 22,
+        "rhsVarName": "i"
+    },
+    {
+        "lhsVarName": "v4",
+        "lineNum": 26,
+        "rhsVarName": "i"
+    },
+    {
+        "lhsVarName": "j",
+        "lineNum": 27,
+        "rhsVarName": "v11"
+    },
+    {
+        "lhsVarName": "v4",
+        "lineNum": 34,
+        "rhsVarName": "v8"
+    }
+]

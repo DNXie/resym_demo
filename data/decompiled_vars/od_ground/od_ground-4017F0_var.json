@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "wc",
+            "type": "wint_t",
+            "original_line": "wint_t wc"
+        }
+    ],
+    "variable": []
+}

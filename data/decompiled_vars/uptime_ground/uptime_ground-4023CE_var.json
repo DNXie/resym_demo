@@ -1,0 +1,41 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "FILE *",
+            "original_line": "FILE *a1"
+        },
+        {
+            "name": "a2",
+            "type": "unsigned __int8 *",
+            "original_line": "unsigned __int8 *a2"
+        },
+        {
+            "name": "a3",
+            "type": "__int64",
+            "original_line": "__int64 a3"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v3",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v3; // eax"
+        },
+        {
+            "name": "result",
+            "type": "__int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 result; // rax"
+        }
+    ]
+}

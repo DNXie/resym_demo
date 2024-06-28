@@ -1,0 +1,9 @@
+[
+    {
+        "args": [
+            "**(_BYTE **)(a1 + 16)"
+        ],
+        "funName": "sub_404AE1",
+        "lineNum": 13
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "args": [
+            "*i"
+        ],
+        "funName": "sub_4017DD",
+        "lineNum": 30
+    },
+    {
+        "args": [
+            "*(_BYTE *)(a1 + 1)"
+        ],
+        "funName": "sub_401DA1",
+        "lineNum": 69
+    },
+    {
+        "args": [
+            "*i"
+        ],
+        "funName": "sub_4017DD",
+        "lineNum": 84
+    },
+    {
+        "args": [
+            "stdout",
+            "v18",
+            "0LL"
+        ],
+        "funName": "sub_404EED",
+        "lineNum": 113
+    }
+]

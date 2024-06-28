@@ -1,0 +1,156 @@
+[
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_4056CB",
+        "lineNum": 66
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_4056CB",
+        "lineNum": 77
+    },
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_4056CB",
+        "lineNum": 92
+    },
+    {
+        "args": [
+            "1LL",
+            "a1"
+        ],
+        "funName": "sub_4056A7",
+        "lineNum": 102
+    },
+    {
+        "args": [
+            "0LL",
+            "a2"
+        ],
+        "funName": "sub_4056A7",
+        "lineNum": 103
+    },
+    {
+        "args": [
+            "1LL",
+            "a2"
+        ],
+        "funName": "sub_4056A7",
+        "lineNum": 116
+    },
+    {
+        "args": [
+            "0LL",
+            "a1"
+        ],
+        "funName": "sub_4056A7",
+        "lineNum": 117
+    },
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_4056CB",
+        "lineNum": 126
+    },
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_4056CB",
+        "lineNum": 133
+    },
+    {
+        "args": [],
+        "funName": "sub_407BD3",
+        "lineNum": 137
+    },
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_4056CB",
+        "lineNum": 151
+    },
+    {
+        "args": [
+            "4294967196LL",
+            "a1",
+            "4294967196LL",
+            "a2",
+            "v27"
+        ],
+        "funName": "sub_40820B",
+        "lineNum": 169
+    },
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_4056CB",
+        "lineNum": 176
+    },
+    {
+        "args": [
+            "4294967196LL",
+            "a1",
+            "4294967196LL",
+            "a2",
+            "v32"
+        ],
+        "funName": "sub_40820B",
+        "lineNum": 193
+    },
+    {
+        "args": [
+            "newa"
+        ],
+        "funName": "sub_4056CB",
+        "lineNum": 204
+    },
+    {
+        "args": [
+            "1LL",
+            "a1"
+        ],
+        "funName": "sub_4056A7",
+        "lineNum": 207
+    },
+    {
+        "args": [
+            "0LL",
+            "a2"
+        ],
+        "funName": "sub_4056A7",
+        "lineNum": 212
+    },
+    {
+        "args": [
+            "1LL",
+            "a1"
+        ],
+        "funName": "sub_4056A7",
+        "lineNum": 218
+    },
+    {
+        "args": [
+            "0LL",
+            "a2"
+        ],
+        "funName": "sub_4056A7",
+        "lineNum": 219
+    },
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_4056CB",
+        "lineNum": 251
+    }
+]

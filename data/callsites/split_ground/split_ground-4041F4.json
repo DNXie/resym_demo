@@ -1,0 +1,244 @@
+[
+    {
+        "args": [
+            "*a2"
+        ],
+        "funName": "sub_40554A",
+        "lineNum": 78
+    },
+    {
+        "args": [
+            "sub_405111"
+        ],
+        "funName": "sub_40C850",
+        "lineNum": 82
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_40227B",
+        "lineNum": 109
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_40227B",
+        "lineNum": 120
+    },
+    {
+        "args": [
+            "v57",
+            "v52"
+        ],
+        "funName": "sub_4021A2",
+        "lineNum": 122
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_40227B",
+        "lineNum": 138
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_4060A6",
+        "lineNum": 142
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_4060A6",
+        "lineNum": 178
+    },
+    {
+        "args": [
+            "v57",
+            "v66"
+        ],
+        "funName": "sub_4054C5",
+        "lineNum": 185
+    },
+    {
+        "args": [
+            "v58 + v60"
+        ],
+        "funName": "sub_4088C8",
+        "lineNum": 194
+    },
+    {
+        "args": [
+            "v46",
+            "v60"
+        ],
+        "funName": "sub_401F8C",
+        "lineNum": 195
+    },
+    {
+        "args": [
+            "v56",
+            "v57",
+            "(__int64)v62",
+            "v58",
+            "v59"
+        ],
+        "funName": "sub_403233",
+        "lineNum": 208
+    },
+    {
+        "args": [
+            "v56",
+            "v57",
+            "(__int64)v62",
+            "v58",
+            "v59"
+        ],
+        "funName": "sub_403644",
+        "lineNum": 213
+    },
+    {
+        "args": [
+            "v59 / v57",
+            "(__int64)v62",
+            "v58",
+            "v57"
+        ],
+        "funName": "sub_402D9A",
+        "lineNum": 215
+    },
+    {
+        "args": [
+            "v56",
+            "v57",
+            "v62",
+            "v58"
+        ],
+        "funName": "sub_403AF8",
+        "lineNum": 222
+    },
+    {
+        "args": [
+            "v57",
+            "v62",
+            "v58"
+        ],
+        "funName": "sub_402F3C",
+        "lineNum": 227
+    },
+    {
+        "args": [
+            "v57",
+            "(__int64)v62",
+            "v58",
+            "0LL"
+        ],
+        "funName": "sub_402D9A",
+        "lineNum": 231
+    },
+    {
+        "args": [
+            "v57"
+        ],
+        "funName": "sub_4030B0",
+        "lineNum": 237
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_40227B",
+        "lineNum": 295
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_40227B",
+        "lineNum": 303
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_40227B",
+        "lineNum": 311
+    },
+    {
+        "args": [
+            "&v56",
+            "&v57",
+            "v63"
+        ],
+        "funName": "sub_4040F0",
+        "lineNum": 337
+    },
+    {
+        "args": [
+            "0"
+        ],
+        "funName": "sub_40227B",
+        "lineNum": 372
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_40227B",
+        "lineNum": 374
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_40227B",
+        "lineNum": 385
+    },
+    {
+        "args": [
+            "v57",
+            "v66"
+        ],
+        "funName": "sub_4054C5",
+        "lineNum": 401
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_40227B",
+        "lineNum": 414
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_40227B",
+        "lineNum": 424
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_40227B",
+        "lineNum": 432
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_40227B",
+        "lineNum": 443
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_40227B",
+        "lineNum": 451
+    }
+]

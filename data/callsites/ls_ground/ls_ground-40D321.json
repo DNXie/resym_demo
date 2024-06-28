@@ -1,0 +1,37 @@
+[
+    {
+        "args": [
+            "a2",
+            "*(_QWORD *)(a1 + 40)"
+        ],
+        "funName": "sub_40CABF",
+        "lineNum": 17
+    },
+    {
+        "args": [
+            "(__int64)&v4",
+            "a1",
+            "0"
+        ],
+        "funName": "sub_40D153",
+        "lineNum": 34
+    },
+    {
+        "args": [
+            "a1",
+            "(__int64)&v4",
+            "1"
+        ],
+        "funName": "sub_40D153",
+        "lineNum": 47
+    },
+    {
+        "args": [
+            "a1",
+            "(__int64)&v4",
+            "0"
+        ],
+        "funName": "sub_40D153",
+        "lineNum": 47
+    }
+]

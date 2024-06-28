@@ -1,0 +1,27 @@
+[
+    {
+        "args": [
+            "a1",
+            "1LL"
+        ],
+        "funName": "sub_403E6E",
+        "lineNum": 15
+    },
+    {
+        "args": [
+            "(__int64)\"line = %d;\"",
+            "*(unsigned __int8 *)(a1 + 16)"
+        ],
+        "funName": "sub_4019C6",
+        "lineNum": 16
+    },
+    {
+        "args": [
+            "(__int64)\"min = %lu; time = %lu;\\n\"",
+            "*(unsigned __int8 *)(a1 + 23)",
+            "*(unsigned __int8 *)(a1 + 22)"
+        ],
+        "funName": "sub_4019C6",
+        "lineNum": 36
+    }
+]

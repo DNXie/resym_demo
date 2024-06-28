@@ -1,0 +1,46 @@
+[
+    {
+        "args": [
+            "pwcs",
+            "*a4"
+        ],
+        "funName": "sub_405D2C",
+        "lineNum": 69
+    },
+    {
+        "args": [
+            "a2",
+            "v29",
+            "v25"
+        ],
+        "funName": "sub_405DB1",
+        "lineNum": 95
+    },
+    {
+        "args": [
+            "a2",
+            "v29",
+            "(v25 >> 1) + (v25 & 1)"
+        ],
+        "funName": "sub_405DB1",
+        "lineNum": 100
+    },
+    {
+        "args": [
+            "a2",
+            "v29",
+            "0LL"
+        ],
+        "funName": "sub_405DB1",
+        "lineNum": 106
+    },
+    {
+        "args": [
+            "desta",
+            "v29",
+            "v26"
+        ],
+        "funName": "sub_405DB1",
+        "lineNum": 114
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "args": [
+            "(unsigned int)*nptr"
+        ],
+        "funName": "sub_416BCD",
+        "lineNum": 20
+    },
+    {
+        "args": [
+            "(unsigned int)*nptr"
+        ],
+        "funName": "sub_416AF7",
+        "lineNum": 22
+    },
+    {
+        "args": [
+            "(unsigned int)*endptr"
+        ],
+        "funName": "sub_416BCD",
+        "lineNum": 28
+    },
+    {
+        "args": [],
+        "funName": "sub_410EB4",
+        "lineNum": 45
+    },
+    {
+        "args": [],
+        "funName": "sub_410EB4",
+        "lineNum": 57
+    }
+]

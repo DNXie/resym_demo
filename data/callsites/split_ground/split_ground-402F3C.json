@@ -1,0 +1,29 @@
+[
+    {
+        "args": [
+            "0LL",
+            "a2",
+            "a3"
+        ],
+        "funName": "sub_4053C5",
+        "lineNum": 19
+    },
+    {
+        "args": [
+            "v7",
+            "v10",
+            "(__int64)s - v10"
+        ],
+        "funName": "sub_402C91",
+        "lineNum": 38
+    },
+    {
+        "args": [
+            "v7",
+            "v10",
+            "(__int64)&v13[-v10]"
+        ],
+        "funName": "sub_402C91",
+        "lineNum": 46
+    }
+]

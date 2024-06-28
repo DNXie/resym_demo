@@ -1,0 +1,49 @@
+[
+    {
+        "args": [
+            "(_QWORD *)ptr + 1",
+            "a2"
+        ],
+        "funName": "sub_4F6AA1",
+        "lineNum": 16
+    },
+    {
+        "args": [
+            "*((_QWORD **)ptr + 10)",
+            "a2"
+        ],
+        "funName": "sub_4F6AA1",
+        "lineNum": 46
+    },
+    {
+        "args": [
+            "(void **)ptr"
+        ],
+        "funName": "sub_4F82A3",
+        "lineNum": 48
+    },
+    {
+        "args": [
+            "(__int64)(ptr + 8)",
+            "i - v11++"
+        ],
+        "funName": "sub_4F7A18",
+        "lineNum": 59
+    },
+    {
+        "args": [
+            "a1",
+            "ptr",
+            "a4"
+        ],
+        "funName": "sub_4F80EF",
+        "lineNum": 64
+    },
+    {
+        "args": [
+            "(void **)ptr"
+        ],
+        "funName": "sub_4F82A3",
+        "lineNum": 66
+    }
+]

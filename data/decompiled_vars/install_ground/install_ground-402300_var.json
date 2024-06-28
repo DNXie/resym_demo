@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "mask",
+            "type": "__mode_t",
+            "original_line": "__mode_t mask"
+        }
+    ],
+    "variable": []
+}

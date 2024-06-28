@@ -1,0 +1,96 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "const struct termios *",
+            "original_line": "const struct termios *a1"
+        },
+        {
+            "name": "a2",
+            "type": "unsigned __int8",
+            "original_line": "unsigned __int8 a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "speed_t",
+            "comment": "ebx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "speed_t v2; // ebx"
+        },
+        {
+            "name": "v3",
+            "type": "speed_t",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "speed_t v3; // eax"
+        },
+        {
+            "name": "v4",
+            "type": "__int64",
+            "comment": "rdx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v4; // rdx"
+        },
+        {
+            "name": "v5",
+            "type": "speed_t",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "speed_t v5; // eax"
+        },
+        {
+            "name": "v6",
+            "type": "__int64",
+            "comment": "rbx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v6; // rbx"
+        },
+        {
+            "name": "v7",
+            "type": "speed_t",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "speed_t v7; // eax"
+        },
+        {
+            "name": "v8",
+            "type": "__int64",
+            "comment": "rcx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v8; // rcx"
+        },
+        {
+            "name": "result",
+            "type": "__int64",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 result; // rax"
+        }
+    ]
+}

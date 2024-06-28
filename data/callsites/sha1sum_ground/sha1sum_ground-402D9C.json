@@ -1,0 +1,42 @@
+[
+    {
+        "args": [
+            "a2",
+            "HIBYTE(*a1) | (*a1 >> 8) & 0xFF00 | ((*a1 & 0xFF00) << 8) | (*a1 << 24)"
+        ],
+        "funName": "sub_402D86",
+        "lineNum": 4
+    },
+    {
+        "args": [
+            "a2 + 1",
+            "HIBYTE(a1[1]) | (a1[1] >> 8) & 0xFF00 | ((a1[1] & 0xFF00) << 8) | (a1[1] << 24)"
+        ],
+        "funName": "sub_402D86",
+        "lineNum": 5
+    },
+    {
+        "args": [
+            "a2 + 2",
+            "HIBYTE(a1[2]) | (a1[2] >> 8) & 0xFF00 | ((a1[2] & 0xFF00) << 8) | (a1[2] << 24)"
+        ],
+        "funName": "sub_402D86",
+        "lineNum": 6
+    },
+    {
+        "args": [
+            "a2 + 3",
+            "HIBYTE(a1[3]) | (a1[3] >> 8) & 0xFF00 | ((a1[3] & 0xFF00) << 8) | (a1[3] << 24)"
+        ],
+        "funName": "sub_402D86",
+        "lineNum": 7
+    },
+    {
+        "args": [
+            "a2 + 4",
+            "HIBYTE(a1[4]) | (a1[4] >> 8) & 0xFF00 | ((a1[4] & 0xFF00) << 8) | (a1[4] << 24)"
+        ],
+        "funName": "sub_402D86",
+        "lineNum": 8
+    }
+]

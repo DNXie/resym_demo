@@ -1,0 +1,63 @@
+[
+    {
+        "args": [
+            "src"
+        ],
+        "funName": "sub_40B584",
+        "lineNum": 60
+    },
+    {
+        "args": [
+            "v46"
+        ],
+        "funName": "sub_40E491",
+        "lineNum": 95
+    },
+    {
+        "args": [
+            "168LL"
+        ],
+        "funName": "sub_4126C5",
+        "lineNum": 100
+    },
+    {
+        "args": [
+            "src"
+        ],
+        "funName": "sub_40E491",
+        "lineNum": 126
+    },
+    {
+        "args": [
+            "src"
+        ],
+        "funName": "sub_40E491",
+        "lineNum": 136
+    },
+    {
+        "args": [],
+        "funName": "sub_409B6D",
+        "lineNum": 145
+    },
+    {
+        "args": [
+            "src"
+        ],
+        "funName": "sub_40E491",
+        "lineNum": 154
+    },
+    {
+        "args": [
+            "src"
+        ],
+        "funName": "sub_40E491",
+        "lineNum": 165
+    },
+    {
+        "args": [
+            "filename"
+        ],
+        "funName": "sub_40E491",
+        "lineNum": 182
+    }
+]

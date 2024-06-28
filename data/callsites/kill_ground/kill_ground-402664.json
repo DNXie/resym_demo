@@ -1,0 +1,18 @@
+[
+    {
+        "args": [
+            "(const char *)L\"`'\"",
+            "a5"
+        ],
+        "funName": "sub_402627",
+        "lineNum": 49
+    },
+    {
+        "args": [
+            "(const char *)L\"'\"",
+            "a5"
+        ],
+        "funName": "sub_402627",
+        "lineNum": 50
+    }
+]

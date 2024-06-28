@@ -1,0 +1,41 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__int64",
+            "original_line": "__int64 a1"
+        },
+        {
+            "name": "a2",
+            "type": "const char *",
+            "original_line": "const char *a2"
+        },
+        {
+            "name": "a3",
+            "type": "size_t",
+            "original_line": "size_t a3"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v4",
+            "type": "int",
+            "comment": "[rsp+24h] [rbp-Ch]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C",
+            "rbp_offset_dec": -12,
+            "original_line": "int v4; // [rsp+24h] [rbp-Ch]"
+        },
+        {
+            "name": "v5",
+            "type": "__int64",
+            "comment": "[rsp+28h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "__int64 v5; // [rsp+28h] [rbp-8h]"
+        }
+    ]
+}

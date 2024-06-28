@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "name",
+            "type": "struct utsname *",
+            "original_line": "struct utsname *name"
+        }
+    ],
+    "variable": []
+}

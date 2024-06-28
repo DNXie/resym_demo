@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "a1",
+        "exprPointeeSize": 16,
+        "exprPointeeType": "__int128 *",
+        "lhsPointeeSize": 16,
+        "lhsType": "__int128 *",
+        "lineNum": 4,
+        "offset": 0,
+        "varName": "a1"
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "ptr",
+            "type": "void *",
+            "original_line": "void *ptr"
+        }
+    ],
+    "variable": []
+}

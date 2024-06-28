@@ -1,0 +1,62 @@
+[
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_410747",
+        "lineNum": 35
+    },
+    {
+        "args": [
+            "a3"
+        ],
+        "funName": "sub_410747",
+        "lineNum": 36
+    },
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_410723",
+        "lineNum": 89
+    },
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_410735",
+        "lineNum": 90
+    },
+    {
+        "args": [
+            "a1",
+            "v31"
+        ],
+        "funName": "sub_411A48",
+        "lineNum": 126
+    },
+    {
+        "args": [
+            "a1",
+            "v31"
+        ],
+        "funName": "sub_411A21",
+        "lineNum": 128
+    },
+    {
+        "args": [
+            "a1",
+            "v31"
+        ],
+        "funName": "sub_411A48",
+        "lineNum": 142
+    },
+    {
+        "args": [
+            "a1",
+            "v31"
+        ],
+        "funName": "sub_411A21",
+        "lineNum": 144
+    }
+]

@@ -1,0 +1,61 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "_DWORD *",
+            "original_line": "_DWORD *a1"
+        },
+        {
+            "name": "a2",
+            "type": "struct tm *",
+            "original_line": "struct tm *a2"
+        },
+        {
+            "name": "a3",
+            "type": "time_t",
+            "original_line": "time_t a3"
+        }
+    ],
+    "variable": [
+        {
+            "name": "result",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool result; // al"
+        },
+        {
+            "name": "timer",
+            "type": "time_t",
+            "comment": "[rsp+8h] [rbp-18h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "time_t timer; // [rsp+8h] [rbp-18h] BYREF"
+        },
+        {
+            "name": "v5",
+            "type": "struct tm *",
+            "comment": "[rsp+10h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "struct tm *v5; // [rsp+10h] [rbp-10h]"
+        },
+        {
+            "name": "v6",
+            "type": "_DWORD *",
+            "comment": "[rsp+18h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "_DWORD *v6; // [rsp+18h] [rbp-8h]"
+        }
+    ]
+}

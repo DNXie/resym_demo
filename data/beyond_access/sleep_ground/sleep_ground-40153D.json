@@ -1,0 +1,22 @@
+[
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "double *",
+        "lhsPointeeSize": 8,
+        "lhsType": "double *",
+        "lineNum": 32,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "double *",
+        "lhsPointeeSize": 8,
+        "lhsType": "double *",
+        "lineNum": 32,
+        "offset": 0,
+        "varName": "a1"
+    }
+]

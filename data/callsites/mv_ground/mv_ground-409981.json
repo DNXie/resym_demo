@@ -1,0 +1,11 @@
+[
+    {
+        "args": [
+            "*(_QWORD *)(a1 + 32)",
+            "*(unsigned int *)(a1 + 20)",
+            "24LL"
+        ],
+        "funName": "sub_410DE0",
+        "lineNum": 38
+    }
+]

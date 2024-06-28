@@ -1,0 +1,20 @@
+{
+    "argument": [
+        {
+            "name": "s1",
+            "type": "const void *",
+            "original_line": "const void *s1"
+        },
+        {
+            "name": "s2",
+            "type": "const void *",
+            "original_line": "const void *s2"
+        },
+        {
+            "name": "n",
+            "type": "size_t",
+            "original_line": "size_t n"
+        }
+    ],
+    "variable": []
+}

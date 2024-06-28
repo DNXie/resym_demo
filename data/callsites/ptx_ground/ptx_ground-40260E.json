@@ -1,0 +1,16 @@
+[
+    {
+        "args": [
+            "*(_BYTE *)(*(_QWORD *)a1 + j)"
+        ],
+        "funName": "sub_401E2D",
+        "lineNum": 31
+    },
+    {
+        "args": [
+            "*(_BYTE *)(*(_QWORD *)a2 + j)"
+        ],
+        "funName": "sub_401E2D",
+        "lineNum": 32
+    }
+]

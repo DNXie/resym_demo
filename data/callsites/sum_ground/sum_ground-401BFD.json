@@ -1,0 +1,22 @@
+[
+    {
+        "args": [
+            "fd",
+            "v15",
+            "0x2000LL"
+        ],
+        "funName": "sub_404A1D",
+        "lineNum": 43
+    },
+    {
+        "args": [
+            "v11",
+            "v14",
+            "0LL",
+            "1LL",
+            "512LL"
+        ],
+        "funName": "sub_402542",
+        "lineNum": 54
+    }
+]

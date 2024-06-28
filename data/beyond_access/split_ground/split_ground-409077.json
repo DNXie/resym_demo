@@ -1,0 +1,32 @@
+[
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "unsigned long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "unsigned long long *",
+        "lineNum": 6,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "unsigned long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "unsigned long long *",
+        "lineNum": 8,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "unsigned long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "unsigned long long *",
+        "lineNum": 13,
+        "offset": 0,
+        "varName": "a1"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "args": [
+            "a1",
+            "v22 + 1"
+        ],
+        "funName": "sub_40497C",
+        "lineNum": 34
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_4049AD",
+        "lineNum": 40
+    },
+    {
+        "args": [
+            "gid",
+            "v26"
+        ],
+        "funName": "sub_404FA6",
+        "lineNum": 64
+    },
+    {
+        "args": [
+            "v9"
+        ],
+        "funName": "sub_4049AD",
+        "lineNum": 65
+    },
+    {
+        "args": [
+            "v23"
+        ],
+        "funName": "sub_4049AD",
+        "lineNum": 103
+    }
+]

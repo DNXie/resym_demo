@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "haystack",
+            "type": "const char *",
+            "original_line": "const char *haystack"
+        },
+        {
+            "name": "needle",
+            "type": "const char *",
+            "original_line": "const char *needle"
+        }
+    ],
+    "variable": []
+}

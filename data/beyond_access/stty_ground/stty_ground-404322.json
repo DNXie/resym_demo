@@ -1,0 +1,22 @@
+[
+    {
+        "expr": "result",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 15,
+        "offset": 0,
+        "varName": "result"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 28,
+        "offset": 0,
+        "varName": "result"
+    }
+]

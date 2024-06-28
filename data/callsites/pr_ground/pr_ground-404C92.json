@@ -1,0 +1,26 @@
+[
+    {
+        "args": [],
+        "funName": "sub_40474A",
+        "lineNum": 20
+    },
+    {
+        "args": [
+            "dword_6103E4 - dword_6103DC"
+        ],
+        "funName": "sub_4040D2",
+        "lineNum": 42
+    },
+    {
+        "args": [],
+        "funName": "sub_40441D",
+        "lineNum": 46
+    },
+    {
+        "args": [
+            "*v3"
+        ],
+        "funName": "sub_404537",
+        "lineNum": 50
+    }
+]

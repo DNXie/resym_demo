@@ -1,0 +1,46 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "_BYTE *",
+            "original_line": "_BYTE *a1"
+        },
+        {
+            "name": "a2",
+            "type": "unsigned int *",
+            "original_line": "unsigned int *a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v3",
+            "type": "__int64",
+            "comment": "[rsp+18h] [rbp-18h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "__int64 v3; // [rsp+18h] [rbp-18h] BYREF"
+        },
+        {
+            "name": "v4",
+            "type": "__int64",
+            "comment": "[rsp+20h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "__int64 v4; // [rsp+20h] [rbp-10h]"
+        },
+        {
+            "name": "v5",
+            "type": "_BYTE *",
+            "comment": "[rsp+28h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "_BYTE *v5; // [rsp+28h] [rbp-8h]"
+        }
+    ]
+}

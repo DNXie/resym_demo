@@ -1,0 +1,36 @@
+[
+    {
+        "args": [
+            "13LL",
+            "0LL",
+            "sub_407397",
+            "sub_4073C0",
+            "free"
+        ],
+        "funName": "sub_40A0E1",
+        "lineNum": 19
+    },
+    {
+        "args": [
+            "v3",
+            "&v8"
+        ],
+        "funName": "sub_409AA8",
+        "lineNum": 25
+    },
+    {
+        "args": [
+            "*(_DWORD *)(v4 + 44)"
+        ],
+        "funName": "sub_40734D",
+        "lineNum": 31
+    },
+    {
+        "args": [
+            "v3",
+            "ptr"
+        ],
+        "funName": "sub_40AD77",
+        "lineNum": 34
+    }
+]

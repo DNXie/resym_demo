@@ -1,0 +1,86 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__int64",
+            "original_line": "__int64 a1"
+        },
+        {
+            "name": "a2",
+            "type": "unsigned int",
+            "original_line": "unsigned int a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "char *",
+            "comment": "rbx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v2; // rbx"
+        },
+        {
+            "name": "v3",
+            "type": "int *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int *v3; // rax"
+        },
+        {
+            "name": "v4",
+            "type": "char *",
+            "comment": "rbx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v4; // rbx"
+        },
+        {
+            "name": "v5",
+            "type": "int *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int *v5; // rax"
+        },
+        {
+            "name": "v7",
+            "type": "bool",
+            "comment": "[rsp+1Fh] [rbp-21h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-21",
+            "rbp_offset_dec": -33,
+            "original_line": "bool v7; // [rsp+1Fh] [rbp-21h]"
+        },
+        {
+            "name": "i",
+            "type": "__int64",
+            "comment": "[rsp+20h] [rbp-20h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-20",
+            "rbp_offset_dec": -32,
+            "original_line": "__int64 i; // [rsp+20h] [rbp-20h]"
+        },
+        {
+            "name": "v9",
+            "type": "__int64",
+            "comment": "[rsp+28h] [rbp-18h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "__int64 v9; // [rsp+28h] [rbp-18h]"
+        }
+    ]
+}

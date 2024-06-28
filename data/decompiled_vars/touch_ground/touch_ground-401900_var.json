@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "status",
+            "type": "int",
+            "original_line": "int status"
+        }
+    ],
+    "variable": []
+}

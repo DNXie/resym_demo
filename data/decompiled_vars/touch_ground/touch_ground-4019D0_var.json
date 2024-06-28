@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "path",
+            "type": "const char *",
+            "original_line": "const char *path"
+        }
+    ],
+    "variable": []
+}

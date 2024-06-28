@@ -1,0 +1,46 @@
+[
+    {
+        "args": [
+            "*(void **)(a1 + 8)"
+        ],
+        "funName": "sub_407B02",
+        "lineNum": 28
+    },
+    {
+        "args": [
+            "a1",
+            "v9"
+        ],
+        "funName": "sub_406CC9",
+        "lineNum": 42
+    },
+    {
+        "args": [
+            "a1",
+            "(int)\".\"",
+            "v4",
+            "v5",
+            "v6",
+            "v7"
+        ],
+        "funName": "sub_405974",
+        "lineNum": 45
+    },
+    {
+        "args": [
+            "a1",
+            "v9"
+        ],
+        "funName": "sub_406CC9",
+        "lineNum": 51
+    },
+    {
+        "args": [
+            "a1",
+            "fd",
+            "1"
+        ],
+        "funName": "sub_4058E7",
+        "lineNum": 54
+    }
+]

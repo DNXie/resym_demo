@@ -1,0 +1,36 @@
+[
+    {
+        "args": [
+            "a1",
+            "&v9"
+        ],
+        "funName": "sub_40615A",
+        "lineNum": 17
+    },
+    {
+        "args": [
+            "i",
+            "a2",
+            "v14 - (_QWORD)i"
+        ],
+        "funName": "sub_401DED",
+        "lineNum": 31
+    },
+    {
+        "args": [
+            "v12 + 1",
+            "8LL"
+        ],
+        "funName": "sub_406D7A",
+        "lineNum": 33
+    },
+    {
+        "args": [
+            "i",
+            "a2",
+            "v14 - (_QWORD)i"
+        ],
+        "funName": "sub_401DED",
+        "lineNum": 40
+    }
+]

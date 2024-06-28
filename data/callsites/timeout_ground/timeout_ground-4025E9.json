@@ -1,0 +1,89 @@
+[
+    {
+        "args": [
+            "*a2",
+            "a2",
+            "a3"
+        ],
+        "funName": "sub_403027",
+        "lineNum": 28
+    },
+    {
+        "args": [
+            "0x7Du"
+        ],
+        "funName": "sub_401EDD",
+        "lineNum": 32
+    },
+    {
+        "args": [
+            "sub_402D1C"
+        ],
+        "funName": "sub_409540",
+        "lineNum": 33
+    },
+    {
+        "args": [
+            "\"Padraig Brady\"",
+            "&unk_409E03"
+        ],
+        "funName": "sub_403893",
+        "lineNum": 49
+    },
+    {
+        "args": [
+            "0"
+        ],
+        "funName": "sub_4022A6",
+        "lineNum": 54
+    },
+    {
+        "args": [
+            "125"
+        ],
+        "funName": "sub_4022A6",
+        "lineNum": 56
+    },
+    {
+        "args": [
+            "125"
+        ],
+        "funName": "sub_4022A6",
+        "lineNum": 62
+    },
+    {
+        "args": [
+            "125"
+        ],
+        "funName": "sub_4022A6",
+        "lineNum": 73
+    },
+    {
+        "args": [
+            "(__int64)a2[v4]"
+        ],
+        "funName": "sub_40244A",
+        "lineNum": 75
+    },
+    {
+        "args": [
+            "dword_60C2B0"
+        ],
+        "funName": "sub_402518",
+        "lineNum": 79
+    },
+    {
+        "args": [
+            "v22"
+        ],
+        "funName": "sub_401FFF",
+        "lineNum": 93
+    },
+    {
+        "args": [
+            "*argv"
+        ],
+        "funName": "sub_403B83",
+        "lineNum": 141
+    }
+]

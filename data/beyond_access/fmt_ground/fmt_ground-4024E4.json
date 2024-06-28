@@ -1,0 +1,182 @@
+[
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "unsigned long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "unsigned long long *",
+        "lineNum": 10,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 11,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "(int *)a1 + 2",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 11,
+        "offset": 2,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "unsigned long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "unsigned long long *",
+        "lineNum": 11,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 12,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "(_BYTE *)a1 + 16",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 13,
+        "offset": 16,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "unsigned long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "unsigned long long *",
+        "lineNum": 13,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[2]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "unsigned long long",
+        "lhsPointeeSize": 8,
+        "lhsType": "unsigned long long *",
+        "lineNum": 13,
+        "offset": 2,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_BYTE *)a1 + 16",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 14,
+        "offset": 16,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[2]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "unsigned long long",
+        "lhsPointeeSize": 8,
+        "lhsType": "unsigned long long *",
+        "lineNum": 14,
+        "offset": 2,
+        "varName": "a1"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 15,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 16,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "v4",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 17,
+        "offset": 0,
+        "varName": "v4"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "char **",
+        "lineNum": 18,
+        "offset": 0,
+        "varName": "result"
+    },
+    {
+        "expr": "(char **)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "char **",
+        "lineNum": 18,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_BYTE *)a1 + 16",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 1,
+        "lhsType": "uint8 *",
+        "lineNum": 19,
+        "offset": 16,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[2]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "unsigned long long",
+        "lhsPointeeSize": 8,
+        "lhsType": "unsigned long long *",
+        "lineNum": 19,
+        "offset": 2,
+        "varName": "a1"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "char **",
+        "lineNum": 20,
+        "offset": 0,
+        "varName": "result"
+    }
+]

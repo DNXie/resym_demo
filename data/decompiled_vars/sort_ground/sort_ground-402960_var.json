@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "resource",
+            "type": "__rlimit_resource_t",
+            "original_line": "__rlimit_resource_t resource"
+        },
+        {
+            "name": "rlimits",
+            "type": "struct rlimit *",
+            "original_line": "struct rlimit *rlimits"
+        }
+    ],
+    "variable": []
+}

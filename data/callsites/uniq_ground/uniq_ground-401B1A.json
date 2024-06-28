@@ -1,0 +1,16 @@
+[
+    {
+        "args": [
+            "*(_BYTE *)(v7 + v6)"
+        ],
+        "funName": "sub_40181D",
+        "lineNum": 20
+    },
+    {
+        "args": [
+            "*(_BYTE *)(v7 + v6)"
+        ],
+        "funName": "sub_40181D",
+        "lineNum": 27
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "args": [
+            "a1",
+            "a2",
+            "a3"
+        ],
+        "funName": "sub_402960",
+        "lineNum": 7
+    },
+    {
+        "args": [
+            "a1",
+            "a2",
+            "0LL",
+            "a3",
+            "&v5",
+            "0LL"
+        ],
+        "funName": "sub_409AEE",
+        "lineNum": 10
+    }
+]

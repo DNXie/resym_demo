@@ -1,0 +1,28 @@
+[
+    {
+        "args": [
+            "v5",
+            "off_4066F0",
+            "dword_406708",
+            "4LL"
+        ],
+        "funName": "sub_405CE6",
+        "lineNum": 19
+    },
+    {
+        "args": [
+            "v5",
+            "&v9",
+            "0LL",
+            "a2",
+            "\"eEgGkKmMpPtTyYzZ0\""
+        ],
+        "funName": "sub_40567F",
+        "lineNum": 22
+    },
+    {
+        "args": [],
+        "funName": "sub_402FE0",
+        "lineNum": 50
+    }
+]

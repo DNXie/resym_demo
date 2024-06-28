@@ -1,0 +1,36 @@
+[
+    {
+        "args": [
+            "v27",
+            "v20"
+        ],
+        "funName": "sub_40424B",
+        "lineNum": 205
+    },
+    {
+        "args": [
+            "v27",
+            "v48 * 10.0"
+        ],
+        "funName": "sub_40424B",
+        "lineNum": 211
+    },
+    {
+        "args": [
+            "v27",
+            "v20"
+        ],
+        "funName": "sub_40424B",
+        "lineNum": 221
+    },
+    {
+        "args": [
+            "dest",
+            "v35 - dest",
+            "v42",
+            "v38"
+        ],
+        "funName": "sub_404342",
+        "lineNum": 231
+    }
+]

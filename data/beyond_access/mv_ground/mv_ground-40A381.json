@@ -1,0 +1,122 @@
+[
+    {
+        "expr": "v9",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 12,
+        "offset": 0,
+        "varName": "v9"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 12,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "v9",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 13,
+        "offset": 0,
+        "varName": "v9"
+    },
+    {
+        "expr": "(_WORD *)v9",
+        "exprPointeeSize": 2,
+        "exprPointeeType": "uint16 *",
+        "lhsPointeeSize": 2,
+        "lhsType": "uint16 *",
+        "lineNum": 17,
+        "offset": 0,
+        "varName": "v9"
+    },
+    {
+        "expr": "(_WORD *)v9",
+        "exprPointeeSize": 2,
+        "exprPointeeType": "uint16 *",
+        "lhsPointeeSize": 2,
+        "lhsType": "uint16 *",
+        "lineNum": 18,
+        "offset": 0,
+        "varName": "v9"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 20,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_WORD *)v9",
+        "exprPointeeSize": 2,
+        "exprPointeeType": "uint16 *",
+        "lhsPointeeSize": 2,
+        "lhsType": "uint16 *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "v9"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 25,
+        "offset": 0,
+        "varName": "result"
+    },
+    {
+        "expr": "(char *)v8",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 25,
+        "offset": 0,
+        "varName": "v8"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 32,
+        "offset": 0,
+        "varName": "result"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 33,
+        "offset": 0,
+        "varName": "result"
+    },
+    {
+        "expr": "result",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 35,
+        "offset": 0,
+        "varName": "result"
+    }
+]

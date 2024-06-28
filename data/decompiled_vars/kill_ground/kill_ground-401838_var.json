@@ -1,0 +1,46 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int",
+            "original_line": "int a1"
+        },
+        {
+            "name": "a2",
+            "type": "unsigned int",
+            "original_line": "unsigned int a2"
+        },
+        {
+            "name": "a3",
+            "type": "int",
+            "original_line": "int a3"
+        },
+        {
+            "name": "a4",
+            "type": "const char *",
+            "original_line": "const char *a4"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v4",
+            "type": "const char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "const char *v4; // rax"
+        },
+        {
+            "name": "v8",
+            "type": "char *",
+            "comment": "[rsp+28h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "char *v8; // [rsp+28h] [rbp-8h]"
+        }
+    ]
+}

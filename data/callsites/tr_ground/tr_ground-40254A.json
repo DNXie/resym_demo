@@ -1,0 +1,37 @@
+[
+    {
+        "args": [
+            "a1",
+            "a2 + 1",
+            "42"
+        ],
+        "funName": "sub_4016E6",
+        "lineNum": 15
+    },
+    {
+        "args": [
+            "v15",
+            "&v12",
+            "v6",
+            "a4",
+            "0LL"
+        ],
+        "funName": "sub_406FDF",
+        "lineNum": 33
+    },
+    {
+        "args": [
+            "(__int64)v15",
+            "v14"
+        ],
+        "funName": "sub_401F92",
+        "lineNum": 35
+    },
+    {
+        "args": [
+            "ptr"
+        ],
+        "funName": "sub_404BE5",
+        "lineNum": 36
+    }
+]

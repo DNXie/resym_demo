@@ -1,0 +1,30 @@
+{
+    "argument": [
+        {
+            "name": "nfds",
+            "type": "int",
+            "original_line": "int nfds"
+        },
+        {
+            "name": "readfds",
+            "type": "fd_set *",
+            "original_line": "fd_set *readfds"
+        },
+        {
+            "name": "writefds",
+            "type": "fd_set *",
+            "original_line": "fd_set *writefds"
+        },
+        {
+            "name": "exceptfds",
+            "type": "fd_set *",
+            "original_line": "fd_set *exceptfds"
+        },
+        {
+            "name": "timeout",
+            "type": "struct timeval *",
+            "original_line": "struct timeval *timeout"
+        }
+    ],
+    "variable": []
+}

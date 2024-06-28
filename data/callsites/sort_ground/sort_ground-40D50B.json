@@ -1,0 +1,35 @@
+[
+    {
+        "args": [
+            "v6"
+        ],
+        "funName": "sub_40D303",
+        "lineNum": 12
+    },
+    {
+        "args": [
+            "ptr",
+            "0x8000LL",
+            "v6"
+        ],
+        "funName": "sub_40D911",
+        "lineNum": 21
+    },
+    {
+        "args": [
+            "ptr",
+            "v3",
+            "v6"
+        ],
+        "funName": "sub_40D6EA",
+        "lineNum": 36
+    },
+    {
+        "args": [
+            "v6",
+            "a2"
+        ],
+        "funName": "sub_40D3EF",
+        "lineNum": 37
+    }
+]

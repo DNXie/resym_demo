@@ -1,0 +1,1163 @@
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400F50.c:3:45: error: unknown type name 'size_t'
+int strncmp(const char *s1, const char *s2, size_t n)
+                                            ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403CCE.c:6:3: error: use of undeclared identifier 'FILE'
+  FILE *v2; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403CCE.c:6:9: error: use of undeclared identifier 'v2'
+  FILE *v2; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403CCE.c:9:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v0 = gettext("\nReport bugs to: %s\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403CCE.c:11:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v1 = gettext("%s home page: <%s>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403CCE.c:13:3: error: use of undeclared identifier 'v2'
+  v2 = stdout;
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403CCE.c:13:8: error: use of undeclared identifier 'stdout'
+  v2 = stdout;
+       ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403CCE.c:14:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v3 = gettext("General help using GNU software: <http://www.gnu.org/gethelp/>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403CCE.c:15:29: error: use of undeclared identifier 'v2'
+  return fputs_unlocked(v3, v2);
+                            ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4041F5.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_4041F5(FILE *a1, __off_t a2, int a3)
+                          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4041F5.c:2:37: error: unknown type name '__off_t'
+int __fastcall sub_4041F5(FILE *a1, __off_t a2, int a3)
+                                    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4041F5.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_4041F5(FILE *a1, __off_t a2, int a3)
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4041F5.c:5:3: error: use of undeclared identifier '__off_t'
+  __off_t v6; // [rsp+28h] [rbp-8h]
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4041F5.c:10:3: error: use of undeclared identifier 'v6'
+  v6 = lseek(v3, a2, a3);
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4041F5.c:11:8: error: use of undeclared identifier 'v6'
+  if ( v6 == -1 )
+       ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4041F5.c:14:17: error: use of undeclared identifier 'v6'
+  a1->_offset = v6;
+                ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403F6B.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_403F6B(size_t a1, size_t a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403F6B.c:2:40: error: unknown type name 'size_t'
+void *__fastcall sub_403F6B(size_t a1, size_t a2)
+                                       ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403F6B.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403F6B(size_t a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4011C0.c:3:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn start(__int64 a1, __int64 a2, void (*a3)(void))
+     ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4011C0.c:12:21: error: use of undeclared identifier 'main'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4011C0.c:12:41: error: use of undeclared identifier 'init'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4011C0.c:12:47: error: use of undeclared identifier 'fini'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                                              ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034E6.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_4034E6(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5, unsigned __int64 a6)
+                          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034E6.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_4034E6(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5, unsigned __int64 a6)
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034E6.c:66:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v6 = gettext("(C)");
+     ^ ~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034E6.c:68:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v7 = gettext(
+     ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034E6.c:81:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v22 = gettext("Written by %s, %s, %s,\nand %s.\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034E6.c:95:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v40 = gettext("Written by %s, %s, %s,\n%s, %s, %s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034E6.c:110:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v46 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\nand %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034E6.c:125:15: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+          v52 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\n%s, and %s.\n");
+              ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034E6.c:127:15: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+          v52 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\n%s, %s, and others.\n");
+              ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034E6.c:138:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v28 = gettext("Written by %s, %s, %s,\n%s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034E6.c:149:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v34 = gettext("Written by %s, %s, %s,\n%s, %s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034E6.c:159:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v9 = gettext("Written by %s.\n");
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034E6.c:167:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v12 = gettext("Written by %s and %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034E6.c:174:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v16 = gettext("Written by %s, %s, and %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403E66.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403E66(__int64 a1, __int64 a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401180.c:3:1: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401180.c:3:32: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                               ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401180.c:3:45: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                                            ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401180.c:3:55: error: unknown type name 'FILE'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                                                      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400F60.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403367.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403367(__int64 a1)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403367.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_40333D(a1, 0x3Au);
+         ^~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403EB5.c:2:39: error: unknown type name 'size_t'
+void *__fastcall sub_403EB5(void *a1, size_t a2)
+                                      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403EB5.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403EB5(void *a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403386.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_403386(__int64 a1, size_t a2)
+                                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403386.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403386(__int64 a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401ACF.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401ACF(unsigned __int8 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401ACF.c:7:3: error: use of undeclared identifier 'byte_6061F8'
+  byte_6061F8 = a1;
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-40321A.c:2:57: error: unknown type name 'size_t'
+void *__fastcall sub_40321A(int a1, int a2, __int64 a3, size_t a4)
+                                                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-40321A.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40321A(int a1, int a2, __int64 a3, size_t a4)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400F90.c:3:12: error: unknown type name 'FILE'
+int fclose(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401F0D.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+_QWORD *__fastcall sub_401F0D(_QWORD *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn sub_4013B7(int a1)
+     ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:9:3: error: use of undeclared identifier 'FILE'
+  FILE *v6; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:9:9: error: use of undeclared identifier 'v6'
+  FILE *v6; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:11:3: error: use of undeclared identifier 'FILE'
+  FILE *v8; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:11:9: error: use of undeclared identifier 'v8'
+  FILE *v8; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:13:3: error: use of undeclared identifier 'FILE'
+  FILE *v10; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:13:9: error: use of undeclared identifier 'v10'; did you mean 'v1'?
+  FILE *v10; // rbx
+        ^~~
+        v1
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:4:11: note: 'v1' declared here
+  __int64 v1; // rbx
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:15:3: error: use of undeclared identifier 'FILE'
+  FILE *v12; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:15:9: error: use of undeclared identifier 'v12'
+  FILE *v12; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:17:3: error: use of undeclared identifier 'FILE'
+  FILE *v14; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:17:9: error: use of undeclared identifier 'v14'
+  FILE *v14; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:19:3: error: use of undeclared identifier 'FILE'
+  FILE *v16; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:19:9: error: use of undeclared identifier 'v16'
+  FILE *v16; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:21:3: error: use of undeclared identifier 'FILE'
+  FILE *v18; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:21:9: error: use of undeclared identifier 'v18'
+  FILE *v18; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:27:10: error: use of undeclared identifier 'qword_606200'
+    v1 = qword_606200;
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:28:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v2 = gettext("Try `%s --help' for more information.\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:29:13: error: use of undeclared identifier 'stderr'
+    fprintf(stderr, v2, v1);
+            ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:33:10: error: use of undeclared identifier 'qword_606200'
+    v3 = qword_606200;
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:34:10: error: use of undeclared identifier 'qword_606200'
+    v4 = qword_606200;
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:35:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v5 = gettext("Usage: %s [SHORT-OPTION]... [STRING]...\n  or:  %s LONG-OPTION\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:37:5: error: use of undeclared identifier 'v6'
+    v6 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:37:10: error: use of undeclared identifier 'stdout'
+    v6 = stdout;
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:38:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v7 = gettext("Echo the STRING(s) to standard output.\n\n  -n             do not output the trailing newline\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:39:24: error: use of undeclared identifier 'v6'
+    fputs_unlocked(v7, v6);
+                       ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:40:5: error: use of undeclared identifier 'v8'
+    v8 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:40:10: error: use of undeclared identifier 'stdout'
+    v8 = stdout;
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:41:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v9 = gettext(
+       ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:44:24: error: use of undeclared identifier 'v8'
+    fputs_unlocked(v9, v8);
+                       ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:45:5: error: use of undeclared identifier 'v10'
+    v10 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:45:11: error: use of undeclared identifier 'stdout'
+    v10 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:46:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v11 = gettext("      --help     display this help and exit\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:47:25: error: use of undeclared identifier 'v10'
+    fputs_unlocked(v11, v10);
+                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:48:5: error: use of undeclared identifier 'v12'
+    v12 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:48:11: error: use of undeclared identifier 'stdout'
+    v12 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:49:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v13 = gettext("      --version  output version information and exit\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:50:25: error: use of undeclared identifier 'v12'
+    fputs_unlocked(v13, v12);
+                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:51:5: error: use of undeclared identifier 'v14'
+    v14 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:51:11: error: use of undeclared identifier 'stdout'
+    v14 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:52:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v15 = gettext("\nIf -e is in effect, the following sequences are recognized:\n\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:53:25: error: use of undeclared identifier 'v14'
+    fputs_unlocked(v15, v14);
+                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:54:5: error: use of undeclared identifier 'v16'
+    v16 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:54:11: error: use of undeclared identifier 'stdout'
+    v16 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:55:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v17 = gettext(
+        ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:66:25: error: use of undeclared identifier 'v16'
+    fputs_unlocked(v17, v16);
+                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:67:5: error: use of undeclared identifier 'v18'
+    v18 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:67:11: error: use of undeclared identifier 'stdout'
+    v18 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:68:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v19 = gettext(
+        ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:71:25: error: use of undeclared identifier 'v18'
+    fputs_unlocked(v19, v18);
+                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4013B7.c:72:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v20 = gettext(
+        ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-40333D.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40333D(__int64 a1, unsigned __int8 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-40333D.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_4032A9(a1, 0xFFFFFFFFFFFFFFFFLL, a2);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-404330.c:2:33: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_404330(void (__fastcall *a1)(void *))
+                                ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-404330.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_404330(void (__fastcall *a1)(void *))
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-404330.c:6:9: error: use of undeclared identifier 'qword_606178'
+  if ( &qword_606178 )
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-404330.c:7:18: error: use of undeclared identifier 'qword_606178'
+    v1 = (void *)qword_606178;
+                 ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401040.c:3:39: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __libc_start_main(int (__fastcall *main)(int, char **, char **), int argc, char **ubp_av, void (*init)(void), void (*fini)(void), void (*rtld_fini)(void), void *stack_end)
+                                      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401040.c:3:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __libc_start_main(int (__fastcall *main)(int, char **, char **), int argc, char **ubp_av, void (*init)(void), void (*fini)(void), void (*rtld_fini)(void), void *stack_end)
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401DD4.c:2:10: warning: '__fastcall' calling convention is not supported for this target
+__int64 *__fastcall sub_401DD4(__int64 *a1, int a2)
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401DD4.c:9:15: error: use of undeclared identifier 'qword_606220'
+    result = &qword_606220;
+              ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401F85.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+char *__fastcall sub_401F85(const char *a1, int a2)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401F85.c:6:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v3 = gettext(a1);
+     ^ ~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400FB0.c:3:1: error: unknown type name 'size_t'
+size_t __ctype_get_mb_cur_max(void)
+^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4010A0.c:3:13: error: unknown type name 'FILE'
+int fprintf(FILE *stream, const char *format, ...)
+            ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C86.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+char *__fastcall sub_401C86(const char *a1)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C86.c:13:87: error: use of undeclared identifier 'stderr'
+    fwrite("A NULL argv[0] was passed through an exec system call.\n", 1uLL, 0x37uLL, stderr);
+                                                                                      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C86.c:16:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v4 = strrchr(a1, 47);
+     ^ ~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C86.c:28:7: error: use of undeclared identifier 'program_invocation_short_name'
+      program_invocation_short_name = (__int64)(s1 + 3);
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C86.c:31:3: error: use of undeclared identifier 'qword_606200'
+  qword_606200 = (__int64)s;
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C86.c:33:3: error: use of undeclared identifier 'program_invocation_name'
+  program_invocation_name = (__int64)s;
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4010C0.c:3:43: error: unknown type name 'size_t'
+void *memcpy(void *dest, const void *src, size_t n)
+                                          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401120.c:3:26: error: unknown type name 'size_t'
+void *realloc(void *ptr, size_t size)
+                         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034AC.c:2:65: error: unknown type name 'size_t'
+void *__fastcall sub_4034AC(__int64 a1, __int64 a2, __int64 a3, size_t a4)
+                                                                ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4034AC.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4034AC(__int64 a1, __int64 a2, __int64 a3, size_t a4)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401DB6.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401DB6(__int64 *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401DB6.c:9:11: error: use of undeclared identifier 'qword_606220'
+    v1 = &qword_606220;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4010E0.c:3:12: error: unknown type name 'FILE'
+int fileno(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403D75.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403D75(__int64 a1, unsigned __int64 a2, unsigned __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401060.c:3:35: error: unknown type name 'FILE'
+int fputs_unlocked(const char *s, FILE *stream)
+                                  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401BCF.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BYTE *__fastcall sub_401BCF(_BYTE *a1)
+       ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400FC0.c:3:1: error: unknown type name 'size_t'
+size_t strlen(const char *s)
+^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403B3F.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_403B3F(FILE *a1, const char *a2, const char *a3, const char *a4, unsigned int *a5)
+                          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403B3F.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_403B3F(FILE *a1, const char *a2, const char *a3, const char *a4, unsigned int *a5)
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403B3F.c:13:27: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'long long *'
+      *((_QWORD *)a5 + 1) = v5 + 1;
+                          ^ ~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-404002.c:6:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v0 = gettext("memory exhausted");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-404002.c:7:9: error: use of undeclared identifier 'status'
+  error(status, 0, "%s", v0);
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4033E6.c:2:73: error: unknown type name 'size_t'
+void *__fastcall sub_4033E6(int a1, __int64 a2, __int64 a3, __int64 a4, size_t a5)
+                                                                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4033E6.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4033E6(int a1, __int64 a2, __int64 a3, __int64 a4, size_t a5)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4033E6.c:6:11: error: use of undeclared identifier 'qword_606220'
+  v8[0] = qword_606220;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4033E6.c:7:11: error: use of undeclared identifier 'qword_606228'
+  v8[1] = qword_606228;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4033E6.c:8:11: error: use of undeclared identifier 'qword_606230'
+  v8[2] = qword_606230;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4033E6.c:9:11: error: use of undeclared identifier 'qword_606238'
+  v8[3] = qword_606238;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4033E6.c:10:11: error: use of undeclared identifier 'qword_606240'
+  v8[4] = qword_606240;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4033E6.c:11:11: error: use of undeclared identifier 'qword_606248'
+  v8[5] = qword_606248;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4033E6.c:12:11: error: use of undeclared identifier 'qword_606250'
+  v8[6] = qword_606250;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401110.c:3:16: error: unknown type name 'FILE'
+int __freading(FILE *fp)
+               ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401E80.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401E80(__int64 *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401E80.c:9:11: error: use of undeclared identifier 'qword_606220'
+    v3 = &qword_606220;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-404177.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404177(_DWORD *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401030.c:3:30: error: unknown type name 'size_t'
+void *memset(void *s, int c, size_t n)
+                             ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4042B0.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall init(unsigned int a1, __int64 a2, __int64 a3)
+     ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4042B0.c:8:9: error: use of undeclared identifier 'off_605E18'
+  v5 = &off_605E18 - off_605E10;
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4042B0.c:8:22: error: use of undeclared identifier 'off_605E10'
+  v5 = &off_605E18 - off_605E10;
+                     ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4042B0.c:13:55: error: use of undeclared identifier 'off_605E10'
+      ((void (__fastcall *)(_QWORD, __int64, __int64))off_605E10[v4++])(a1, a2, a3);
+                                                      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4033B0.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4033B0(unsigned int a1, __int64 a2, __int64 a3, __int64 a4)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400F40.c:5:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'int *'
+  return _errno_location();
+         ^~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400EE0.c:6:13: error: use of undeclared identifier '_gmon_start__'
+  result = &_gmon_start__;
+            ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400EE0.c:7:9: error: use of undeclared identifier '_gmon_start__'
+  if ( &_gmon_start__ )
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400EE0.c:8:14: warning: cast to 'void *' from smaller integer type 'int'
+    result = (void *)__gmon_start__();
+             ^~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-404037.c:2:31: error: unknown type name 'FILE'
+__int64 __fastcall sub_404037(FILE *a1)
+                              ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-404037.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404037(FILE *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-404037.c:11:30: error: indirection requires pointer operand ('int' invalid)
+  if ( !v3 && (!v4 || !v2 && *__errno_location() == 9) )
+                             ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-404037.c:14:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = 0;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402CAD.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402CAD(__int64 a1, __int64 a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401080.c:3:14: error: unknown type name 'size_t'
+void *calloc(size_t nmemb, size_t size)
+             ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401080.c:3:28: error: unknown type name 'size_t'
+void *calloc(size_t nmemb, size_t size)
+                           ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:2:85: error: unknown type name 'size_t'
+unsigned __int64 __fastcall sub_401FC2(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, unsigned int a5, int a6, __int64 a7, char *a8, char *a9)
+                                                                                    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_401FC2(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, unsigned int a5, int a6, __int64 a7, char *a8, char *a9)
+                 ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:14:3: error: use of undeclared identifier 'wchar_t'
+  wchar_t pwc; // [rsp+6Ch] [rbp-64h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:18:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t n; // [rsp+88h] [rbp-48h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:18:3: warning: expression result unused
+  size_t n; // [rsp+88h] [rbp-48h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:18:10: error: use of undeclared identifier 'n'
+  size_t n; // [rsp+88h] [rbp-48h]
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:21:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v34; // [rsp+A0h] [rbp-30h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:21:3: warning: expression result unused
+  size_t v34; // [rsp+A0h] [rbp-30h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:21:10: error: use of undeclared identifier 'v34'
+  size_t v34; // [rsp+A0h] [rbp-30h]
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:23:3: error: use of undeclared identifier 'mbstate_t'
+  mbstate_t p; // [rsp+B0h] [rbp-20h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:29:3: error: use of undeclared identifier 'n'
+  n = 0LL;
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:49:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        a8 = sub_401F85((const char *)L"`'", a5);
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:50:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        a9 = sub_401F85((const char *)L"'", a5);
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:63:7: error: use of undeclared identifier 'n'
+      n = strlen(a9);
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:77:5: error: use of undeclared identifier 'n'
+    n = 1LL;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:95:27: warning: adding 'int' to a string does not append to the string
+    s = (_BYTE *)(L"\"`'" + 4);
+                  ~~~~~~~~^~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:95:27: note: use array indexing to silence this warning
+    s = (_BYTE *)(L"\"`'" + 4);
+                          ^
+                  &       [  ]
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:95:7: warning: assigning to 'char *' from 'uint8 *' (aka 'unsigned char *') converts between pointers to integer types where one is of the unique plain 'char' type and the other is not
+    s = (_BYTE *)(L"\"`'" + 4);
+      ^ ~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:96:5: error: use of undeclared identifier 'n'
+    n = 1LL;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:104:26: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:104:17: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:104:72: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                                                                       ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:140:23: error: indirection requires pointer operand ('int' invalid)
+              v25 = ((*__ctype_b_loc())[v22] & 0x4000) != 0;
+                      ^~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:144:36: error: use of undeclared identifier 'p'
+              memset(&p, 0, sizeof(p));
+                                   ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:144:23: error: use of undeclared identifier 'p'
+              memset(&p, 0, sizeof(p));
+                      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:151:32: error: use of undeclared identifier 'pwc'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                               ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:151:84: error: use of undeclared identifier 'p'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                                                                                   ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:151:17: error: use of undeclared identifier 'v34'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:152:23: error: use of undeclared identifier 'v34'
+                if ( !v34 )
+                      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:154:22: error: use of undeclared identifier 'v34'
+                if ( v34 == -1LL )
+                     ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:159:22: error: use of undeclared identifier 'v34'
+                if ( v34 == -2LL )
+                     ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:168:38: error: use of undeclared identifier 'v34'
+                  for ( j = 1LL; j < v34; ++j )
+                                     ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:184:32: error: use of undeclared identifier 'pwc'
+                if ( !iswprint(pwc) )
+                               ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:186:24: error: use of undeclared identifier 'v34'
+                v32 += v34;
+                       ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:188:33: error: use of undeclared identifier 'p'
+              while ( !mbsinit(&p) );
+                                ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401FC2.c:239:30: error: use of undeclared identifier 'n'
+          if ( v20 && v21 && n )
+                             ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401160.c:3:35: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __cxa_atexit(void (__fastcall *lpfunc)(void *), void *obj, void *lpdso_handle)
+                                  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401160.c:3:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __cxa_atexit(void (__fastcall *lpfunc)(void *), void *obj, void *lpdso_handle)
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4011F0.c:6:13: error: use of undeclared identifier 'unk_6061BF'
+  result = &unk_6061BF - &unk_6061B8;
+            ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4011F0.c:6:27: error: use of undeclared identifier 'unk_6061B8'
+  result = &unk_6061BF - &unk_6061B8;
+                          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4011F0.c:7:28: error: use of undeclared identifier 'unk_6061BF'
+  if ( (unsigned __int64)(&unk_6061BF - &unk_6061B8) > 0xE )
+                           ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4011F0.c:7:42: error: use of undeclared identifier 'unk_6061B8'
+  if ( (unsigned __int64)(&unk_6061BF - &unk_6061B8) > 0xE )
+                                         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-40347D.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40347D(__int64 a1, __int64 a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401190.c:3:19: error: unknown type name 'mbstate_t'
+int mbsinit(const mbstate_t *ps)
+                  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403FD5.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403FD5(const char *a1)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403FD5.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v1; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403FD5.c:4:3: warning: expression result unused
+  size_t v1; // rax
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403FD5.c:4:10: error: use of undeclared identifier 'v1'
+  size_t v1; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403FD5.c:6:3: error: use of undeclared identifier 'v1'
+  v1 = strlen(a1);
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403FD5.c:7:25: error: use of undeclared identifier 'v1'
+  return sub_403FA4(a1, v1 + 1);
+                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-40327D.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_40327D(int a1, __int64 a2, size_t a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-40327D.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40327D(int a1, __int64 a2, size_t a3)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403259.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403259(int a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403259.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_4031D9(0, a1, a2);
+         ^~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4010F0.c:3:14: error: unknown type name 'size_t'
+void *malloc(size_t size)
+             ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402E0B.c:7:18: error: use of undeclared identifier 'off_6061B0'
+  ptr = (void **)off_6061B0;
+                 ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402E0B.c:8:20: error: use of undeclared identifier 'dword_606190'
+  for ( i = 1; i < dword_606190; ++i )
+                   ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402E0B.c:10:19: error: use of undeclared identifier 'unk_606260'
+  if ( ptr[1] != &unk_606260 )
+                  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402E0B.c:13:5: error: use of undeclared identifier 'qword_6061A0'
+    qword_6061A0 = 256LL;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402E0B.c:14:5: error: use of undeclared identifier 'off_6061A8'
+    off_6061A8 = &unk_606260;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402E0B.c:14:19: error: use of undeclared identifier 'unk_606260'
+    off_6061A8 = &unk_606260;
+                  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402E0B.c:16:25: error: use of undeclared identifier 'qword_6061A0'
+  if ( ptr != (void **)&qword_6061A0 )
+                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402E0B.c:19:5: error: use of undeclared identifier 'off_6061B0'
+    off_6061B0 = &qword_6061A0;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402E0B.c:19:19: error: use of undeclared identifier 'qword_6061A0'
+    off_6061B0 = &qword_6061A0;
+                  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402E0B.c:21:3: error: use of undeclared identifier 'dword_606190'
+  dword_606190 = 1;
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403F40.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_403F40(size_t a1, __int64 a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403F40.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403F40(size_t a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4031D9.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4031D9(int a1, int a2, __int64 a3)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4031D9.c:7:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_402EB6(a1, a3, 0xFFFFFFFFFFFFFFFFLL, (__int64)v5);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403D37.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403D37(unsigned __int64 a1, unsigned __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403E80.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_403E80(size_t a1, __int64 a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403E80.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403E80(size_t a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401150.c:3:12: error: unknown type name 'FILE'
+int fseeko(FILE *stream, __off_t off, int whence)
+           ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401150.c:3:26: error: unknown type name '__off_t'
+int fseeko(FILE *stream, __off_t off, int whence)
+                         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401050.c:3:44: error: unknown type name 'size_t'
+int memcmp(const void *s1, const void *s2, size_t n)
+                                           ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402CDF.c:2:43: error: unknown type name 'size_t'
+__int64 __fastcall sub_402CDF(__int64 a1, size_t a2, _QWORD *a3, __int64 *a4)
+                                          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402CDF.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402CDF(__int64 a1, size_t a2, _QWORD *a3, __int64 *a4)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402CDF.c:14:11: error: use of undeclared identifier 'qword_606220'
+    v4 = &qword_606220;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402CDF.c:16:8: error: indirection requires pointer operand ('int' invalid)
+  v7 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402CDF.c:21:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v7;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403DC1.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403DC1(__int64 a1, unsigned __int64 *a2, unsigned __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403FA4.c:2:45: error: unknown type name 'size_t'
+void *__fastcall sub_403FA4(const void *a1, size_t a2)
+                                            ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403FA4.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403FA4(const void *a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401D6D.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401D6D(__int64 *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401D6D.c:8:8: error: indirection requires pointer operand ('int' invalid)
+  v3 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401D6D.c:12:11: error: use of undeclared identifier 'qword_606220'
+    v1 = &qword_606220;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401D6D.c:14:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v3;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401070.c:3:21: error: unknown type name 'FILE'
+int ferror_unlocked(FILE *stream)
+                    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4031B2.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_4031B2(__int64 a1, size_t a2)
+                                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4031B2.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4031B2(__int64 a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400FE0.c:3:1: error: unknown type name 'size_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400FE0.c:3:16: error: unknown type name 'wchar_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+               ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400FE0.c:3:45: error: unknown type name 'size_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+                                            ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400FE0.c:3:55: error: unknown type name 'mbstate_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+                                                      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C38.c:2:1: error: unknown type name 'size_t'
+size_t __fastcall sub_401C38(const char *a1)
+^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C38.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+size_t __fastcall sub_401C38(const char *a1)
+       ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C38.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t i; // [rsp+10h] [rbp-10h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C38.c:4:3: warning: expression result unused
+  size_t i; // [rsp+10h] [rbp-10h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C38.c:4:10: error: use of undeclared identifier 'i'
+  size_t i; // [rsp+10h] [rbp-10h]
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C38.c:6:9: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C38.c:6:37: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                                    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C38.c:6:25: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C38.c:6:53: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                                                    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401C38.c:8:10: error: use of undeclared identifier 'i'
+  return i;
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401EB3.c:2:10: warning: '__fastcall' calling convention is not supported for this target
+__int64 *__fastcall sub_401EB3(__int64 *a1, __int64 a2, __int64 a3)
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401EB3.c:9:11: error: use of undeclared identifier 'qword_606220'
+    v4 = &qword_606220;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_402EB6(int a1, __int64 a2, size_t a3, __int64 a4)
+                                                ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_402EB6(int a1, __int64 a2, size_t a3, __int64 a4)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:16:9: error: indirection requires pointer operand ('int' invalid)
+  v10 = *__errno_location();
+        ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:17:9: error: use of undeclared identifier 'off_6061B0'
+  v12 = off_6061B0;
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:20:8: error: use of undeclared identifier 'dword_606190'
+  if ( dword_606190 <= (unsigned int)a1 )
+       ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:23:10: error: use of undeclared identifier 'off_6061B0'
+    v9 = off_6061B0 == &qword_6061A0;
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:23:25: error: use of undeclared identifier 'qword_6061A0'
+    v9 = off_6061B0 == &qword_6061A0;
+                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:24:10: error: use of undeclared identifier 'off_6061B0'
+    if ( off_6061B0 == &qword_6061A0 )
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:24:25: error: use of undeclared identifier 'qword_6061A0'
+    if ( off_6061B0 == &qword_6061A0 )
+                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:27:12: error: use of undeclared identifier 'off_6061B0'
+      v4 = off_6061B0;
+           ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:28:11: warning: cast to 'long long *' from smaller integer type 'int'
+    v12 = (__int64 *)sub_403EB5(v4, 16 * v14);
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:29:5: error: use of undeclared identifier 'off_6061B0'
+    off_6061B0 = v12;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:32:12: error: use of undeclared identifier 'off_6061A8'
+      v5 = off_6061A8;
+           ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:33:14: error: use of undeclared identifier 'qword_6061A0'
+      *v12 = qword_6061A0;
+             ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:36:35: error: use of undeclared identifier 'dword_606190'
+    memset(&v12[2 * (unsigned int)dword_606190], 0, 16 * (v14 - (unsigned int)dword_606190));
+                                  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:36:79: error: use of undeclared identifier 'dword_606190'
+    memset(&v12[2 * (unsigned int)dword_606190], 0, 16 * (v14 - (unsigned int)dword_606190));
+                                                                              ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:37:5: error: use of undeclared identifier 'dword_606190'
+    dword_606190 = a1 + 1;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:47:18: error: use of undeclared identifier 'unk_606260'
+    if ( ptr != &unk_606260 )
+                 ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:49:11: warning: cast to 'void *' from smaller integer type 'int'
+    ptr = (void *)sub_403E66(v16);
+          ^~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402EB6.c:53:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v10;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401518.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401518(unsigned __int8 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401DF8.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401DF8(__int64 *a1, unsigned __int8 a2, char a3)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401DF8.c:10:11: error: use of undeclared identifier 'qword_606220'
+    v3 = &qword_606220;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4041AA.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_4041AA(FILE *a1)
+                          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4041AA.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_4041AA(FILE *a1)
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4011A0.c:3:14: error: unknown type name 'wint_t'
+int iswprint(wint_t wc)
+             ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4012AD.c:7:3: error: use of undeclared identifier 'FILE'
+  FILE *v3; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4012AD.c:7:9: error: use of undeclared identifier 'v3'
+  FILE *v3; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4012AD.c:15:19: error: use of undeclared identifier 'qword_606200'
+  v0 = sub_401BCF(qword_606200);
+                  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4012AD.c:16:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v1 = gettext("\nReport %s bugs to %s\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4012AD.c:18:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v2 = gettext("%s home page: <%s>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4012AD.c:20:3: error: use of undeclared identifier 'v3'
+  v3 = stdout;
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4012AD.c:20:8: error: use of undeclared identifier 'stdout'
+  v3 = stdout;
+       ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4012AD.c:21:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v4 = gettext("General help using GNU software: <http://www.gnu.org/gethelp/>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4012AD.c:22:22: error: use of undeclared identifier 'v3'
+  fputs_unlocked(v4, v3);
+                     ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4012AD.c:23:6: warning: incompatible integer to pointer conversion assigning to 'const char *' from 'int'
+  s1 = setlocale(5, 0LL);
+     ^ ~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4012AD.c:26:21: error: use of undeclared identifier 'qword_606200'
+    v5 = sub_401BCF(qword_606200);
+                    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4012AD.c:27:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v6 = gettext("Report %s translation bugs to <http://translationproject.org/team/>\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4012AD.c:30:19: error: use of undeclared identifier 'qword_606200'
+  v7 = sub_401BCF(qword_606200);
+                  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4012AD.c:31:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v8 = gettext("For complete documentation, run: info coreutils '%s invocation'\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403C18.c:2:16: error: unknown type name 'FILE'
+int sub_403C18(FILE *a1, const char *a2, const char *a3, const char *a4, ...)
+               ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403C18.c:4:3: error: use of undeclared identifier 'gcc_va_list'
+  gcc_va_list va; // [rsp+28h] [rbp-C8h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403C18.c:6:12: error: use of undeclared identifier 'va'
+  va_start(va, a4);
+           ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403C18.c:7:53: error: use of undeclared identifier 'va'
+  return sub_403B3F(a1, a2, a3, a4, (unsigned int *)va);
+                                                    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4032A9.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_4032A9(__int64 a1, size_t a2, unsigned __int8 a3)
+                                        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4032A9.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4032A9(__int64 a1, size_t a2, unsigned __int8 a3)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4032A9.c:6:11: error: use of undeclared identifier 'qword_606220'
+  v4[0] = qword_606220;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4032A9.c:7:11: error: use of undeclared identifier 'qword_606228'
+  v4[1] = qword_606228;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4032A9.c:8:11: error: use of undeclared identifier 'qword_606230'
+  v4[2] = qword_606230;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4032A9.c:9:11: error: use of undeclared identifier 'qword_606238'
+  v4[3] = qword_606238;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4032A9.c:10:11: error: use of undeclared identifier 'qword_606240'
+  v4[4] = qword_606240;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4032A9.c:11:11: error: use of undeclared identifier 'qword_606248'
+  v4[5] = qword_606248;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4032A9.c:12:11: error: use of undeclared identifier 'qword_606250'
+  v4[6] = qword_606250;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4011B0.c:5:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'const unsigned short **'
+  return _ctype_b_loc();
+         ^~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403AD1.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_403AD1(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5)
+                          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403AD1.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_403AD1(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5)
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403F16.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403F16(__int64 a1, unsigned __int64 *a2)
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400FD0.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401260.c:6:9: error: use of undeclared identifier 'byte_6061E8'
+  if ( !byte_6061E8 )
+        ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401260.c:9:5: error: use of undeclared identifier 'byte_6061E8'
+    byte_6061E8 = 1;
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4040C2.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_4040C2(FILE *a1)
+                          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4040C2.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_4040C2(FILE *a1)
+    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4040C2.c:14:12: error: indirection requires pointer operand ('int' invalid)
+      v3 = *__errno_location();
+           ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4040C2.c:19:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = v3;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401AE4.c:10:33: error: use of undeclared identifier 'stdout'
+  if ( (unsigned int)sub_404037(stdout) && (byte_6061F8 != 1 || *__errno_location() != 32) )
+                                ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401AE4.c:10:65: error: indirection requires pointer operand ('int' invalid)
+  if ( (unsigned int)sub_404037(stdout) && (byte_6061F8 != 1 || *__errno_location() != 32) )
+                                                                ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401AE4.c:10:45: error: use of undeclared identifier 'byte_6061F8'
+  if ( (unsigned int)sub_404037(stdout) && (byte_6061F8 != 1 || *__errno_location() != 32) )
+                                            ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401AE4.c:12:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v4 = gettext("write error");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401AE4.c:13:10: error: use of undeclared identifier 'qword_6061F0'
+    if ( qword_6061F0 )
+         ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401AE4.c:15:37: error: use of undeclared identifier 'qword_6061F0'
+      v0 = (const char *)sub_403367(qword_6061F0);
+                                    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401AE4.c:16:10: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+      v1 = __errno_location();
+         ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401AE4.c:21:10: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+      v2 = __errno_location();
+         ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401AE4.c:24:11: error: use of undeclared identifier 'status'
+    _exit(status);
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401AE4.c:26:23: error: use of undeclared identifier 'stderr'
+  result = sub_404037(stderr);
+                      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401AE4.c:28:11: error: use of undeclared identifier 'status'
+    _exit(status);
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403193.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403193(__int64 a1)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403193.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_40313C(0, a1);
+         ^~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401020.c:3:1: error: unknown type name '__off_t'
+__off_t lseek(int fd, __off_t offset, int whence)
+^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401020.c:3:23: error: unknown type name '__off_t'
+__off_t lseek(int fd, __off_t offset, int whence)
+                      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400F70.c:3:1: error: unknown type name 'size_t'
+size_t __fpending(FILE *fp)
+^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-400F70.c:3:19: error: unknown type name 'FILE'
+size_t __fpending(FILE *fp)
+                  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-401100.c:3:12: error: unknown type name 'FILE'
+int fflush(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403167.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_403167(int a1, __int64 a2, size_t a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403167.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_403167(int a1, __int64 a2, size_t a3)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-403167.c:4:43: error: use of undeclared identifier 'qword_606220'
+  return sub_402EB6(a1, a2, a3, (__int64)&qword_606220);
+                                          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-40313C.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_40313C(int a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-40313C.c:4:61: error: use of undeclared identifier 'qword_606220'
+  return sub_402EB6(a1, a2, 0xFFFFFFFFFFFFFFFFLL, (__int64)&qword_606220);
+                                                            ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+     ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:2:1: warning: return type of 'main' is not 'int'
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:2:1: note: change return type to 'int'
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+^~~~
+int
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:30:17: error: use of undeclared identifier 'locale'
+  setlocale(6, &locale);
+                ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:33:14: error: use of undeclared identifier 'sub_401AE4'; did you mean 'sub_401C86'?
+  sub_404330(sub_401AE4);
+             ^~~~~~~~~~
+             sub_401C86
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:29:3: note: 'sub_401C86' declared here
+  sub_401C86(*a2);
+  ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:41:17: error: use of undeclared identifier 'stdout'
+        (_DWORD)stdout,
+                ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:42:9: warning: cast to smaller integer type 'unsigned int' from 'char *'
+        (unsigned int)"echo",
+        ^~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:43:9: warning: cast to smaller integer type 'unsigned int' from 'char *'
+        (unsigned int)"GNU coreutils",
+        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:44:17: error: use of undeclared identifier 'off_606180'
+        (_DWORD)off_606180,
+                ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:45:9: warning: cast to smaller integer type 'unsigned int' from 'char *'
+        (unsigned int)"Brian Fox",
+        ^~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:46:9: warning: cast to smaller integer type 'unsigned int' from 'char *'
+        (unsigned int)"Chet Ramey",
+        ^~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:92:28: error: use of undeclared identifier 'stdout'
+      fputs_unlocked(*v12, stdout);
+                           ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:163:16: error: indirection requires pointer operand ('int' invalid)
+        if ( ((*__ctype_b_loc())[v18] & 0x1000) == 0 )
+               ^~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-4015A9.c:168:16: error: indirection requires pointer operand ('int' invalid)
+        if ( ((*__ctype_b_loc())[v19] & 0x1000) != 0 )
+               ^~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402C0D.c:2:85: error: unknown type name 'size_t'
+unsigned __int64 __fastcall sub_402C0D(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, __int64 *a5)
+                                                                                    ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402C0D.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_402C0D(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, __int64 *a5)
+                 ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402C0D.c:12:11: error: use of undeclared identifier 'qword_606220'
+    v5 = &qword_606220;
+          ^
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402C0D.c:14:8: error: indirection requires pointer operand ('int' invalid)
+  v9 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/echo_ground/echo_ground-402C0D.c:25:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v9;
+  ^~~~~~~~~~~~~~~~~~~

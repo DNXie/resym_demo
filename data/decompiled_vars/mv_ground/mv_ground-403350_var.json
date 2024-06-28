@@ -1,0 +1,66 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int",
+            "original_line": "int a1"
+        },
+        {
+            "name": "a2",
+            "type": "const char *",
+            "original_line": "const char *a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "result",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool result; // al"
+        },
+        {
+            "name": "v3",
+            "type": "int",
+            "comment": "[rsp+18h] [rbp-18h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "int v3; // [rsp+18h] [rbp-18h]"
+        },
+        {
+            "name": "v4",
+            "type": "int",
+            "comment": "[rsp+1Ch] [rbp-14h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-14",
+            "rbp_offset_dec": -20,
+            "original_line": "int v4; // [rsp+1Ch] [rbp-14h]"
+        },
+        {
+            "name": "dirp",
+            "type": "DIR *",
+            "comment": "[rsp+20h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "DIR *dirp; // [rsp+20h] [rbp-10h]"
+        },
+        {
+            "name": "v6",
+            "type": "struct dirent *",
+            "comment": "[rsp+28h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "struct dirent *v6; // [rsp+28h] [rbp-8h]"
+        }
+    ]
+}

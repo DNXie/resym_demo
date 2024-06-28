@@ -1,0 +1,6 @@
+Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/sha224sum_ground
+sha224sum_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
+sha224sum_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
+sha224sum_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc
+sha224sum_ground.decompiled - .getline: Fail to match arguments char **lineptr
+sha224sum_ground.decompiled - .ngettext: Fail to match arguments unsigned __int64 n

@@ -1,0 +1,3 @@
+test_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
+test_ground.decompiled - .strtol: Fail to match arguments char **endptr
+test_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc

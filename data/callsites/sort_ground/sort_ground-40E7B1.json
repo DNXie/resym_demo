@@ -1,0 +1,16 @@
+[
+    {
+        "args": [
+            "(unsigned int)(char)**a1"
+        ],
+        "funName": "sub_416A7D",
+        "lineNum": 14
+    },
+    {
+        "args": [
+            "(unsigned int)(char)**a1"
+        ],
+        "funName": "sub_416A43",
+        "lineNum": 23
+    }
+]

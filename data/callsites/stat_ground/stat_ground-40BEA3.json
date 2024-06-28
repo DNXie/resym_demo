@@ -1,0 +1,18 @@
+[
+    {
+        "args": [
+            "v6",
+            "(__int64)a2"
+        ],
+        "funName": "sub_40BE6F",
+        "lineNum": 36
+    },
+    {
+        "args": [
+            "v6 + 1",
+            "(__int64)a2"
+        ],
+        "funName": "sub_40AAA9",
+        "lineNum": 45
+    }
+]

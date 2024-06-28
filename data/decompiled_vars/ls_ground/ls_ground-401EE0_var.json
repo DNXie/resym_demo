@@ -1,0 +1,20 @@
+{
+    "argument": [
+        {
+            "name": "pwcs",
+            "type": "wchar_t *",
+            "original_line": "wchar_t *pwcs"
+        },
+        {
+            "name": "s",
+            "type": "const char *",
+            "original_line": "const char *s"
+        },
+        {
+            "name": "n",
+            "type": "size_t",
+            "original_line": "size_t n"
+        }
+    ],
+    "variable": []
+}

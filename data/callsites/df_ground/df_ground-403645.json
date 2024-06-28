@@ -1,0 +1,15 @@
+[
+    {
+        "args": [
+            "*(const char **)v3",
+            "*(const char **)(v3 + 8)",
+            "0LL",
+            "*(const char **)(v3 + 16)",
+            "(*(_BYTE *)(v3 + 32) & 1) != 0",
+            "(*(_BYTE *)(v3 + 32) & 2) != 0",
+            "0LL"
+        ],
+        "funName": "sub_402BA3",
+        "lineNum": 15
+    }
+]

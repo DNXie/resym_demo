@@ -1,0 +1,52 @@
+[
+    {
+        "expr": "pipedes",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 17,
+        "offset": 0,
+        "varName": "pipedes"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 17,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 20,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "pipedes",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 58,
+        "offset": 0,
+        "varName": "pipedes"
+    },
+    {
+        "expr": "pipedes[1]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 59,
+        "offset": 1,
+        "varName": "pipedes"
+    }
+]

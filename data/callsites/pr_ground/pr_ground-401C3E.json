@@ -1,0 +1,46 @@
+[
+    {
+        "args": [
+            "a3",
+            "&v7",
+            "10LL",
+            "&v8",
+            "&locale"
+        ],
+        "funName": "sub_40AFC0",
+        "lineNum": 12
+    },
+    {
+        "args": [
+            "v5",
+            "a1",
+            "(unsigned int)a2",
+            "&longopts",
+            "a3"
+        ],
+        "funName": "sub_40AEDA",
+        "lineNum": 14
+    },
+    {
+        "args": [
+            "v7 + 1",
+            "&v7",
+            "10LL",
+            "&v9",
+            "&locale"
+        ],
+        "funName": "sub_40AFC0",
+        "lineNum": 20
+    },
+    {
+        "args": [
+            "v6",
+            "a1",
+            "(unsigned int)a2",
+            "&longopts",
+            "a3"
+        ],
+        "funName": "sub_40AEDA",
+        "lineNum": 22
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "char *",
+            "original_line": "char *a1"
+        },
+        {
+            "name": "a2",
+            "type": "__int64 *",
+            "original_line": "__int64 *a2"
+        }
+    ],
+    "variable": []
+}

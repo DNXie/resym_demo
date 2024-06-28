@@ -1,0 +1,21 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__ino_t *",
+            "original_line": "__ino_t *a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "stat_buf",
+            "type": "struct stat",
+            "comment": "[rsp+10h] [rbp-90h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-90",
+            "rbp_offset_dec": -144,
+            "original_line": "struct stat stat_buf; // [rsp+10h] [rbp-90h] BYREF"
+        }
+    ]
+}

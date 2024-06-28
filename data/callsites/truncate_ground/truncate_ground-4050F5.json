@@ -1,0 +1,21 @@
+[
+    {
+        "args": [],
+        "funName": "sub_405F70",
+        "lineNum": 24
+    },
+    {
+        "args": [
+            "(__int64)&v10"
+        ],
+        "funName": "sub_404F13",
+        "lineNum": 50
+    },
+    {
+        "args": [
+            "(__int64)&v10"
+        ],
+        "funName": "sub_404F13",
+        "lineNum": 68
+    }
+]

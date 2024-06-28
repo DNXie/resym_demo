@@ -1,0 +1,35 @@
+[
+    {
+        "args": [
+            "(__int64)v6"
+        ],
+        "funName": "sub_402D40",
+        "lineNum": 12
+    },
+    {
+        "args": [
+            "ptr",
+            "0x8000LL",
+            "v6"
+        ],
+        "funName": "sub_4037BF",
+        "lineNum": 21
+    },
+    {
+        "args": [
+            "ptr",
+            "v3",
+            "v6"
+        ],
+        "funName": "sub_40358F",
+        "lineNum": 36
+    },
+    {
+        "args": [
+            "(__int64)v6",
+            "a2"
+        ],
+        "funName": "sub_40316F",
+        "lineNum": 37
+    }
+]

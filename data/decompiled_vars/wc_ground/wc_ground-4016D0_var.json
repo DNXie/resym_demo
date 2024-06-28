@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "obstack",
+            "type": "struct obstack *",
+            "original_line": "struct obstack *obstack"
+        },
+        {
+            "name": "block",
+            "type": "void *",
+            "original_line": "void *block"
+        }
+    ],
+    "variable": []
+}

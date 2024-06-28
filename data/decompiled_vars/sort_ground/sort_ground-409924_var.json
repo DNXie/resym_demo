@@ -1,0 +1,126 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__int64 *",
+            "original_line": "__int64 *a1"
+        },
+        {
+            "name": "a2",
+            "type": "unsigned __int64",
+            "original_line": "unsigned __int64 a2"
+        },
+        {
+            "name": "a3",
+            "type": "FILE *",
+            "original_line": "FILE *a3"
+        },
+        {
+            "name": "a4",
+            "type": "char *",
+            "original_line": "char *a4"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v4",
+            "type": "_QWORD *",
+            "comment": "rdx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "_QWORD *v4; // rdx"
+        },
+        {
+            "name": "v5",
+            "type": "_QWORD *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "_QWORD *v5; // rax"
+        },
+        {
+            "name": "v7",
+            "type": "_QWORD *",
+            "comment": "rdx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "_QWORD *v7; // rdx"
+        },
+        {
+            "name": "v9",
+            "type": "_QWORD *",
+            "comment": "rdx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "_QWORD *v9; // rdx"
+        },
+        {
+            "name": "result",
+            "type": "__int64 *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 *result; // rax"
+        },
+        {
+            "name": "v17",
+            "type": "__int64",
+            "comment": "[rsp+20h] [rbp-30h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-30",
+            "rbp_offset_dec": -48,
+            "original_line": "__int64 v17; // [rsp+20h] [rbp-30h]"
+        },
+        {
+            "name": "v18",
+            "type": "_QWORD *",
+            "comment": "[rsp+28h] [rbp-28h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-28",
+            "rbp_offset_dec": -40,
+            "original_line": "_QWORD *v18; // [rsp+28h] [rbp-28h]"
+        },
+        {
+            "name": "v19",
+            "type": "__int64",
+            "comment": "[rsp+30h] [rbp-20h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-20",
+            "rbp_offset_dec": -32,
+            "original_line": "__int64 v19; // [rsp+30h] [rbp-20h]"
+        },
+        {
+            "name": "v20",
+            "type": "_QWORD *",
+            "comment": "[rsp+38h] [rbp-18h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "_QWORD *v20; // [rsp+38h] [rbp-18h]"
+        },
+        {
+            "name": "v21",
+            "type": "__int64",
+            "comment": "[rsp+48h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "__int64 v21; // [rsp+48h] [rbp-8h]"
+        }
+    ]
+}

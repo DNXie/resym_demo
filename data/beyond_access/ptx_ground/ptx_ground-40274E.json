@@ -1,0 +1,42 @@
+[
+    {
+        "expr": "a1",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "const void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "const void *",
+        "lineNum": 7,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a2",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "const void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "const void *",
+        "lineNum": 7,
+        "offset": 0,
+        "varName": "a2"
+    },
+    {
+        "expr": "(_QWORD *)a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 11,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)a2",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 11,
+        "offset": 0,
+        "varName": "a2"
+    }
+]

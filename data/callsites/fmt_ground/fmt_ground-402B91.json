@@ -1,0 +1,23 @@
+[
+    {
+        "args": [
+            "v3"
+        ],
+        "funName": "sub_402C57",
+        "lineNum": 16
+    },
+    {
+        "args": [
+            "*(unsigned int *)(v3 + 12)"
+        ],
+        "funName": "sub_402CB4",
+        "lineNum": 17
+    },
+    {
+        "args": [
+            "v3"
+        ],
+        "funName": "sub_402C57",
+        "lineNum": 20
+    }
+]

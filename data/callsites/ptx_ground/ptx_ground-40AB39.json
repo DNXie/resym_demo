@@ -1,0 +1,59 @@
+[
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_40C89E",
+        "lineNum": 43
+    },
+    {
+        "args": [
+            "56 * v22"
+        ],
+        "funName": "sub_40C504",
+        "lineNum": 50
+    },
+    {
+        "args": [
+            "(__int64)v34"
+        ],
+        "funName": "sub_40A70F",
+        "lineNum": 69
+    },
+    {
+        "args": [
+            "48 * v17 + v24",
+            "(__int64)&s2"
+        ],
+        "funName": "sub_40A638",
+        "lineNum": 72
+    },
+    {
+        "args": [
+            "(__int64)v34"
+        ],
+        "funName": "sub_40A70F",
+        "lineNum": 120
+    },
+    {
+        "args": [
+            "(__int64)v27"
+        ],
+        "funName": "sub_40A70F",
+        "lineNum": 150
+    },
+    {
+        "args": [
+            "(__int64)v27"
+        ],
+        "funName": "sub_40A70F",
+        "lineNum": 160
+    },
+    {
+        "args": [
+            "v23"
+        ],
+        "funName": "sub_40C5BF",
+        "lineNum": 169
+    }
+]

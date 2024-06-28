@@ -1,0 +1,9 @@
+[
+    {
+        "args": [
+            "*(_QWORD *)(a1 + 88)"
+        ],
+        "funName": "sub_40A34C",
+        "lineNum": 7
+    }
+]

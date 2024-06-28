@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "FILE **",
+            "original_line": "FILE **a1"
+        }
+    ],
+    "variable": []
+}

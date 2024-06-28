@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "mutex",
+            "type": "pthread_mutex_t *",
+            "original_line": "pthread_mutex_t *mutex"
+        }
+    ],
+    "variable": []
+}

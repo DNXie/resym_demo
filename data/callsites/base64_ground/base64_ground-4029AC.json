@@ -1,0 +1,32 @@
+[
+    {
+        "args": [
+            "(unsigned __int8 *)v9",
+            "v8",
+            "&v7",
+            "&v14"
+        ],
+        "funName": "sub_402692",
+        "lineNum": 37
+    },
+    {
+        "args": [
+            "v10",
+            "&v9",
+            "(unsigned __int64)v17",
+            "&v8"
+        ],
+        "funName": "sub_40257E",
+        "lineNum": 56
+    },
+    {
+        "args": [
+            "v16",
+            "v8",
+            "&v7",
+            "&v14"
+        ],
+        "funName": "sub_402692",
+        "lineNum": 64
+    }
+]

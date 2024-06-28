@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "cond",
+            "type": "pthread_cond_t *",
+            "original_line": "pthread_cond_t *cond"
+        },
+        {
+            "name": "mutex",
+            "type": "pthread_mutex_t *",
+            "original_line": "pthread_mutex_t *mutex"
+        }
+    ],
+    "variable": []
+}

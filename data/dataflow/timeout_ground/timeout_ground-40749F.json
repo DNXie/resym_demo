@@ -1,0 +1,67 @@
+[
+    {
+        "lhsVarName": "v16",
+        "lineNum": 39,
+        "rhsVarName": "a1"
+    },
+    {
+        "lhsVarName": "v15",
+        "lineNum": 40,
+        "rhsVarName": "a2"
+    },
+    {
+        "lhsVarName": "v14",
+        "lineNum": 41,
+        "rhsVarName": "a3"
+    },
+    {
+        "lhsVarName": "v23",
+        "lineNum": 57,
+        "rhsVarName": "v4"
+    },
+    {
+        "lhsVarName": "v24",
+        "lineNum": 60,
+        "rhsVarName": "v23"
+    },
+    {
+        "lhsVarName": "s2",
+        "lineNum": 63,
+        "rhsVarName": "v15"
+    },
+    {
+        "lhsVarName": "v7",
+        "lineNum": 92,
+        "rhsVarName": "v8"
+    },
+    {
+        "lhsVarName": "v30",
+        "lineNum": 110,
+        "rhsVarName": "v16"
+    },
+    {
+        "lhsVarName": "s2",
+        "lineNum": 114,
+        "rhsVarName": "v16"
+    },
+    {
+        "lhsVarName": "v9",
+        "lineNum": 131,
+        "rhsVarName": "v10"
+    },
+    {
+        "lhsVarName": "v20",
+        "lineNum": 147,
+        "rhsVarName": "v21"
+    },
+    {
+        "lhsVarName": "v30",
+        "lineNum": 153,
+        "rhsVarName": "v31"
+    },
+    {
+        "lhsVarName": "v30",
+        "lineNum": 163,
+        "rhsVarName": "v31"
+    }
+]

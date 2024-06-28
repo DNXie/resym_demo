@@ -1,0 +1,82 @@
+[
+    {
+        "expr": "(_QWORD *)(i + 40)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 8,
+        "offset": 40,
+        "varName": "i"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 10,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(const char **)i",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 10,
+        "offset": 0,
+        "varName": "i"
+    },
+    {
+        "expr": "(const char **)v3",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "const char **",
+        "lineNum": 16,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "(const char **)(v3 + 8)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 17,
+        "offset": 8,
+        "varName": "v3"
+    },
+    {
+        "expr": "(const char **)(v3 + 16)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 19,
+        "offset": 16,
+        "varName": "v3"
+    },
+    {
+        "expr": "(_BYTE *)(v3 + 32)",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 20,
+        "offset": 32,
+        "varName": "v3"
+    },
+    {
+        "expr": "(_BYTE *)(v3 + 32)",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "uint8",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 21,
+        "offset": 32,
+        "varName": "v3"
+    }
+]

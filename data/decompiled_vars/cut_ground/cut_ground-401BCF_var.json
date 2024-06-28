@@ -1,0 +1,36 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "unsigned __int64",
+            "original_line": "unsigned __int64 a1"
+        },
+        {
+            "name": "a2",
+            "type": "bool *",
+            "original_line": "bool *a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v2; // al"
+        },
+        {
+            "name": "v4",
+            "type": "bool",
+            "comment": "[rsp+1Fh] [rbp-1h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-1",
+            "rbp_offset_dec": -1,
+            "original_line": "bool v4; // [rsp+1Fh] [rbp-1h]"
+        }
+    ]
+}

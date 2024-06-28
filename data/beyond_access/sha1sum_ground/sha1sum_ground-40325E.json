@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "a3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32 *",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 8,
+        "offset": 0,
+        "varName": "a3"
+    }
+]

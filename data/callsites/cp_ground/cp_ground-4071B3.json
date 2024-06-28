@@ -1,0 +1,54 @@
+[
+    {
+        "args": [
+            "4294967196LL",
+            "a1",
+            "4294967196LL",
+            "a2",
+            "0LL"
+        ],
+        "funName": "sub_41306B",
+        "lineNum": 16
+    },
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_40E491",
+        "lineNum": 22
+    },
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_40E491",
+        "lineNum": 30
+    },
+    {
+        "args": [
+            "4294967196LL",
+            "a1",
+            "4294967196LL",
+            "a2",
+            "0LL"
+        ],
+        "funName": "sub_41306B",
+        "lineNum": 34
+    },
+    {
+        "args": [
+            "1LL",
+            "a1"
+        ],
+        "funName": "sub_40E46D",
+        "lineNum": 38
+    },
+    {
+        "args": [
+            "0LL",
+            "a2"
+        ],
+        "funName": "sub_40E46D",
+        "lineNum": 39
+    }
+]

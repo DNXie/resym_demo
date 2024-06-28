@@ -1,0 +1,55 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "result",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *result; // rax"
+        },
+        {
+            "name": "i",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *i; // rax"
+        },
+        {
+            "name": "filename",
+            "type": "char *",
+            "comment": "[rsp+8h] [rbp-128h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-128",
+            "rbp_offset_dec": -296,
+            "original_line": "char *filename; // [rsp+8h] [rbp-128h]"
+        },
+        {
+            "name": "stat_buf",
+            "type": "struct stat",
+            "comment": "[rsp+10h] [rbp-120h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-120",
+            "rbp_offset_dec": -288,
+            "original_line": "struct stat stat_buf; // [rsp+10h] [rbp-120h] BYREF"
+        },
+        {
+            "name": "v4",
+            "type": "struct stat",
+            "comment": "[rsp+A0h] [rbp-90h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-90",
+            "rbp_offset_dec": -144,
+            "original_line": "struct stat v4; // [rsp+A0h] [rbp-90h] BYREF"
+        }
+    ]
+}

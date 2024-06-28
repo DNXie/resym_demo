@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "set",
+            "type": "const sigset_t *",
+            "original_line": "const sigset_t *set"
+        },
+        {
+            "name": "signo",
+            "type": "int",
+            "original_line": "int signo"
+        }
+    ],
+    "variable": []
+}

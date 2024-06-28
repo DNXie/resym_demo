@@ -1,0 +1,81 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "char *",
+            "original_line": "char *a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v1",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v1; // eax"
+        },
+        {
+            "name": "v2",
+            "type": "bool",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v2; // al"
+        },
+        {
+            "name": "v3",
+            "type": "__int64",
+            "comment": "rbx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v3; // rbx"
+        },
+        {
+            "name": "v4",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v4; // rax"
+        },
+        {
+            "name": "v6",
+            "type": "bool",
+            "comment": "[rsp+1Bh] [rbp-A5h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-A5",
+            "rbp_offset_dec": -165,
+            "original_line": "bool v6; // [rsp+1Bh] [rbp-A5h]"
+        },
+        {
+            "name": "errnum",
+            "type": "int",
+            "comment": "[rsp+1Ch] [rbp-A4h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-A4",
+            "rbp_offset_dec": -164,
+            "original_line": "int errnum; // [rsp+1Ch] [rbp-A4h]"
+        },
+        {
+            "name": "stat_buf",
+            "type": "struct stat",
+            "comment": "[rsp+20h] [rbp-A0h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-A0",
+            "rbp_offset_dec": -160,
+            "original_line": "struct stat stat_buf; // [rsp+20h] [rbp-A0h] BYREF"
+        }
+    ]
+}

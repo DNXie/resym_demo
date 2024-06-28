@@ -1,0 +1,66 @@
+[
+    {
+        "args": [
+            "*v15"
+        ],
+        "funName": "sub_401E2D",
+        "lineNum": 37
+    },
+    {
+        "args": [
+            "*v15"
+        ],
+        "funName": "sub_401E2D",
+        "lineNum": 45
+    },
+    {
+        "args": [],
+        "funName": "sub_401F46",
+        "lineNum": 61
+    },
+    {
+        "args": [
+            "*(i - 1)"
+        ],
+        "funName": "sub_401E2D",
+        "lineNum": 68
+    },
+    {
+        "args": [],
+        "funName": "sub_401F46",
+        "lineNum": 77
+    },
+    {
+        "args": [
+            "*v15"
+        ],
+        "funName": "sub_401E2D",
+        "lineNum": 120
+    },
+    {
+        "args": [],
+        "funName": "sub_40976A",
+        "lineNum": 140
+    },
+    {
+        "args": [
+            "*v15"
+        ],
+        "funName": "sub_401E2D",
+        "lineNum": 156
+    },
+    {
+        "args": [
+            "*v16"
+        ],
+        "funName": "sub_401E2D",
+        "lineNum": 179
+    },
+    {
+        "args": [
+            "*v16"
+        ],
+        "funName": "sub_401E2D",
+        "lineNum": 186
+    }
+]

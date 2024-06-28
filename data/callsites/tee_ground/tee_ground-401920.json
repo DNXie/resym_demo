@@ -1,0 +1,25 @@
+[
+    {
+        "args": [
+            "a1 + 1",
+            "8LL"
+        ],
+        "funName": "sub_404214",
+        "lineNum": 32
+    },
+    {
+        "args": [
+            "stdin",
+            "2LL"
+        ],
+        "funName": "sub_40201D",
+        "lineNum": 35
+    },
+    {
+        "args": [
+            "ptr[l]"
+        ],
+        "funName": "sub_404514",
+        "lineNum": 86
+    }
+]

@@ -1,0 +1,56 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "_BYTE *",
+            "original_line": "_BYTE *a1"
+        },
+        {
+            "name": "a2",
+            "type": "_QWORD *",
+            "original_line": "_QWORD *a2"
+        },
+        {
+            "name": "a3",
+            "type": "double *",
+            "original_line": "double *a3"
+        },
+        {
+            "name": "a4",
+            "type": "double (__fastcall *",
+            "original_line": "double (__fastcall *a4"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v7",
+            "type": "unsigned __int8",
+            "comment": "[rsp+3Fh] [rbp-11h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-11",
+            "rbp_offset_dec": -17,
+            "original_line": "unsigned __int8 v7; // [rsp+3Fh] [rbp-11h]"
+        },
+        {
+            "name": "v8",
+            "type": "_BYTE *",
+            "comment": "[rsp+40h] [rbp-10h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "_BYTE *v8; // [rsp+40h] [rbp-10h] BYREF"
+        },
+        {
+            "name": "v9",
+            "type": "double",
+            "comment": "[rsp+48h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "double v9; // [rsp+48h] [rbp-8h]"
+        }
+    ]
+}

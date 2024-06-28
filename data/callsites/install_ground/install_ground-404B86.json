@@ -1,0 +1,32 @@
+[
+    {
+        "args": [
+            "a7"
+        ],
+        "funName": "sub_40E392",
+        "lineNum": 50
+    },
+    {
+        "args": [
+            "a2",
+            "a3",
+            "offset"
+        ],
+        "funName": "sub_40BB8B",
+        "lineNum": 65
+    },
+    {
+        "args": [
+            "a7"
+        ],
+        "funName": "sub_40E392",
+        "lineNum": 67
+    },
+    {
+        "args": [
+            "a6"
+        ],
+        "funName": "sub_40E392",
+        "lineNum": 78
+    }
+]

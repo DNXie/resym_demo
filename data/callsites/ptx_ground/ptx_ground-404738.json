@@ -1,0 +1,39 @@
+[
+    {
+        "args": [],
+        "funName": "sub_401F46",
+        "lineNum": 23
+    },
+    {
+        "args": [
+            "v4",
+            "(unsigned __int64)string"
+        ],
+        "funName": "sub_403176",
+        "lineNum": 39
+    },
+    {
+        "args": [
+            "(char *)string",
+            "v5"
+        ],
+        "funName": "sub_403176",
+        "lineNum": 41
+    },
+    {
+        "args": [
+            "qword_610AD0",
+            "qword_610AD8"
+        ],
+        "funName": "sub_403176",
+        "lineNum": 43
+    },
+    {
+        "args": [
+            "qword_610AF0",
+            "qword_610AF8"
+        ],
+        "funName": "sub_403176",
+        "lineNum": 48
+    }
+]

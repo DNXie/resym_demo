@@ -1,0 +1,25 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "_QWORD *",
+            "original_line": "_QWORD *a1"
+        },
+        {
+            "name": "a2",
+            "type": "unsigned __int64",
+            "original_line": "unsigned __int64 a2"
+        },
+        {
+            "name": "a3",
+            "type": "char",
+            "original_line": "char a3"
+        },
+        {
+            "name": "a4",
+            "type": "unsigned __int64 *",
+            "original_line": "unsigned __int64 *a4"
+        }
+    ],
+    "variable": []
+}

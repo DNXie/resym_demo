@@ -1,0 +1,41 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "void *",
+            "original_line": "void *a1"
+        },
+        {
+            "name": "a2",
+            "type": "size_t",
+            "original_line": "size_t a2"
+        },
+        {
+            "name": "a3",
+            "type": "double",
+            "original_line": "double a3"
+        }
+    ],
+    "variable": [
+        {
+            "name": "result",
+            "type": "void *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "void *result; // rax"
+        },
+        {
+            "name": "ptr",
+            "type": "void *",
+            "comment": "[rsp+8h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "void *ptr; // [rsp+8h] [rbp-8h]"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "argument": [
+        {
+            "name": "fd",
+            "type": "int",
+            "original_line": "int fd"
+        },
+        {
+            "name": "offset",
+            "type": "__off_t",
+            "original_line": "__off_t offset"
+        },
+        {
+            "name": "whence",
+            "type": "int",
+            "original_line": "int whence"
+        }
+    ],
+    "variable": []
+}

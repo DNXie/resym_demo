@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "fd",
+            "type": "int",
+            "original_line": "int fd"
+        },
+        {
+            "name": "length",
+            "type": "__off_t",
+            "original_line": "__off_t length"
+        }
+    ],
+    "variable": []
+}

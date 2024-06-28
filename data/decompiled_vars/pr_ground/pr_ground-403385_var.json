@@ -1,0 +1,31 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__int64",
+            "original_line": "__int64 a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "i",
+            "type": "int",
+            "comment": "[rsp+Ch] [rbp-Ch]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C",
+            "rbp_offset_dec": -12,
+            "original_line": "int i; // [rsp+Ch] [rbp-Ch]"
+        },
+        {
+            "name": "v3",
+            "type": "_DWORD *",
+            "comment": "[rsp+10h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "_DWORD *v3; // [rsp+10h] [rbp-8h]"
+        }
+    ]
+}

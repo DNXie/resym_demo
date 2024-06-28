@@ -1,0 +1,31 @@
+{
+    "argument": [
+        {
+            "name": "path",
+            "type": "char *",
+            "original_line": "char *path"
+        },
+        {
+            "name": "mode",
+            "type": "__mode_t",
+            "original_line": "__mode_t mode"
+        },
+        {
+            "name": "a3",
+            "type": "__dev_t",
+            "original_line": "__dev_t a3"
+        }
+    ],
+    "variable": [
+        {
+            "name": "dev",
+            "type": "__dev_t",
+            "comment": "[rsp+8h] [rbp-10h] BYREF",
+            "array_size": 2,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "__dev_t dev[2]; // [rsp+8h] [rbp-10h] BYREF"
+        }
+    ]
+}

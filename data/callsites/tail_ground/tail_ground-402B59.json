@@ -1,0 +1,25 @@
+[
+    {
+        "args": [
+            "8208LL"
+        ],
+        "funName": "sub_40B191",
+        "lineNum": 21
+    },
+    {
+        "args": [
+            "a2",
+            "src",
+            "0x2000LL"
+        ],
+        "funName": "sub_40A739",
+        "lineNum": 28
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_408FA1",
+        "lineNum": 60
+    }
+]

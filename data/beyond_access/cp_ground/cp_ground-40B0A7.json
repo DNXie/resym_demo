@@ -1,0 +1,82 @@
+[
+    {
+        "expr": "a1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 12,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "dest",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 19,
+        "offset": 0,
+        "varName": "dest"
+    },
+    {
+        "expr": "dest",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 20,
+        "offset": 0,
+        "varName": "dest"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 20,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "(__int64 *)&dest",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "dest"
+    },
+    {
+        "expr": "dest",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 30,
+        "offset": 0,
+        "varName": "dest"
+    },
+    {
+        "expr": "(const char *)dest",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "const char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "const char *",
+        "lineNum": 38,
+        "offset": 0,
+        "varName": "dest"
+    },
+    {
+        "expr": "dest",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 39,
+        "offset": 0,
+        "varName": "dest"
+    }
+]

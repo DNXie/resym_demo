@@ -1,0 +1,85 @@
+{
+    "argument": [],
+    "variable": [
+        {
+            "name": "v0",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v0; // rax"
+        },
+        {
+            "name": "v1",
+            "type": "__int64",
+            "comment": "rbx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v1; // rbx"
+        },
+        {
+            "name": "v2",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v2; // rax"
+        },
+        {
+            "name": "v3",
+            "type": "__int64",
+            "comment": "rbx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v3; // rbx"
+        },
+        {
+            "name": "v4",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v4; // rax"
+        },
+        {
+            "name": "v6",
+            "type": "char",
+            "comment": "[rsp+Ah] [rbp-16h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-16",
+            "rbp_offset_dec": -22,
+            "original_line": "char v6; // [rsp+Ah] [rbp-16h]"
+        },
+        {
+            "name": "v7",
+            "type": "char",
+            "comment": "[rsp+Bh] [rbp-15h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-15",
+            "rbp_offset_dec": -21,
+            "original_line": "char v7; // [rsp+Bh] [rbp-15h]"
+        },
+        {
+            "name": "i",
+            "type": "unsigned int",
+            "comment": "[rsp+Ch] [rbp-14h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-14",
+            "rbp_offset_dec": -20,
+            "original_line": "unsigned int i; // [rsp+Ch] [rbp-14h]"
+        }
+    ]
+}

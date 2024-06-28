@@ -1,0 +1,491 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int",
+            "original_line": "int a1"
+        },
+        {
+            "name": "a2",
+            "type": "char **",
+            "original_line": "char **a2"
+        },
+        {
+            "name": "a3",
+            "type": "char **",
+            "original_line": "char **a3"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v3",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v3; // rax"
+        },
+        {
+            "name": "v4",
+            "type": "__int64",
+            "comment": "r12",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v4; // r12"
+        },
+        {
+            "name": "v5",
+            "type": "char *",
+            "comment": "rbx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v5; // rbx"
+        },
+        {
+            "name": "v6",
+            "type": "int *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int *v6; // rax"
+        },
+        {
+            "name": "v7",
+            "type": "__int64",
+            "comment": "rbx",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 v7; // rbx"
+        },
+        {
+            "name": "v8",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v8; // rax"
+        },
+        {
+            "name": "v9",
+            "type": "int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int v9; // eax"
+        },
+        {
+            "name": "v10",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v10; // rax"
+        },
+        {
+            "name": "v11",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v11; // rax"
+        },
+        {
+            "name": "v12",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v12; // rax"
+        },
+        {
+            "name": "v13",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v13; // rax"
+        },
+        {
+            "name": "v14",
+            "type": "unsigned int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "unsigned int v14; // eax"
+        },
+        {
+            "name": "v15",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v15; // rax"
+        },
+        {
+            "name": "v16",
+            "type": "char *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char *v16; // rax"
+        },
+        {
+            "name": "v17",
+            "type": "char",
+            "comment": "[rsp+20h] [rbp-110h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-110",
+            "rbp_offset_dec": -272,
+            "original_line": "char v17; // [rsp+20h] [rbp-110h]"
+        },
+        {
+            "name": "v18",
+            "type": "char",
+            "comment": "[rsp+21h] [rbp-10Fh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10F",
+            "rbp_offset_dec": -271,
+            "original_line": "char v18; // [rsp+21h] [rbp-10Fh]"
+        },
+        {
+            "name": "v19",
+            "type": "char",
+            "comment": "[rsp+22h] [rbp-10Eh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10E",
+            "rbp_offset_dec": -270,
+            "original_line": "char v19; // [rsp+22h] [rbp-10Eh]"
+        },
+        {
+            "name": "v20",
+            "type": "bool",
+            "comment": "[rsp+23h] [rbp-10Dh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10D",
+            "rbp_offset_dec": -269,
+            "original_line": "bool v20; // [rsp+23h] [rbp-10Dh]"
+        },
+        {
+            "name": "v21",
+            "type": "int",
+            "comment": "[rsp+24h] [rbp-10Ch]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10C",
+            "rbp_offset_dec": -268,
+            "original_line": "int v21; // [rsp+24h] [rbp-10Ch]"
+        },
+        {
+            "name": "v22",
+            "type": "char *",
+            "comment": "[rsp+28h] [rbp-108h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-108",
+            "rbp_offset_dec": -264,
+            "original_line": "char *v22; // [rsp+28h] [rbp-108h]"
+        },
+        {
+            "name": "v23",
+            "type": "char *",
+            "comment": "[rsp+30h] [rbp-100h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-100",
+            "rbp_offset_dec": -256,
+            "original_line": "char *v23; // [rsp+30h] [rbp-100h]"
+        },
+        {
+            "name": "v24",
+            "type": "char *",
+            "comment": "[rsp+38h] [rbp-F8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-F8",
+            "rbp_offset_dec": -248,
+            "original_line": "char *v24; // [rsp+38h] [rbp-F8h]"
+        },
+        {
+            "name": "v25",
+            "type": "unsigned int",
+            "comment": "[rsp+40h] [rbp-F0h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-F0",
+            "rbp_offset_dec": -240,
+            "original_line": "unsigned int v25; // [rsp+40h] [rbp-F0h] BYREF"
+        },
+        {
+            "name": "v26",
+            "type": "int",
+            "comment": "[rsp+44h] [rbp-ECh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-EC",
+            "rbp_offset_dec": -236,
+            "original_line": "int v26; // [rsp+44h] [rbp-ECh]"
+        },
+        {
+            "name": "v27",
+            "type": "int",
+            "comment": "[rsp+48h] [rbp-E8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-E8",
+            "rbp_offset_dec": -232,
+            "original_line": "int v27; // [rsp+48h] [rbp-E8h]"
+        },
+        {
+            "name": "v28",
+            "type": "int",
+            "comment": "[rsp+4Ch] [rbp-E4h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-E4",
+            "rbp_offset_dec": -228,
+            "original_line": "int v28; // [rsp+4Ch] [rbp-E4h]"
+        },
+        {
+            "name": "v29",
+            "type": "char",
+            "comment": "[rsp+54h] [rbp-DCh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-DC",
+            "rbp_offset_dec": -220,
+            "original_line": "char v29; // [rsp+54h] [rbp-DCh]"
+        },
+        {
+            "name": "v30",
+            "type": "char",
+            "comment": "[rsp+55h] [rbp-DBh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-DB",
+            "rbp_offset_dec": -219,
+            "original_line": "char v30; // [rsp+55h] [rbp-DBh]"
+        },
+        {
+            "name": "v31",
+            "type": "char",
+            "comment": "[rsp+56h] [rbp-DAh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-DA",
+            "rbp_offset_dec": -218,
+            "original_line": "char v31; // [rsp+56h] [rbp-DAh]"
+        },
+        {
+            "name": "v32",
+            "type": "char",
+            "comment": "[rsp+57h] [rbp-D9h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-D9",
+            "rbp_offset_dec": -217,
+            "original_line": "char v32; // [rsp+57h] [rbp-D9h]"
+        },
+        {
+            "name": "v33",
+            "type": "char",
+            "comment": "[rsp+5Bh] [rbp-D5h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-D5",
+            "rbp_offset_dec": -213,
+            "original_line": "char v33; // [rsp+5Bh] [rbp-D5h]"
+        },
+        {
+            "name": "v34",
+            "type": "char",
+            "comment": "[rsp+5Ch] [rbp-D4h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-D4",
+            "rbp_offset_dec": -212,
+            "original_line": "char v34; // [rsp+5Ch] [rbp-D4h]"
+        },
+        {
+            "name": "v35",
+            "type": "char",
+            "comment": "[rsp+5Dh] [rbp-D3h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-D3",
+            "rbp_offset_dec": -211,
+            "original_line": "char v35; // [rsp+5Dh] [rbp-D3h]"
+        },
+        {
+            "name": "v36",
+            "type": "char",
+            "comment": "[rsp+5Eh] [rbp-D2h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-D2",
+            "rbp_offset_dec": -210,
+            "original_line": "char v36; // [rsp+5Eh] [rbp-D2h]"
+        },
+        {
+            "name": "v37",
+            "type": "char",
+            "comment": "[rsp+5Fh] [rbp-D1h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-D1",
+            "rbp_offset_dec": -209,
+            "original_line": "char v37; // [rsp+5Fh] [rbp-D1h]"
+        },
+        {
+            "name": "v38",
+            "type": "char",
+            "comment": "[rsp+60h] [rbp-D0h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-D0",
+            "rbp_offset_dec": -208,
+            "original_line": "char v38; // [rsp+60h] [rbp-D0h]"
+        },
+        {
+            "name": "v39",
+            "type": "char",
+            "comment": "[rsp+61h] [rbp-CFh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-CF",
+            "rbp_offset_dec": -207,
+            "original_line": "char v39; // [rsp+61h] [rbp-CFh]"
+        },
+        {
+            "name": "v40",
+            "type": "char",
+            "comment": "[rsp+62h] [rbp-CEh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-CE",
+            "rbp_offset_dec": -206,
+            "original_line": "char v40; // [rsp+62h] [rbp-CEh]"
+        },
+        {
+            "name": "v41",
+            "type": "char",
+            "comment": "[rsp+64h] [rbp-CCh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-CC",
+            "rbp_offset_dec": -204,
+            "original_line": "char v41; // [rsp+64h] [rbp-CCh]"
+        },
+        {
+            "name": "v42",
+            "type": "char",
+            "comment": "[rsp+65h] [rbp-CBh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-CB",
+            "rbp_offset_dec": -203,
+            "original_line": "char v42; // [rsp+65h] [rbp-CBh]"
+        },
+        {
+            "name": "v43",
+            "type": "char",
+            "comment": "[rsp+66h] [rbp-CAh]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-CA",
+            "rbp_offset_dec": -202,
+            "original_line": "char v43; // [rsp+66h] [rbp-CAh]"
+        },
+        {
+            "name": "v44",
+            "type": "char",
+            "comment": "[rsp+67h] [rbp-C9h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C9",
+            "rbp_offset_dec": -201,
+            "original_line": "char v44; // [rsp+67h] [rbp-C9h]"
+        },
+        {
+            "name": "v45",
+            "type": "char",
+            "comment": "[rsp+69h] [rbp-C7h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C7",
+            "rbp_offset_dec": -199,
+            "original_line": "char v45; // [rsp+69h] [rbp-C7h]"
+        },
+        {
+            "name": "v46",
+            "type": "char",
+            "comment": "[rsp+6Ah] [rbp-C6h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C6",
+            "rbp_offset_dec": -198,
+            "original_line": "char v46; // [rsp+6Ah] [rbp-C6h]"
+        },
+        {
+            "name": "v47",
+            "type": "char",
+            "comment": "[rsp+6Bh] [rbp-C5h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C5",
+            "rbp_offset_dec": -197,
+            "original_line": "char v47; // [rsp+6Bh] [rbp-C5h]"
+        },
+        {
+            "name": "v48",
+            "type": "int",
+            "comment": "[rsp+70h] [rbp-C0h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C0",
+            "rbp_offset_dec": -192,
+            "original_line": "int v48; // [rsp+70h] [rbp-C0h]"
+        },
+        {
+            "name": "stat_buf",
+            "type": "struct stat",
+            "comment": "[rsp+90h] [rbp-A0h] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-A0",
+            "rbp_offset_dec": -160,
+            "original_line": "struct stat stat_buf; // [rsp+90h] [rbp-A0h] BYREF"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "unsigned long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "unsigned long long *",
+        "lineNum": 6,
+        "offset": 0,
+        "varName": "a1"
+    }
+]

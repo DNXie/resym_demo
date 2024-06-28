@@ -1,0 +1,17 @@
+[
+    {
+        "lhsVarName": "ptr",
+        "lineNum": 18,
+        "rhsVarName": "i"
+    },
+    {
+        "lhsVarName": "ptra",
+        "lineNum": 25,
+        "rhsVarName": "v6"
+    },
+    {
+        "lhsVarName": "ptrb",
+        "lineNum": 31,
+        "rhsVarName": "v7"
+    }
+]

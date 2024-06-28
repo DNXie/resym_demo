@@ -1,0 +1,47 @@
+[
+    {
+        "args": [
+            "qword_610AF0",
+            "qword_610AF8"
+        ],
+        "funName": "sub_403176",
+        "lineNum": 16
+    },
+    {
+        "args": [
+            "qword_610AF0",
+            "qword_610AF8"
+        ],
+        "funName": "sub_403176",
+        "lineNum": 22
+    },
+    {
+        "args": [
+            "v1 - v2"
+        ],
+        "funName": "sub_40314D",
+        "lineNum": 49
+    },
+    {
+        "args": [
+            "string",
+            "qword_610A98"
+        ],
+        "funName": "sub_403176",
+        "lineNum": 52
+    },
+    {
+        "args": [
+            "dword_6102B8"
+        ],
+        "funName": "sub_40314D",
+        "lineNum": 53
+    },
+    {
+        "args": [
+            "v4 - v5"
+        ],
+        "funName": "sub_40314D",
+        "lineNum": 79
+    }
+]

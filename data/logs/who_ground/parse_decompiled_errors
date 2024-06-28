@@ -1,0 +1,6 @@
+Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/who_ground
+who_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
+who_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
+who_ground.decompiled - .strftime: Fail to match arguments const struct tm *tp
+who_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc
+who_ground.decompiled - .getaddrinfo: Fail to match arguments const struct addrinfo *req

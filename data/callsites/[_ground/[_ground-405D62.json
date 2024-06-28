@@ -1,0 +1,15 @@
+[
+    {
+        "args": [],
+        "funName": "sub_405FEF",
+        "lineNum": 5
+    },
+    {
+        "args": [
+            "(void *)a1",
+            "a3 * a2"
+        ],
+        "funName": "sub_405EA2",
+        "lineNum": 6
+    }
+]

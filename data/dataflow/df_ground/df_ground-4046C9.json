@@ -1,0 +1,12 @@
+[
+    {
+        "lhsVarName": "path",
+        "lineNum": 38,
+        "rhsVarName": "a1"
+    },
+    {
+        "lhsVarName": "result",
+        "lineNum": 114,
+        "rhsVarName": "v26"
+    }
+]

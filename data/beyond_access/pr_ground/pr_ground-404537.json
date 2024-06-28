@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "v2",
+        "exprPointeeSize": 2,
+        "exprPointeeType": "const unsigned short *",
+        "lhsPointeeSize": 2,
+        "lhsType": "const unsigned short *",
+        "lineNum": 12,
+        "offset": 0,
+        "varName": "v2"
+    }
+]

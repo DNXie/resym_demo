@@ -1,0 +1,56 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "unsigned int *",
+            "original_line": "unsigned int *a1"
+        },
+        {
+            "name": "a2",
+            "type": "int",
+            "original_line": "int a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "unsigned int",
+            "comment": "eax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "unsigned int v2; // eax"
+        },
+        {
+            "name": "stat_loc",
+            "type": "int",
+            "comment": "[rsp+34h] [rbp-Ch] BYREF",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C",
+            "rbp_offset_dec": -12,
+            "original_line": "int stat_loc; // [rsp+34h] [rbp-Ch] BYREF"
+        },
+        {
+            "name": "v5",
+            "type": "int",
+            "comment": "[rsp+38h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "int v5; // [rsp+38h] [rbp-8h]"
+        },
+        {
+            "name": "pid",
+            "type": "__pid_t",
+            "comment": "[rsp+3Ch] [rbp-4h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4",
+            "rbp_offset_dec": -4,
+            "original_line": "__pid_t pid; // [rsp+3Ch] [rbp-4h]"
+        }
+    ]
+}

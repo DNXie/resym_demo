@@ -1,0 +1,7 @@
+/share/resym_darpa/clang-parser/call_site/CMakeFiles/rebuild_cache.dir
+/share/resym_darpa/clang-parser/call_site/CMakeFiles/call_site.dir
+/share/resym_darpa/clang-parser/call_site/CMakeFiles/clang-tablegen-targets.dir
+/share/resym_darpa/clang-parser/call_site/CMakeFiles/acc_gen.dir
+/share/resym_darpa/clang-parser/call_site/CMakeFiles/edit_cache.dir
+/share/resym_darpa/clang-parser/call_site/CMakeFiles/omp_gen.dir
+/share/resym_darpa/clang-parser/call_site/CMakeFiles/intrinsics_gen.dir

@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "(unsigned __int8 *)(a1 + 28)",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "unsigned char",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 4,
+        "offset": 28,
+        "varName": "a1"
+    }
+]

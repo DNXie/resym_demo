@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "buffer",
+            "type": "struct re_pattern_buffer *",
+            "original_line": "struct re_pattern_buffer *buffer"
+        }
+    ],
+    "variable": []
+}

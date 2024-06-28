@@ -1,0 +1,40 @@
+[
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_405DD3",
+        "lineNum": 21
+    },
+    {
+        "args": [
+            "ptr"
+        ],
+        "funName": "sub_4036C1",
+        "lineNum": 27
+    },
+    {
+        "args": [
+            "a1",
+            "a4"
+        ],
+        "funName": "sub_404FB4",
+        "lineNum": 36
+    },
+    {
+        "args": [
+            "v13"
+        ],
+        "funName": "sub_4036C1",
+        "lineNum": 39
+    },
+    {
+        "args": [
+            "a2",
+            "a3",
+            "(__int64)v7"
+        ],
+        "funName": "sub_402CF4",
+        "lineNum": 56
+    }
+]

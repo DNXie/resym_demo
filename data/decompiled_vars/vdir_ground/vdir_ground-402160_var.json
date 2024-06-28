@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "set",
+            "type": "sigset_t *",
+            "original_line": "sigset_t *set"
+        }
+    ],
+    "variable": []
+}

@@ -1,0 +1,41 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "const char *",
+            "original_line": "const char *a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v1",
+            "type": "char *",
+            "comment": "[rsp+18h] [rbp-18h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "char *v1; // [rsp+18h] [rbp-18h]"
+        },
+        {
+            "name": "i",
+            "type": "char *",
+            "comment": "[rsp+20h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "char *i; // [rsp+20h] [rbp-10h]"
+        },
+        {
+            "name": "name",
+            "type": "char *",
+            "comment": "[rsp+28h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "char *name; // [rsp+28h] [rbp-8h]"
+        }
+    ]
+}

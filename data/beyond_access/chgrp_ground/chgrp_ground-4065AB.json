@@ -1,0 +1,32 @@
+[
+    {
+        "expr": "a4",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "int *",
+        "lhsPointeeSize": 4,
+        "lhsType": "int *",
+        "lineNum": 14,
+        "offset": 0,
+        "varName": "a4"
+    },
+    {
+        "expr": "(_QWORD *)v9",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 18,
+        "offset": 0,
+        "varName": "v9"
+    },
+    {
+        "expr": "(_DWORD *)v9",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32 *",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 20,
+        "offset": 0,
+        "varName": "v9"
+    }
+]

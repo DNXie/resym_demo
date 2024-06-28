@@ -1,0 +1,20 @@
+[
+    {
+        "args": [],
+        "funName": "sub_415114",
+        "lineNum": 10
+    },
+    {
+        "args": [
+            "qword_61DAA8",
+            "a1"
+        ],
+        "funName": "sub_410421",
+        "lineNum": 13
+    },
+    {
+        "args": [],
+        "funName": "sub_415114",
+        "lineNum": 15
+    }
+]

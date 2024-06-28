@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "gid",
+            "type": "__gid_t",
+            "original_line": "__gid_t gid"
+        }
+    ],
+    "variable": []
+}

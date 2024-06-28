@@ -1,0 +1,31 @@
+[
+    {
+        "args": [
+            "v11->pw_gecos",
+            "v11->pw_name"
+        ],
+        "funName": "sub_401B24",
+        "lineNum": 58
+    },
+    {
+        "args": [
+            "v8"
+        ],
+        "funName": "sub_401CB3",
+        "lineNum": 72
+    },
+    {
+        "args": [
+            "(__int64)a1"
+        ],
+        "funName": "sub_401DF3",
+        "lineNum": 77
+    },
+    {
+        "args": [
+            "name"
+        ],
+        "funName": "sub_402CD0",
+        "lineNum": 91
+    }
+]

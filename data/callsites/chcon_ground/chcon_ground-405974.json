@@ -1,0 +1,35 @@
+[
+    {
+        "args": [
+            "*(_DWORD *)(a1 + 44)",
+            "a2",
+            "v10",
+            "a2",
+            "a5",
+            "a6"
+        ],
+        "funName": "sub_40A9BE",
+        "lineNum": 20
+    },
+    {
+        "args": [
+            "a2",
+            "v10",
+            "v10",
+            "a4",
+            "a5",
+            "a6",
+            "a2"
+        ],
+        "funName": "sub_408E30",
+        "lineNum": 22
+    },
+    {
+        "args": [
+            "(unsigned int)v8",
+            "1LL"
+        ],
+        "funName": "sub_408BF3",
+        "lineNum": 25
+    }
+]

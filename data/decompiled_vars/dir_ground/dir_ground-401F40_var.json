@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "uid",
+            "type": "__uid_t",
+            "original_line": "__uid_t uid"
+        }
+    ],
+    "variable": []
+}

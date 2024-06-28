@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "c",
+            "type": "int",
+            "original_line": "int c"
+        }
+    ],
+    "variable": []
+}

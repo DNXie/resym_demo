@@ -1,0 +1,27 @@
+[
+    {
+        "lhsVarName": "errnum",
+        "lineNum": 29,
+        "rhsVarName": "v10"
+    },
+    {
+        "lhsVarName": "v27",
+        "lineNum": 53,
+        "rhsVarName": "v12"
+    },
+    {
+        "lhsVarName": "mode",
+        "lineNum": 54,
+        "rhsVarName": "a5"
+    },
+    {
+        "lhsVarName": "v28",
+        "lineNum": 93,
+        "rhsVarName": "v14"
+    },
+    {
+        "lhsVarName": "v19",
+        "lineNum": 122,
+        "rhsVarName": "v33"
+    }
+]

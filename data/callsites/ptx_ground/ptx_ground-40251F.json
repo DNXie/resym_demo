@@ -1,0 +1,25 @@
+[
+    {
+        "args": [
+            "stdin",
+            "v9"
+        ],
+        "funName": "sub_4082BE",
+        "lineNum": 16
+    },
+    {
+        "args": [
+            "a1",
+            "v9"
+        ],
+        "funName": "sub_408639",
+        "lineNum": 18
+    },
+    {
+        "args": [
+            "v4"
+        ],
+        "funName": "sub_406B26",
+        "lineNum": 26
+    }
+]

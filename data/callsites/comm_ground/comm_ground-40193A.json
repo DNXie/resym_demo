@@ -1,0 +1,22 @@
+[
+    {
+        "args": [
+            "*(_QWORD *)(a1 + 16)",
+            "*(_QWORD *)(a1 + 8) - 1LL",
+            "*(_QWORD *)(a2 + 16)",
+            "*(_QWORD *)(a2 + 8) - 1LL"
+        ],
+        "funName": "sub_405168",
+        "lineNum": 16
+    },
+    {
+        "args": [
+            "*(_QWORD *)(a1 + 16)",
+            "*(_QWORD *)(a1 + 8) - 1LL",
+            "*(_QWORD *)(a2 + 16)",
+            "*(_QWORD *)(a2 + 8) - 1LL"
+        ],
+        "funName": "sub_402C0E",
+        "lineNum": 22
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "args": [
+            "a1",
+            "(const void *)(*a2 + 16LL * v5)"
+        ],
+        "funName": "sub_40260E",
+        "lineNum": 14
+    }
+]

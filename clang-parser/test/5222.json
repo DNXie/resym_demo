@@ -1,0 +1,290 @@
+[
+    {
+        "expr": "(_QWORD *)(a1 + 8)",
+        "lineNum": 22,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD **)(a1 + 8)",
+        "lineNum": 24,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a1"
+    },
+    {
+        "expr": "(char *)(v18 + 17)",
+        "lineNum": 28,
+        "offset": 17,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v18"
+    },
+    {
+        "expr": "(_BYTE *)(v18 + 17)",
+        "lineNum": 29,
+        "offset": 17,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v18"
+    },
+    {
+        "expr": "(_QWORD *)(v18 + 32)",
+        "lineNum": 30,
+        "offset": 32,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v18"
+    },
+    {
+        "expr": "(_QWORD *)(v18 + 24)",
+        "lineNum": 32,
+        "offset": 24,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v18"
+    },
+    {
+        "expr": "(char *)(v3 + 17)",
+        "lineNum": 35,
+        "offset": 17,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v3"
+    },
+    {
+        "expr": "(unsigned __int8 *)(v3 + 16)",
+        "lineNum": 38,
+        "offset": 16,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v3"
+    },
+    {
+        "expr": "(_QWORD **)(a1 + 8)",
+        "lineNum": 40,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)(v3 + 8)",
+        "lineNum": 40,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v3"
+    },
+    {
+        "expr": "(_QWORD *)(v3 + 8)",
+        "lineNum": 42,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v3"
+    },
+    {
+        "expr": "(_QWORD *)(a1 + 8)",
+        "lineNum": 42,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a1"
+    },
+    {
+        "expr": "(void **)(a1 + 8)",
+        "lineNum": 43,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a1"
+    },
+    {
+        "expr": "(unsigned __int8 *)(v3 + 16)",
+        "lineNum": 48,
+        "offset": 16,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v3"
+    },
+    {
+        "expr": "(unsigned __int8 *)(v18 + 16)",
+        "lineNum": 52,
+        "offset": 16,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v18"
+    },
+    {
+        "expr": "(_QWORD **)(a1 + 8)",
+        "lineNum": 54,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)(v18 + 8)",
+        "lineNum": 54,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v18"
+    },
+    {
+        "expr": "(_QWORD **)(a1 + 8)",
+        "lineNum": 56,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a1"
+    },
+    {
+        "expr": "v6[1]",
+        "lineNum": 57,
+        "offset": 1,
+        "size": 8,
+        "typeInfo": "uint64 *",
+        "varName": "v6"
+    },
+    {
+        "expr": "v17[1]",
+        "lineNum": 59,
+        "offset": 1,
+        "size": 8,
+        "typeInfo": "uint64 *",
+        "varName": "v17"
+    },
+    {
+        "expr": "(_QWORD **)(a1 + 8)",
+        "lineNum": 60,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a1"
+    },
+    {
+        "expr": "(_QWORD *)(v18 + 8)",
+        "lineNum": 65,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v18"
+    },
+    {
+        "expr": "v4[1]",
+        "lineNum": 66,
+        "offset": 1,
+        "size": 8,
+        "typeInfo": "uint64 *",
+        "varName": "v4"
+    },
+    {
+        "expr": "v17[1]",
+        "lineNum": 68,
+        "offset": 1,
+        "size": 8,
+        "typeInfo": "uint64 *",
+        "varName": "v17"
+    },
+    {
+        "expr": "(_QWORD **)(a1 + 8)",
+        "lineNum": 75,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a1"
+    },
+    {
+        "expr": "v8[1]",
+        "lineNum": 76,
+        "offset": 1,
+        "size": 8,
+        "typeInfo": "uint64 *",
+        "varName": "v8"
+    },
+    {
+        "expr": "v17[1]",
+        "lineNum": 78,
+        "offset": 1,
+        "size": 8,
+        "typeInfo": "uint64 *",
+        "varName": "v17"
+    },
+    {
+        "expr": "(void **)(a1 + 8)",
+        "lineNum": 80,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a1"
+    },
+    {
+        "expr": "(_BYTE *)(v18 + 16)",
+        "lineNum": 82,
+        "offset": 16,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v18"
+    },
+    {
+        "expr": "(void **)(v18 + 8)",
+        "lineNum": 83,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v18"
+    },
+    {
+        "expr": "(_QWORD *)(v18 + 8)",
+        "lineNum": 84,
+        "offset": 8,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "v18"
+    },
+    {
+        "expr": "(_BYTE *)(a2 + 17)",
+        "lineNum": 95,
+        "offset": 17,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a2"
+    },
+    {
+        "expr": "(_QWORD *)(a2 + 32)",
+        "lineNum": 96,
+        "offset": 32,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a2"
+    },
+    {
+        "expr": "(_QWORD *)(a2 + 32)",
+        "lineNum": 96,
+        "offset": 32,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a2"
+    },
+    {
+        "expr": "(_QWORD *)(a2 + 24)",
+        "lineNum": 98,
+        "offset": 24,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a2"
+    },
+    {
+        "expr": "(_QWORD *)(a2 + 24)",
+        "lineNum": 98,
+        "offset": 24,
+        "size": 0,
+        "typeInfo": "long long",
+        "varName": "a2"
+    }
+]

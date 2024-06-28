@@ -1,0 +1,82 @@
+[
+    {
+        "expr": "(_QWORD *)v3",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64 *",
+        "lhsPointeeSize": 8,
+        "lhsType": "uint64 *",
+        "lineNum": 12,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "(_QWORD *)(v3 + 16)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 13,
+        "offset": 16,
+        "varName": "v3"
+    },
+    {
+        "expr": "(_QWORD *)(v3 + 8)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 14,
+        "offset": 8,
+        "varName": "v3"
+    },
+    {
+        "expr": "(_QWORD *)(v3 + 16)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 14,
+        "offset": 16,
+        "varName": "v3"
+    },
+    {
+        "expr": "(_DWORD *)(v3 + 24)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 15,
+        "offset": 24,
+        "varName": "v3"
+    },
+    {
+        "expr": "(_QWORD *)(v3 + 32)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 16,
+        "offset": 32,
+        "varName": "v3"
+    },
+    {
+        "expr": "(_QWORD *)(v3 + 40)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 17,
+        "offset": 40,
+        "varName": "v3"
+    },
+    {
+        "expr": "(_QWORD *)(v3 + 48)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 18,
+        "offset": 48,
+        "varName": "v3"
+    }
+]

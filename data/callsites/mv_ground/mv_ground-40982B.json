@@ -1,0 +1,36 @@
+[
+    {
+        "args": [
+            "24LL"
+        ],
+        "funName": "sub_410EEB",
+        "lineNum": 7
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_411040",
+        "lineNum": 8
+    },
+    {
+        "args": [
+            "qword_61B840",
+            "v5"
+        ],
+        "funName": "sub_40CCDE",
+        "lineNum": 11
+    },
+    {
+        "args": [],
+        "funName": "sub_41106D",
+        "lineNum": 13
+    },
+    {
+        "args": [
+            "(void **)v5"
+        ],
+        "funName": "sub_409750",
+        "lineNum": 16
+    }
+]

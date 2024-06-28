@@ -1,0 +1,39 @@
+[
+    {
+        "args": [
+            "*(_QWORD *)(v19 + 16)",
+            "*(_QWORD *)(v19 + 8) - 1LL",
+            "*(_QWORD *)(v20 + 16)",
+            "*(_QWORD *)(v20 + 8) - 1LL"
+        ],
+        "funName": "sub_405168",
+        "lineNum": 66
+    },
+    {
+        "args": [
+            "v20",
+            "stdout",
+            "2"
+        ],
+        "funName": "sub_401849",
+        "lineNum": 102
+    },
+    {
+        "args": [
+            "v19",
+            "stdout",
+            "1"
+        ],
+        "funName": "sub_401849",
+        "lineNum": 104
+    },
+    {
+        "args": [
+            "v20",
+            "stdout",
+            "3"
+        ],
+        "funName": "sub_401849",
+        "lineNum": 108
+    }
+]

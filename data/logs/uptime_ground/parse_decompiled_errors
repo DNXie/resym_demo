@@ -1,0 +1,8 @@
+Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/uptime_ground
+uptime_ground.decompiled - .strtod_l: Fail to match arguments char **endptr
+uptime_ground.decompiled - .getloadavg: Fail to match arguments double loadavg[]
+uptime_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
+uptime_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
+uptime_ground.decompiled - .strftime: Fail to match arguments const struct tm *tp
+uptime_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc
+uptime_ground.decompiled - .ngettext: Fail to match arguments unsigned __int64 n

@@ -1,0 +1,182 @@
+[
+    {
+        "expr": "a3",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 21,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a4",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(long long, long long) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(long long, long long) __attribute__((fastcall))",
+        "lineNum": 21,
+        "offset": 0,
+        "varName": "a4"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a4",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(long long, long long) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(long long, long long) __attribute__((fastcall))",
+        "lineNum": 23,
+        "offset": 0,
+        "varName": "a4"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 25,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 25,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 26,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a4",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(long long, long long) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(long long, long long) __attribute__((fastcall))",
+        "lineNum": 29,
+        "offset": 0,
+        "varName": "a4"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 29,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "a4",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(long long, long long) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(long long, long long) __attribute__((fastcall))",
+        "lineNum": 29,
+        "offset": 0,
+        "varName": "a4"
+    },
+    {
+        "expr": "a4",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(long long, long long) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(long long, long long) __attribute__((fastcall))",
+        "lineNum": 38,
+        "offset": 0,
+        "varName": "a4"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 50,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[1]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 51,
+        "offset": 1,
+        "varName": "a1"
+    },
+    {
+        "expr": "a4",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "long long (*)(long long, long long) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long (*)(long long, long long) __attribute__((fastcall))",
+        "lineNum": 52,
+        "offset": 0,
+        "varName": "a4"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 52,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long *",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 54,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[1]",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "long long",
+        "lhsPointeeSize": 8,
+        "lhsType": "long long *",
+        "lineNum": 55,
+        "offset": 1,
+        "varName": "a1"
+    }
+]

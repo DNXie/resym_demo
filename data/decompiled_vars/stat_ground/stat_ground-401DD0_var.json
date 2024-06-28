@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "file",
+            "type": "const char *",
+            "original_line": "const char *file"
+        },
+        {
+            "name": "buf",
+            "type": "struct statfs *",
+            "original_line": "struct statfs *buf"
+        }
+    ],
+    "variable": []
+}

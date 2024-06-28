@@ -1,0 +1,32 @@
+[
+    {
+        "expr": "v6",
+        "exprPointeeSize": 2,
+        "exprPointeeType": "short *",
+        "lhsPointeeSize": 2,
+        "lhsType": "short *",
+        "lineNum": 20,
+        "offset": 0,
+        "varName": "v6"
+    },
+    {
+        "expr": "a3",
+        "exprPointeeSize": 2,
+        "exprPointeeType": "short *",
+        "lhsPointeeSize": 2,
+        "lhsType": "short *",
+        "lineNum": 20,
+        "offset": 0,
+        "varName": "a3"
+    },
+    {
+        "expr": "v6",
+        "exprPointeeSize": 2,
+        "exprPointeeType": "short *",
+        "lhsPointeeSize": 2,
+        "lhsType": "short *",
+        "lineNum": 21,
+        "offset": 0,
+        "varName": "v6"
+    }
+]

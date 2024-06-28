@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "timerid",
+            "type": "timer_t",
+            "original_line": "timer_t timerid"
+        }
+    ],
+    "variable": []
+}

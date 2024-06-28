@@ -1,0 +1,22 @@
+[
+    {
+        "args": [
+            "16LL"
+        ],
+        "funName": "sub_414989",
+        "lineNum": 7
+    },
+    {
+        "args": [
+            "qword_61D620",
+            "ptr"
+        ],
+        "funName": "sub_40D83F",
+        "lineNum": 10
+    },
+    {
+        "args": [],
+        "funName": "sub_414B0B",
+        "lineNum": 12
+    }
+]

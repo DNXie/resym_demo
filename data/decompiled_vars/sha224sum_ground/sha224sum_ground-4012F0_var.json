@@ -1,0 +1,19 @@
+{
+    "argument": [
+        {
+            "name": "fd",
+            "type": "int",
+            "original_line": "int fd"
+        },
+        {
+            "name": "cmd",
+            "type": "int",
+            "original_line": "int cmd"
+        },
+        {
+            "name": "...",
+            "original_line": "..."
+        }
+    ],
+    "variable": []
+}

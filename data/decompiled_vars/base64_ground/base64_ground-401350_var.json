@@ -1,0 +1,25 @@
+{
+    "argument": [
+        {
+            "name": "fd",
+            "type": "int",
+            "original_line": "int fd"
+        },
+        {
+            "name": "offset",
+            "type": "off_t",
+            "original_line": "off_t offset"
+        },
+        {
+            "name": "len",
+            "type": "off_t",
+            "original_line": "off_t len"
+        },
+        {
+            "name": "advise",
+            "type": "int",
+            "original_line": "int advise"
+        }
+    ],
+    "variable": []
+}

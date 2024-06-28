@@ -1,0 +1,10 @@
+[
+    {
+        "args": [
+            "a1 + 96",
+            "(unsigned int)v4"
+        ],
+        "funName": "sub_4150A2",
+        "lineNum": 13
+    }
+]

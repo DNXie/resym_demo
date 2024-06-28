@@ -1,0 +1,9 @@
+Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/stat_ground
+stat_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
+stat_ground.decompiled - .__assert_fail: Fail to match arguments unsigned int line
+stat_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
+stat_ground.decompiled - .strtol: Fail to match arguments char **endptr
+stat_ground.decompiled - .gnu_dev_major: Fail to match arguments unsigned __int64 dev
+stat_ground.decompiled - .strftime: Fail to match arguments const struct tm *tp
+stat_ground.decompiled - .gnu_dev_minor: Fail to match arguments unsigned __int64 dev
+stat_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc

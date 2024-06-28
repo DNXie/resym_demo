@@ -1,0 +1,56 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int",
+            "original_line": "int a1"
+        },
+        {
+            "name": "a2",
+            "type": "const char *",
+            "original_line": "const char *a2"
+        },
+        {
+            "name": "a3",
+            "type": "int",
+            "original_line": "int a3"
+        },
+        {
+            "name": "a4",
+            "type": "unsigned int",
+            "original_line": "unsigned int a4"
+        }
+    ],
+    "variable": [
+        {
+            "name": "fd",
+            "type": "int",
+            "comment": "[rsp+24h] [rbp-Ch]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-C",
+            "rbp_offset_dec": -12,
+            "original_line": "int fd; // [rsp+24h] [rbp-Ch]"
+        },
+        {
+            "name": "v6",
+            "type": "unsigned int",
+            "comment": "[rsp+28h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "unsigned int v6; // [rsp+28h] [rbp-8h]"
+        },
+        {
+            "name": "v7",
+            "type": "int",
+            "comment": "[rsp+2Ch] [rbp-4h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-4",
+            "rbp_offset_dec": -4,
+            "original_line": "int v7; // [rsp+2Ch] [rbp-4h]"
+        }
+    ]
+}

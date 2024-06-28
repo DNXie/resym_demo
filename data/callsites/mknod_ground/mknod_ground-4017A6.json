@@ -1,0 +1,117 @@
+[
+    {
+        "args": [
+            "*a2",
+            "a2",
+            "a3"
+        ],
+        "funName": "sub_402614",
+        "lineNum": 45
+    },
+    {
+        "args": [
+            "sub_401ED3"
+        ],
+        "funName": "sub_405210",
+        "lineNum": 49
+    },
+    {
+        "args": [
+            "0"
+        ],
+        "funName": "sub_401635",
+        "lineNum": 56
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401635",
+        "lineNum": 72
+    },
+    {
+        "args": [
+            "v35"
+        ],
+        "funName": "sub_4020DD",
+        "lineNum": 88
+    },
+    {
+        "args": [
+            "a2[a1 - 1]"
+        ],
+        "funName": "sub_40271F",
+        "lineNum": 112
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401635",
+        "lineNum": 126
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401635",
+        "lineNum": 138
+    },
+    {
+        "args": [
+            "v36"
+        ],
+        "funName": "sub_40150D",
+        "lineNum": 140
+    },
+    {
+        "args": [
+            "v36"
+        ],
+        "funName": "sub_40271F",
+        "lineNum": 142
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_401635",
+        "lineNum": 174
+    },
+    {
+        "args": [
+            "v38",
+            "0LL",
+            "0LL",
+            "major",
+            "0LL"
+        ],
+        "funName": "sub_404AA8",
+        "lineNum": 181
+    },
+    {
+        "args": [
+            "v38"
+        ],
+        "funName": "sub_40271F",
+        "lineNum": 183
+    },
+    {
+        "args": [
+            "v39",
+            "0LL",
+            "0LL",
+            "minor",
+            "0LL"
+        ],
+        "funName": "sub_404AA8",
+        "lineNum": 187
+    },
+    {
+        "args": [
+            "v39"
+        ],
+        "funName": "sub_40271F",
+        "lineNum": 189
+    }
+]

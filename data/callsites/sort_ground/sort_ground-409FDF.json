@@ -1,0 +1,16 @@
+[
+    {
+        "args": [
+            "*(_QWORD *)a1",
+            "*((_QWORD *)a1 + 1)",
+            "*((_QWORD *)a1 + 2)",
+            "*((_QWORD *)a1 + 3)",
+            "*((unsigned __int8 *)a1 + 32)",
+            "*((_QWORD *)a1 + 5)",
+            "*((_QWORD *)a1 + 6)",
+            "*((_QWORD *)a1 + 7)"
+        ],
+        "funName": "sub_40A051",
+        "lineNum": 4
+    }
+]

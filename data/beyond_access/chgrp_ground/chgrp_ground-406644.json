@@ -1,0 +1,32 @@
+[
+    {
+        "expr": "(_DWORD *)(a1 + 44)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 8,
+        "offset": 44,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_DWORD *)(a1 + 72)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 17,
+        "offset": 72,
+        "varName": "a1"
+    },
+    {
+        "expr": "(_DWORD *)(a1 + 44)",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 22,
+        "offset": 44,
+        "varName": "a1"
+    }
+]

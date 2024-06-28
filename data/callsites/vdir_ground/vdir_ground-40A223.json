@@ -1,0 +1,29 @@
+[
+    {
+        "args": [
+            "*(_QWORD *)(a1 + 24)",
+            "v10"
+        ],
+        "funName": "sub_40EF8A",
+        "lineNum": 21
+    },
+    {
+        "args": [
+            "0LL",
+            "*(_QWORD *)a1",
+            "qword_61D700",
+            "&v8"
+        ],
+        "funName": "sub_4092DE",
+        "lineNum": 54
+    },
+    {
+        "args": [
+            "*(_BYTE *)(a1 + 176)",
+            "*(_DWORD *)(a1 + 40)",
+            "*(_DWORD *)(a1 + 160)"
+        ],
+        "funName": "sub_409C3D",
+        "lineNum": 58
+    }
+]

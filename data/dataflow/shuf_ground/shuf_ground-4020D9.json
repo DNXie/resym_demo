@@ -1,0 +1,57 @@
+[
+    {
+        "lhsVarName": "v38",
+        "lineNum": 85,
+        "rhsVarName": "v37"
+    },
+    {
+        "lhsVarName": "v39",
+        "lineNum": 89,
+        "rhsVarName": "v37"
+    },
+    {
+        "lhsVarName": "v7",
+        "lineNum": 143,
+        "rhsVarName": "v40"
+    },
+    {
+        "lhsVarName": "v7",
+        "lineNum": 145,
+        "rhsVarName": "v37"
+    },
+    {
+        "lhsVarName": "v40",
+        "lineNum": 146,
+        "rhsVarName": "v7"
+    },
+    {
+        "lhsVarName": "v43",
+        "lineNum": 184,
+        "rhsVarName": "v35"
+    },
+    {
+        "lhsVarName": "v44",
+        "lineNum": 185,
+        "rhsVarName": "v47"
+    },
+    {
+        "lhsVarName": "v44",
+        "lineNum": 219,
+        "rhsVarName": "v36"
+    },
+    {
+        "lhsVarName": "v19",
+        "lineNum": 221,
+        "rhsVarName": "v40"
+    },
+    {
+        "lhsVarName": "v19",
+        "lineNum": 223,
+        "rhsVarName": "v43"
+    },
+    {
+        "lhsVarName": "v40",
+        "lineNum": 224,
+        "rhsVarName": "v19"
+    }
+]

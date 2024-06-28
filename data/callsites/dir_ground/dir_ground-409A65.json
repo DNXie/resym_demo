@@ -1,0 +1,16 @@
+[
+    {
+        "args": [],
+        "funName": "sub_402CFD",
+        "lineNum": 14
+    },
+    {
+        "args": [
+            "(__int64)v9",
+            "0x28CuLL",
+            "a1"
+        ],
+        "funName": "sub_4087F5",
+        "lineNum": 17
+    }
+]

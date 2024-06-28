@@ -1,0 +1,30 @@
+[
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_40ADC9",
+        "lineNum": 18
+    },
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_40ADC9",
+        "lineNum": 19
+    },
+    {
+        "args": [
+            "(__int64)a1"
+        ],
+        "funName": "sub_40AC7B",
+        "lineNum": 26
+    },
+    {
+        "args": [
+            "(__int64)a2"
+        ],
+        "funName": "sub_40AC7B",
+        "lineNum": 27
+    }
+]

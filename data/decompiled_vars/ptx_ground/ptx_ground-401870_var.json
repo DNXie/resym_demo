@@ -1,0 +1,30 @@
+{
+    "argument": [
+        {
+            "name": "buffer",
+            "type": "struct re_pattern_buffer *",
+            "original_line": "struct re_pattern_buffer *buffer"
+        },
+        {
+            "name": "string",
+            "type": "const char *",
+            "original_line": "const char *string"
+        },
+        {
+            "name": "length",
+            "type": "int",
+            "original_line": "int length"
+        },
+        {
+            "name": "start",
+            "type": "int",
+            "original_line": "int start"
+        },
+        {
+            "name": "regs",
+            "type": "struct re_registers *",
+            "original_line": "struct re_registers *regs"
+        }
+    ],
+    "variable": []
+}

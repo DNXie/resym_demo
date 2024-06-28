@@ -1,0 +1,24 @@
+[
+    {
+        "args": [
+            "a3",
+            "0LL",
+            "10LL",
+            "&v7",
+            "locale"
+        ],
+        "funName": "sub_415405",
+        "lineNum": 8
+    },
+    {
+        "args": [
+            "v6",
+            "a1",
+            "(unsigned int)a2",
+            "&longopts",
+            "a3"
+        ],
+        "funName": "sub_41594B",
+        "lineNum": 12
+    }
+]

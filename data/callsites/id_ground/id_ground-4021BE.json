@@ -1,0 +1,42 @@
+[
+    {
+        "args": [
+            "a3",
+            "a5"
+        ],
+        "funName": "sub_402379",
+        "lineNum": 21
+    },
+    {
+        "args": [
+            "a4",
+            "a5"
+        ],
+        "funName": "sub_402379",
+        "lineNum": 26
+    },
+    {
+        "args": [
+            "a1",
+            "v5",
+            "&ptr"
+        ],
+        "funName": "sub_4049DE",
+        "lineNum": 33
+    },
+    {
+        "args": [
+            "*((unsigned int *)ptr + i)",
+            "a5"
+        ],
+        "funName": "sub_402379",
+        "lineNum": 41
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_4026F5",
+        "lineNum": 52
+    }
+]

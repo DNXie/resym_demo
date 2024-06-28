@@ -1,0 +1,30 @@
+[
+    {
+        "args": [
+            "*v10"
+        ],
+        "funName": "sub_402B35",
+        "lineNum": 30
+    },
+    {
+        "args": [
+            "*i"
+        ],
+        "funName": "sub_402B35",
+        "lineNum": 32
+    },
+    {
+        "args": [
+            "*v10"
+        ],
+        "funName": "sub_402B35",
+        "lineNum": 37
+    },
+    {
+        "args": [
+            "*i"
+        ],
+        "funName": "sub_402B35",
+        "lineNum": 39
+    }
+]

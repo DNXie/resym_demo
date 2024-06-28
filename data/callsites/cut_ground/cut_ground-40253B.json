@@ -1,0 +1,31 @@
+[
+    {
+        "args": [
+            "1uLL",
+            "0LL"
+        ],
+        "funName": "sub_401BCF",
+        "lineNum": 20
+    },
+    {
+        "args": [
+            "v6",
+            "0LL"
+        ],
+        "funName": "sub_401BCF",
+        "lineNum": 28
+    },
+    {
+        "args": [
+            "1uLL",
+            "0LL"
+        ],
+        "funName": "sub_401BCF",
+        "lineNum": 78
+    },
+    {
+        "args": [],
+        "funName": "sub_40739E",
+        "lineNum": 100
+    }
+]

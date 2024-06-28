@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "tv",
+            "type": "struct timeval *",
+            "original_line": "struct timeval *tv"
+        },
+        {
+            "name": "tz",
+            "type": "__timezone_ptr_t",
+            "original_line": "__timezone_ptr_t tz"
+        }
+    ],
+    "variable": []
+}

@@ -1,0 +1,5 @@
+Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/ln_ground
+ln_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
+ln_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
+ln_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc
+ln_ground.decompiled - .getline: Fail to match arguments char **lineptr

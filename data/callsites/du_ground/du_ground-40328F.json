@@ -1,0 +1,185 @@
+[
+    {
+        "args": [
+            "(__int64)\".\""
+        ],
+        "funName": "sub_40257F",
+        "lineNum": 57
+    },
+    {
+        "args": [
+            "*a2"
+        ],
+        "funName": "sub_40B8FD",
+        "lineNum": 59
+    },
+    {
+        "args": [
+            "sub_404521"
+        ],
+        "funName": "sub_415AA0",
+        "lineNum": 63
+    },
+    {
+        "args": [
+            "v3",
+            "&dword_61B3F8",
+            "&qword_61B418"
+        ],
+        "funName": "sub_40AF36",
+        "lineNum": 66
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_4026A0",
+        "lineNum": 85
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_4026A0",
+        "lineNum": 97
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_4026A0",
+        "lineNum": 156
+    },
+    {
+        "args": [
+            "s1",
+            "\"r\"",
+            "stdin"
+        ],
+        "funName": "sub_4086EC",
+        "lineNum": 158
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_40C459",
+        "lineNum": 160
+    },
+    {
+        "args": [
+            "stdin"
+        ],
+        "funName": "sub_404334",
+        "lineNum": 165
+    },
+    {
+        "args": [
+            "v20"
+        ],
+        "funName": "sub_4042E3",
+        "lineNum": 175
+    },
+    {
+        "args": [],
+        "funName": "sub_40ECCE",
+        "lineNum": 180
+    },
+    {
+        "args": [],
+        "funName": "sub_40ECCE",
+        "lineNum": 183
+    },
+    {
+        "args": [
+            "v43",
+            "&v41"
+        ],
+        "funName": "sub_40439D",
+        "lineNum": 190
+    },
+    {
+        "args": [
+            "v47"
+        ],
+        "funName": "sub_40C459",
+        "lineNum": 195
+    },
+    {
+        "args": [
+            "v43"
+        ],
+        "funName": "sub_404484",
+        "lineNum": 204
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_40DA72",
+        "lineNum": 206
+    },
+    {
+        "args": [
+            "&qword_61B460",
+            "v38"
+        ],
+        "funName": "sub_40316B",
+        "lineNum": 223
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_40DA72",
+        "lineNum": 230
+    },
+    {
+        "args": [
+            "v43"
+        ],
+        "funName": "sub_4044C1",
+        "lineNum": 240
+    },
+    {
+        "args": [
+            "qword_61B3E0"
+        ],
+        "funName": "sub_40475B",
+        "lineNum": 241
+    },
+    {
+        "args": [
+            "s1"
+        ],
+        "funName": "sub_40C459",
+        "lineNum": 244
+    },
+    {
+        "args": [
+            "qword_61B430",
+            "v32"
+        ],
+        "funName": "sub_4029F8",
+        "lineNum": 251
+    },
+    {
+        "args": [],
+        "funName": "sub_40ECCE",
+        "lineNum": 255
+    },
+    {
+        "args": [
+            "1"
+        ],
+        "funName": "sub_4026A0",
+        "lineNum": 257
+    },
+    {
+        "args": [
+            "0"
+        ],
+        "funName": "sub_4026A0",
+        "lineNum": 436
+    }
+]

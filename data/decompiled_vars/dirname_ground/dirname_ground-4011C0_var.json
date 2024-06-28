@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "category",
+            "type": "int",
+            "original_line": "int category"
+        },
+        {
+            "name": "locale",
+            "type": "const char *",
+            "original_line": "const char *locale"
+        }
+    ],
+    "variable": []
+}

@@ -1,0 +1,57 @@
+[
+    {
+        "args": [
+            "v5"
+        ],
+        "funName": "sub_4042A7",
+        "lineNum": 16
+    },
+    {
+        "args": [
+            "v7"
+        ],
+        "funName": "sub_4042A7",
+        "lineNum": 18
+    },
+    {
+        "args": [
+            "(__int64)\"ispeed %lu baud; ospeed %lu baud;\"",
+            "v8",
+            "v6"
+        ],
+        "funName": "sub_4019C6",
+        "lineNum": 20
+    },
+    {
+        "args": [
+            "(__int64)\"%lu %lu\\n\"",
+            "v8",
+            "v6"
+        ],
+        "funName": "sub_4019C6",
+        "lineNum": 22
+    },
+    {
+        "args": [
+            "v3"
+        ],
+        "funName": "sub_4042A7",
+        "lineNum": 27
+    },
+    {
+        "args": [
+            "(__int64)\"speed %lu baud;\"",
+            "v4"
+        ],
+        "funName": "sub_4019C6",
+        "lineNum": 29
+    },
+    {
+        "args": [
+            "(__int64)\"%lu\\n\"",
+            "v4"
+        ],
+        "funName": "sub_4019C6",
+        "lineNum": 31
+    }
+]

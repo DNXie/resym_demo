@@ -1,0 +1,79 @@
+[
+    {
+        "args": [
+            "v17"
+        ],
+        "funName": "sub_40221E",
+        "lineNum": 26
+    },
+    {
+        "args": [
+            "v19"
+        ],
+        "funName": "sub_40221E",
+        "lineNum": 28
+    },
+    {
+        "args": [
+            "v13",
+            "(__int64)v5"
+        ],
+        "funName": "sub_402560",
+        "lineNum": 55
+    },
+    {
+        "args": [
+            "*v18",
+            "*v20",
+            "qword_60A200",
+            "qword_60A208"
+        ],
+        "funName": "sub_401D05",
+        "lineNum": 65
+    },
+    {
+        "args": [
+            "(void *)v18[i]",
+            "v20[j]"
+        ],
+        "funName": "sub_402560",
+        "lineNum": 93
+    },
+    {
+        "args": [
+            "&unk_60A360",
+            "*v20"
+        ],
+        "funName": "sub_402560",
+        "lineNum": 122
+    },
+    {
+        "args": [
+            "&unk_60A360",
+            "*v20"
+        ],
+        "funName": "sub_402560",
+        "lineNum": 157
+    },
+    {
+        "args": [
+            "(__int64)ptr"
+        ],
+        "funName": "sub_401CB6",
+        "lineNum": 169
+    },
+    {
+        "args": [
+            "(__int64)v17"
+        ],
+        "funName": "sub_402362",
+        "lineNum": 171
+    },
+    {
+        "args": [
+            "(__int64)v19"
+        ],
+        "funName": "sub_402362",
+        "lineNum": 172
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "args": [
+            "0LL"
+        ],
+        "funName": "sub_40AB25",
+        "lineNum": 14
+    },
+    {
+        "args": [
+            "v7",
+            "0LL"
+        ],
+        "funName": "sub_409A65",
+        "lineNum": 19
+    },
+    {
+        "args": [
+            "v2 + v3",
+            "v4 + v2"
+        ],
+        "funName": "sub_40A799",
+        "lineNum": 24
+    },
+    {
+        "args": [
+            "v8",
+            "v2"
+        ],
+        "funName": "sub_409A65",
+        "lineNum": 33
+    },
+    {
+        "args": [
+            "v8"
+        ],
+        "funName": "sub_40A223",
+        "lineNum": 34
+    }
+]

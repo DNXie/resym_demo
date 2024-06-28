@@ -1,0 +1,42 @@
+[
+    {
+        "args": [
+            "*(unsigned __int8 *)a2"
+        ],
+        "funName": "sub_40C9FB",
+        "lineNum": 92
+    },
+    {
+        "args": [
+            "v74"
+        ],
+        "funName": "sub_408B8A",
+        "lineNum": 108
+    },
+    {
+        "args": [
+            "v27"
+        ],
+        "funName": "sub_40C4AB",
+        "lineNum": 112
+    },
+    {
+        "args": [
+            "(__int64)&v43",
+            "(__int64)v8",
+            "v9",
+            "v10",
+            "v4",
+            "v5"
+        ],
+        "funName": "sub_406060",
+        "lineNum": 195
+    },
+    {
+        "args": [
+            "v74"
+        ],
+        "funName": "sub_408B8A",
+        "lineNum": 233
+    }
+]

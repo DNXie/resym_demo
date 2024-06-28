@@ -1,0 +1,2556 @@
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401C9C.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406A22.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_406A22(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4018F0.c:3:12: error: unknown type name 'FILE'
+int fflush(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406B91.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_406B91(const char *a1)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406B91.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v1; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406B91.c:4:3: warning: expression result unused
+  size_t v1; // rax
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406B91.c:4:10: error: use of undeclared identifier 'v1'
+  size_t v1; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406B91.c:6:3: error: use of undeclared identifier 'v1'
+  v1 = strlen(a1);
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406B91.c:7:25: error: use of undeclared identifier 'v1'
+  return sub_406B60(a1, v1 + 1);
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405DA2.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_405DA2(int a1, __int64 a2, size_t a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405DA2.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405DA2(int a1, __int64 a2, size_t a3)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405FA2.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405FA2(__int64 a1, __int64 a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4060A2.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_4060A2(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5, unsigned __int64 a6)
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4060A2.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_4060A2(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5, unsigned __int64 a6)
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4060A2.c:66:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v6 = gettext("(C)");
+     ^ ~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4060A2.c:68:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v7 = gettext(
+     ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4060A2.c:81:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v22 = gettext("Written by %s, %s, %s,\nand %s.\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4060A2.c:95:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v40 = gettext("Written by %s, %s, %s,\n%s, %s, %s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4060A2.c:110:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v46 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\nand %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4060A2.c:125:15: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+          v52 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\n%s, and %s.\n");
+              ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4060A2.c:127:15: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+          v52 = gettext("Written by %s, %s, %s,\n%s, %s, %s, %s,\n%s, %s, and others.\n");
+              ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4060A2.c:138:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v28 = gettext("Written by %s, %s, %s,\n%s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4060A2.c:149:11: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v34 = gettext("Written by %s, %s, %s,\n%s, %s, and %s.\n");
+          ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4060A2.c:159:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v9 = gettext("Written by %s.\n");
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4060A2.c:167:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v12 = gettext("Written by %s and %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4060A2.c:174:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v16 = gettext("Written by %s, %s, and %s.\n");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4046E3.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4046E3(unsigned __int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4018E0.c:3:14: error: unknown type name 'size_t'
+void *malloc(size_t size)
+             ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405E62.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405E62(__int64 a1, unsigned __int8 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405E62.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_405DCE(a1, 0xFFFFFFFFFFFFFFFFLL, a2);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4029CF.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn sub_4029CF(__int64 a1, __int64 a2, char a3)
+     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4029CF.c:13:31: error: use of undeclared identifier 'qword_60B388'
+  v3 = sub_404873(*(_QWORD *)(qword_60B388 + 8LL * *(int *)(a1 + 24)));
+                              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4029CF.c:14:8: error: use of undeclared identifier 'qword_60B468'
+  v4 = qword_60B468;
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4029CF.c:15:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v5 = gettext("%s: %s: match not found");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4029CF.c:16:11: error: use of undeclared identifier 'stderr'
+  fprintf(stderr, v5, v4, v3);
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4029CF.c:20:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v7 = gettext(" on repetition %s\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4029CF.c:21:13: error: use of undeclared identifier 'stderr'
+    fprintf(stderr, v7, v6);
+            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4029CF.c:25:15: error: use of undeclared identifier 'stderr'
+    fputc(10, stderr);
+              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405CFE.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405CFE(int a1, int a2, __int64 a3)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405CFE.c:7:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_4059DB(a1, a3, 0xFFFFFFFFFFFFFFFFLL, (__int64)v5);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045AF.c:2:1: error: unknown type name 'size_t'
+size_t __fastcall sub_4045AF(const char *a1)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045AF.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+size_t __fastcall sub_4045AF(const char *a1)
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045AF.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t i; // [rsp+10h] [rbp-10h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045AF.c:4:3: warning: expression result unused
+  size_t i; // [rsp+10h] [rbp-10h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045AF.c:4:10: error: use of undeclared identifier 'i'
+  size_t i; // [rsp+10h] [rbp-10h]
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045AF.c:6:9: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045AF.c:6:37: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045AF.c:6:25: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045AF.c:6:53: error: use of undeclared identifier 'i'
+  for ( i = strlen(a1); i > 1 && a1[i - 1] == 47; --i )
+                                                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045AF.c:8:10: error: use of undeclared identifier 'i'
+  return i;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405EAB.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_405EAB(__int64 a1, size_t a2)
+                                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405EAB.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405EAB(__int64 a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A40.c:3:15: error: unknown type name 'sigset_t'
+int sigaddset(sigset_t *set, int signo)
+              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:2:66: error: unknown type name 'uintmax_t'
+__int64 __fastcall sub_407663(const char *a1, char **a2, int a3, uintmax_t *a4, const char *a5)
+                                                                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_407663(const char *a1, char **a2, int a3, uintmax_t *a4, const char *a5)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:13:3: error: use of undeclared identifier 'uintmax_t'
+  uintmax_t v18; // [rsp+58h] [rbp-18h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:26:20: error: indirection requires pointer operand ('int' invalid)
+  for ( i = *a1; ((*__ctype_b_loc())[i] & 0x2000) != 0; i = *v19 )
+                   ^~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:30:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = 0;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:31:3: error: use of undeclared identifier 'v18'
+  v18 = strtoumax(a1, endptr, a3);
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:36:5: error: use of undeclared identifier 'v18'
+    v18 = 1LL;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:38:13: error: indirection requires pointer operand ('int' invalid)
+  else if ( *__errno_location() )
+            ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:40:10: error: indirection requires pointer operand ('int' invalid)
+    if ( *__errno_location() != 34 )
+         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:46:11: error: use of undeclared identifier 'v18'
+    *a4 = v18;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:55:11: error: use of undeclared identifier 'v18'
+    *a4 = v18;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:84:27: error: use of undeclared identifier 'v18'
+        v16 = sub_407622(&v18, v14, 3);
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:92:31: error: use of undeclared identifier 'v18'
+            v16 = sub_4075C3(&v18, 512);
+                              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:98:31: error: use of undeclared identifier 'v18'
+            v16 = sub_407622(&v18, v14, 7);
+                              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:113:29: error: use of undeclared identifier 'v18'
+          v16 = sub_4075C3(&v18, 2);
+                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:117:27: error: use of undeclared identifier 'v18'
+        v16 = sub_407622(&v18, v14, 4);
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:129:29: error: use of undeclared identifier 'v18'
+          v16 = sub_407622(&v18, v14, 6);
+                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:137:19: error: use of undeclared identifier 'v18'
+            *a4 = v18;
+                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:140:29: error: use of undeclared identifier 'v18'
+          v16 = sub_4075C3(&v18, 1024);
+                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:147:27: error: use of undeclared identifier 'v18'
+        v16 = sub_407622(&v18, v14, 5);
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:155:27: error: use of undeclared identifier 'v18'
+        v16 = sub_407622(&v18, v14, 2);
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:160:23: error: use of undeclared identifier 'v18'
+    v16 = sub_407622(&v18, v14, 1);
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:163:21: error: use of undeclared identifier 'v18'
+  v16 = sub_407622(&v18, v14, 8);
+                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407663.c:170:9: error: use of undeclared identifier 'v18'
+  *a4 = v18;
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405C8C.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_405C8C(int a1, __int64 a2, size_t a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405C8C.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405C8C(int a1, __int64 a2, size_t a3)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405C8C.c:4:43: error: use of undeclared identifier 'qword_60B480'
+  return sub_4059DB(a1, a2, a3, (__int64)&qword_60B480);
+                                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4018A0.c:3:17: error: unknown type name 'sigset_t'
+int sigemptyset(sigset_t *set)
+                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403717.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_403717(int a1, int a2, __int64 a3)
+                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403717.c:29:82: error: use of undeclared identifier 'locale'
+      if ( (unsigned int)sub_407663(*(_QWORD *)(8LL * a2 + a3), 0LL, 10LL, &v15, locale) )
+                                                                                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403717.c:32:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v4 = gettext("%s: invalid pattern");
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403717.c:38:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v6 = gettext("%s: line number must be greater than zero");
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403717.c:41:18: error: use of undeclared identifier 'qword_60B450'
+      if ( v15 < qword_60B450 )
+                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403717.c:43:25: error: use of undeclared identifier 'qword_60B450'
+        v7 = sub_4046E3(qword_60B450, v17);
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403717.c:45:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v9 = gettext("line number %s is smaller than preceding line number, %s");
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403717.c:48:19: error: use of undeclared identifier 'qword_60B450'
+      if ( v15 == qword_60B450 )
+                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403717.c:51:13: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v11 = gettext("warning: line number %s is the same as preceding line number");
+            ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403717.c:54:7: error: use of undeclared identifier 'qword_60B450'
+      qword_60B450 = v15;
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C5E.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_406C5E(__int64 *a1, int a2, int a3)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4018D0.c:3:12: error: unknown type name 'FILE'
+int fileno(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401890.c:3:13: error: unknown type name 'FILE'
+int fprintf(FILE *stream, const char *format, ...)
+            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404873.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404873(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4019A0.c:3:1: error: unknown type name 'uintmax_t'
+uintmax_t strtoumax(const char *nptr, char **endptr, int base)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401700.c:3:1: error: unknown type name 'size_t'
+size_t __ctype_get_mb_cur_max(void)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401850.c:3:21: error: unknown type name 'FILE'
+int ferror_unlocked(FILE *stream)
+                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405732.c:2:85: error: unknown type name 'size_t'
+unsigned __int64 __fastcall sub_405732(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, __int64 *a5)
+                                                                                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405732.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_405732(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, __int64 *a5)
+                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405732.c:12:11: error: use of undeclared identifier 'qword_60B480'
+    v5 = &qword_60B480;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405732.c:14:8: error: indirection requires pointer operand ('int' invalid)
+  v9 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405732.c:25:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v9;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A10.c:3:53: error: unknown type name 'size_t'
+const char *re_compile_pattern(const char *pattern, size_t length, struct re_pattern_buffer *buffer)
+                                                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A10.c:3:75: warning: declaration of 'struct re_pattern_buffer' will not be visible outside of this function
+const char *re_compile_pattern(const char *pattern, size_t length, struct re_pattern_buffer *buffer)
+                                                                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405FD1.c:2:65: error: unknown type name 'size_t'
+void *__fastcall sub_405FD1(__int64 a1, __int64 a2, __int64 a3, size_t a4)
+                                                                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405FD1.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405FD1(__int64 a1, __int64 a2, __int64 a3, size_t a4)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407ACF.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_407ACF(FILE *a1)
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407ACF.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_407ACF(FILE *a1)
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407ACF.c:14:12: error: indirection requires pointer operand ('int' invalid)
+      v3 = *__errno_location();
+           ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407ACF.c:19:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = v3;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4017C0.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4017B0.c:3:1: error: unknown type name '__off_t'
+__off_t lseek(int fd, __off_t offset, int whence)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4017B0.c:3:23: error: unknown type name '__off_t'
+__off_t lseek(int fd, __off_t offset, int whence)
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:7:8: error: use of undeclared identifier 'ptr'
+  if ( ptr )
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:9:25: error: use of undeclared identifier 'ptr'
+    sub_402177((__int64)ptr);
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:10:10: error: use of undeclared identifier 'ptr'
+    free(ptr);
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:11:5: error: use of undeclared identifier 'ptr'
+    ptr = 0LL;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:13:9: error: use of undeclared identifier 'qword_60B320'
+  if ( !qword_60B320 && !sub_40224A() )
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:15:20: error: use of undeclared identifier 'qword_60B320'
+  if ( *(_QWORD *)(qword_60B320 + 24) > (unsigned __int64)qword_60B340 )
+                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:15:59: error: use of undeclared identifier 'qword_60B340'
+  if ( *(_QWORD *)(qword_60B320 + 24) > (unsigned __int64)qword_60B340 )
+                                                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:16:5: error: use of undeclared identifier 'qword_60B340'
+    qword_60B340 = *(_QWORD *)(qword_60B320 + 24);
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:16:32: error: use of undeclared identifier 'qword_60B320'
+    qword_60B340 = *(_QWORD *)(qword_60B320 + 24);
+                               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:17:17: error: use of undeclared identifier 'qword_60B320'
+  ++*(_QWORD *)(qword_60B320 + 24);
+                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:18:21: error: use of undeclared identifier 'qword_60B320'
+  v1 = *(_QWORD **)(qword_60B320 + 56);
+                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:22:17: error: use of undeclared identifier 'qword_60B320'
+    *(_QWORD *)(qword_60B320 + 56) = v1[163];
+                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:23:23: error: use of undeclared identifier 'qword_60B320'
+    if ( !*(_QWORD *)(qword_60B320 + 56) || !**(_QWORD **)(qword_60B320 + 56) )
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:23:60: error: use of undeclared identifier 'qword_60B320'
+    if ( !*(_QWORD *)(qword_60B320 + 56) || !**(_QWORD **)(qword_60B320 + 56) )
+                                                           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:25:7: error: use of undeclared identifier 'ptr'
+      ptr = (void *)qword_60B320;
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:25:21: error: use of undeclared identifier 'qword_60B320'
+      ptr = (void *)qword_60B320;
+                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:26:7: error: use of undeclared identifier 'qword_60B320'
+      qword_60B320 = *(_QWORD *)(qword_60B320 + 64);
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402446.c:26:34: error: use of undeclared identifier 'qword_60B320'
+      qword_60B320 = *(_QWORD *)(qword_60B320 + 64);
+                                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:11:3: error: use of undeclared identifier 'sigset_t'
+  sigset_t oset; // [rsp+10h] [rbp-B0h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:16:8: error: use of undeclared identifier 'stream'
+  if ( stream )
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:18:26: error: use of undeclared identifier 'stream'
+    if ( ferror_unlocked(stream) )
+                         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:20:23: error: use of undeclared identifier 'name'
+      v0 = sub_404873(name);
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:21:10: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v1 = gettext("write error for %s");
+         ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:23:7: error: use of undeclared identifier 'stream'
+      stream = 0LL;
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:26:35: error: use of undeclared identifier 'stream'
+    if ( (unsigned int)sub_407ACF(stream) )
+                                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:28:12: error: use of undeclared identifier 'name'
+      v2 = name;
+           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:29:10: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+      v3 = __errno_location();
+         ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:31:7: error: use of undeclared identifier 'stream'
+      stream = 0LL;
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:34:10: error: use of undeclared identifier 'qword_60B370'
+    if ( qword_60B370 || !byte_60B392 )
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:34:27: error: use of undeclared identifier 'byte_60B392'
+    if ( qword_60B370 || !byte_60B392 )
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:36:12: error: use of undeclared identifier 'byte_60B390'
+      if ( byte_60B390 != 1 )
+           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:38:39: error: use of undeclared identifier 'qword_60B370'
+        v4 = (const char *)sub_4046E3(qword_60B370, v9);
+                                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:39:17: error: use of undeclared identifier 'stdout'
+        fprintf(stdout, "%s\n", v4);
+                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:44:23: error: use of undeclared identifier 'set'
+      sigprocmask(0, &set, &oset);
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:44:29: error: use of undeclared identifier 'oset'
+      sigprocmask(0, &set, &oset);
+                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:45:19: error: use of undeclared identifier 'name'
+      v6 = unlink(name) == 0;
+                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:46:16: error: indirection requires pointer operand ('int' invalid)
+      errnum = *__errno_location();
+               ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:47:7: error: use of undeclared identifier 'dword_60B368'
+      dword_60B368 -= v6;
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:48:23: error: use of undeclared identifier 'oset'
+      sigprocmask(2, &oset, 0LL);
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:50:32: error: use of undeclared identifier 'name'
+        error(0, errnum, "%s", name);
+                               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403131.c:52:5: error: use of undeclared identifier 'stream'
+    stream = 0LL;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40445B.c:10:33: error: use of undeclared identifier 'stdout'
+  if ( (unsigned int)sub_407FED(stdout) && (byte_60B460 != 1 || *__errno_location() != 32) )
+                                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40445B.c:10:65: error: indirection requires pointer operand ('int' invalid)
+  if ( (unsigned int)sub_407FED(stdout) && (byte_60B460 != 1 || *__errno_location() != 32) )
+                                                                ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40445B.c:10:45: error: use of undeclared identifier 'byte_60B460'
+  if ( (unsigned int)sub_407FED(stdout) && (byte_60B460 != 1 || *__errno_location() != 32) )
+                                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40445B.c:12:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v4 = gettext("write error");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40445B.c:13:10: error: use of undeclared identifier 'qword_60B458'
+    if ( qword_60B458 )
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40445B.c:15:37: error: use of undeclared identifier 'qword_60B458'
+      v0 = (const char *)sub_405E8C(qword_60B458);
+                                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40445B.c:16:10: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+      v1 = __errno_location();
+         ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40445B.c:21:10: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+      v2 = __errno_location();
+         ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40445B.c:24:11: error: use of undeclared identifier 'status'
+    _exit(status);
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40445B.c:26:23: error: use of undeclared identifier 'stderr'
+  result = sub_407FED(stderr);
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40445B.c:28:11: error: use of undeclared identifier 'status'
+    _exit(status);
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4067D4.c:2:16: error: unknown type name 'FILE'
+int sub_4067D4(FILE *a1, const char *a2, const char *a3, const char *a4, ...)
+               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4067D4.c:4:3: error: use of undeclared identifier 'gcc_va_list'
+  gcc_va_list va; // [rsp+28h] [rbp-C8h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4067D4.c:6:12: error: use of undeclared identifier 'va'
+  va_start(va, a4);
+           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4067D4.c:7:53: error: use of undeclared identifier 'va'
+  return sub_4066FB(a1, a2, a3, a4, (unsigned int *)va);
+                                                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A00.c:3:1: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A00.c:3:32: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A00.c:3:45: error: unknown type name 'size_t'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A00.c:3:55: error: unknown type name 'FILE'
+size_t fwrite(const void *ptr, size_t size, size_t n, FILE *s)
+                                                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401820.c:3:39: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __libc_start_main(int (__fastcall *main)(int, char **, char **), int argc, char **ubp_av, void (*init)(void), void (*fini)(void), void (*rtld_fini)(void), void *stack_end)
+                                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401820.c:3:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __libc_start_main(int (__fastcall *main)(int, char **, char **), int argc, char **ubp_av, void (*init)(void), void (*fini)(void), void (*rtld_fini)(void), void *stack_end)
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A30.c:3:14: error: unknown type name 'wint_t'
+int iswprint(wint_t wc)
+             ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A50.c:5:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'const unsigned short **'
+  return _ctype_b_loc();
+         ^~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D45.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401D45(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D45.c:12:5: error: use of undeclared identifier 'byte_60B348'
+    byte_60B348 = 1;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D45.c:15:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v3 = gettext("read error");
+       ^ ~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D45.c:16:8: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+    v4 = __errno_location();
+       ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4066FB.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_4066FB(FILE *a1, const char *a2, const char *a3, const char *a4, unsigned int *a5)
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4066FB.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_4066FB(FILE *a1, const char *a2, const char *a3, const char *a4, unsigned int *a5)
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4066FB.c:13:27: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'long long *'
+      *((_QWORD *)a5 + 1) = v5 + 1;
+                          ^ ~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406AD2.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_406AD2(__int64 a1, unsigned __int64 *a2)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4020D6.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+_QWORD *__fastcall sub_4020D6(unsigned __int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4020D6.c:10:10: warning: incompatible integer to pointer conversion assigning to 'uint64 *' (aka 'unsigned long long *') from 'int'
+  result = sub_402074(v2);
+         ^ ~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4020D6.c:13:15: error: use of undeclared identifier 'qword_60B338'
+  result[3] = qword_60B338 + 1;
+              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A60.c:3:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn start(__int64 a1, __int64 a2, void (*a3)(void))
+     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A60.c:12:21: error: use of undeclared identifier 'main'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A60.c:12:41: error: use of undeclared identifier 'init'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A60.c:12:47: error: use of undeclared identifier 'fini'
+  __libc_start_main(main, v4, &retaddr, init, fini, a3, &v5);
+                                              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403481.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BYTE *__fastcall sub_403481(int a1, __int64 a2, __int64 a3)
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403481.c:14:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v3 = gettext("%s: `}' is required in repeat count");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403481.c:24:59: error: use of undeclared identifier 'locale'
+    if ( (unsigned int)sub_407663(a3 + 1, 0LL, 10LL, &v8, locale) )
+                                                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403481.c:26:35: error: use of undeclared identifier 'qword_60B388'
+      v4 = *(_QWORD *)(8LL * a1 + qword_60B388);
+                                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403481.c:27:10: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v5 = gettext("%s}: integer required between `{' and `}'");
+         ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40600B.c:2:1: error: unknown type name 'ssize_t'
+ssize_t __fastcall sub_40600B(int a1, void *a2, size_t a3)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40600B.c:2:49: error: unknown type name 'size_t'
+ssize_t __fastcall sub_40600B(int a1, void *a2, size_t a3)
+                                                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40600B.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+ssize_t __fastcall sub_40600B(int a1, void *a2, size_t a3)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40600B.c:4:3: error: use of undeclared identifier 'ssize_t'
+  ssize_t result; // rax
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40600B.c:5:3: error: use of undeclared identifier 'ssize_t'
+  ssize_t v5; // [rsp+28h] [rbp-8h]
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40600B.c:8:9: error: use of undeclared identifier 'result'
+  for ( result = read(a1, a2, a3); ; result = read(a1, a2, 0x7FFFE000uLL) )
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40600B.c:8:38: error: use of undeclared identifier 'result'
+  for ( result = read(a1, a2, a3); ; result = read(a1, a2, 0x7FFFE000uLL) )
+                                     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40600B.c:10:5: error: use of undeclared identifier 'v5'
+    v5 = result;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40600B.c:10:10: error: use of undeclared identifier 'result'
+    v5 = result;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40600B.c:11:10: error: use of undeclared identifier 'result'
+    if ( result >= 0 )
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40600B.c:13:10: error: indirection requires pointer operand ('int' invalid)
+    if ( *__errno_location() == 4 )
+         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40600B.c:15:10: error: indirection requires pointer operand ('int' invalid)
+    if ( *__errno_location() != 22 || a3 <= 0x7FFFE000 )
+         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40600B.c:16:14: error: use of undeclared identifier 'v5'
+      return v5;
+             ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40600B.c:19:10: error: use of undeclared identifier 'result'
+  return result;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401930.c:3:26: error: unknown type name 'size_t'
+void *realloc(void *ptr, size_t size)
+                         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4070B7.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4070B7(unsigned __int64 *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402694.c:4:21: error: use of undeclared identifier 'qword_60B340'
+  return sub_402599(qword_60B340 + 1) == 0;
+                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401670.c:3:45: error: unknown type name 'size_t'
+int strncmp(const char *s1, const char *s2, size_t n)
+                                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40607C.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40607C(int a1, __int64 a2, __int64 a3, int a4, int a5, int a6)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401920.c:3:1: error: unknown type name 'size_t'
+size_t fwrite_unlocked(const void *ptr, size_t size, size_t n, FILE *stream)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401920.c:3:41: error: unknown type name 'size_t'
+size_t fwrite_unlocked(const void *ptr, size_t size, size_t n, FILE *stream)
+                                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401920.c:3:54: error: unknown type name 'size_t'
+size_t fwrite_unlocked(const void *ptr, size_t size, size_t n, FILE *stream)
+                                                     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401920.c:3:64: error: unknown type name 'FILE'
+size_t fwrite_unlocked(const void *ptr, size_t size, size_t n, FILE *stream)
+                                                               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401600.c:3:32: error: unknown type name 'sigset_t'
+int sigprocmask(int how, const sigset_t *set, sigset_t *oset)
+                               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401600.c:3:47: error: unknown type name 'sigset_t'
+int sigprocmask(int how, const sigset_t *set, sigset_t *oset)
+                                              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405DCE.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_405DCE(__int64 a1, size_t a2, unsigned __int8 a3)
+                                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405DCE.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405DCE(__int64 a1, size_t a2, unsigned __int8 a3)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405DCE.c:6:11: error: use of undeclared identifier 'qword_60B480'
+  v4[0] = qword_60B480;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405DCE.c:7:11: error: use of undeclared identifier 'qword_60B488'
+  v4[1] = qword_60B488;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405DCE.c:8:11: error: use of undeclared identifier 'qword_60B490'
+  v4[2] = qword_60B490;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405DCE.c:9:11: error: use of undeclared identifier 'qword_60B498'
+  v4[3] = qword_60B498;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405DCE.c:10:11: error: use of undeclared identifier 'qword_60B4A0'
+  v4[4] = qword_60B4A0;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405DCE.c:11:11: error: use of undeclared identifier 'qword_60B4A8'
+  v4[5] = qword_60B4A8;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405DCE.c:12:11: error: use of undeclared identifier 'qword_60B4B0'
+  v4[6] = qword_60B4B0;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406B27.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_406B27(size_t a1, size_t a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406B27.c:2:40: error: unknown type name 'size_t'
+void *__fastcall sub_406B27(size_t a1, size_t a2)
+                                       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406B27.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_406B27(size_t a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401630.c:3:1: error: unknown type name 'intmax_t'
+intmax_t strtoimax(const char *nptr, char **endptr, int base)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4026B3.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall sub_4026B3(const char *a1)
+     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4026B3.c:13:10: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v2 = gettext("cannot open %s for reading");
+         ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4026B3.c:14:10: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+      v3 = __errno_location();
+         ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4068F3.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4068F3(unsigned __int64 a1, unsigned __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405ED5.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405ED5(unsigned int a1, __int64 a2, __int64 a3, __int64 a4)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:2:1: warning: return type of 'main' is not 'int'
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:2:1: note: change return type to 'int'
+void __fastcall __noreturn main(int a1, char **a2, char **a3)
+^~~~
+int
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:19:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v19; // [rsp+30h] [rbp-C0h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:19:3: warning: expression result unused
+  size_t v19; // [rsp+30h] [rbp-C0h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:19:10: error: use of undeclared identifier 'v19'
+  size_t v19; // [rsp+30h] [rbp-C0h]
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:21:20: error: variable has incomplete type 'struct sigaction'
+  struct sigaction v21; // [rsp+40h] [rbp-B0h] BYREF
+                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:21:10: note: forward declaration of 'struct sigaction'
+  struct sigaction v21; // [rsp+40h] [rbp-B0h] BYREF
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:24:16: error: use of undeclared identifier 'locale'
+  setlocale(6, locale);
+               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:27:14: error: use of undeclared identifier 'sub_40445B'; did you mean 'sub_404768'?
+  sub_408100(sub_40445B);
+             ^~~~~~~~~~
+             sub_404768
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:23:3: note: 'sub_404768' declared here
+  sub_404768(*a2, a2, a3);
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:28:3: error: use of undeclared identifier 'qword_60B388'
+  qword_60B388 = (__int64)a2;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:29:3: error: use of undeclared identifier 'qword_60B398'
+  qword_60B398 = 0LL;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:30:3: error: use of undeclared identifier 'qword_60B3A0'
+  qword_60B3A0 = 0LL;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:31:3: error: use of undeclared identifier 'byte_60B390'
+  byte_60B390 = 0;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:32:3: error: use of undeclared identifier 'byte_60B391'
+  byte_60B391 = 1;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:33:3: error: use of undeclared identifier 's'
+  s = "xx";
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:42:52: error: use of undeclared identifier 'longopts'
+          v17 = getopt_long(a1, a2, "f:b:kn:sqz", &longopts, 0LL);
+                                                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:45:23: error: use of undeclared identifier 'optind'
+            if ( a1 - optind <= 1 )
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:47:25: error: use of undeclared identifier 'optind'
+              if ( a1 > optind )
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:50:20: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+                v7 = gettext("missing operand after %s");
+                   ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:55:20: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+                v5 = gettext("missing operand");
+                   ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:60:18: error: use of undeclared identifier 's'
+            v8 = s;
+                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:61:13: error: use of undeclared identifier 'v19'
+            v19 = strlen(s);
+            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:61:26: error: use of undeclared identifier 's'
+            v19 = strlen(s);
+                         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:62:18: error: use of undeclared identifier 'qword_60B360'
+            if ( qword_60B360 )
+                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:64:20: error: use of undeclared identifier 'qword_60B360'
+              v8 = qword_60B360;
+                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:65:51: error: use of undeclared identifier 'qword_60B360'
+              v10 = sub_403BCF((unsigned __int8 *)qword_60B360);
+                                                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:67:37: error: use of undeclared identifier 'dword_60B260'
+            else if ( (unsigned int)dword_60B260 <= 9 )
+                                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:73:21: error: use of undeclared identifier 'dword_60B260'
+              v10 = dword_60B260;
+                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:76:25: error: use of undeclared identifier 'v19'
+            if ( -2LL - v19 < v10 )
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:78:13: error: use of undeclared identifier 'dest'
+            dest = (char *)sub_406A3C(v19 + v20 + 1);
+            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:78:39: error: use of undeclared identifier 'v19'
+            dest = (char *)sub_406A3C(v19 + v20 + 1);
+                                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:79:19: error: use of undeclared identifier 'optind'
+            v11 = optind++;
+                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:81:28: error: use of undeclared identifier 'optind'
+            sub_403717(a1, optind, (__int64)a2);
+                           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:82:26: error: use of undeclared identifier 'set'
+            sigemptyset(&set);
+                         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:85:25: error: use of undeclared identifier 'sig'
+              sigaction(sig[i], 0LL, &v21);
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:86:39: error: use of undeclared identifier '__sighandler_t'
+              if ( v21.sa_handler != (__sighandler_t)1 )
+                                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:87:33: error: use of undeclared identifier 'sig'
+                sigaddset(&set, sig[i]);
+                                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:87:28: error: use of undeclared identifier 'set'
+                sigaddset(&set, sig[i]);
+                           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:89:31: error: use of undeclared identifier '__sighandler_t'
+            v21.sa_handler = (__sighandler_t)sub_401CDE;
+                              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:90:27: error: use of undeclared identifier 'set'
+            v21.sa_mask = set;
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:94:38: error: use of undeclared identifier 'sig'
+              if ( sigismember(&set, sig[j]) )
+                                     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:94:33: error: use of undeclared identifier 'set'
+              if ( sigismember(&set, sig[j]) )
+                                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:95:27: error: use of undeclared identifier 'sig'
+                sigaction(sig[j], &v21, 0LL);
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:100:19: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+              v12 = gettext("read error");
+                  ^ ~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:101:19: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+              v13 = __errno_location();
+                  ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:109:11: error: use of undeclared identifier 'byte_60B391'
+          byte_60B391 = 0;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:120:23: error: use of undeclared identifier 'stdout'
+              (_DWORD)stdout,
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:121:15: warning: cast to smaller integer type 'unsigned int' from 'char *'
+              (unsigned int)"csplit",
+              ^~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:122:15: warning: cast to smaller integer type 'unsigned int' from 'char *'
+              (unsigned int)"GNU coreutils",
+              ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:123:23: error: use of undeclared identifier 'off_60B268'
+              (_DWORD)off_60B268,
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:124:15: warning: cast to smaller integer type 'unsigned int' from 'char *'
+              (unsigned int)"Stuart Kemp",
+              ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:125:15: warning: cast to smaller integer type 'unsigned int' from 'char *'
+              (unsigned int)"David MacKenzie",
+              ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:134:11: error: use of undeclared identifier 'qword_60B360'
+          qword_60B360 = (char *)optarg;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:134:34: error: use of undeclared identifier 'optarg'
+          qword_60B360 = (char *)optarg;
+                                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:140:11: error: use of undeclared identifier 's'
+          s = (char *)optarg;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:140:23: error: use of undeclared identifier 'optarg'
+          s = (char *)optarg;
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:146:7: error: use of undeclared identifier 'byte_60B390'
+      byte_60B390 = 1;
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:154:7: error: use of undeclared identifier 'byte_60B392'
+      byte_60B392 = 1;
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:160:37: error: use of undeclared identifier 'optarg'
+      if ( (unsigned int)sub_407157(optarg, 0LL, 10LL, &v18, locale) || v18 > 0x7FFFFFFF )
+                                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:160:62: error: use of undeclared identifier 'locale'
+      if ( (unsigned int)sub_407157(optarg, 0LL, 10LL, &v18, locale) || v18 > 0x7FFFFFFF )
+                                                             ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:162:14: error: use of undeclared identifier 'optarg'
+        v3 = optarg;
+             ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:163:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v4 = gettext("%s: invalid number");
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403D15.c:166:7: error: use of undeclared identifier 'dword_60B260'
+      dword_60B260 = v18;
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401940.c:3:1: error: unknown type name 'FILE'
+FILE *fdopen(int fd, const char *modes)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4016A0.c:3:1: error: unknown type name 'size_t'
+size_t __fpending(FILE *fp)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4016A0.c:3:19: error: unknown type name 'FILE'
+size_t __fpending(FILE *fp)
+                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407F74.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_407F74(int a1, const char *a2, int a3, unsigned int a4)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407F74.c:12:8: error: indirection requires pointer operand ('int' invalid)
+  v7 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407F74.c:14:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v7;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:2:95: error: unknown type name '__m128'
+__int64 __fastcall sub_407B84(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:2:106: error: unknown type name '__m128'
+__int64 __fastcall sub_407B84(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:2:117: error: unknown type name '__m128'
+__int64 __fastcall sub_407B84(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:2:128: error: unknown type name '__m128'
+__int64 __fastcall sub_407B84(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:2:140: error: unknown type name '__m128'
+__int64 __fastcall sub_407B84(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                                           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:2:152: error: unknown type name '__m128'
+__int64 __fastcall sub_407B84(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                                                       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:2:164: error: unknown type name '__m128'
+__int64 __fastcall sub_407B84(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                                                                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:2:176: error: unknown type name '__m128'
+__int64 __fastcall sub_407B84(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+                                                                                                                                                                               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_407B84(int a1, int a2, __int64 a3, __int64 a4, __int64 a5, __int64 a6, __m128 a7, __m128 a8, __m128 a9, __m128 a10, __m128 a11, __m128 a12, __m128 a13, __m128 a14)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:15:3: error: use of undeclared identifier '__m128'
+  __m128 v26; // [rsp+70h] [rbp-80h]
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:16:3: error: use of undeclared identifier '__m128'
+  __m128 v27; // [rsp+80h] [rbp-70h]
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:17:3: error: use of undeclared identifier '__m128'
+  __m128 v28; // [rsp+90h] [rbp-60h]
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:18:3: error: use of undeclared identifier '__m128'
+  __m128 v29; // [rsp+A0h] [rbp-50h]
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:19:3: error: use of undeclared identifier '__m128'
+  __m128 v30; // [rsp+B0h] [rbp-40h]
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:20:3: error: use of undeclared identifier '__m128'
+  __m128 v31; // [rsp+C0h] [rbp-30h]
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:21:3: error: use of undeclared identifier '__m128'
+  __m128 v32; // [rsp+D0h] [rbp-20h]
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:22:3: error: use of undeclared identifier '__m128'
+  __m128 v33; // [rsp+E0h] [rbp-10h]
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:28:3: error: use of undeclared identifier 'v26'
+  v26 = a7;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:29:3: error: use of undeclared identifier 'v27'
+  v27 = a8;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:30:3: error: use of undeclared identifier 'v28'
+  v28 = a9;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:31:3: error: use of undeclared identifier 'v29'
+  v29 = a10;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:32:3: error: use of undeclared identifier 'v30'; did you mean 'v20'?
+  v30 = a11;
+  ^~~
+  v20
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:9:7: note: 'v20' declared here
+  int v20; // [rsp+18h] [rbp-D8h]
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:33:3: error: use of undeclared identifier 'v31'; did you mean 'v21'?
+  v31 = a12;
+  ^~~
+  v21
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:10:7: note: 'v21' declared here
+  int v21; // [rsp+1Ch] [rbp-D4h]
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:34:3: error: use of undeclared identifier 'v32'; did you mean 'v22'?
+  v32 = a13;
+  ^~~
+  v22
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:11:11: note: 'v22' declared here
+  __int64 v22; // [rsp+50h] [rbp-A0h]
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:35:3: error: use of undeclared identifier 'v33'; did you mean 'v23'?
+  v33 = a14;
+  ^~~
+  v23
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:12:11: note: 'v23' declared here
+  __int64 v23; // [rsp+58h] [rbp-98h]
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:39:8: error: use of undeclared identifier 'dword_60B5C0'
+  if ( dword_60B5C0 < 0 )
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:46:21: error: indirection requires pointer operand ('int' invalid)
+    if ( v18 < 0 && *__errno_location() == 22 )
+                    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:51:7: error: use of undeclared identifier 'dword_60B5C0'
+      dword_60B5C0 = -1;
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:55:7: error: use of undeclared identifier 'dword_60B5C0'
+      dword_60B5C0 = 1;
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:58:20: error: use of undeclared identifier 'dword_60B5C0'
+  if ( v18 >= 0 && dword_60B5C0 == -1 )
+                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:63:13: error: indirection requires pointer operand ('int' invalid)
+      v21 = *__errno_location();
+            ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407B84.c:65:7: error: indirection requires pointer operand ('int' invalid)
+      *__errno_location() = v21;
+      ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404A32.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+_QWORD *__fastcall sub_404A32(_QWORD *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4075C3.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4075C3(unsigned __int64 *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401710.c:3:1: error: unknown type name 'size_t'
+size_t strlen(const char *s)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402739.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_402739(unsigned __int64 a1, char a2, int a3)
+                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402739.c:16:33: error: use of undeclared identifier 'qword_60B388'
+    v3 = *(_QWORD *)(8LL * a3 + qword_60B388);
+                                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402739.c:17:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v4 = gettext("%s: line number out of range");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402739.c:29:35: error: use of undeclared identifier 'qword_60B388'
+      v5 = *(_QWORD *)(8LL * a3 + qword_60B388);
+                                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402739.c:30:10: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+      v6 = gettext("%s: line number out of range");
+         ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405E8C.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405E8C(__int64 a1)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405E8C.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_405E62(a1, 0x3Au);
+         ^~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B00.c:6:9: error: use of undeclared identifier 'byte_60B318'
+  if ( !byte_60B318 )
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B00.c:9:5: error: use of undeclared identifier 'byte_60B318'
+    byte_60B318 = 1;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_401F26(_QWORD *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:6:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t n; // [rsp+20h] [rbp-20h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:6:3: warning: expression result unused
+  size_t n; // [rsp+20h] [rbp-20h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:6:10: error: use of undeclared identifier 'n'
+  size_t n; // [rsp+20h] [rbp-20h]
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:14:3: error: use of undeclared identifier 'n'
+  n = a1[1];
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:17:32: error: use of undeclared identifier 'n'
+    v6 = (char *)memchr(s, 10, n);
+                               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:20:44: error: 'char *' and 'uint8 *' (aka 'unsigned char *') are not pointers to compatible types
+    sub_401E2E((__int64)a1, (__int64)s, v6 - (_BYTE *)s + 1);
+                                        ~~ ^ ~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:21:5: error: use of undeclared identifier 'n'
+    n -= v6 - (_BYTE *)s + 1;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:21:13: error: 'char *' and 'uint8 *' (aka 'unsigned char *') are not pointers to compatible types
+    n -= v6 - (_BYTE *)s + 1;
+         ~~ ^ ~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:25:8: error: use of undeclared identifier 'n'
+  if ( n )
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:27:10: error: use of undeclared identifier 'byte_60B348'
+    if ( byte_60B348 )
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:29:43: error: use of undeclared identifier 'n'
+      sub_401E2E((__int64)a1, (__int64)s, n);
+                                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:34:34: error: use of undeclared identifier 'n'
+      v2 = (void *)sub_406B60(s, n);
+                                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:35:22: error: use of undeclared identifier 'n'
+      sub_401D0E(v2, n);
+                     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:39:11: error: use of undeclared identifier 'qword_60B338'
+  a1[2] = qword_60B338 + 1;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401F26.c:41:3: error: use of undeclared identifier 'qword_60B338'
+  qword_60B338 += v5;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40668D.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_40668D(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5)
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40668D.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_40668D(FILE *a1, const char *a2, const char *a3, const char *a4, __int64 *a5)
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405804.c:2:43: error: unknown type name 'size_t'
+__int64 __fastcall sub_405804(__int64 a1, size_t a2, _QWORD *a3, __int64 *a4)
+                                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405804.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_405804(__int64 a1, size_t a2, _QWORD *a3, __int64 *a4)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405804.c:14:11: error: use of undeclared identifier 'qword_60B480'
+    v4 = &qword_60B480;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405804.c:16:8: error: indirection requires pointer operand ('int' invalid)
+  v7 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405804.c:21:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v7;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4021D9.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+_QWORD *__fastcall sub_4021D9(_QWORD *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4021D9.c:9:8: error: use of undeclared identifier 'qword_60B320'
+  if ( qword_60B320 )
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4021D9.c:11:15: error: use of undeclared identifier 'qword_60B320'
+    for ( i = qword_60B320; *(_QWORD *)(i + 64); i = *(_QWORD *)(i + 64) )
+              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4021D9.c:14:25: warning: incompatible pointer to integer conversion assigning to 'uint64' (aka 'unsigned long long') from 'uint64 *' (aka 'unsigned long long *'); dereference with *
+    *(_QWORD *)(i + 64) = a1;
+                        ^ ~~
+                          *
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4021D9.c:19:5: error: use of undeclared identifier 'qword_60B320'
+    qword_60B320 = (__int64)a1;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404546.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+_BYTE *__fastcall sub_404546(_BYTE *a1)
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4018C0.c:3:43: error: unknown type name 'size_t'
+void *memcpy(void *dest, const void *src, size_t n)
+                                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40697D.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40697D(__int64 a1, unsigned __int64 *a2, unsigned __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4017F0.c:3:18: error: unknown type name 'FILE'
+int fputc(int c, FILE *stream)
+                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4057D2.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4057D2(__int64 a1, __int64 a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401790.c:3:23: error: unknown type name 'size_t'
+int snprintf(char *s, size_t maxlen, const char *format, ...)
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401C57.c:4:3: error: use of undeclared identifier 'sigset_t'
+  sigset_t oset; // [rsp+0h] [rbp-80h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401C57.c:7:19: error: use of undeclared identifier 'set'
+  sigprocmask(0, &set, &oset);
+                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401C57.c:7:25: error: use of undeclared identifier 'oset'
+  sigprocmask(0, &set, &oset);
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401C57.c:9:26: error: use of undeclared identifier 'oset'
+  return sigprocmask(2, &oset, 0LL);
+                         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4049D8.c:2:10: warning: '__fastcall' calling convention is not supported for this target
+__int64 *__fastcall sub_4049D8(__int64 *a1, __int64 a2, __int64 a3)
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4049D8.c:9:11: error: use of undeclared identifier 'qword_60B480'
+    v4 = &qword_60B480;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4019E0.c:3:23: error: unknown type name 'sigset_t'
+int sigismember(const sigset_t *set, int signo)
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403BCF.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403BCF(unsigned __int8 *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403BCF.c:20:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v1 = gettext("too many %% conversion specifications in suffix");
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403BCF.c:38:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v3 = gettext("missing %% conversion specification in suffix");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407FED.c:2:31: error: unknown type name 'FILE'
+__int64 __fastcall sub_407FED(FILE *a1)
+                              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407FED.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_407FED(FILE *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407FED.c:11:30: error: indirection requires pointer operand ('int' invalid)
+  if ( !v3 && (!v4 || !v2 && *__errno_location() == 9) )
+                             ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407FED.c:14:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = 0;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:2:49: error: unknown type name 'size_t'
+void *__fastcall sub_4059DB(int a1, __int64 a2, size_t a3, __int64 a4)
+                                                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_4059DB(int a1, __int64 a2, size_t a3, __int64 a4)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:16:9: error: indirection requires pointer operand ('int' invalid)
+  v10 = *__errno_location();
+        ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:17:9: error: use of undeclared identifier 'off_60B2A0'
+  v12 = off_60B2A0;
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:20:8: error: use of undeclared identifier 'dword_60B280'
+  if ( dword_60B280 <= (unsigned int)a1 )
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:23:10: error: use of undeclared identifier 'off_60B2A0'
+    v9 = off_60B2A0 == &qword_60B290;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:23:25: error: use of undeclared identifier 'qword_60B290'
+    v9 = off_60B2A0 == &qword_60B290;
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:24:10: error: use of undeclared identifier 'off_60B2A0'
+    if ( off_60B2A0 == &qword_60B290 )
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:24:25: error: use of undeclared identifier 'qword_60B290'
+    if ( off_60B2A0 == &qword_60B290 )
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:27:12: error: use of undeclared identifier 'off_60B2A0'
+      v4 = off_60B2A0;
+           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:28:11: warning: cast to 'long long *' from smaller integer type 'int'
+    v12 = (__int64 *)sub_406A71(v4, 16 * v14);
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:29:5: error: use of undeclared identifier 'off_60B2A0'
+    off_60B2A0 = v12;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:32:12: error: use of undeclared identifier 'off_60B298'
+      v5 = off_60B298;
+           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:33:14: error: use of undeclared identifier 'qword_60B290'
+      *v12 = qword_60B290;
+             ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:36:35: error: use of undeclared identifier 'dword_60B280'
+    memset(&v12[2 * (unsigned int)dword_60B280], 0, 16 * (v14 - (unsigned int)dword_60B280));
+                                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:36:79: error: use of undeclared identifier 'dword_60B280'
+    memset(&v12[2 * (unsigned int)dword_60B280], 0, 16 * (v14 - (unsigned int)dword_60B280));
+                                                                              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:37:5: error: use of undeclared identifier 'dword_60B280'
+    dword_60B280 = a1 + 1;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:47:18: error: use of undeclared identifier 'unk_60B4C0'
+    if ( ptr != &unk_60B4C0 )
+                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:49:11: warning: cast to 'void *' from smaller integer type 'int'
+    ptr = (void *)sub_406A22(v16);
+          ^~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4059DB.c:53:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v10;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401980.c:3:12: error: unknown type name 'FILE'
+int fseeko(FILE *stream, __off_t off, int whence)
+           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401980.c:3:26: error: unknown type name '__off_t'
+int fseeko(FILE *stream, __off_t off, int whence)
+                         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401910.c:3:16: error: unknown type name 'FILE'
+int __freading(FILE *fp)
+               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4049A5.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4049A5(__int64 *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4049A5.c:9:11: error: use of undeclared identifier 'qword_60B480'
+    v3 = &qword_60B480;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4019C0.c:3:35: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __cxa_atexit(void (__fastcall *lpfunc)(void *), void *obj, void *lpdso_handle)
+                                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4019C0.c:3:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall __cxa_atexit(void (__fastcall *lpfunc)(void *), void *obj, void *lpdso_handle)
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407157.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_407157(const char *a1, char **a2, int a3, _QWORD *a4, const char *a5)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407157.c:26:20: error: indirection requires pointer operand ('int' invalid)
+  for ( i = *a1; ((*__ctype_b_loc())[i] & 0x2000) != 0; i = *v19 )
+                   ^~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407157.c:30:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = 0;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407157.c:38:13: error: indirection requires pointer operand ('int' invalid)
+  else if ( *__errno_location() )
+            ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407157.c:40:10: error: indirection requires pointer operand ('int' invalid)
+    if ( *__errno_location() != 34 )
+         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40341C.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall sub_40341C(__int64 a1, __int64 a2, __int64 a3)
+     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40341C.c:6:52: error: use of undeclared identifier 'locale'
+  if ( (unsigned int)sub_406C9F(a3, 0LL, 10LL, a1, locale) )
+                                                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40341C.c:8:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v3 = gettext("%s: integer expected after delimiter");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:2:1: error: unknown type name 'FILE'
+FILE *__fastcall sub_4045FD(const char *a1, const char *a2)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+FILE *__fastcall sub_4045FD(const char *a1, const char *a2)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:8:3: error: use of undeclared identifier 'FILE'
+  FILE *stream; // [rsp+28h] [rbp-8h]
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:8:9: error: use of undeclared identifier 'stream'
+  FILE *stream; // [rsp+28h] [rbp-8h]
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:10:3: error: use of undeclared identifier 'stream'
+  stream = fopen(a1, a2);
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:11:9: error: use of undeclared identifier 'stream'
+  if ( !stream )
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:12:12: error: use of undeclared identifier 'stream'
+    return stream;
+           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:13:15: error: use of undeclared identifier 'stream'
+  v3 = fileno(stream);
+              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:15:12: error: use of undeclared identifier 'stream'
+    return stream;
+           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:19:10: error: indirection requires pointer operand ('int' invalid)
+    v5 = *__errno_location();
+         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:20:16: error: use of undeclared identifier 'stream'
+    sub_407ACF(stream);
+               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:21:5: error: indirection requires pointer operand ('int' invalid)
+    *__errno_location() = v5;
+    ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:24:34: error: use of undeclared identifier 'stream'
+  if ( !(unsigned int)sub_407ACF(stream) )
+                                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:26:5: error: use of undeclared identifier 'stream'
+    stream = fdopen(fd, a2);
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:27:10: error: use of undeclared identifier 'stream'
+    if ( stream )
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:28:14: error: use of undeclared identifier 'stream'
+      return stream;
+             ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:30:8: error: indirection requires pointer operand ('int' invalid)
+  v6 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4045FD.c:32:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v6;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401900.c:3:22: warning: declaration of 'struct re_pattern_buffer' will not be visible outside of this function
+int re_search(struct re_pattern_buffer *buffer, const char *string, int length, int start, int range, struct re_registers *regs)
+                     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401900.c:3:110: warning: declaration of 'struct re_registers' will not be visible outside of this function
+int re_search(struct re_pattern_buffer *buffer, const char *string, int length, int start, int range, struct re_registers *regs)
+                                                                                                             ^
+/share/resym_darpa/data/commands/csplit_ground_beyond_access_command.sh: line 115: 22378 Segmentation fault      (core dumped) /home/clang-parser/beyond_access/beyond_access /share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401900.c /share/resym_darpa/data/beyond_access/csplit_ground/csplit_ground-401900.json
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401680.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403A6F.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall sub_403A6F(unsigned __int8 *a1, int a2)
+     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403A6F.c:37:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v3 = gettext("missing conversion specifier in suffix");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403A6F.c:42:10: error: indirection requires pointer operand ('int' invalid)
+  if ( ((*__ctype_b_loc())[v7] & 0x4000) != 0 )
+         ^~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403A6F.c:43:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v4 = gettext("invalid conversion specifier in suffix: %c");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403A6F.c:45:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v4 = gettext("invalid conversion specifier in suffix: \\%.3o");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403A6F.c:54:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v6 = gettext("invalid flags in conversion specification: %%%c%c");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406B60.c:2:45: error: unknown type name 'size_t'
+void *__fastcall sub_406B60(const void *a1, size_t a2)
+                                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406B60.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_406B60(const void *a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40688A.c:6:3: error: use of undeclared identifier 'FILE'
+  FILE *v2; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40688A.c:6:9: error: use of undeclared identifier 'v2'
+  FILE *v2; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40688A.c:9:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v0 = gettext("\nReport bugs to: %s\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40688A.c:11:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v1 = gettext("%s home page: <%s>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40688A.c:13:3: error: use of undeclared identifier 'v2'
+  v2 = stdout;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40688A.c:13:8: error: use of undeclared identifier 'stdout'
+  v2 = stdout;
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40688A.c:14:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v3 = gettext("General help using GNU software: <http://www.gnu.org/gethelp/>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40688A.c:15:29: error: use of undeclared identifier 'v2'
+  return fputs_unlocked(v3, v2);
+                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4030A3.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4030A3(char a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4030A3.c:9:29: error: use of undeclared identifier 'byte_60B391'
+  result = (unsigned __int8)byte_60B391 ^ 1u;
+                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4030A3.c:10:8: error: use of undeclared identifier 'byte_60B391'
+  if ( byte_60B391 == 1 )
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4030A3.c:14:30: error: use of undeclared identifier 'dword_60B368'
+      result = (unsigned int)dword_60B368;
+                             ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4030A3.c:15:17: error: use of undeclared identifier 'dword_60B368'
+      if ( i >= dword_60B368 )
+                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4030A3.c:17:12: warning: incompatible integer to pointer conversion assigning to 'const char *' from 'int'
+      name = sub_402EF3(i);
+           ^ ~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4030A3.c:22:14: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+          v2 = __errno_location();
+             ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4030A3.c:27:5: error: use of undeclared identifier 'dword_60B368'
+    dword_60B368 = 0;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-408100.c:2:33: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_408100(void (__fastcall *a1)(void *))
+                                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-408100.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_408100(void (__fastcall *a1)(void *))
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-408100.c:6:9: error: use of undeclared identifier 'qword_60B258'
+  if ( &qword_60B258 )
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-408100.c:7:18: error: use of undeclared identifier 'qword_60B258'
+    v1 = (void *)qword_60B258;
+                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D0E.c:2:1: error: unknown type name 'size_t'
+size_t __fastcall sub_401D0E(void *a1, size_t a2)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D0E.c:2:40: error: unknown type name 'size_t'
+size_t __fastcall sub_401D0E(void *a1, size_t a2)
+                                       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D0E.c:2:8: warning: '__fastcall' calling convention is not supported for this target
+size_t __fastcall sub_401D0E(void *a1, size_t a2)
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D0E.c:4:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t result; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D0E.c:4:3: warning: expression result unused
+  size_t result; // rax
+  ^~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D0E.c:4:10: error: use of undeclared identifier 'result'
+  size_t result; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D0E.c:6:8: error: use of undeclared identifier 'src'
+  free(src);
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D0E.c:7:3: error: use of undeclared identifier 'src'
+  src = a1;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D0E.c:8:3: error: use of undeclared identifier 'result'
+  result = a2;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D0E.c:9:3: error: use of undeclared identifier 'n'
+  n = a2;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401D0E.c:10:10: error: use of undeclared identifier 'result'
+  return result;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:2:66: error: unknown type name 'intmax_t'
+__int64 __fastcall sub_406C9F(const char *a1, char **a2, int a3, intmax_t *a4, const char *a5)
+                                                                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_406C9F(const char *a1, char **a2, int a3, intmax_t *a4, const char *a5)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:12:3: error: use of undeclared identifier 'intmax_t'
+  intmax_t v17; // [rsp+50h] [rbp-10h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:23:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = 0;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:24:3: error: use of undeclared identifier 'v17'
+  v17 = strtoimax(a1, endptr, a3);
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:29:5: error: use of undeclared identifier 'v17'
+    v17 = 1LL;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:31:13: error: indirection requires pointer operand ('int' invalid)
+  else if ( *__errno_location() )
+            ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:33:10: error: indirection requires pointer operand ('int' invalid)
+    if ( *__errno_location() != 34 )
+         ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:39:11: error: use of undeclared identifier 'v17'
+    *a4 = v17;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:48:11: error: use of undeclared identifier 'v17'
+    *a4 = v17;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:77:27: error: use of undeclared identifier 'v17'
+        v15 = sub_406C5E(&v17, v13, 3);
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:85:31: error: use of undeclared identifier 'v17'
+            v15 = sub_406BBE(&v17, 512);
+                              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:91:31: error: use of undeclared identifier 'v17'
+            v15 = sub_406C5E(&v17, v13, 7);
+                              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:106:29: error: use of undeclared identifier 'v17'
+          v15 = sub_406BBE(&v17, 2);
+                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:110:27: error: use of undeclared identifier 'v17'
+        v15 = sub_406C5E(&v17, v13, 4);
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:122:29: error: use of undeclared identifier 'v17'
+          v15 = sub_406C5E(&v17, v13, 6);
+                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:130:19: error: use of undeclared identifier 'v17'
+            *a4 = v17;
+                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:133:29: error: use of undeclared identifier 'v17'
+          v15 = sub_406BBE(&v17, 1024);
+                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:140:27: error: use of undeclared identifier 'v17'
+        v15 = sub_406C5E(&v17, v13, 5);
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:148:27: error: use of undeclared identifier 'v17'
+        v15 = sub_406C5E(&v17, v13, 2);
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:153:23: error: use of undeclared identifier 'v17'
+    v15 = sub_406C5E(&v17, v13, 1);
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:156:21: error: use of undeclared identifier 'v17'
+  v15 = sub_406C5E(&v17, v13, 8);
+                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406C9F.c:163:9: error: use of undeclared identifier 'v17'
+  *a4 = v17;
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401CAF.c:6:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v0 = gettext("memory exhausted");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401CAF.c:9:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407622.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_407622(unsigned __int64 *a1, int a2, int a3)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40484F.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40484F(unsigned int a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4023EB.c:7:9: error: use of undeclared identifier 'qword_60B320'
+  if ( !qword_60B320 && !sub_40224A() )
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4023EB.c:9:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v0 = gettext("input disappeared");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4023EB.c:10:8: warning: incompatible integer to pointer conversion assigning to 'int *' from 'int'
+    v1 = __errno_location();
+       ^ ~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4023EB.c:13:22: error: use of undeclared identifier 'qword_60B320'
+  return *(_QWORD *)(qword_60B320 + 24);
+                     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403595.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403595(int a1, char a2, char *a3)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403595.c:12:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v8 = strrchr(a3 + 1, *a3);
+     ^ ~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403595.c:15:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v3 = gettext("%s: closing delimiter `%c' missing");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403595.c:26:3: error: use of undeclared identifier 're_syntax_options'
+  re_syntax_options = 710LL;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403595.c:27:7: warning: incompatible integer to pointer conversion assigning to 'const char *' from 'int'
+  v10 = re_compile_pattern(a3 + 1, v8 - a3 - 1, (struct re_pattern_buffer *)(v9 + 32));
+      ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403595.c:30:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v4 = gettext("%s: invalid regular expression: %s");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/commands/csplit_ground_beyond_access_command.sh: line 129: 22392 Segmentation fault      (core dumped) /home/clang-parser/beyond_access/beyond_access /share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403595.c /share/resym_darpa/data/beyond_access/csplit_ground/csplit_ground-403595.json
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401650.c:5:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'int *'
+  return _errno_location();
+         ^~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402177.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402177(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401CDE.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_401CDE(int a1)
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4048F9.c:2:10: warning: '__fastcall' calling convention is not supported for this target
+__int64 *__fastcall sub_4048F9(__int64 *a1, int a2)
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4048F9.c:9:15: error: use of undeclared identifier 'qword_60B480'
+    result = &qword_60B480;
+              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn sub_4042DC(int a1)
+     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:7:3: error: use of undeclared identifier 'FILE'
+  FILE *v4; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:7:9: error: use of undeclared identifier 'v4'
+  FILE *v4; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:9:3: error: use of undeclared identifier 'FILE'
+  FILE *v6; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:9:9: error: use of undeclared identifier 'v6'
+  FILE *v6; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:11:3: error: use of undeclared identifier 'FILE'
+  FILE *v8; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:11:9: error: use of undeclared identifier 'v8'
+  FILE *v8; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:13:3: error: use of undeclared identifier 'FILE'
+  FILE *v10; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:13:9: error: use of undeclared identifier 'v10'; did you mean 'v1'?
+  FILE *v10; // rbx
+        ^~~
+        v1
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:4:11: note: 'v1' declared here
+  __int64 v1; // rbx
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:15:3: error: use of undeclared identifier 'FILE'
+  FILE *v12; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:15:9: error: use of undeclared identifier 'v12'
+  FILE *v12; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:17:3: error: use of undeclared identifier 'FILE'
+  FILE *v14; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:17:9: error: use of undeclared identifier 'v14'
+  FILE *v14; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:19:3: error: use of undeclared identifier 'FILE'
+  FILE *v16; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:19:9: error: use of undeclared identifier 'v16'
+  FILE *v16; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:21:3: error: use of undeclared identifier 'FILE'
+  FILE *v18; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:21:9: error: use of undeclared identifier 'v18'
+  FILE *v18; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:24:8: error: use of undeclared identifier 'qword_60B468'
+  v1 = qword_60B468;
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:27:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v2 = gettext("Try `%s --help' for more information.\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:28:13: error: use of undeclared identifier 'stderr'
+    fprintf(stderr, v2, v1);
+            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:32:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v3 = gettext("Usage: %s [OPTION]... FILE PATTERN...\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:34:5: error: use of undeclared identifier 'v4'
+    v4 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:34:10: error: use of undeclared identifier 'stdout'
+    v4 = stdout;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:35:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v5 = gettext(
+       ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:39:24: error: use of undeclared identifier 'v4'
+    fputs_unlocked(v5, v4);
+                       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:40:5: error: use of undeclared identifier 'v6'
+    v6 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:40:10: error: use of undeclared identifier 'stdout'
+    v6 = stdout;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:41:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v7 = gettext("Mandatory arguments to long options are mandatory for short options too.\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:42:24: error: use of undeclared identifier 'v6'
+    fputs_unlocked(v7, v6);
+                       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:43:5: error: use of undeclared identifier 'v8'
+    v8 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:43:10: error: use of undeclared identifier 'stdout'
+    v8 = stdout;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:44:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v9 = gettext(
+       ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:48:24: error: use of undeclared identifier 'v8'
+    fputs_unlocked(v9, v8);
+                       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:49:5: error: use of undeclared identifier 'v10'
+    v10 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:49:11: error: use of undeclared identifier 'stdout'
+    v10 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:50:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v11 = gettext(
+        ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:54:25: error: use of undeclared identifier 'v10'
+    fputs_unlocked(v11, v10);
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:55:5: error: use of undeclared identifier 'v12'
+    v12 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:55:11: error: use of undeclared identifier 'stdout'
+    v12 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:56:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v13 = gettext("      --help     display this help and exit\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:57:25: error: use of undeclared identifier 'v12'
+    fputs_unlocked(v13, v12);
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:58:5: error: use of undeclared identifier 'v14'
+    v14 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:58:11: error: use of undeclared identifier 'stdout'
+    v14 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:59:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v15 = gettext("      --version  output version information and exit\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:60:25: error: use of undeclared identifier 'v14'
+    fputs_unlocked(v15, v14);
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:61:5: error: use of undeclared identifier 'v16'
+    v16 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:61:11: error: use of undeclared identifier 'stdout'
+    v16 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:62:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v17 = gettext("\nRead standard input if FILE is -.  Each PATTERN may be:\n");
+        ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:63:25: error: use of undeclared identifier 'v16'
+    fputs_unlocked(v17, v16);
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:64:5: error: use of undeclared identifier 'v18'
+    v18 = stdout;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:64:11: error: use of undeclared identifier 'stdout'
+    v18 = stdout;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:65:9: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v19 = gettext(
+        ^ ~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4042DC.c:74:25: error: use of undeclared identifier 'v18'
+    fputs_unlocked(v19, v18);
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40224A.c:13:8: error: use of undeclared identifier 'byte_60B348'
+  if ( byte_60B348 )
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40224A.c:15:8: error: use of undeclared identifier 'n'
+  if ( n > 0x1FFF )
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40224A.c:16:10: error: use of undeclared identifier 'n'
+    v3 = n;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40224A.c:19:9: warning: incompatible integer to pointer conversion assigning to 'long long *' from 'int'
+    ptr = sub_4020D6(v3);
+        ^ ~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40224A.c:22:10: error: use of undeclared identifier 'n'
+    if ( n )
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40224A.c:24:20: error: use of undeclared identifier 'src'
+      memcpy(dest, src, n);
+                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40224A.c:24:25: error: use of undeclared identifier 'n'
+      memcpy(dest, src, n);
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40224A.c:25:15: error: use of undeclared identifier 'n'
+      dest += n;
+              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40224A.c:26:17: error: use of undeclared identifier 'n'
+      ptr[1] += n;
+                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40224A.c:27:13: error: use of undeclared identifier 'n'
+      v4 -= n;
+            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40224A.c:28:7: error: use of undeclared identifier 'n'
+      n = 0LL;
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40224A.c:39:16: error: use of undeclared identifier 'byte_60B348'
+    if ( v7 || byte_60B348 )
+               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403378.c:7:8: error: use of undeclared identifier 'qword_60B3A0'
+  if ( qword_60B3A0 == qword_60B448 )
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403378.c:7:24: error: use of undeclared identifier 'qword_60B448'
+  if ( qword_60B3A0 == qword_60B448 )
+                       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403378.c:8:5: error: use of undeclared identifier 'qword_60B398'
+    qword_60B398 = sub_40697D(qword_60B398, &qword_60B448, 96LL);
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403378.c:8:31: error: use of undeclared identifier 'qword_60B398'
+    qword_60B398 = sub_40697D(qword_60B398, &qword_60B448, 96LL);
+                              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403378.c:8:46: error: use of undeclared identifier 'qword_60B448'
+    qword_60B398 = sub_40697D(qword_60B398, &qword_60B448, 96LL);
+                                             ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403378.c:9:8: error: use of undeclared identifier 'qword_60B3A0'
+  v0 = qword_60B3A0++;
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403378.c:10:8: error: use of undeclared identifier 'qword_60B398'
+  v2 = qword_60B398 + 96 * v0;
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404446.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404446(unsigned __int8 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404446.c:7:3: error: use of undeclared identifier 'byte_60B460'
+  byte_60B460 = a1;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+char *__fastcall sub_402EF3(unsigned int a1)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:6:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v3; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:6:3: warning: expression result unused
+  size_t v3; // rax
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:6:10: error: use of undeclared identifier 'v3'
+  size_t v3; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:9:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v6; // rax
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:9:3: warning: expression result unused
+  size_t v6; // rax
+  ^~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:9:10: error: use of undeclared identifier 'v6'
+  size_t v6; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:11:10: error: use of undeclared identifier 'dest'
+  strcpy(dest, s);
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:11:16: error: use of undeclared identifier 's'
+  strcpy(dest, s);
+               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:12:8: error: use of undeclared identifier 'qword_60B360'
+  if ( qword_60B360 )
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:14:10: error: use of undeclared identifier 'qword_60B360'
+    v1 = qword_60B360;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:15:10: error: use of undeclared identifier 'dest'
+    v2 = dest;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:16:5: error: use of undeclared identifier 'v3'
+    v3 = strlen(s);
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:16:17: error: use of undeclared identifier 's'
+    v3 = strlen(s);
+                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:17:17: error: use of undeclared identifier 'v3'
+    sprintf(&v2[v3], v1, a1);
+                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:21:10: error: use of undeclared identifier 'dword_60B260'
+    v4 = dword_60B260;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:22:10: error: use of undeclared identifier 'dest'
+    v5 = dest;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:23:5: error: use of undeclared identifier 'v6'
+    v6 = strlen(s);
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:23:17: error: use of undeclared identifier 's'
+    v6 = strlen(s);
+                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:24:17: error: use of undeclared identifier 'v6'
+    sprintf(&v5[v6], "%0*u", v4, a1);
+                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402EF3.c:26:10: error: use of undeclared identifier 'dest'
+  return dest;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A90.c:6:13: error: use of undeclared identifier 'unk_60B2AF'
+  result = &unk_60B2AF - &unk_60B2A8;
+            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A90.c:6:27: error: use of undeclared identifier 'unk_60B2A8'
+  result = &unk_60B2AF - &unk_60B2A8;
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A90.c:7:28: error: use of undeclared identifier 'unk_60B2AF'
+  if ( (unsigned __int64)(&unk_60B2AF - &unk_60B2A8) > 0xE )
+                           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A90.c:7:42: error: use of undeclared identifier 'unk_60B2A8'
+  if ( (unsigned __int64)(&unk_60B2AF - &unk_60B2A8) > 0xE )
+                                         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405C61.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405C61(int a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405C61.c:4:61: error: use of undeclared identifier 'qword_60B480'
+  return sub_4059DB(a1, a2, 0xFFFFFFFFFFFFFFFFLL, (__int64)&qword_60B480);
+                                                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406BBE.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_406BBE(__int64 *a1, int a2)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404768.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+char *__fastcall sub_404768(const char *a1)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404768.c:13:87: error: use of undeclared identifier 'stderr'
+    fwrite("A NULL argv[0] was passed through an exec system call.\n", 1uLL, 0x37uLL, stderr);
+                                                                                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404768.c:16:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v4 = strrchr(a1, 47);
+     ^ ~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404768.c:28:7: error: use of undeclared identifier 'program_invocation_short_name'
+      program_invocation_short_name = (__int64)(s1 + 3);
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404768.c:31:3: error: use of undeclared identifier 'qword_60B468'
+  qword_60B468 = (__int64)s;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404768.c:33:3: error: use of undeclared identifier 'program_invocation_name'
+  program_invocation_name = (__int64)s;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402D87.c:8:22: error: use of undeclared identifier 'qword_60B3A0'
+  for ( i = 0LL; i < qword_60B3A0; ++i )
+                     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402D87.c:10:21: error: use of undeclared identifier 'qword_60B398'
+    if ( *(_BYTE *)(qword_60B398 + 96 * i + 30) )
+                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402D87.c:12:33: error: use of undeclared identifier 'qword_60B398'
+      for ( j = 0LL; *(_BYTE *)(qword_60B398 + 96 * i + 28) || *(_QWORD *)(qword_60B398 + 96 * i + 16) >= j; ++j )
+                                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402D87.c:12:76: error: use of undeclared identifier 'qword_60B398'
+      for ( j = 0LL; *(_BYTE *)(qword_60B398 + 96 * i + 28) || *(_QWORD *)(qword_60B398 + 96 * i + 16) >= j; ++j )
+                                                                           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402D87.c:13:20: error: use of undeclared identifier 'qword_60B398'
+        sub_402ABD(qword_60B398 + 96 * i, j);
+                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402D87.c:17:33: error: use of undeclared identifier 'qword_60B398'
+      for ( k = 0LL; *(_BYTE *)(qword_60B398 + 96 * i + 28) || *(_QWORD *)(qword_60B398 + 96 * i + 16) >= k; ++k )
+                                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402D87.c:17:76: error: use of undeclared identifier 'qword_60B398'
+      for ( k = 0LL; *(_BYTE *)(qword_60B398 + 96 * i + 28) || *(_QWORD *)(qword_60B398 + 96 * i + 16) >= k; ++k )
+                                                                           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402D87.c:18:20: error: use of undeclared identifier 'qword_60B398'
+        sub_402933(qword_60B398 + 96 * i, k);
+                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401740.c:3:1: error: unknown type name 'size_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401740.c:3:16: error: unknown type name 'wchar_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401740.c:3:45: error: unknown type name 'size_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+                                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401740.c:3:55: error: unknown type name 'mbstate_t'
+size_t mbrtowc(wchar_t *pwc, const char *s, size_t n, mbstate_t *p)
+                                                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402074.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+_QWORD *__fastcall sub_402074(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402074.c:6:8: warning: cast to 'uint64 *' (aka 'unsigned long long *') from smaller integer type 'int'
+  v2 = (_QWORD *)sub_406A3C(72LL);
+       ^~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405CB8.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405CB8(__int64 a1)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405CB8.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_405C61(0, a1);
+         ^~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407116.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_407116(unsigned __int64 *a1, int a2, int a3)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405D7E.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405D7E(int a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405D7E.c:4:10: warning: incompatible integer to pointer conversion returning 'int' from a function with result type 'void *'
+  return sub_405CFE(0, a1, a2);
+         ^~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401E2E.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+_QWORD *__fastcall sub_401E2E(__int64 a1, __int64 a2, __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401860.c:3:14: error: unknown type name 'size_t'
+void *calloc(size_t nmemb, size_t size)
+             ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401860.c:3:28: error: unknown type name 'size_t'
+void *calloc(size_t nmemb, size_t size)
+                           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405930.c:7:18: error: use of undeclared identifier 'off_60B2A0'
+  ptr = (void **)off_60B2A0;
+                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405930.c:8:20: error: use of undeclared identifier 'dword_60B280'
+  for ( i = 1; i < dword_60B280; ++i )
+                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405930.c:10:19: error: use of undeclared identifier 'unk_60B4C0'
+  if ( ptr[1] != &unk_60B4C0 )
+                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405930.c:13:5: error: use of undeclared identifier 'qword_60B290'
+    qword_60B290 = 256LL;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405930.c:14:5: error: use of undeclared identifier 'off_60B298'
+    off_60B298 = &unk_60B4C0;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405930.c:14:19: error: use of undeclared identifier 'unk_60B4C0'
+    off_60B298 = &unk_60B4C0;
+                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405930.c:16:25: error: use of undeclared identifier 'qword_60B290'
+  if ( ptr != (void **)&qword_60B290 )
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405930.c:19:5: error: use of undeclared identifier 'off_60B2A0'
+    off_60B2A0 = &qword_60B290;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405930.c:19:19: error: use of undeclared identifier 'qword_60B290'
+    off_60B2A0 = &qword_60B290;
+                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405930.c:21:3: error: use of undeclared identifier 'dword_60B280'
+  dword_60B280 = 1;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402599.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402599(unsigned __int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402599.c:8:9: error: use of undeclared identifier 'qword_60B320'
+  if ( !qword_60B320 && !sub_40224A() )
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402599.c:10:20: error: use of undeclared identifier 'qword_60B320'
+  if ( *(_QWORD *)(qword_60B320 + 16) > a1 )
+                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402599.c:12:23: error: use of undeclared identifier 'qword_60B320'
+  for ( i = (_QWORD *)qword_60B320; i[2] + i[4] <= a1; i = (_QWORD *)i[8] )
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406AFC.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_406AFC(size_t a1, __int64 a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406AFC.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_406AFC(size_t a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4048DB.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_4048DB(__int64 *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4048DB.c:9:11: error: use of undeclared identifier 'qword_60B480'
+    v1 = &qword_60B480;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:2:85: error: unknown type name 'size_t'
+unsigned __int64 __fastcall sub_404AE7(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, unsigned int a5, int a6, __int64 a7, char *a8, char *a9)
+                                                                                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:2:18: warning: '__fastcall' calling convention is not supported for this target
+unsigned __int64 __fastcall sub_404AE7(__int64 a1, unsigned __int64 a2, __int64 a3, size_t a4, unsigned int a5, int a6, __int64 a7, char *a8, char *a9)
+                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:14:3: error: use of undeclared identifier 'wchar_t'
+  wchar_t pwc; // [rsp+6Ch] [rbp-64h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:18:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t n; // [rsp+88h] [rbp-48h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:18:3: warning: expression result unused
+  size_t n; // [rsp+88h] [rbp-48h]
+  ^~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:18:10: error: use of undeclared identifier 'n'
+  size_t n; // [rsp+88h] [rbp-48h]
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:21:3: error: use of undeclared identifier 'size_t'; did you mean 'sizeof'?
+  size_t v34; // [rsp+A0h] [rbp-30h]
+  ^~~~~~
+  sizeof
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:21:3: warning: expression result unused
+  size_t v34; // [rsp+A0h] [rbp-30h]
+  ^~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:21:10: error: use of undeclared identifier 'v34'
+  size_t v34; // [rsp+A0h] [rbp-30h]
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:23:3: error: use of undeclared identifier 'mbstate_t'
+  mbstate_t p; // [rsp+B0h] [rbp-20h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:29:3: error: use of undeclared identifier 'n'
+  n = 0LL;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:49:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        a8 = sub_404AAA((const char *)L"`'", a5);
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:50:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        a9 = sub_404AAA((const char *)L"'", a5);
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:63:7: error: use of undeclared identifier 'n'
+      n = strlen(a9);
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:77:5: error: use of undeclared identifier 'n'
+    n = 1LL;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:95:27: warning: adding 'int' to a string does not append to the string
+    s = (_BYTE *)(L"\"`'" + 4);
+                  ~~~~~~~~^~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:95:27: note: use array indexing to silence this warning
+    s = (_BYTE *)(L"\"`'" + 4);
+                          ^
+                  &       [  ]
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:95:7: warning: assigning to 'char *' from 'uint8 *' (aka 'unsigned char *') converts between pointers to integer types where one is of the unique plain 'char' type and the other is not
+    s = (_BYTE *)(L"\"`'" + 4);
+      ^ ~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:96:5: error: use of undeclared identifier 'n'
+    n = 1LL;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:104:26: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:104:17: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:104:72: error: use of undeclared identifier 'n'
+    if ( v20 && n && i + n <= a4 && !memcmp((const void *)(a3 + i), s, n) )
+                                                                       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:140:23: error: indirection requires pointer operand ('int' invalid)
+              v25 = ((*__ctype_b_loc())[v22] & 0x4000) != 0;
+                      ^~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:144:36: error: use of undeclared identifier 'p'
+              memset(&p, 0, sizeof(p));
+                                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:144:23: error: use of undeclared identifier 'p'
+              memset(&p, 0, sizeof(p));
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:151:32: error: use of undeclared identifier 'pwc'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:151:84: error: use of undeclared identifier 'p'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                                                                                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:151:17: error: use of undeclared identifier 'v34'
+                v34 = mbrtowc(&pwc, (const char *)(v32 + i + a3), a4 - (v32 + i), &p);
+                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:152:23: error: use of undeclared identifier 'v34'
+                if ( !v34 )
+                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:154:22: error: use of undeclared identifier 'v34'
+                if ( v34 == -1LL )
+                     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:159:22: error: use of undeclared identifier 'v34'
+                if ( v34 == -2LL )
+                     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:168:38: error: use of undeclared identifier 'v34'
+                  for ( j = 1LL; j < v34; ++j )
+                                     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:184:32: error: use of undeclared identifier 'pwc'
+                if ( !iswprint(pwc) )
+                               ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:186:24: error: use of undeclared identifier 'v34'
+                v32 += v34;
+                       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:188:33: error: use of undeclared identifier 'p'
+              while ( !mbsinit(&p) );
+                                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AE7.c:239:30: error: use of undeclared identifier 'n'
+          if ( v20 && v21 && n )
+                             ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401720.c:6:1: warning: function declared 'noreturn' should not return
+}
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405F0B.c:2:73: error: unknown type name 'size_t'
+void *__fastcall sub_405F0B(int a1, __int64 a2, __int64 a3, __int64 a4, size_t a5)
+                                                                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405F0B.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405F0B(int a1, __int64 a2, __int64 a3, __int64 a4, size_t a5)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405F0B.c:6:11: error: use of undeclared identifier 'qword_60B480'
+  v8[0] = qword_60B480;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405F0B.c:7:11: error: use of undeclared identifier 'qword_60B488'
+  v8[1] = qword_60B488;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405F0B.c:8:11: error: use of undeclared identifier 'qword_60B490'
+  v8[2] = qword_60B490;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405F0B.c:9:11: error: use of undeclared identifier 'qword_60B498'
+  v8[3] = qword_60B498;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405F0B.c:10:11: error: use of undeclared identifier 'qword_60B4A0'
+  v8[4] = qword_60B4A0;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405F0B.c:11:11: error: use of undeclared identifier 'qword_60B4A8'
+  v8[5] = qword_60B4A8;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405F0B.c:12:11: error: use of undeclared identifier 'qword_60B4B0'
+  v8[6] = qword_60B4B0;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406931.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_406931(__int64 a1, unsigned __int64 a2, unsigned __int64 a3)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B4D.c:7:3: error: use of undeclared identifier 'FILE'
+  FILE *v3; // rbx
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B4D.c:7:9: error: use of undeclared identifier 'v3'
+  FILE *v3; // rbx
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B4D.c:15:19: error: use of undeclared identifier 'qword_60B468'
+  v0 = sub_404546(qword_60B468);
+                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B4D.c:16:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v1 = gettext("\nReport %s bugs to %s\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B4D.c:18:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v2 = gettext("%s home page: <%s>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B4D.c:20:3: error: use of undeclared identifier 'v3'
+  v3 = stdout;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B4D.c:20:8: error: use of undeclared identifier 'stdout'
+  v3 = stdout;
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B4D.c:21:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v4 = gettext("General help using GNU software: <http://www.gnu.org/gethelp/>\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B4D.c:22:22: error: use of undeclared identifier 'v3'
+  fputs_unlocked(v4, v3);
+                     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B4D.c:23:6: warning: incompatible integer to pointer conversion assigning to 'const char *' from 'int'
+  s1 = setlocale(5, 0LL);
+     ^ ~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B4D.c:26:21: error: use of undeclared identifier 'qword_60B468'
+    v5 = sub_404546(qword_60B468);
+                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B4D.c:27:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v6 = gettext("Report %s translation bugs to <http://translationproject.org/team/>\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B4D.c:30:19: error: use of undeclared identifier 'qword_60B468'
+  v7 = sub_404546(qword_60B468);
+                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401B4D.c:31:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v8 = gettext("For complete documentation, run: info coreutils '%s invocation'\n");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4016E0.c:3:12: error: unknown type name 'FILE'
+int fclose(FILE *stream)
+           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401A20.c:3:19: error: unknown type name 'mbstate_t'
+int mbsinit(const mbstate_t *ps)
+                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4017D0.c:3:30: error: unknown type name 'size_t'
+void *memset(void *s, int c, size_t n)
+                             ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402ABD.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_402ABD(__int64 a1, __int64 a2)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402ABD.c:24:26: error: use of undeclared identifier 'qword_60B340'
+      v12 = sub_402599(++qword_60B340);
+                         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402ABD.c:44:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v3 = gettext("error in regular expression search");
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402ABD.c:55:26: error: use of undeclared identifier 'qword_60B340'
+      v10 = sub_402599(++qword_60B340);
+                         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402ABD.c:75:12: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+        v2 = gettext("error in regular expression search");
+           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402ABD.c:86:25: error: use of undeclared identifier 'qword_60B340'
+  v13 = *(_QWORD *)a1 + qword_60B340;
+                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402ABD.c:94:5: error: use of undeclared identifier 'qword_60B340'
+    qword_60B340 = v13;
+    ^
+/share/resym_darpa/data/commands/csplit_ground_beyond_access_command.sh: line 168: 22431 Segmentation fault      (core dumped) /home/clang-parser/beyond_access/beyond_access /share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402ABD.c /share/resym_darpa/data/beyond_access/csplit_ground/csplit_ground-402ABD.json
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405CD7.c:2:41: error: unknown type name 'size_t'
+void *__fastcall sub_405CD7(__int64 a1, size_t a2)
+                                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405CD7.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405CD7(__int64 a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40332F.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40332F(__int64 a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40332F.c:6:66: error: use of undeclared identifier 'stream'
+  fwrite_unlocked(*(const void **)(a1 + 8), 1uLL, *(_QWORD *)a1, stream);
+                                                                 ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40332F.c:7:28: error: use of undeclared identifier 'qword_60B370'
+  result = *(_QWORD *)a1 + qword_60B370;
+                           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40332F.c:8:3: error: use of undeclared identifier 'qword_60B370'
+  qword_60B370 = result;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-403A01.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_403A01(__int64 a1, _DWORD *a2)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-408080.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall init(unsigned int a1, __int64 a2, __int64 a3)
+     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-408080.c:8:9: error: use of undeclared identifier 'off_60AE18'
+  v5 = &off_60AE18 - off_60AE10;
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-408080.c:8:22: error: use of undeclared identifier 'off_60AE10'
+  v5 = &off_60AE18 - off_60AE10;
+                     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-408080.c:13:55: error: use of undeclared identifier 'off_60AE10'
+      ((void (__fastcall *)(_QWORD, __int64, __int64))off_60AE10[v4++])(a1, a2, a3);
+                                                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401730.c:3:82: warning: declaration of 'struct option' will not be visible outside of this function
+int getopt_long(int argc, char *const *argv, const char *shortopts, const struct option *longopts, int *longind)
+                                                                                 ^
+/share/resym_darpa/data/commands/csplit_ground_beyond_access_command.sh: line 174: 22437 Segmentation fault      (core dumped) /home/clang-parser/beyond_access/beyond_access /share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401730.c /share/resym_darpa/data/beyond_access/csplit_ground/csplit_ground-401730.json
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402933.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+bool __fastcall sub_402933(__int64 a1, __int64 a2)
+     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407E3E.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_407E3E(_DWORD *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406A3C.c:2:29: error: unknown type name 'size_t'
+void *__fastcall sub_406A3C(size_t a1, __int64 a2)
+                            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406A3C.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_406A3C(size_t a1, __int64 a2)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4016B0.c:3:37: warning: declaration of 'struct sigaction' will not be visible outside of this function
+int sigaction(int sig, const struct sigaction *act, struct sigaction *oact)
+                                    ^
+/share/resym_darpa/data/commands/csplit_ground_beyond_access_command.sh: line 178: 22441 Segmentation fault      (core dumped) /home/clang-parser/beyond_access/beyond_access /share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4016B0.c /share/resym_darpa/data/beyond_access/csplit_ground/csplit_ground-4016B0.json
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401DCA.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+_QWORD *__fastcall sub_401DCA(_QWORD *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405D3F.c:2:57: error: unknown type name 'size_t'
+void *__fastcall sub_405D3F(int a1, int a2, __int64 a3, size_t a4)
+                                                        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-405D3F.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_405D3F(int a1, int a2, __int64 a3, size_t a4)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406A71.c:2:39: error: unknown type name 'size_t'
+void *__fastcall sub_406A71(void *a1, size_t a2)
+                                      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-406A71.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+void *__fastcall sub_406A71(void *a1, size_t a2)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:2:1: error: unknown type name '_BOOL8'
+_BOOL8 sub_402FA4()
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:4:9: error: expected ';' after expression
+  _BOOL8 result; // rax
+        ^
+        ;
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:4:3: error: use of undeclared identifier '_BOOL8'
+  _BOOL8 result; // rax
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:4:10: error: use of undeclared identifier 'result'
+  _BOOL8 result; // rax
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:7:3: error: use of undeclared identifier 'sigset_t'
+  sigset_t oset; // [rsp+10h] [rbp-80h] BYREF
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:9:3: error: use of undeclared identifier 'name'
+  name = sub_402EF3(dword_60B368);
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:9:21: error: use of undeclared identifier 'dword_60B368'
+  name = sub_402EF3(dword_60B368);
+                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:10:8: error: use of undeclared identifier 'dword_60B368'
+  if ( dword_60B368 == -1 )
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:17:21: error: use of undeclared identifier 'set'
+    sigprocmask(0, &set, &oset);
+                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:17:27: error: use of undeclared identifier 'oset'
+    sigprocmask(0, &set, &oset);
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:18:5: error: use of undeclared identifier 'stream'
+    stream = (FILE *)sub_4045FD(name, "w");
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:18:21: error: expected expression
+    stream = (FILE *)sub_4045FD(name, "w");
+                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:18:15: error: use of undeclared identifier 'FILE'
+    stream = (FILE *)sub_4045FD(name, "w");
+              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:19:10: error: use of undeclared identifier 'stream'
+    v1 = stream != 0LL;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:20:14: error: indirection requires pointer operand ('int' invalid)
+    errnum = *__errno_location();
+             ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:21:5: error: use of undeclared identifier 'dword_60B368'
+    dword_60B368 += v1;
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:22:21: error: use of undeclared identifier 'oset'
+    sigprocmask(2, &oset, 0LL);
+                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:24:3: error: use of undeclared identifier 'result'
+  result = !v1;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:27:28: error: use of undeclared identifier 'name'
+    error(0, errnum, "%s", name);
+                           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:30:3: error: use of undeclared identifier 'qword_60B370'
+  qword_60B370 = 0LL;
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402FA4.c:31:10: error: use of undeclared identifier 'result'
+  return result;
+         ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401840.c:3:35: error: unknown type name 'FILE'
+int fputs_unlocked(const char *s, FILE *stream)
+                                  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401990.c:3:1: error: unknown type name 'FILE'
+FILE *fopen(const char *filename, const char *modes)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407E71.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_407E71(FILE *a1)
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407E71.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_407E71(FILE *a1)
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AAA.c:2:7: warning: '__fastcall' calling convention is not supported for this target
+char *__fastcall sub_404AAA(const char *a1, int a2)
+      ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404AAA.c:6:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v3 = gettext(a1);
+     ^ ~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401800.c:3:36: error: unknown type name 'size_t'
+void *memchr(const void *s, int c, size_t n)
+                                   ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4015C8.c:6:13: error: use of undeclared identifier '_gmon_start__'
+  result = &_gmon_start__;
+            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4015C8.c:7:9: error: use of undeclared identifier '_gmon_start__'
+  if ( &_gmon_start__ )
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-4015C8.c:8:14: warning: cast to 'void *' from smaller integer type 'int'
+    result = (void *)__gmon_start__();
+             ^~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401830.c:3:44: error: unknown type name 'size_t'
+int memcmp(const void *s1, const void *s2, size_t n)
+                                           ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401810.c:3:1: error: unknown type name 'ssize_t'
+ssize_t read(int fd, void *buf, size_t nbytes)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401810.c:3:33: error: unknown type name 'size_t'
+ssize_t read(int fd, void *buf, size_t nbytes)
+                                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40491D.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_40491D(__int64 *a1, unsigned __int8 a2, char a3)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-40491D.c:10:11: error: use of undeclared identifier 'qword_60B480'
+    v3 = &qword_60B480;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402862.c:2:6: warning: '__fastcall' calling convention is not supported for this target
+void __fastcall __noreturn sub_402862(__int64 a1, __int64 a2)
+     ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402862.c:16:8: error: use of undeclared identifier 'qword_60B468'
+  v4 = qword_60B468;
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402862.c:17:6: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+  v5 = gettext("%s: %s: line number out of range");
+     ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402862.c:18:11: error: use of undeclared identifier 'stderr'
+  fprintf(stderr, v5, v4, v3);
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402862.c:22:8: warning: incompatible integer to pointer conversion assigning to 'char *' from 'int'
+    v7 = gettext(" on repetition %s\n");
+       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402862.c:23:13: error: use of undeclared identifier 'stderr'
+    fprintf(stderr, v7, v6);
+            ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-402862.c:27:15: error: use of undeclared identifier 'stderr'
+    fputc(10, stderr);
+              ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404892.c:2:9: warning: '__fastcall' calling convention is not supported for this target
+__int64 __fastcall sub_404892(__int64 *a1)
+        ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404892.c:8:8: error: indirection requires pointer operand ('int' invalid)
+  v3 = *__errno_location();
+       ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404892.c:12:11: error: use of undeclared identifier 'qword_60B480'
+    v1 = &qword_60B480;
+          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-404892.c:14:3: error: indirection requires pointer operand ('int' invalid)
+  *__errno_location() = v3;
+  ^~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401DF7.c:6:8: warning: cast to 'uint64 *' (aka 'unsigned long long *') from smaller integer type 'int'
+  v1 = (_QWORD *)sub_406A3C(1312LL);
+       ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407EBC.c:2:27: error: unknown type name 'FILE'
+int __fastcall sub_407EBC(FILE *a1, __off_t a2, int a3)
+                          ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407EBC.c:2:37: error: unknown type name '__off_t'
+int __fastcall sub_407EBC(FILE *a1, __off_t a2, int a3)
+                                    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407EBC.c:2:5: warning: '__fastcall' calling convention is not supported for this target
+int __fastcall sub_407EBC(FILE *a1, __off_t a2, int a3)
+    ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407EBC.c:5:3: error: use of undeclared identifier '__off_t'
+  __off_t v6; // [rsp+28h] [rbp-8h]
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407EBC.c:10:3: error: use of undeclared identifier 'v6'
+  v6 = lseek(v3, a2, a3);
+  ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407EBC.c:11:8: error: use of undeclared identifier 'v6'
+  if ( v6 == -1 )
+       ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-407EBC.c:14:17: error: use of undeclared identifier 'v6'
+  a1->_offset = v6;
+                ^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401880.c:3:1: error: unknown type name '__sighandler_t'
+__sighandler_t signal(int sig, __sighandler_t handler)
+^
+/share/resym_darpa/data/decompiled_files/csplit_ground/csplit_ground-401880.c:3:32: error: unknown type name '__sighandler_t'
+__sighandler_t signal(int sig, __sighandler_t handler)
+                               ^

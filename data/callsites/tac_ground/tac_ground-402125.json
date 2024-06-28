@@ -1,0 +1,60 @@
+[
+    {
+        "args": [
+            "qword_60A440"
+        ],
+        "funName": "sub_4044F7",
+        "lineNum": 35
+    },
+    {
+        "args": [
+            "name"
+        ],
+        "funName": "sub_402107",
+        "lineNum": 41
+    },
+    {
+        "args": [
+            "a3",
+            "dest",
+            "qword_6082C8"
+        ],
+        "funName": "sub_404486",
+        "lineNum": 44
+    },
+    {
+        "args": [
+            "a4"
+        ],
+        "funName": "sub_404307",
+        "lineNum": 49
+    },
+    {
+        "args": [
+            "name"
+        ],
+        "funName": "sub_404307",
+        "lineNum": 65
+    },
+    {
+        "args": [
+            "stream"
+        ],
+        "funName": "sub_4050B6",
+        "lineNum": 70
+    },
+    {
+        "args": [
+            "name"
+        ],
+        "funName": "sub_402CEE",
+        "lineNum": 75
+    },
+    {
+        "args": [
+            "s"
+        ],
+        "funName": "sub_402CEE",
+        "lineNum": 86
+    }
+]

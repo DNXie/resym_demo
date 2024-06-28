@@ -1,0 +1,20 @@
+{
+    "argument": [
+        {
+            "name": "pattern",
+            "type": "const char *",
+            "original_line": "const char *pattern"
+        },
+        {
+            "name": "name",
+            "type": "const char *",
+            "original_line": "const char *name"
+        },
+        {
+            "name": "flags",
+            "type": "int",
+            "original_line": "int flags"
+        }
+    ],
+    "variable": []
+}

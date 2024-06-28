@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "file",
+            "type": "const char *",
+            "original_line": "const char *file"
+        },
+        {
+            "name": "mode",
+            "type": "__mode_t",
+            "original_line": "__mode_t mode"
+        }
+    ],
+    "variable": []
+}

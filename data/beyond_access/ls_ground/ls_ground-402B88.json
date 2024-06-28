@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "a1",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 4,
+        "offset": 0,
+        "varName": "a1"
+    }
+]

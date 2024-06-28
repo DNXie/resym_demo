@@ -1,0 +1,19 @@
+[
+    {
+        "args": [],
+        "funName": "sub_401F46",
+        "lineNum": 52
+    },
+    {
+        "args": [],
+        "funName": "sub_401F46",
+        "lineNum": 91
+    },
+    {
+        "args": [
+            "*(stringa - 1)"
+        ],
+        "funName": "sub_401E2D",
+        "lineNum": 143
+    }
+]

@@ -1,0 +1,86 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "__int64",
+            "original_line": "__int64 a1"
+        },
+        {
+            "name": "a2",
+            "type": "__int64",
+            "original_line": "__int64 a2"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v3",
+            "type": "char",
+            "comment": "al",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "char v3; // al"
+        },
+        {
+            "name": "v5",
+            "type": "__int64",
+            "comment": "[rsp+8h] [rbp-38h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-38",
+            "rbp_offset_dec": -56,
+            "original_line": "__int64 v5; // [rsp+8h] [rbp-38h]"
+        },
+        {
+            "name": "v6",
+            "type": "char",
+            "comment": "[rsp+1Fh] [rbp-21h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-21",
+            "rbp_offset_dec": -33,
+            "original_line": "char v6; // [rsp+1Fh] [rbp-21h]"
+        },
+        {
+            "name": "i",
+            "type": "unsigned __int64",
+            "comment": "[rsp+20h] [rbp-20h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-20",
+            "rbp_offset_dec": -32,
+            "original_line": "unsigned __int64 i; // [rsp+20h] [rbp-20h]"
+        },
+        {
+            "name": "j",
+            "type": "size_t",
+            "comment": "[rsp+20h] [rbp-20h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-20",
+            "rbp_offset_dec": -32,
+            "original_line": "size_t j; // [rsp+20h] [rbp-20h]"
+        },
+        {
+            "name": "nmemb",
+            "type": "size_t",
+            "comment": "[rsp+28h] [rbp-18h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-18",
+            "rbp_offset_dec": -24,
+            "original_line": "size_t nmemb; // [rsp+28h] [rbp-18h]"
+        },
+        {
+            "name": "base",
+            "type": "_QWORD *",
+            "comment": "[rsp+30h] [rbp-10h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-10",
+            "rbp_offset_dec": -16,
+            "original_line": "_QWORD *base; // [rsp+30h] [rbp-10h]"
+        }
+    ]
+}

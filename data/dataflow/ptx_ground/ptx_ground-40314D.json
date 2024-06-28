@@ -1,0 +1,12 @@
+[
+    {
+        "lhsVarName": "result",
+        "lineNum": 7,
+        "rhsVarName": "a1"
+    },
+    {
+        "lhsVarName": "i",
+        "lineNum": 8,
+        "rhsVarName": "a1"
+    }
+]

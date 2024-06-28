@@ -1,0 +1,57 @@
+[
+    {
+        "args": [],
+        "funName": "sub_4073E5",
+        "lineNum": 21
+    },
+    {
+        "args": [
+            "s",
+            "\"UTF-8\""
+        ],
+        "funName": "sub_406A58",
+        "lineNum": 25
+    },
+    {
+        "args": [
+            "a2",
+            "\"UTF-8\"",
+            "s"
+        ],
+        "funName": "sub_40639C",
+        "lineNum": 27
+    },
+    {
+        "args": [
+            "a2",
+            "\"UTF-8\"",
+            "dest"
+        ],
+        "funName": "sub_40639C",
+        "lineNum": 33
+    },
+    {
+        "args": [
+            "s1",
+            "(__int64)a1"
+        ],
+        "funName": "sub_4031BA",
+        "lineNum": 74
+    },
+    {
+        "args": [
+            "s1",
+            "v8"
+        ],
+        "funName": "sub_4031BA",
+        "lineNum": 75
+    },
+    {
+        "args": [
+            "s1",
+            "v9"
+        ],
+        "funName": "sub_4031BA",
+        "lineNum": 76
+    }
+]

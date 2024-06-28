@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "domainname",
+            "type": "const char *",
+            "original_line": "const char *domainname"
+        }
+    ],
+    "variable": []
+}

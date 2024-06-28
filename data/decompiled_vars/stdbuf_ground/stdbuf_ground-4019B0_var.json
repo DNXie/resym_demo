@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "cd",
+            "type": "iconv_t",
+            "original_line": "iconv_t cd"
+        }
+    ],
+    "variable": []
+}

@@ -1,0 +1,11 @@
+Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/split_ground
+split_ground.decompiled - .iconv: Fail to match arguments char **inbuf
+split_ground.decompiled - .sigaction: Fail to match arguments const struct sigaction *act
+split_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
+split_ground.decompiled - .__assert_fail: Fail to match arguments unsigned int line
+split_ground.decompiled - .pipe: Fail to match arguments int pipedes[2]
+split_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
+split_ground.decompiled - .strtol: Fail to match arguments char **endptr
+split_ground.decompiled - .strtoumax: Fail to match arguments char **endptr
+split_ground.decompiled - .strtoul: Fail to match arguments char **endptr
+split_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc

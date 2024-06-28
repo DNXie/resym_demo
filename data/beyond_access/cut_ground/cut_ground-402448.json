@@ -1,0 +1,82 @@
+[
+    {
+        "expr": "v2",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "bool *",
+        "lhsPointeeSize": 4,
+        "lhsType": "bool *",
+        "lineNum": 29,
+        "offset": 0,
+        "varName": "v2"
+    },
+    {
+        "expr": "(bool *)&v3",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "bool *",
+        "lhsPointeeSize": 4,
+        "lhsType": "bool *",
+        "lineNum": 29,
+        "offset": 0,
+        "varName": "v3"
+    },
+    {
+        "expr": "v2",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "bool *",
+        "lhsPointeeSize": 4,
+        "lhsType": "bool *",
+        "lineNum": 31,
+        "offset": 0,
+        "varName": "v2"
+    },
+    {
+        "expr": "v7",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "bool *",
+        "lhsPointeeSize": 4,
+        "lhsType": "bool *",
+        "lineNum": 32,
+        "offset": 0,
+        "varName": "v7"
+    },
+    {
+        "expr": "v2",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "bool *",
+        "lhsPointeeSize": 4,
+        "lhsType": "bool *",
+        "lineNum": 32,
+        "offset": 0,
+        "varName": "v2"
+    },
+    {
+        "expr": "v2",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "bool *",
+        "lhsPointeeSize": 4,
+        "lhsType": "bool *",
+        "lineNum": 33,
+        "offset": 0,
+        "varName": "v2"
+    },
+    {
+        "expr": "v7",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "bool *",
+        "lhsPointeeSize": 4,
+        "lhsType": "bool *",
+        "lineNum": 35,
+        "offset": 0,
+        "varName": "v7"
+    },
+    {
+        "expr": "v7",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "bool *",
+        "lhsPointeeSize": 4,
+        "lhsType": "bool *",
+        "lineNum": 35,
+        "offset": 0,
+        "varName": "v7"
+    }
+]

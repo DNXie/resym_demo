@@ -1,0 +1,22 @@
+[
+    {
+        "args": [
+            "512LL"
+        ],
+        "funName": "sub_410EEB",
+        "lineNum": 17
+    },
+    {
+        "args": [],
+        "funName": "sub_41106D",
+        "lineNum": 40
+    },
+    {
+        "args": [
+            "ptr",
+            "v5"
+        ],
+        "funName": "sub_410F20",
+        "lineNum": 50
+    }
+]

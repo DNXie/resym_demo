@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "(_QWORD *)(v2 + 64)",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "uint64",
+        "lhsPointeeSize": 0,
+        "lhsType": "long long",
+        "lineNum": 13,
+        "offset": 64,
+        "varName": "v2"
+    }
+]

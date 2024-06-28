@@ -1,0 +1,19 @@
+[
+    {
+        "args": [
+            "(const char *)a1",
+            "v27"
+        ],
+        "funName": "sub_402E5C",
+        "lineNum": 111
+    },
+    {
+        "args": [
+            "(const char *)a1",
+            "v27",
+            "a4"
+        ],
+        "funName": "sub_402D3C",
+        "lineNum": 113
+    }
+]

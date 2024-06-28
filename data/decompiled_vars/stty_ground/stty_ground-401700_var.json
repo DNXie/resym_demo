@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "fd",
+            "type": "int",
+            "original_line": "int fd"
+        },
+        {
+            "name": "termios_p",
+            "type": "struct termios *",
+            "original_line": "struct termios *termios_p"
+        }
+    ],
+    "variable": []
+}

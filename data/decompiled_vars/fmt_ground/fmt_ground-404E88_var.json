@@ -1,0 +1,61 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "FILE *",
+            "original_line": "FILE *a1"
+        },
+        {
+            "name": "a2",
+            "type": "const char *",
+            "original_line": "const char *a2"
+        },
+        {
+            "name": "a3",
+            "type": "const char *",
+            "original_line": "const char *a3"
+        },
+        {
+            "name": "a4",
+            "type": "const char *",
+            "original_line": "const char *a4"
+        },
+        {
+            "name": "a5",
+            "type": "unsigned int *",
+            "original_line": "unsigned int *a5"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v5",
+            "type": "__int64 *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "__int64 *v5; // rax"
+        },
+        {
+            "name": "i",
+            "type": "unsigned __int64",
+            "comment": "[rsp+38h] [rbp-58h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-58",
+            "rbp_offset_dec": -88,
+            "original_line": "unsigned __int64 i; // [rsp+38h] [rbp-58h]"
+        },
+        {
+            "name": "v8",
+            "type": "__int64",
+            "comment": "[rsp+40h] [rbp-50h] BYREF",
+            "array_size": 10,
+            "star_count": 0,
+            "rbp_offset_hex": "-50",
+            "rbp_offset_dec": -80,
+            "original_line": "__int64 v8[10]; // [rsp+40h] [rbp-50h] BYREF"
+        }
+    ]
+}

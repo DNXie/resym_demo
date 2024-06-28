@@ -1,0 +1,21 @@
+[
+    {
+        "args": [],
+        "funName": "sub_408A4A",
+        "lineNum": 24
+    },
+    {
+        "args": [
+            "(__int64)&v10"
+        ],
+        "funName": "sub_4079A0",
+        "lineNum": 50
+    },
+    {
+        "args": [
+            "(__int64)&v10"
+        ],
+        "funName": "sub_4079A0",
+        "lineNum": 68
+    }
+]

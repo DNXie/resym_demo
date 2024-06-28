@@ -1,0 +1,10 @@
+[
+    {
+        "args": [
+            "*(_DWORD *)(a1 + 24)",
+            "a2"
+        ],
+        "funName": "sub_402D99",
+        "lineNum": 4
+    }
+]

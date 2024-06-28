@@ -1,0 +1,145 @@
+[
+    {
+        "args": [
+            "(__int64)a2",
+            "(__int64)v66",
+            "v88"
+        ],
+        "funName": "sub_4072DF",
+        "lineNum": 432
+    },
+    {
+        "args": [
+            "(__int64)a2",
+            "(__int64)v66",
+            "v88"
+        ],
+        "funName": "sub_407338",
+        "lineNum": 436
+    },
+    {
+        "args": [
+            "(__int64)a2",
+            "(__int64)&a4[1 - i]",
+            "i"
+        ],
+        "funName": "sub_407338",
+        "lineNum": 488
+    },
+    {
+        "args": [
+            "v39",
+            "0",
+            "-1",
+            "(unsigned int)\"%H:%M:%S\"",
+            "(_DWORD)a5",
+            "a6",
+            "a7"
+        ],
+        "funName": "sub_4073E2",
+        "lineNum": 572
+    },
+    {
+        "args": [
+            "v39",
+            "0",
+            "-1",
+            "(unsigned int)\"%H:%M\"",
+            "(_DWORD)a5",
+            "a6",
+            "a7"
+        ],
+        "funName": "sub_4073E2",
+        "lineNum": 597
+    },
+    {
+        "args": [
+            "v39",
+            "0",
+            "-1",
+            "(unsigned int)\"%m/%d/%y\"",
+            "(_DWORD)a5",
+            "a6",
+            "a7"
+        ],
+        "funName": "sub_4073E2",
+        "lineNum": 651
+    },
+    {
+        "args": [
+            "a5->tm_yday",
+            "a5->tm_wday"
+        ],
+        "funName": "sub_407391",
+        "lineNum": 685
+    },
+    {
+        "args": [
+            "a5->tm_yday + -365 - v27",
+            "a5->tm_wday"
+        ],
+        "funName": "sub_407391",
+        "lineNum": 689
+    },
+    {
+        "args": [
+            "a5->tm_yday + v26 + 365",
+            "a5->tm_wday"
+        ],
+        "funName": "sub_407391",
+        "lineNum": 700
+    },
+    {
+        "args": [
+            "v39",
+            "0",
+            "-1",
+            "(unsigned int)\"%Y-%m-%d\"",
+            "(_DWORD)a5",
+            "a6",
+            "a7"
+        ],
+        "funName": "sub_4073E2",
+        "lineNum": 738
+    },
+    {
+        "args": [
+            "v39",
+            "(_DWORD)a2",
+            "a3 - v67",
+            "(_DWORD)v70",
+            "(_DWORD)a5",
+            "a6",
+            "a7"
+        ],
+        "funName": "sub_4073E2",
+        "lineNum": 762
+    },
+    {
+        "args": [
+            "(__int64)a2",
+            "(__int64)v121",
+            "v109"
+        ],
+        "funName": "sub_4072DF",
+        "lineNum": 851
+    },
+    {
+        "args": [
+            "(__int64)a2",
+            "(__int64)v121",
+            "v109"
+        ],
+        "funName": "sub_407338",
+        "lineNum": 855
+    },
+    {
+        "args": [
+            "(__int64)a2",
+            "src",
+            "v104"
+        ],
+        "funName": "sub_407338",
+        "lineNum": 1003
+    }
+]

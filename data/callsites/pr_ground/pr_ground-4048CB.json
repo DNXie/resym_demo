@@ -1,0 +1,66 @@
+[
+    {
+        "args": [],
+        "funName": "sub_40474A",
+        "lineNum": 39
+    },
+    {
+        "args": [
+            "(_QWORD *)a1"
+        ],
+        "funName": "sub_40325C",
+        "lineNum": 50
+    },
+    {
+        "args": [
+            "(unsigned int)(char)c"
+        ],
+        "funName": "sub_404E56",
+        "lineNum": 53
+    },
+    {
+        "args": [],
+        "funName": "sub_40474A",
+        "lineNum": 64
+    },
+    {
+        "args": [
+            "(__int64)v12"
+        ],
+        "funName": "sub_403849",
+        "lineNum": 73
+    },
+    {
+        "args": [
+            "dword_6103E4 - dword_6103DC"
+        ],
+        "funName": "sub_4040D2",
+        "lineNum": 87
+    },
+    {
+        "args": [],
+        "funName": "sub_40441D",
+        "lineNum": 91
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_403F34",
+        "lineNum": 94
+    },
+    {
+        "args": [
+            "(unsigned int)(char)v2"
+        ],
+        "funName": "sub_404E56",
+        "lineNum": 109
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_403385",
+        "lineNum": 123
+    }
+]

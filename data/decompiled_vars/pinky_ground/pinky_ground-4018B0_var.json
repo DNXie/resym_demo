@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "ai",
+            "type": "struct addrinfo *",
+            "original_line": "struct addrinfo *ai"
+        }
+    ],
+    "variable": []
+}

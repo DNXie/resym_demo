@@ -1,0 +1,12 @@
+[
+    {
+        "lhsVarName": "argc",
+        "lineNum": 20,
+        "rhsVarName": "a1"
+    },
+    {
+        "lhsVarName": "argv",
+        "lineNum": 21,
+        "rhsVarName": "a2"
+    }
+]

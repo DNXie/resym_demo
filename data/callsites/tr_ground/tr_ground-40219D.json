@@ -1,0 +1,23 @@
+[
+    {
+        "args": [
+            "32LL"
+        ],
+        "funName": "sub_406D88",
+        "lineNum": 12
+    },
+    {
+        "args": [
+            "a2"
+        ],
+        "funName": "sub_401F1F",
+        "lineNum": 25
+    },
+    {
+        "args": [
+            "a3"
+        ],
+        "funName": "sub_401F1F",
+        "lineNum": 26
+    }
+]

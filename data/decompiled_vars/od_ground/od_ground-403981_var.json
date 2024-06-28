@@ -1,0 +1,41 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "int *",
+            "original_line": "int *a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v1",
+            "type": "int *",
+            "comment": "rax",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "int *v1; // rax"
+        },
+        {
+            "name": "v2",
+            "type": "bool",
+            "comment": "bl",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": null,
+            "rbp_offset_dec": null,
+            "original_line": "bool v2; // bl"
+        },
+        {
+            "name": "v4",
+            "type": "bool",
+            "comment": "[rsp+1Fh] [rbp-11h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-11",
+            "rbp_offset_dec": -17,
+            "original_line": "bool v4; // [rsp+1Fh] [rbp-11h]"
+        }
+    ]
+}

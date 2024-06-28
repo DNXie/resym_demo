@@ -1,0 +1,38 @@
+[
+    {
+        "args": [
+            "stream",
+            "2LL"
+        ],
+        "funName": "sub_40253A",
+        "lineNum": 25
+    },
+    {
+        "args": [
+            "*v13"
+        ],
+        "funName": "sub_4017DD",
+        "lineNum": 45
+    },
+    {
+        "args": [
+            "v10"
+        ],
+        "funName": "sub_4017DD",
+        "lineNum": 51
+    },
+    {
+        "args": [
+            "v10"
+        ],
+        "funName": "sub_4017DD",
+        "lineNum": 56
+    },
+    {
+        "args": [
+            "10"
+        ],
+        "funName": "sub_4017DD",
+        "lineNum": 59
+    }
+]

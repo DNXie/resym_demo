@@ -1,0 +1,22 @@
+[
+    {
+        "expr": "a4",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "int (*)(uint64, long long) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "int (*)(uint64, long long) __attribute__((fastcall))",
+        "lineNum": 12,
+        "offset": 0,
+        "varName": "a4"
+    },
+    {
+        "expr": "a4",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "int (*)(uint64, long long) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "int (*)(uint64, long long) __attribute__((fastcall))",
+        "lineNum": 14,
+        "offset": 0,
+        "varName": "a4"
+    }
+]

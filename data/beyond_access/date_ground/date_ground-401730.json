@@ -1,0 +1,12 @@
+[
+    {
+        "expr": "string",
+        "exprPointeeSize": 1,
+        "exprPointeeType": "char *",
+        "lhsPointeeSize": 1,
+        "lhsType": "char *",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "string"
+    }
+]

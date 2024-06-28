@@ -1,0 +1,10 @@
+{
+    "argument": [
+        {
+            "name": "timer",
+            "type": "const time_t *",
+            "original_line": "const time_t *timer"
+        }
+    ],
+    "variable": []
+}

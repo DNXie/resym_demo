@@ -1,0 +1,24 @@
+[
+    {
+        "args": [
+            "(__int64)v2"
+        ],
+        "funName": "sub_4038F2",
+        "lineNum": 20
+    },
+    {
+        "args": [],
+        "funName": "sub_404546",
+        "lineNum": 23
+    },
+    {
+        "args": [],
+        "funName": "sub_404997",
+        "lineNum": 27
+    },
+    {
+        "args": [],
+        "funName": "sub_404738",
+        "lineNum": 31
+    }
+]

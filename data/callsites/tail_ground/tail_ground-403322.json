@@ -1,0 +1,204 @@
+[
+    {
+        "args": [
+            "*(_QWORD *)a1",
+            "v7",
+            "*(_QWORD *)a1",
+            "v3",
+            "v4",
+            "v5"
+        ],
+        "funName": "sub_40732E",
+        "lineNum": 55
+    },
+    {
+        "args": [
+            "a1"
+        ],
+        "funName": "sub_401DB6",
+        "lineNum": 62
+    },
+    {
+        "args": [
+            "(const char **)a1"
+        ],
+        "funName": "sub_401DE6",
+        "lineNum": 74
+    },
+    {
+        "args": [
+            "v9"
+        ],
+        "funName": "sub_408FA1",
+        "lineNum": 75
+    },
+    {
+        "args": [
+            "(const char **)a1"
+        ],
+        "funName": "sub_401DE6",
+        "lineNum": 82
+    },
+    {
+        "args": [
+            "(const char **)a1"
+        ],
+        "funName": "sub_401DE6",
+        "lineNum": 92
+    },
+    {
+        "args": [
+            "fildes",
+            "(__int64)v17"
+        ],
+        "funName": "sub_4031D8",
+        "lineNum": 92
+    },
+    {
+        "args": [
+            "(const char **)a1"
+        ],
+        "funName": "sub_401DE6",
+        "lineNum": 96
+    },
+    {
+        "args": [
+            "v18"
+        ],
+        "funName": "sub_408FA1",
+        "lineNum": 97
+    },
+    {
+        "args": [
+            "(const char **)a1"
+        ],
+        "funName": "sub_401DE6",
+        "lineNum": 112
+    },
+    {
+        "args": [
+            "v14"
+        ],
+        "funName": "sub_408FA1",
+        "lineNum": 113
+    },
+    {
+        "args": [
+            "(const char **)a1"
+        ],
+        "funName": "sub_401DE6",
+        "lineNum": 121
+    },
+    {
+        "args": [
+            "fildes",
+            "(__int64)v21"
+        ],
+        "funName": "sub_401F23",
+        "lineNum": 122
+    },
+    {
+        "args": [
+            "(const char **)a1"
+        ],
+        "funName": "sub_401DE6",
+        "lineNum": 123
+    },
+    {
+        "args": [
+            "*(_DWORD *)(a1 + 56)",
+            "(__int64)v22"
+        ],
+        "funName": "sub_401F23",
+        "lineNum": 124
+    },
+    {
+        "args": [
+            "(const char **)a1"
+        ],
+        "funName": "sub_401DE6",
+        "lineNum": 137
+    },
+    {
+        "args": [
+            "fildes",
+            "(__int64)v31"
+        ],
+        "funName": "sub_401F23",
+        "lineNum": 138
+    },
+    {
+        "args": [
+            "(const char **)a1"
+        ],
+        "funName": "sub_401DE6",
+        "lineNum": 146
+    },
+    {
+        "args": [
+            "v26"
+        ],
+        "funName": "sub_408FA1",
+        "lineNum": 147
+    },
+    {
+        "args": [
+            "(const char **)a1"
+        ],
+        "funName": "sub_401DE6",
+        "lineNum": 152
+    },
+    {
+        "args": [
+            "*(_DWORD *)(a1 + 56)",
+            "(__int64)v29"
+        ],
+        "funName": "sub_401F23",
+        "lineNum": 153
+    },
+    {
+        "args": [
+            "(const char **)a1"
+        ],
+        "funName": "sub_401DE6",
+        "lineNum": 154
+    },
+    {
+        "args": [
+            "v30"
+        ],
+        "funName": "sub_408FA1",
+        "lineNum": 155
+    },
+    {
+        "args": [
+            "(const char **)a1"
+        ],
+        "funName": "sub_401DE6",
+        "lineNum": 166
+    },
+    {
+        "args": [
+            "v23"
+        ],
+        "funName": "sub_408FA1",
+        "lineNum": 167
+    },
+    {
+        "args": [
+            "(const char **)a1"
+        ],
+        "funName": "sub_401DE6",
+        "lineNum": 178
+    },
+    {
+        "args": [
+            "fildes",
+            "0LL",
+            "0",
+            "(__int64)v33"
+        ],
+        "funName": "sub_40213B",
+        "lineNum": 179
+    }
+]

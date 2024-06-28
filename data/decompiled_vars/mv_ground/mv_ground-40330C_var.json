@@ -1,0 +1,21 @@
+{
+    "argument": [
+        {
+            "name": "a1",
+            "type": "DIR *",
+            "original_line": "DIR *a1"
+        }
+    ],
+    "variable": [
+        {
+            "name": "v2",
+            "type": "struct dirent *",
+            "comment": "[rsp+18h] [rbp-8h]",
+            "array_size": null,
+            "star_count": 0,
+            "rbp_offset_hex": "-8",
+            "rbp_offset_dec": -8,
+            "original_line": "struct dirent *v2; // [rsp+18h] [rbp-8h]"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "argument": [
+        {
+            "name": "buf",
+            "type": "char *",
+            "original_line": "char *buf"
+        },
+        {
+            "name": "size",
+            "type": "size_t",
+            "original_line": "size_t size"
+        }
+    ],
+    "variable": []
+}

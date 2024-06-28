@@ -1,0 +1,32 @@
+[
+    {
+        "lhsVarName": "status",
+        "lineNum": 56,
+        "rhsVarName": "v3"
+    },
+    {
+        "lhsVarName": "v30",
+        "lineNum": 80,
+        "rhsVarName": "v6"
+    },
+    {
+        "lhsVarName": "fd",
+        "lineNum": 106,
+        "rhsVarName": "v10"
+    },
+    {
+        "lhsVarName": "fd",
+        "lineNum": 118,
+        "rhsVarName": "v11"
+    },
+    {
+        "lhsVarName": "file",
+        "lineNum": 134,
+        "rhsVarName": "v40"
+    },
+    {
+        "lhsVarName": "v38",
+        "lineNum": 182,
+        "rhsVarName": "v25"
+    }
+]

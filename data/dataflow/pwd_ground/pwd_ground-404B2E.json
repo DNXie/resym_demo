@@ -1,0 +1,22 @@
+[
+    {
+        "lhsVarName": "buf",
+        "lineNum": 33,
+        "rhsVarName": "a1"
+    },
+    {
+        "lhsVarName": "sb",
+        "lineNum": 59,
+        "rhsVarName": "a1"
+    },
+    {
+        "lhsVarName": "sb",
+        "lineNum": 159,
+        "rhsVarName": "v27"
+    },
+    {
+        "lhsVarName": "buf",
+        "lineNum": 192,
+        "rhsVarName": "sb"
+    }
+]

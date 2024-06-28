@@ -1,0 +1,30 @@
+[
+    {
+        "args": [
+            "(__int64)v13"
+        ],
+        "funName": "sub_40B337",
+        "lineNum": 64
+    },
+    {
+        "args": [
+            "(__int64)v20"
+        ],
+        "funName": "sub_40B337",
+        "lineNum": 67
+    },
+    {
+        "args": [
+            "(__int64)v13"
+        ],
+        "funName": "sub_40B337",
+        "lineNum": 111
+    },
+    {
+        "args": [
+            "(__int64)v20"
+        ],
+        "funName": "sub_40B337",
+        "lineNum": 118
+    }
+]

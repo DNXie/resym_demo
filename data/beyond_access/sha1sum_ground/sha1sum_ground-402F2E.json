@@ -1,0 +1,172 @@
+[
+    {
+        "expr": "a1[7]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 8,
+        "offset": 7,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[5]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 14,
+        "offset": 5,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[5]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 15,
+        "offset": 5,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[6]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 16,
+        "offset": 6,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1 + 5",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 17,
+        "offset": 5,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1 + 5",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 17,
+        "offset": 5,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[6]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 17,
+        "offset": 6,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[5]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 17,
+        "offset": 5,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1 + 5",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 17,
+        "offset": 5,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[5]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 18,
+        "offset": 5,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[5]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 18,
+        "offset": 5,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[5]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 19,
+        "offset": 5,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1[5]",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 19,
+        "offset": 5,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1 + 8",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 21,
+        "offset": 8,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32 *",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 21,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a1",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32 *",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 22,
+        "offset": 0,
+        "varName": "a1"
+    },
+    {
+        "expr": "a2",
+        "exprPointeeSize": 4,
+        "exprPointeeType": "uint32 *",
+        "lhsPointeeSize": 4,
+        "lhsType": "uint32 *",
+        "lineNum": 22,
+        "offset": 0,
+        "varName": "a2"
+    }
+]

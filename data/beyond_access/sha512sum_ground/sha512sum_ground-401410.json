@@ -1,0 +1,62 @@
+[
+    {
+        "expr": "main",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "int (*)(int, char **, char **) __attribute__((fastcall))",
+        "lhsPointeeSize": 0,
+        "lhsType": "int (*)(int, char **, char **) __attribute__((fastcall))",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "main"
+    },
+    {
+        "expr": "ubp_av",
+        "exprPointeeSize": 8,
+        "exprPointeeType": "char **",
+        "lhsPointeeSize": 8,
+        "lhsType": "char **",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "ubp_av"
+    },
+    {
+        "expr": "init",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void (*)(void)",
+        "lhsPointeeSize": 0,
+        "lhsType": "void (*)(void)",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "init"
+    },
+    {
+        "expr": "fini",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void (*)(void)",
+        "lhsPointeeSize": 0,
+        "lhsType": "void (*)(void)",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "fini"
+    },
+    {
+        "expr": "rtld_fini",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void (*)(void)",
+        "lhsPointeeSize": 0,
+        "lhsType": "void (*)(void)",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "rtld_fini"
+    },
+    {
+        "expr": "stack_end",
+        "exprPointeeSize": 0,
+        "exprPointeeType": "void *",
+        "lhsPointeeSize": 0,
+        "lhsType": "void *",
+        "lineNum": 5,
+        "offset": 0,
+        "varName": "stack_end"
+    }
+]
