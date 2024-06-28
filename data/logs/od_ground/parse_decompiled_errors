@@ -1,9 +1,0 @@
-Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/od_ground
-od_ground.decompiled - .strtod: Fail to match arguments char **endptr
-od_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
-od_ground.decompiled - .__assert_fail: Fail to match arguments unsigned int line
-od_ground.decompiled - .strtof: Fail to match arguments char **endptr
-od_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
-od_ground.decompiled - .strtold: Fail to match arguments char **endptr
-od_ground.decompiled - .strtoumax: Fail to match arguments char **endptr
-od_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc

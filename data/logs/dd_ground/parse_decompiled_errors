@@ -1,9 +1,0 @@
-Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/dd_ground
-dd_ground.decompiled - .sigaction: Fail to match arguments const struct sigaction *act
-dd_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
-dd_ground.decompiled - .__assert_fail: Fail to match arguments unsigned int line
-dd_ground.decompiled - .ioctl: Fail to match arguments unsigned __int64 request
-dd_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
-dd_ground.decompiled - .strtoumax: Fail to match arguments char **endptr
-dd_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc
-dd_ground.decompiled - .ngettext: Fail to match arguments unsigned __int64 n

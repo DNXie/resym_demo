@@ -1,5 +1,0 @@
-Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/chcon_ground
-chcon_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
-chcon_ground.decompiled - .__assert_fail: Fail to match arguments unsigned int line
-chcon_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
-chcon_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc

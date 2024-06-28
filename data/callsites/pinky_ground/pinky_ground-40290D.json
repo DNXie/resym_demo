@@ -1,9 +1,0 @@
-[
-    {
-        "args": [
-            "*(const char **)(8LL * (int)i + a2)"
-        ],
-        "funName": "sub_40226B",
-        "lineNum": 12
-    }
-]

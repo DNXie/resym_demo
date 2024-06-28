@@ -1,3 +1,0 @@
-Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/echo_ground
-echo_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
-echo_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc

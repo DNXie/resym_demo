@@ -1,5 +1,0 @@
-Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/id_ground
-id_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
-id_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
-id_ground.decompiled - .getgroups: Fail to match arguments __gid_t list[]
-id_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc

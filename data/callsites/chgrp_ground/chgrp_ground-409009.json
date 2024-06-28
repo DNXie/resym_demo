@@ -1,9 +1,0 @@
-[
-    {
-        "args": [
-            "++*(_QWORD *)(a1 + 16)"
-        ],
-        "funName": "sub_408FCC",
-        "lineNum": 8
-    }
-]

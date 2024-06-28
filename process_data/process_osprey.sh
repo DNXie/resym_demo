@@ -112,4 +112,4 @@ echo "************ generate heap jsonl file ************"
 echo "python gen_stack_data.py "$source_dir/decompiled_files" "$source_dir/beyond_access" "$source_dir"/heap.jsonl"
 python gen_heap_data.py "$source_dir/decompiled_files" "$source_dir/beyond_access" "$source_dir"/heap.jsonl
 
-# bash process_osprey.sh /share/resym_darpa/data
+# bash process_osprey.sh /home/data

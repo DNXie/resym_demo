@@ -1,9 +1,0 @@
-[
-    {
-        "args": [
-            "**(_BYTE **)(a1 + 24)"
-        ],
-        "funName": "sub_404EDD",
-        "lineNum": 11
-    }
-]

@@ -1,6 +1,0 @@
-Cleanning all files recursively in /share/resym_darpa/data/decompiled_vars/sum_ground
-sum_ground.decompiled - .getopt_long: Fail to match arguments char *const *argv
-sum_ground.decompiled - .__assert_fail: Fail to match arguments unsigned int line
-sum_ground.decompiled - .__libc_start_main: Fail to match arguments int (__fastcall *main
-sum_ground.decompiled - .strtoumax: Fail to match arguments char **endptr
-sum_ground.decompiled - .__cxa_atexit: Fail to match arguments void (__fastcall *lpfunc
