@@ -46,7 +46,7 @@ def gen_prompt(code, beyond_access_data):
         target_by_ac.append(access)
 
     if not target_by_ac:
-        return None 
+        return None , None
 
 
 
@@ -54,7 +54,7 @@ def gen_prompt(code, beyond_access_data):
     prompt += 'What are the variable name and type for the following memory accesses:'
     prompt += ', '.join([v['expr'] for v in target_by_ac]) + '?\n'
 
-    return prompt
+    return prompt, target_by_ac
 
 
         
@@ -75,14 +75,15 @@ def main(decompiled_dir, beyond_access_dir, save_fpath):
                 code = read_file(decompiled_file_fpath, readlines=False)
                 beyond_access_data = read_json(os.path.join(root, f))
 
-                prompt = gen_prompt(code, beyond_access_data)
+                prompt, target_access = gen_prompt(code, beyond_access_data)
                 if not prompt:
                     continue
 
                 json.dump({
                         'input': prompt,
                         'file': decompiled_file_fpath,
-                        'dataset': binname
+                        'dataset': binname,
+                        'access': target_access
                     }, outfile)
                 outfile.write('\n')
                 cnt +=1 

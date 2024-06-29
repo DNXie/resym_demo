@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#  bash coreutils.sh  ../data/osprey_stack_predict.jsonl ../data/osprey_heap_predict.jsonl
+
 if [ $# -ne 1 ]; then
     echo "Usage: $0 <source_dir>"
     exit 1
@@ -84,28 +86,28 @@ process_command() {
 
 
 
-for FILE in "$source_dir/bin"/*
-do
-    # Perform actions on each file
-    process_command $FILE $source_dir
-    # break
-    echo "Processing $FILE"
-    # Add your commands here
-done
+# for FILE in "$source_dir/bin"/*
+# do
+#     # Perform actions on each file
+#     process_command $FILE $source_dir
+#     # break
+#     echo "Processing $FILE"
+#     # Add your commands here
+# done
 
-python gen_command_script.py $source_dir/commands beyond_access $source_dir
-python gen_command_script.py $source_dir/commands callsites $source_dir
-python gen_command_script.py $source_dir/commands dataflow $source_dir
+# python gen_command_script.py $source_dir/commands beyond_access $source_dir
+# python gen_command_script.py $source_dir/commands callsites $source_dir
+# python gen_command_script.py $source_dir/commands dataflow $source_dir
 
-bash $source_dir/beyond_access_command.sh
-bash $source_dir/callsites_command.sh
-bash $source_dir/dataflow_command.sh
+# bash $source_dir/beyond_access_command.sh
+# bash $source_dir/callsites_command.sh
+# bash $source_dir/dataflow_command.sh
 
 
 
-echo "************ generate stack jsonl file ************"
-echo "python gen_stack_data.py "$source_dir/decompiled_files" "$source_dir/decompiled_vars" "$source_dir"/stack.jsonl"
-python gen_stack_data.py "$source_dir/decompiled_files" "$source_dir/decompiled_vars" "$source_dir"/stack.jsonl
+# echo "************ generate stack jsonl file ************"
+# echo "python gen_stack_data.py "$source_dir/decompiled_files" "$source_dir/decompiled_vars" "$source_dir"/stack.jsonl"
+# python gen_stack_data.py "$source_dir/decompiled_files" "$source_dir/decompiled_vars" "$source_dir"/stack.jsonl
 
 
 echo "************ generate heap jsonl file ************"
