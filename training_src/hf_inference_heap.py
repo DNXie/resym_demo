@@ -3,14 +3,17 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel
 import argparse
-
-def inference(test_fpath, out_fpath):
+from huggingface_hub import login
+import os 
+hf_key = os.environ['HF_TOKEN']
+login(token = token)
+def inference(test_fpath, out_fpath, model_path):
     print('==========start loading model==========')
     device_map = {'transformer.wte.weight': 0, 'transformer.wpe.weight': 0, 'transformer.ln_f': 0, 'lm_head': 0}
     device_map.update({'transformer.h.' + str(i): 0 for i in range(0, 40)})
     tokenizer = AutoTokenizer.from_pretrained('bigcode/starcoder', use_auth_token='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')
     model = AutoModelForCausalLM.from_pretrained(
-        '/data/guangyu_shen/xie342/models/starcoder-3b/checkpoint-16000', use_auth_token='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', 
+        model_path, use_auth_token=hf_key,
         torch_dtype=torch.bfloat16, device_map=device_map
     )
 
@@ -68,9 +71,9 @@ def inference(test_fpath, out_fpath):
                 if len(vars_pred[org]) != 4:
                     num_mismatch += 1
                     continue
-                for i in range(4):
-                    if vars_gt[org][i] == vars_pred[org][i]:
-                        correct[i] += 1
+                for j in range(4):
+                    if vars_gt[org][j] == vars_pred[org][j]:
+                        correct[j] += 1
                 if vars_gt[org] == vars_pred[org]:
                     all_correct += 1
             print('id: {}: {:.4f}, {:.4f} -> {:.4f} , {:.4f}.  total  {:.4f} >> mismatch: {}'.format(
@@ -81,6 +84,7 @@ if __name__=='__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('test_fpath')
     parser.add_argument('out_fpath')
+    parser.add_argument('model_path')
     args = parser.parse_args()
 
-    inference(args.test_fpath, args.out_fpath)
+    inference(args.test_fpath, args.out_fpath, args.model_path)

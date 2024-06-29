@@ -4,14 +4,17 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel
 import argparse
 import time
+import os 
+hf_key = os.environ['HF_TOKEN']
+
 
 def inference(test_fpath, out_fpath, model_path):
     print('==========start loading model==========')
     device_map = {'transformer.wte.weight': 0, 'transformer.wpe.weight': 0, 'transformer.ln_f': 0, 'lm_head': 0}
     device_map.update({'transformer.h.' + str(i): 0 for i in range(0, 40)})
-    tokenizer = AutoTokenizer.from_pretrained('bigcode/starcoder', use_auth_token='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')
+    tokenizer = AutoTokenizer.from_pretrained('bigcode/starcoder', use_auth_token=hf_key)
     model = AutoModelForCausalLM.from_pretrained(
-        model_path, use_auth_token='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', 
+        model_path, use_auth_token=hf_key,
         torch_dtype=torch.bfloat16, device_map=device_map
     )
 
@@ -21,7 +24,7 @@ def inference(test_fpath, out_fpath, model_path):
     total = 0
     name_correct, ty_correct = 0, 0
     all_correct = 0
-    
+
     with open(test_fpath, 'r') as fp:
         for i, line in enumerate(fp.readlines()):
             line = json.loads(line)
@@ -29,8 +32,8 @@ def inference(test_fpath, out_fpath, model_path):
             prompt = line['input'] + first_token + ':'
 
             start_time = time.time()
-            
-            input_ids = tokenizer.encode(prompt, return_tensors='pt').cuda()
+
+            input_ids = tokenizer.encode(prompt, return_tensors='pt').cuda()[:, : 8192 - 1024 - 2]
             output = model.generate(
                 input_ids=input_ids, max_new_tokens=1024, num_beams=4, num_return_sequences=1, do_sample=False,
                 early_stopping=False, pad_token_id=0, eos_token_id=0
@@ -72,7 +75,7 @@ def inference(test_fpath, out_fpath, model_path):
                     name_correct += 1
                 if vars_gt[org][1] == vars_pred[org][1]:
                     ty_correct += 1
-               
+
                 if vars_gt[org] == vars_pred[org]:
                     all_correct += 1
 
