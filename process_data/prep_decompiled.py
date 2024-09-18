@@ -35,27 +35,6 @@ def process_funname(raw_addr:str) -> str:
         return None
 
 
-def main_xxz(src_dir, save_dir):
-    for f in tqdm(get_file_list(src_dir)):
-        if not f.endswith(".decompiled"):
-            continue
-
-        file_content:List = read_json(os.path.join(src_dir, f))
-        
-        for fun in file_content:
-            # print(os.path.join(src_dir, f))
-            dex_addr, tmp_addr, code = fun
-            if tmp_addr.startswith('sub_'):
-                addr = process_funname(tmp_addr)
-            else:
-                addr = str(hex(dex_addr))[2:].upper()
-
-            code = HEADER + code
-
-            new_fname = f.replace('.decompiled', '-' + str(addr))+'.c'
-            write_file(os.path.join(save_dir,new_fname), code)
-
-
 def main_osprey(src_fpath, save_dir):
     if not src_fpath.endswith(".decompiled"):
         exit()
@@ -91,7 +70,3 @@ if __name__=='__main__':
 
 
     main_osprey(args.src_dir, args.save_dir)
-    # else:
-    #     print(f'Not recognized  project: {src_dir}')
-    # elif 'coreutils' in args.src_dir:
-    #     main_coreutils(args.src_dir, args.save_dir)

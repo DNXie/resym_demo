@@ -49,7 +49,7 @@ docker pull dnxie/resym_demo:latest
 ```
 
 ```
-docker run -it --memory=100G --name resym dnxie/resym_demo:latest
+docker run -it --rm --memory=100G --name resym dnxie/resym_demo:latest
 ```
 
 ```
@@ -64,7 +64,7 @@ cd /home/resym/process_data
 ```
 
 ```
-bash process_osprey.sh /home/data    
+bash process_data.sh /home/data    
 ```
 
 

@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#  bash coreutils.sh  ../data/osprey_stack_predict.jsonl ../data/osprey_heap_predict.jsonl
-
 if [ $# -ne 1 ]; then
     echo "Usage: $0 <source_dir>"
     exit 1
